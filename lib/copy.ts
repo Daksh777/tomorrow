@@ -67,13 +67,20 @@ export async function writeCopy(f: Forecast, placeName: string): Promise<Copy> {
       "You write the headline and two actions of a nightly demand forecast for a small food or retail business owner. " +
         "Plain words, like a weather report. Use ONLY the facts given. Do not add events, causes, or numbers that are not in the facts. " +
         "Headline: one sentence. Actions: two short sentences about prep and staffing, in the owner's units. " +
+        "Keep every percentage and clock time from the draft actions exactly as written. " +
         'Reply with JSON only: {"headline": string, "actions": [string, string]}.',
       JSON.stringify(facts),
     );
     if (!text) return draft;
     const j = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));
     if (typeof j.headline === "string" && Array.isArray(j.actions) && j.actions.length >= 2) {
-      return { headline: j.headline, actions: [String(j.actions[0]), String(j.actions[1])] };
+      // The model may rephrase, but must keep the draft's numbers; otherwise use the draft action.
+      const keep = (a: unknown, d: string) => {
+        const t = String(a);
+        const nums = d.match(/\d+%?/g) ?? [];
+        return nums.every((n) => t.includes(n)) ? t : d;
+      };
+      return { headline: j.headline, actions: [keep(j.actions[0], draft.actions[0]), keep(j.actions[1], draft.actions[1])] };
     }
   } catch {
     /* use the rule-based draft */
