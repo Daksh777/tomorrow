@@ -11,7 +11,7 @@ const config: Config = {
         quiet: "#5b8def",
         busy: "#e8743d",
       },
-      fontFamily: { sans: ["ui-sans-serif", "system-ui", "sans-serif"] },
+      fontFamily: { sans: ["var(--font-geist)", "ui-sans-serif", "system-ui", "sans-serif"] },
     },
   },
   plugins: [],
