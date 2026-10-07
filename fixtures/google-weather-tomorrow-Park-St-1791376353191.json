@@ -1,0 +1,400 @@
+{
+  "search_metadata": {
+    "id": "6ac63bdfaefbb438e8c74e40",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8D-_WSVnLLySHgTr1Pfvh1bCIjhexzsf8jpHB3lxIbc/6ac63bdfaefbb438e8c74e40.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8D-_WSVnLLySHgTr1Pfvh1bCIjhexzsf8jpHB3lxIbc/6ac63bdfaefbb438e8c74e40.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8D-_WSVnLLySHgTr1Pfvh1bCIjhexzsf8jpHB3lxIbc/6ac63bdfaefbb438e8c74e40.json_with_pixel_position",
+    "created_at": "2026-10-07 12:32:31 UTC",
+    "processed_at": "2026-10-07 12:32:31 UTC",
+    "google_url": "https://www.google.com/search?q=weather+tomorrow+Park+St&oq=weather+tomorrow+Park+St&uule=w+CAIQICImU3QuIExvdWlzIFBhcmssTWlubmVzb3RhLFVuaXRlZCBTdGF0ZXM&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8D-_WSVnLLySHgTr1Pfvh1bCIjhexzsf8jpHB3lxIbc/6ac63bdfaefbb438e8c74e40.html",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "weather tomorrow Park St",
+    "location_requested": "Park St",
+    "location_used": "St. Louis Park,Minnesota,United States",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "weather tomorrow Park St",
+    "total_results": 125,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to check if it will rain?",
+      "type": "ai_overview",
+      "page_token": "Abo4mXicHdDRbqowGADgnJfZ5aQinmBiljiLSAZLa_tje3MC7ZRBC0w77bzbu-yp9jRbzht8-T6_zGvfff-5NM6N58Vkcr1e74_DcDQv92qwk-r80auJqoypK9Ut5n_n6OGglvh9u3p8264IH0dY04ClyXmHm0fBXUra3EvcQNHjm4CGF3scwQbG_dTLJ4i96CkVXfyUT82M9TDQUPM6MVZbEelQINGbVvRdpIMZon1xKhDN1KbzqtOXqpWeWxfsAgmliRPWZi5Hq6rGsXxJM8vKbK5bs-WgTxC4s8INUzfJYUpdHuaRRIaocJWyvfkAbjzrmlltXQSQvQtOT7VNyvrXhxsV0FSmYp-9KayfJcsRQ0CKdXOQa0q1H14JpzfVGgtruXnmfleEua_SMSIcVaTcXnWQhNx60GUcEHJ3UJdlePf_c_nvYN1iPA3HH87mg8w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Abo4mXicHdDRbqowGADgnJfZ5aQinmBiljiLSAZLa_tje3MC7ZRBC0w77bzbu-yp9jRbzht8-T6_zGvfff-5NM6N58Vkcr1e74_DcDQv92qwk-r80auJqoypK9Ut5n_n6OGglvh9u3p8264IH0dY04ClyXmHm0fBXUra3EvcQNHjm4CGF3scwQbG_dTLJ4i96CkVXfyUT82M9TDQUPM6MVZbEelQINGbVvRdpIMZon1xKhDN1KbzqtOXqpWeWxfsAgmliRPWZi5Hq6rGsXxJM8vKbK5bs-WgTxC4s8INUzfJYUpdHuaRRIaocJWyvfkAbjzrmlltXQSQvQtOT7VNyvrXhxsV0FSmYp-9KayfJcsRQ0CKdXOQa0q1H14JpzfVGgtruXnmfleEua_SMSIcVaTcXnWQhNx60GUcEHJ3UJdlePf_c_nvYN1iPA3HH87mg8w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJIb3cgdG8gY2hlY2sgaWYgaXQgd2lsbCByYWluPyIsImxrIjoiR2h4b2IzY2dkRzhnWTJobFkyc2dhV1lnYVhRZ2QybHNiQ0J5WVdsdSIsImJzIjoiYzVYT08wOERNUkFFWU5HNm9qNEJtaWFreHBRRXVhVUJBUTMxNHR2VHJlNXNSNXM5bVJUOGQ4d2pFbFVFN1dxLW5YSEJuZC1WQ2l1SUk4Y0pNa0FNVmVZWlNwS0R2LWpPeGlNQko4Nl9qR1RySFd4azlESU1ySndqNDVXdE1tZkVXUklaZzNLUHl0UlNHdngxZDFYX3E5eTcyX3lxLXJtMlphbW90b21TOFZ6aXRNZDlXYksxYlhnZ2s1SnB4aVBwRlB4dGQxT1BlXzN5NmVEendXLWJkMF91OHJNZTh1MFR2VWxhRW96VGxwVnNVVzZfZXRvSHYtNVc5U19KMDVNUCIsImlkIjoiZmNfNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJIb3cgdG8gY2hlY2sgaWYgaXQgd2lsbCByYWluPyIsImxrIjoiR2h4b2IzY2dkRzhnWTJobFkyc2dhV1lnYVhRZ2QybHNiQ0J5WVdsdSIsImJzIjoiYzVYT08wOERNUkFFWU5HNm9qNEJtaWFreHBRRXVhVUJBUTMxNHR2VHJlNXNSNXM5bVJUOGQ4d2pFbFVFN1dxLW5YSEJuZC1WQ2l1SUk4Y0pNa0FNVmVZWlNwS0R2LWpPeGlNQko4Nl9qR1RySFd4azlESU1ySndqNDVXdE1tZkVXUklaZzNLUHl0UlNHdngxZDFYX3E5eTcyX3lxLXJtMlphbW90b21TOFZ6aXRNZDlXYksxYlhnZ2s1SnB4aVBwRlB4dGQxT1BlXzN5NmVEendXLWJkMF91OHJNZTh1MFR2VWxhRW96VGxwVnNVVzZfZXRvSHYtNVc5U19KMDVNUCIsImlkIjoiZmNfNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXdfNSJ9"
+    },
+    {
+      "question": "What's the difference between climate and weather?",
+      "type": "ai_overview",
+      "page_token": "QxKiz3icHdBhbpswGIBh7TL92eAiMjVSNI2CS2jjlg_7M_jPREwDAYMZQSXh366wM-xUPU2r3eB93j__zKlvP779radpOG9Wq3mebytrK_N2q223Ks7XXq90Ycyh0O1m_X1Nfhz1NnzX_sOo_UQMAwbgpG41ZXfGQvNzUsRfmFS-aLADWr--ZOikvCR5W84KfXkIaZG2-CB7NmvDvDK8JNCbs47MWKQk3bvs9MzVyKW3hn7wkNegqK9yB57zhS3QUqU4A8xiy8PdrNEYJu9TIHDlTq3Slu72GYw6GojsLk95Vz-l1F6ZjLMD-nbfkrWSnmJ3942Q1fzWsYF1njn0uMhH76sRm9KwTApwC4qZ6MpBP2pHhHSEAFlYawciFeVZ_FuH5Yvie8IJJiyojyoAKC_2lAhYdGM6IQeVY0K42HkYJAuSGEsXXyGKwyKkXy5mRHJz1O9b9-b_6-2vYzdthtFWnyiNjSw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QxKiz3icHdBhbpswGIBh7TL92eAiMjVSNI2CS2jjlg_7M_jPREwDAYMZQSXh366wM-xUPU2r3eB93j__zKlvP779radpOG9Wq3mebytrK_N2q223Ks7XXq90Ycyh0O1m_X1Nfhz1NnzX_sOo_UQMAwbgpG41ZXfGQvNzUsRfmFS-aLADWr--ZOikvCR5W84KfXkIaZG2-CB7NmvDvDK8JNCbs47MWKQk3bvs9MzVyKW3hn7wkNegqK9yB57zhS3QUqU4A8xiy8PdrNEYJu9TIHDlTq3Slu72GYw6GojsLk95Vz-l1F6ZjLMD-nbfkrWSnmJ3942Q1fzWsYF1njn0uMhH76sRm9KwTApwC4qZ6MpBP2pHhHSEAFlYawciFeVZ_FuH5Yvie8IJJiyojyoAKC_2lAhYdGM6IQeVY0K42HkYJAuSGEsXXyGKwyKkXy5mRHJz1O9b9-b_6-2vYzdthtFWnyiNjSw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJXaGF0J3MgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBjbGltYXRlIGFuZCB3ZWF0aGVyPyIsImxrIjoiR2pGM2FHRjBKM01nZEdobElHUnBabVpsY21WdVkyVWdZbVYwZDJWbGJpQmpiR2x0WVhSbElHRnVaQ0IzWldGMGFHVnkiLCJicyI6ImM1WE9PMDhETVJBRVlORzZvajRCbWlha3hwUUV1YVVCQVEzMTR0dlRyZTVzUjVzOW1SVDhkOHdqRWxVRTdXcS1uWEhCbmQtVkNpdUlJOGNKTWtBTVZlWVpTcEtEdi1qT3hpTUJKODZfakdUckhXeGs5RElNckp3ajQ1V3RNbWZFV1JJWmczS1B5dFJTR3Z4MWQxWF9xOXk3Ml95cS1ybTJaYW1vdG9tUzhWeml0TWQ5V2JLMWJYZ2drNUpweGlQcEZQeHRkMU9QZV8zeTZlRHp3Vy1iZDBfdThyTWU4dTBUdlVsYUVvelRscFZzVVc2X2V0b0h2LTVXOVNfSjA1TVAiLCJpZCI6ImZjXzREdkdhcmpwR05lMzVPVVA0OF9kNFF3XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJXaGF0J3MgdGhlIGRpZmZlcmVuY2UgYmV0d2VlbiBjbGltYXRlIGFuZCB3ZWF0aGVyPyIsImxrIjoiR2pGM2FHRjBKM01nZEdobElHUnBabVpsY21WdVkyVWdZbVYwZDJWbGJpQmpiR2x0WVhSbElHRnVaQ0IzWldGMGFHVnkiLCJicyI6ImM1WE9PMDhETVJBRVlORzZvajRCbWlha3hwUUV1YVVCQVEzMTR0dlRyZTVzUjVzOW1SVDhkOHdqRWxVRTdXcS1uWEhCbmQtVkNpdUlJOGNKTWtBTVZlWVpTcEtEdi1qT3hpTUJKODZfakdUckhXeGs5RElNckp3ajQ1V3RNbWZFV1JJWmczS1B5dFJTR3Z4MWQxWF9xOXk3Ml95cS1ybTJaYW1vdG9tUzhWeml0TWQ5V2JLMWJYZ2drNUpweGlQcEZQeHRkMU9QZV8zeTZlRHp3Vy1iZDBfdThyTWU4dTBUdlVsYUVvelRscFZzVVc2X2V0b0h2LTVXOVNfSjA1TVAiLCJpZCI6ImZjXzREdkdhcmpwR05lMzVPVVA0OF9kNFF3XzUifQ%3D%3D"
+    },
+    {
+      "question": "What's the weather tomorrow in Rocky Mountain National Park?",
+      "type": "ai_overview",
+      "page_token": "FDgt43icHdBNjpswGIBh9TKznPATplKkqCoDBLmFygZ_Bm9GxA54YjtmQjQQdr1Cz9BT9TQdzf7Vs3h__zWvF_3vyx91u43TbrOZ5_lxcG4wp0fh7Kab7hexEZ0xx07o3dPXJ_9bL_bpu4ifryLGdBwhIV4FLmjXTGGWnWvGr4LpkOckgWAxMkvDMoW4buKV0q2PAZ5riDPSDDOAiE4MTZR-NCDvdYPo6eACMKjovPHernoGuiQUZCt8klWmXXAIqsiGgNCoB43vJKBeqc1EteqZJleRfEiWA4bsp6zNm7TSnEDNIiMXTlFbUu7w5XtUHhbbhXFbMBxVnqnEgUc4NAkOUcO054M_-sCKgLLxB2PRWuRqyyw6p0p4JOd526A3kcpfvC782gdcJqrnCSFyca-YklWcjaU62nJPJs2KsKzLlYfIHnO3PaZIMQtTlSJL8UMv3vfhw-fr_Utvb7vx6ob_U2uMmA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FDgt43icHdBNjpswGIBh9TKznPATplKkqCoDBLmFygZ_Bm9GxA54YjtmQjQQdr1Cz9BT9TQdzf7Vs3h__zWvF_3vyx91u43TbrOZ5_lxcG4wp0fh7Kab7hexEZ0xx07o3dPXJ_9bL_bpu4ifryLGdBwhIV4FLmjXTGGWnWvGr4LpkOckgWAxMkvDMoW4buKV0q2PAZ5riDPSDDOAiE4MTZR-NCDvdYPo6eACMKjovPHernoGuiQUZCt8klWmXXAIqsiGgNCoB43vJKBeqc1EteqZJleRfEiWA4bsp6zNm7TSnEDNIiMXTlFbUu7w5XtUHhbbhXFbMBxVnqnEgUc4NAkOUcO054M_-sCKgLLxB2PRWuRqyyw6p0p4JOd526A3kcpfvC782gdcJqrnCSFyca-YklWcjaU62nJPJs2KsKzLlYfIHnO3PaZIMQtTlSJL8UMv3vfhw-fr_Utvb7vx6ob_U2uMmA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJXaGF0J3MgdGhlIHdlYXRoZXIgdG9tb3Jyb3cgaW4gUm9ja3kgTW91bnRhaW4gTmF0aW9uYWwgUGFyaz8iLCJsayI6ImM1T3lMczlJTEZFdlZpakpTRlVvVDAwRVVrVUtKZm01LVVWRi1lVUttWGtLUmZuSjJaVUt1Zm1sZVNXSlFHNWVZa2xtZmw1aWprSkJZbEUyQUEiLCJicyI6ImM1WE9PMDhETVJBRVlORzZvajRCbWlha3hwUUV1YVVCQVEzMTR0dlRyZTVzUjVzOW1SVDhkOHdqRWxVRTdXcS1uWEhCbmQtVkNpdUlJOGNKTWtBTVZlWVpTcEtEdi1qT3hpTUJKODZfakdUckhXeGs5RElNckp3ajQ1V3RNbWZFV1JJWmczS1B5dFJTR3Z4MWQxWF9xOXk3Ml95cS1ybTJaYW1vdG9tUzhWeml0TWQ5V2JLMWJYZ2drNUpweGlQcEZQeHRkMU9QZV8zeTZlRHp3Vy1iZDBfdThyTWU4dTBUdlVsYUVvelRscFZzVVc2X2V0b0h2LTVXOVNfSjA1TVAiLCJpZCI6ImZjXzREdkdhcmpwR05lMzVPVVA0OF9kNFF3XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJXaGF0J3MgdGhlIHdlYXRoZXIgdG9tb3Jyb3cgaW4gUm9ja3kgTW91bnRhaW4gTmF0aW9uYWwgUGFyaz8iLCJsayI6ImM1T3lMczlJTEZFdlZpakpTRlVvVDAwRVVrVUtKZm01LVVWRi1lVUttWGtLUmZuSjJaVUt1Zm1sZVNXSlFHNWVZa2xtZmw1aWprSkJZbEUyQUEiLCJicyI6ImM1WE9PMDhETVJBRVlORzZvajRCbWlha3hwUUV1YVVCQVEzMTR0dlRyZTVzUjVzOW1SVDhkOHdqRWxVRTdXcS1uWEhCbmQtVkNpdUlJOGNKTWtBTVZlWVpTcEtEdi1qT3hpTUJKODZfakdUckhXeGs5RElNckp3ajQ1V3RNbWZFV1JJWmczS1B5dFJTR3Z4MWQxWF9xOXk3Ml95cS1ybTJaYW1vdG9tUzhWeml0TWQ5V2JLMWJYZ2drNUpweGlQcEZQeHRkMU9QZV8zeTZlRHp3Vy1iZDBfdThyTWU4dTBUdlVsYUVvelRscFZzVVc2X2V0b0h2LTVXOVNfSjA1TVAiLCJpZCI6ImZjXzREdkdhcmpwR05lMzVPVVA0OF9kNFF3XzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the maximum temperature today?",
+      "type": "ai_overview",
+      "page_token": "zc-DRHicHdBRboIwAIDh7DI-TgrTRROzBKkDpjgKlNKXpbRglQJVUZG33WWn2mlmdoH_S_7vH7Vvqt-nq-w6fZ6Px7fb7XnXtjtVPPO2HrPzveFjzpTKGa_m09cpeCv5Al48e3n07DDRGjvIiAa5yrBEog565NiHolLHLdafgUVh4do-Nn0ZwT7EqV-mqb-mxmQfwcAWrtSUJC8JnEQ5EScx4CavA5VFIGTv_pWmmsXm7BgbYkvNc5cZKCkIsjiY-cIQHjMoyIFUdCVaXNG9SGhVuPjKCO_5SoSBY3_QCmhMvAlPZ1DEfp87QcdNfCkOO0CASmOy2oghmyQmNFKIqsBFDZTcQC51M-IfOXzY8QbEAD96sqQOQqJv92GCBn5QdTLIex6jhphqyCFes0GgzNKUpQHcLsFUEM8Mw1HJrwtr9P9z8VXW3Vyf2t0fM46DDA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zc-DRHicHdBRboIwAIDh7DI-TgrTRROzBKkDpjgKlNKXpbRglQJVUZG33WWn2mlmdoH_S_7vH7Vvqt-nq-w6fZ6Px7fb7XnXtjtVPPO2HrPzveFjzpTKGa_m09cpeCv5Al48e3n07DDRGjvIiAa5yrBEog565NiHolLHLdafgUVh4do-Nn0ZwT7EqV-mqb-mxmQfwcAWrtSUJC8JnEQ5EScx4CavA5VFIGTv_pWmmsXm7BgbYkvNc5cZKCkIsjiY-cIQHjMoyIFUdCVaXNG9SGhVuPjKCO_5SoSBY3_QCmhMvAlPZ1DEfp87QcdNfCkOO0CASmOy2oghmyQmNFKIqsBFDZTcQC51M-IfOXzY8QbEAD96sqQOQqJv92GCBn5QdTLIex6jhphqyCFes0GgzNKUpQHcLsFUEM8Mw1HJrwtr9P9z8VXW3Vyf2t0fM46DDA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYXhpbXVtIHRlbXBlcmF0dXJlIHRvZGF5PyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQnRZWGhwYlhWdElIUmxiWEJsY21GMGRYSmxJSFJ2WkdGNSIsImJzIjoiYzVYT08wOERNUkFFWU5HNm9qNEJtaWFreHBRRXVhVUJBUTMxNHR2VHJlNXNSNXM5bVJUOGQ4d2pFbFVFN1dxLW5YSEJuZC1WQ2l1SUk4Y0pNa0FNVmVZWlNwS0R2LWpPeGlNQko4Nl9qR1RySFd4azlESU1ySndqNDVXdE1tZkVXUklaZzNLUHl0UlNHdngxZDFYX3E5eTcyX3lxLXJtMlphbW90b21TOFZ6aXRNZDlXYksxYlhnZ2s1SnB4aVBwRlB4dGQxT1BlXzN5NmVEendXLWJkMF91OHJNZTh1MFR2VWxhRW96VGxwVnNVVzZfZXRvSHYtNVc5U19KMDVNUCIsImlkIjoiZmNfNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIzQkJPWHBrVFZaRVkyaFFkVWREZEZGUU5HMXJTbkZsTFU4M1YyOUVkV1JtU25aU2JHOXlVa1JqU1hCVmNXUjBObkp3TmpoeU9USlFTMVpzT0cxWFYzWkNkMjVpVWpSaFdteDRWMHhuV201MVdYaGxhSEJOZGxSMVVSSVhORVIyUjJGeWFuQkhUbVV6TlU5VlVEUTRYMlEwVVhjYUlrRkVjM0k1WmxKQ1ZrRlFWa0p5V0VGcE5Xb3dMVUZuTlZGUlVUWmZRVVoxV0VFIiwiZmN2IjoiMyIsImVpIjoiNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXciLCJxYyI6IkNoaDNaV0YwYUdWeUlIUnZiVzl5Y205M0lIQmhjbXNnYzNRUUFIM3VGZ29fIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtYXhpbXVtIHRlbXBlcmF0dXJlIHRvZGF5PyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQnRZWGhwYlhWdElIUmxiWEJsY21GMGRYSmxJSFJ2WkdGNSIsImJzIjoiYzVYT08wOERNUkFFWU5HNm9qNEJtaWFreHBRRXVhVUJBUTMxNHR2VHJlNXNSNXM5bVJUOGQ4d2pFbFVFN1dxLW5YSEJuZC1WQ2l1SUk4Y0pNa0FNVmVZWlNwS0R2LWpPeGlNQko4Nl9qR1RySFd4azlESU1ySndqNDVXdE1tZkVXUklaZzNLUHl0UlNHdngxZDFYX3E5eTcyX3lxLXJtMlphbW90b21TOFZ6aXRNZDlXYksxYlhnZ2s1SnB4aVBwRlB4dGQxT1BlXzN5NmVEendXLWJkMF91OHJNZTh1MFR2VWxhRW96VGxwVnNVVzZfZXRvSHYtNVc5U19KMDVNUCIsImlkIjoiZmNfNER2R2FyanBHTmUzNU9VUDQ4X2Q0UXdfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "3ZRkSXiczZbbkqo4FIYfYJ5jvOlWUGwPXUXtSgIqKq14wt43FAIGFcQmKOrdfpd5nHmCeZqJgEp76r33xdSkypxYWVlJ1le_P_5yZsvFP3_8bQfBirwyTBiGOex52LFyhucyOtktDWbqOcQ37G_rtWPx4RMCkiIhyR1yyloStxtTdfZSDdqGS8hAddYTd7SfcD27XRut9XHP-Y7gwKzX2O9jObPb8FzGIDybsWZ8UdjUdX--qr9Z3Etn2C1WNLOohJloV16b6MSa06C2c8JoDK0Wf3ICHeRIzlrmdi-tmYqAPpy-5wpsgct1GN2lBuA_LBgBINJWxADfNaIG0s84OzjqRb5OBR5XKqcpObKktihaALz7weFo1UxMfANBq3flN9rRYwP0KJrFuYsAjPeHEEeuEPqpA6U9RPXpZOIDW-XWJIyb1nkm_c533UUBp50MBQxDgI4LrvayL-M4XDfAsCLMwcAWhw_iPjxVSwIvC6CIN8-QLrW-uAqTviyo9ASMiWnysszEp02emRm2EXV8cshpNKiynqi2y5xb2iBVqo3JuNERZKO5HbQ3zQFmjAm1czzdtEzN1thv0ThfyL-wVa5ceY5gMsiJJpKmySP9Xn0_7nqBkWvnYP6IEjpd7UWqiHR8OwcwjI3v4CDdel-pd-qiZCU8uK9H8ylPww6OE-F4dbBMrw_WPoV2DARco3TOE-VsLp7SCrVO212cF8vKaYn4Kd2Mq9M0r2YoifJx3zhtk7QUr3ZCIoyCPm4WfvqKo3sZ0paiJAqgphw8CPjsBoEmlvrnl4lDhYeLtym2ySApMKlTKM1wwsC8Hx3lowkib1JireDj-wAqAenYlNvggncag_qI90cFfgnS4YhHZi4QSKPTkLkp54jd8fePqcANbHdtBaAhkkK9ptxGxXMnv6A8xv8LpliXUKJL92GKdv0KJlrhG7oUfVNO1UmXWvGXj_swkShXEl0SU7pkgUv7a5gWZ5j6QpQfEN_RpV-HSXwAk_IAptZtmBb3YIp1KQXTsD37rEsXD5vo0hmm39Al-Ju6FLFlxc1nkVrP8V2xqqvTkbA3l9v22C2JqmOiSq_gqtnyuhl-KVZTN3h1ddN51mbmKyw0g535rNEJ79UyMx98aOmBbflPged6vu-FT13dXzz1g4zr-B7P6sVm12x2qwt21AGdGeyH-RaLQu3D2bSz1bEvrEh5Wi912VDaTMkOFRat-lTGbW5Y7vfK2cl2IHeykrMD2nRf4tqN0bzlznrGdrVmF3YeCfMt2mS9HZKwbuHmaC3IVef9bddod7KV1mpfm4iqtcUK9t4UIWhsdmEUF-F7CBaHu7G8LFQy9DDE4vMZ1zd4mklFDN4UoGKqJ-gdKDQjFeTRX0h_JfqHAhboU2SIoWsW2fAV06qWixPTLL0ULbNazbg42K34KpshS5_P_wuONFn5",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3ZRkSXiczZbbkqo4FIYfYJ5jvOlWUGwPXUXtSgIqKq14wt43FAIGFcQmKOrdfpd5nHmCeZqJgEp76r33xdSkypxYWVlJ1le_P_5yZsvFP3_8bQfBirwyTBiGOex52LFyhucyOtktDWbqOcQ37G_rtWPx4RMCkiIhyR1yyloStxtTdfZSDdqGS8hAddYTd7SfcD27XRut9XHP-Y7gwKzX2O9jObPb8FzGIDybsWZ8UdjUdX--qr9Z3Etn2C1WNLOohJloV16b6MSa06C2c8JoDK0Wf3ICHeRIzlrmdi-tmYqAPpy-5wpsgct1GN2lBuA_LBgBINJWxADfNaIG0s84OzjqRb5OBR5XKqcpObKktihaALz7weFo1UxMfANBq3flN9rRYwP0KJrFuYsAjPeHEEeuEPqpA6U9RPXpZOIDW-XWJIyb1nkm_c533UUBp50MBQxDgI4LrvayL-M4XDfAsCLMwcAWhw_iPjxVSwIvC6CIN8-QLrW-uAqTviyo9ASMiWnysszEp02emRm2EXV8cshpNKiynqi2y5xb2iBVqo3JuNERZKO5HbQ3zQFmjAm1czzdtEzN1thv0ThfyL-wVa5ceY5gMsiJJpKmySP9Xn0_7nqBkWvnYP6IEjpd7UWqiHR8OwcwjI3v4CDdel-pd-qiZCU8uK9H8ylPww6OE-F4dbBMrw_WPoV2DARco3TOE-VsLp7SCrVO212cF8vKaYn4Kd2Mq9M0r2YoifJx3zhtk7QUr3ZCIoyCPm4WfvqKo3sZ0paiJAqgphw8CPjsBoEmlvrnl4lDhYeLtym2ySApMKlTKM1wwsC8Hx3lowkib1JireDj-wAqAenYlNvggncag_qI90cFfgnS4YhHZi4QSKPTkLkp54jd8fePqcANbHdtBaAhkkK9ptxGxXMnv6A8xv8LpliXUKJL92GKdv0KJlrhG7oUfVNO1UmXWvGXj_swkShXEl0SU7pkgUv7a5gWZ5j6QpQfEN_RpV-HSXwAk_IAptZtmBb3YIp1KQXTsD37rEsXD5vo0hmm39Al-Ju6FLFlxc1nkVrP8V2xqqvTkbA3l9v22C2JqmOiSq_gqtnyuhl-KVZTN3h1ddN51mbmKyw0g535rNEJ79UyMx98aOmBbflPged6vu-FT13dXzz1g4zr-B7P6sVm12x2qwt21AGdGeyH-RaLQu3D2bSz1bEvrEh5Wi912VDaTMkOFRat-lTGbW5Y7vfK2cl2IHeykrMD2nRf4tqN0bzlznrGdrVmF3YeCfMt2mS9HZKwbuHmaC3IVef9bddod7KV1mpfm4iqtcUK9t4UIWhsdmEUF-F7CBaHu7G8LFQy9DDE4vMZ1zd4mklFDN4UoGKqJ-gdKDQjFeTRX0h_JfqHAhboU2SIoWsW2fAV06qWixPTLL0ULbNazbg42K34KpshS5_P_wuONFn5"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Brooklyn Park, MN 10-Day Weather Forecast",
+      "link": "https://www.wunderground.com/forecast/us/mn/brooklyn-park/55443",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVRbBjraL0c9uzIagyIll6jCDhcfmg6tjDWN_kHbiBdTRU8lhGlFWA1whkQJPSneCOUH5yoEI-FuwaY6NGJ5SRja7uMJRoiYTAb5Irn_mi0GeNckjVHD7QAhEz4d7V1zhgl3dkqgmrGIe6auKKgbkGUi6vVjnz&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.wunderground.com › forecast › brooklyn-p...",
+      "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp",
+      "snippet": "Brooklyn Park, MN Temperature (°F) Visibility 10 miles Clouds Clear Dew Point48°F Humidity 64% Rainfall. Temperature High 73°F. Low 49°F 43°F. Tomorrow will be ...",
+      "snippet_highlighted_words": [
+        "Brooklyn Park, MN Temperature (°F"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Brooklyn Park, MN Temperature (°F) Visibility 10 miles Clouds Clear Dew Point48°F Humidity 64% Rainfall. Temperature High 73°F. Low 49°F 43°F. Tomorrow will be ...",
+          "source_info_link": "https://www.wunderground.com/forecast/us/mn/brooklyn-park/55443",
+          "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlJiQmpyYUwwYzl1eklhZ3lJbGw2akNEaGNmbWc2dGpEV05fa0hiaUJkVFJVOGxoR2xGV0Exd2hrUUpQU25lQ09VSDV5b0VJLUZ1d2FZNk5HSjVTUmphN3VNSlJvaVlUQWI1SXJuX21pMEdlTmNralZIRDdRQWhFejRkN1YxemhnbDNka3FnbXJHSWU2YXVLS2dia0dVaTZ2VmpuehIEGgIIABr9BBIAGgAiACoAOgBCBAgBEABKIQgBEhlTdC4gTG91aXMgUGFyaywgTWlubmVzb3RhGgIIAloAcgB6AIJAwAQIABAAGAAgACoOCgd3ZWF0aGVyFTdDpUAqSgoIdG9tb3Jyb3cV0HoLPhoIZm9yZWNhc3QaCHNhdHVyZGF5GgV0b2RheRoKdG9tb3Jyb3cncxoJZm9yZWNhc3RzGgd0b25pZ2h0KhMKBHBhcmsVj3N0QBoGcGFya3N0KiAKAnN0FQAAAAAaBXNhaW50GgZzdHJlZXQaBnBhcmtzdDKyAS9nb3RvP3VybD1DQUVTZWdIck96QVZSYkJqcmFMMGM5dXpJYWd5SWxsNmpDRGhjZm1nNnRqRFdOX2tIYmlCZFRSVThsaEdsRldBMXdoa1FKUFNuZUNPVUg1eW9FSS1GdXdhWTZOR0o1U1JqYTd1TUpSb2lZVEFiNUlybl9taTBHZU5ja2pWSEQ3UUFoRXo0ZDdWMXpoZ2wzZGtxZ21yR0llNmF1S0tnYmtHVWk2dlZqbno6N0Jyb29rbHluIDxiPlBhcms8L2I-LCBNTiAxMC1EYXkgPGI-V2VhdGhlciBGb3JlY2FzdDwvYj5CtAE8Yj5Ccm9va2x5biBQYXJrLCBNTiBUZW1wZXJhdHVyZSAowrBGPC9iPikgVmlzaWJpbGl0eSAxMCBtaWxlcyBDbG91ZHMgQ2xlYXIgRGV3IFBvaW50NDjCsEYgSHVtaWRpdHkgNjQlIFJhaW5mYWxsLiBUZW1wZXJhdHVyZSBIaWdoIDczwrBGLiBMb3cgNDnCsEYgNDPCsEYuIFRvbW9ycm93IHdpbGwgYmUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVlJiQmpyYUwwYzl1eklhZ3lJbGw2akNEaGNmbWc2dGpEV05fa0hiaUJkVFJVOGxoR2xGV0Exd2hrUUpQU25lQ09VSDV5b0VJLUZ1d2FZNk5HSjVTUmphN3VNSlJvaVlUQWI1SXJuX21pMEdlTmNralZIRDdRQWhFejRkN1YxemhnbDNka3FnbXJHSWU2YXVLS2dia0dVaTZ2VmpuehIEGgIIABr9BBIAGgAiACoAOgBCBAgBEABKIQgBEhlTdC4gTG91aXMgUGFyaywgTWlubmVzb3RhGgIIAloAcgB6AIJAwAQIABAAGAAgACoOCgd3ZWF0aGVyFTdDpUAqSgoIdG9tb3Jyb3cV0HoLPhoIZm9yZWNhc3QaCHNhdHVyZGF5GgV0b2RheRoKdG9tb3Jyb3cncxoJZm9yZWNhc3RzGgd0b25pZ2h0KhMKBHBhcmsVj3N0QBoGcGFya3N0KiAKAnN0FQAAAAAaBXNhaW50GgZzdHJlZXQaBnBhcmtzdDKyAS9nb3RvP3VybD1DQUVTZWdIck96QVZSYkJqcmFMMGM5dXpJYWd5SWxsNmpDRGhjZm1nNnRqRFdOX2tIYmlCZFRSVThsaEdsRldBMXdoa1FKUFNuZUNPVUg1eW9FSS1GdXdhWTZOR0o1U1JqYTd1TUpSb2lZVEFiNUlybl9taTBHZU5ja2pWSEQ3UUFoRXo0ZDdWMXpoZ2wzZGtxZ21yR0llNmF1S0tnYmtHVWk2dlZqbno6N0Jyb29rbHluIDxiPlBhcms8L2I-LCBNTiAxMC1EYXkgPGI-V2VhdGhlciBGb3JlY2FzdDwvYj5CtAE8Yj5Ccm9va2x5biBQYXJrLCBNTiBUZW1wZXJhdHVyZSAowrBGPC9iPikgVmlzaWJpbGl0eSAxMCBtaWxlcyBDbG91ZHMgQ2xlYXIgRGV3IFBvaW50NDjCsEYgSHVtaWRpdHkgNjQlIFJhaW5mYWxsLiBUZW1wZXJhdHVyZSBIaWdoIDczwrBGLiBMb3cgNDnCsEYgNDPCsEYuIFRvbW9ycm93IHdpbGwgYmUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Weather Underground"
+    },
+    {
+      "position": 2,
+      "title": "Brooklyn Park, MN Hourly Weather Forecast",
+      "link": "https://www.wunderground.com/hourly/us/mn/brooklyn-park/55445",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVFDzthcPrvAoEs3l2Lfp4TbrMN9aqY8rUSd2VjWrFWnHrPwa_x2FQOPijGEuSx9QqMy1__ivjxmRrQc9I6V4KffKhJy2hqEppkgj9tZkVruBQKtb-fgMou4fa_AnvwUZt5DLoUxdkW4IM5wamHjfjJVQD0g&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.wunderground.com › hourly › brooklyn-park",
+      "favicon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp",
+      "snippet": "Except for a few afternoon clouds, mainly sunny. High 74F. Winds WNW at 10 to 20 mph. Partly Cloudy Dew Point 48 °F Humidity 60 °% Rainfall 0",
+      "snippet_highlighted_words": [
+        "mainly sunny"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Except for a few afternoon clouds, mainly sunny. High 74F. Winds WNW at 10 to 20 mph. Partly Cloudy Dew Point 48 °F Humidity 60 °% Rainfall 0",
+          "source_info_link": "https://www.wunderground.com/hourly/us/mn/brooklyn-park/55445",
+          "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAABQCACdASogACAAPrUurVanIacnG_DgFolsAL9qhID6wKEBtgLtV9ADpXf-BWpZEDsq7AuEGrhjN5SVZEAp219PIwBuZ1MCIaDAgAAA_vogpgCxVUDBzS0swFC9KpMv3b5omBzeq8fAdBV0HrVCJH2NUlPYIASgJkgS2dv6c1R0uhMg3cY38MGnMokuuYdoM0RDgYqL00-fz8h61ekC3P3_qmEvVooh62hxPqKS7i10BHw7d12b6-vog5CEVckwx7jzmd0b0fgOCzpej7aKII_lXCqkyuLr6hwoLWCQfrBcPK1HwSrG7T1I43k-z0LmUNHJtF__4hHLX-0WLNTBevwaILVSia_WuEJ-CuxLj3GhtcNSxiufWRifJap2ju57k5gt-ZNV_TMQhDMJXBKZ1YzEkPYAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkZEenRoY1BydkFvRXMzbDJMZnA0VGJyTU45YXFZOHJVU2QyVmpXckZXbkhyUHdhX3gyRlFPUGlqR0V1U3g5UXFNeTFfX2l2anhtUnJRYzlJNlY0S2ZmS2hKeTJocUVwcGtnajl0WmtWcnVCUUt0Yi1mZ01vdTRmYV9BbnZ3VVp0NURMb1V4ZGtXNElNNXdhbUhqZmpKVlFEMGcSBBoCCAAa3QQSABoAIgAqADoAQgQIARAASiEIARIZU3QuIExvdWlzIFBhcmssIE1pbm5lc290YRoCCAJaAHIAegCCQKAECAAQABgAIAAqDgoHd2VhdGhlchWu0JxAKkoKCHRvbW9ycm93FYz13D8aCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFWrrhkAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWRkR6dGhjUHJ2QW9FczNsMkxmcDRUYnJNTjlhcVk4clVTZDJWaldyRlduSHJQd2FfeDJGUU9QaWpHRXVTeDlRcU15MV9faXZqeG1SclFjOUk2VjRLZmZLaEp5MmhxRXBwa2dqOXRaa1ZydUJRS3RiLWZnTW91NGZhX0FudndVWnQ1RExvVXhka1c0SU01d2FtSGpmakpWUUQwZzo3QnJvb2tseW4gPGI-UGFyazwvYj4sIE1OIEhvdXJseSA8Yj5XZWF0aGVyIEZvcmVjYXN0PC9iPkKWAUV4Y2VwdCBmb3IgYSBmZXcgYWZ0ZXJub29uIGNsb3VkcywgPGI-bWFpbmx5IHN1bm55PC9iPi4gSGlnaCA3NEYuIFdpbmRzIFdOVyBhdCAxMCB0byAyMCBtcGguIFBhcnRseSBDbG91ZHkgRGV3IFBvaW50IDQ4IMKwRiBIdW1pZGl0eSA2MCDCsCUgUmFpbmZhbGwgMCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkZEenRoY1BydkFvRXMzbDJMZnA0VGJyTU45YXFZOHJVU2QyVmpXckZXbkhyUHdhX3gyRlFPUGlqR0V1U3g5UXFNeTFfX2l2anhtUnJRYzlJNlY0S2ZmS2hKeTJocUVwcGtnajl0WmtWcnVCUUt0Yi1mZ01vdTRmYV9BbnZ3VVp0NURMb1V4ZGtXNElNNXdhbUhqZmpKVlFEMGcSBBoCCAAa3QQSABoAIgAqADoAQgQIARAASiEIARIZU3QuIExvdWlzIFBhcmssIE1pbm5lc290YRoCCAJaAHIAegCCQKAECAAQABgAIAAqDgoHd2VhdGhlchWu0JxAKkoKCHRvbW9ycm93FYz13D8aCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFWrrhkAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWRkR6dGhjUHJ2QW9FczNsMkxmcDRUYnJNTjlhcVk4clVTZDJWaldyRlduSHJQd2FfeDJGUU9QaWpHRXVTeDlRcU15MV9faXZqeG1SclFjOUk2VjRLZmZLaEp5MmhxRXBwa2dqOXRaa1ZydUJRS3RiLWZnTW91NGZhX0FudndVWnQ1RExvVXhka1c0SU01d2FtSGpmakpWUUQwZzo3QnJvb2tseW4gPGI-UGFyazwvYj4sIE1OIEhvdXJseSA8Yj5XZWF0aGVyIEZvcmVjYXN0PC9iPkKWAUV4Y2VwdCBmb3IgYSBmZXcgYWZ0ZXJub29uIGNsb3VkcywgPGI-bWFpbmx5IHN1bm55PC9iPi4gSGlnaCA3NEYuIFdpbmRzIFdOVyBhdCAxMCB0byAyMCBtcGguIFBhcnRseSBDbG91ZHkgRGV3IFBvaW50IDQ4IMKwRiBIdW1pZGl0eSA2MCDCsCUgUmFpbmZhbGwgMCICEAFIAFgAaAA",
+      "source": "Weather Underground"
+    },
+    {
+      "position": 3,
+      "title": "Brooklyn Park Hourly Forecast",
+      "link": "https://weather.com/us/minnesota/city/brooklyn-park/hourbyhour",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVfFrv_f4MsaogoGHK4rkKZYOIIQgKJodmUONm2Xtts4VKQjc2sNPok_-b2U1KUR2jOqATnnRbPusD7Ad_Smaw4FzgU9s8fLHyvDMv8-onYpCq2xeWj7kBfozYbqev3tdG-oJ0WqS4SjGqqJjWeJnkIhBBODE&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://weather.com › city › brooklyn-park › hourbyhour",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp",
+      "snippet": "Brooklyn Park, Minnesota · 1 pm. 0%. Sunny. 71°71° · 2 pm. 0%. Partly Cloudy. 73°73° · 3 pm. 0%. Sunny. 73°73° · 4 pm. 0%. Partly Cloudy. 73°73° · 5 pm. 0%.",
+      "snippet_highlighted_words": [
+        "Sunny. 71°71°"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Brooklyn Park, Minnesota · 1 pm. 0%. Sunny. 71°71° · 2 pm. 0%. Partly Cloudy. 73°73° · 3 pm. 0%. Sunny. 73°73° · 4 pm. 0%. Partly Cloudy. 73°73° · 5 pm. 0%.",
+          "source_info_link": "https://weather.com/us/minnesota/city/brooklyn-park/hourbyhour",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmZGcnZfZjRNc2FvZ29HSEs0cmtLWllPSUlRZ0tKb2RtVU9ObTJYdHRzNFZLUWpjMnNOUG9rXy1iMlUxS1VSMmpPcUFUbm5SYlB1c0Q3QWRfU21hdzRGemdVOXM4ZkxIeXZETXY4LW9uWXBDcTJ4ZVdqN2tCZm96WWJxZXYzdGRHLW9KMFdxUzRTakdxcUpqV2VKbmtJaEJCT0RFEgQaAggAGqEFEgAaACIAKgA6AEIECAEQAEohCAESGVN0LiBMb3VpcyBQYXJrLCBNaW5uZXNvdGEaAggCWgByAHoAgkDkBAgAEAAYACAAKg4KB3dlYXRoZXIV7QKiQCpKCgh0b21vcnJvdxUAAAAAGghmb3JlY2FzdBoIc2F0dXJkYXkaBXRvZGF5Ggp0b21vcnJvdydzGglmb3JlY2FzdHMaB3RvbmlnaHQqEwoEcGFyaxWqhohAGgZwYXJrc3QqIAoCc3QVAAAAABoFc2FpbnQaBnN0cmVldBoGcGFya3N0MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmZGcnZfZjRNc2FvZ29HSEs0cmtLWllPSUlRZ0tKb2RtVU9ObTJYdHRzNFZLUWpjMnNOUG9rXy1iMlUxS1VSMmpPcUFUbm5SYlB1c0Q3QWRfU21hdzRGemdVOXM4ZkxIeXZETXY4LW9uWXBDcTJ4ZVdqN2tCZm96WWJxZXYzdGRHLW9KMFdxUzRTakdxcUpqV2VKbmtJaEJCT0RFOkJIb3VybHkgPGI-V2VhdGhlciBGb3JlY2FzdDwvYj4gZm9yIEJyb29rbHluIDxiPlBhcms8L2I-LCBNaW5uZXNvdGFCzgFCcm9va2x5biBQYXJrLCBNaW5uZXNvdGEgJm1pZGRvdDsgMSBwbS4gMCUuIDxiPlN1bm55LiA3McKwNzHCsDwvYj4gJm1pZGRvdDsgMiBwbS4gMCUuIFBhcnRseSBDbG91ZHkuIDczwrA3M8KwICZtaWRkb3Q7IDMgcG0uIDAlLiBTdW5ueS4gNzPCsDczwrAgJm1pZGRvdDsgNCBwbS4gMCUuIFBhcnRseSBDbG91ZHkuIDczwrA3M8KwICZtaWRkb3Q7IDUgcG0uIDAlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmZGcnZfZjRNc2FvZ29HSEs0cmtLWllPSUlRZ0tKb2RtVU9ObTJYdHRzNFZLUWpjMnNOUG9rXy1iMlUxS1VSMmpPcUFUbm5SYlB1c0Q3QWRfU21hdzRGemdVOXM4ZkxIeXZETXY4LW9uWXBDcTJ4ZVdqN2tCZm96WWJxZXYzdGRHLW9KMFdxUzRTakdxcUpqV2VKbmtJaEJCT0RFEgQaAggAGqEFEgAaACIAKgA6AEIECAEQAEohCAESGVN0LiBMb3VpcyBQYXJrLCBNaW5uZXNvdGEaAggCWgByAHoAgkDkBAgAEAAYACAAKg4KB3dlYXRoZXIV7QKiQCpKCgh0b21vcnJvdxUAAAAAGghmb3JlY2FzdBoIc2F0dXJkYXkaBXRvZGF5Ggp0b21vcnJvdydzGglmb3JlY2FzdHMaB3RvbmlnaHQqEwoEcGFyaxWqhohAGgZwYXJrc3QqIAoCc3QVAAAAABoFc2FpbnQaBnN0cmVldBoGcGFya3N0MrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVmZGcnZfZjRNc2FvZ29HSEs0cmtLWllPSUlRZ0tKb2RtVU9ObTJYdHRzNFZLUWpjMnNOUG9rXy1iMlUxS1VSMmpPcUFUbm5SYlB1c0Q3QWRfU21hdzRGemdVOXM4ZkxIeXZETXY4LW9uWXBDcTJ4ZVdqN2tCZm96WWJxZXYzdGRHLW9KMFdxUzRTakdxcUpqV2VKbmtJaEJCT0RFOkJIb3VybHkgPGI-V2VhdGhlciBGb3JlY2FzdDwvYj4gZm9yIEJyb29rbHluIDxiPlBhcms8L2I-LCBNaW5uZXNvdGFCzgFCcm9va2x5biBQYXJrLCBNaW5uZXNvdGEgJm1pZGRvdDsgMSBwbS4gMCUuIDxiPlN1bm55LiA3McKwNzHCsDwvYj4gJm1pZGRvdDsgMiBwbS4gMCUuIFBhcnRseSBDbG91ZHkuIDczwrA3M8KwICZtaWRkb3Q7IDMgcG0uIDAlLiBTdW5ueS4gNzPCsDczwrAgJm1pZGRvdDsgNCBwbS4gMCUuIFBhcnRseSBDbG91ZHkuIDczwrA3M8KwICZtaWRkb3Q7IDUgcG0uIDAlLiICEAFIAFgAaAA",
+      "source": "The Weather Channel",
+      "read_more_link": "https://weather.com/us/minnesota/city/brooklyn-park/hourbyhour#:~:text=Brooklyn%20Park%2C%20Minnesota&text=1%20pm,71%C2%B0&text=2%20pm,73%C2%B0&text=3%20pm,73%C2%B0&text=4%20pm,73%C2%B0&text=5%20pm,0%25"
+    },
+    {
+      "position": 4,
+      "title": "10-Day Weather Forecast for Brooklyn Park, Minnesota",
+      "link": "https://weather.com/us/minnesota/city/brooklyn-park/tenday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVkXWrssWR_MpaN-j4_hz3bWBdtt4wGUP11mDrgdI9C39cc_IUGMzki8s3Oruf4WrWNGjsrVPYdFYGcdL2FbCLo9sB6p71Dvd6HbFZgZ3r5vCDEAbGa9BuCKUZnVwJINUx4pETNtEeY3e5T7kg5pxolg&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://weather.com › city › brooklyn-park › tenday",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp",
+      "snippet": "10-day forecast for Brooklyn Park, Minnesota with highs, lows, chance of precipitation. Ragweed pollen is low in your area Cold & Flu Forecast Flu risk is very ...",
+      "snippet_highlighted_words": [
+        "10-day forecast for Brooklyn Park, Minnesota"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "10-day forecast for Brooklyn Park, Minnesota with highs, lows, chance of precipitation. Ragweed pollen is low in your area Cold & Flu Forecast Flu risk is very ...",
+          "source_info_link": "https://weather.com/us/minnesota/city/brooklyn-park/tenday",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmtYV3Jzc1dSX01wYU4tajRfaHozYldCZHR0NHdHVVAxMW1EcmdkSTlDMzljY19JVUdNemtpOHMzT3J1ZjRXcldOR2pzclZQWWRGWUdjZEwyRmJDTG85c0I2cDcxRHZkNkhiRlpnWjNyNXZDREVBYkdhOUJ1Q0tVWm5Wd0pJTlV4NHBFVE50RWVZM2U1VDdrZzVweG9sZxIEGgIIABqDBRICCAAaACIAKgA6AEIECAEQAEohCAESGVN0LiBMb3VpcyBQYXJrLCBNaW5uZXNvdGEaAggCWgByAHoAgkDEBAgAEAAYACAAKg4KB3dlYXRoZXIVIG-pQCpKCgh0b21vcnJvdxUAAAAAGghmb3JlY2FzdBoIc2F0dXJkYXkaBXRvZGF5Ggp0b21vcnJvdydzGglmb3JlY2FzdHMaB3RvbmlnaHQqEwoEcGFyaxUC6ZdAGgZwYXJrc3QqIAoCc3QVAAAAABoFc2FpbnQaBnN0cmVldBoGcGFya3N0MqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmtYV3Jzc1dSX01wYU4tajRfaHozYldCZHR0NHdHVVAxMW1EcmdkSTlDMzljY19JVUdNemtpOHMzT3J1ZjRXcldOR2pzclZQWWRGWUdjZEwyRmJDTG85c0I2cDcxRHZkNkhiRlpnWjNyNXZDREVBYkdhOUJ1Q0tVWm5Wd0pJTlV4NHBFVE50RWVZM2U1VDdrZzVweG9sZzpCMTAtRGF5IDxiPldlYXRoZXIgRm9yZWNhc3Q8L2I-IGZvciBCcm9va2x5biA8Yj5QYXJrPC9iPiwgTWlubmVzb3RhQrMBPGI-MTAtZGF5IGZvcmVjYXN0IGZvciBCcm9va2x5biBQYXJrLCBNaW5uZXNvdGE8L2I-IHdpdGggaGlnaHMsIGxvd3MsIGNoYW5jZSBvZiBwcmVjaXBpdGF0aW9uLiBSYWd3ZWVkIHBvbGxlbiBpcyBsb3cgaW4geW91ciBhcmVhIENvbGQgJmFtcDsgRmx1IEZvcmVjYXN0IEZsdSByaXNrIGlzIHZlcnkmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmtYV3Jzc1dSX01wYU4tajRfaHozYldCZHR0NHdHVVAxMW1EcmdkSTlDMzljY19JVUdNemtpOHMzT3J1ZjRXcldOR2pzclZQWWRGWUdjZEwyRmJDTG85c0I2cDcxRHZkNkhiRlpnWjNyNXZDREVBYkdhOUJ1Q0tVWm5Wd0pJTlV4NHBFVE50RWVZM2U1VDdrZzVweG9sZxIEGgIIABqDBRICCAAaACIAKgA6AEIECAEQAEohCAESGVN0LiBMb3VpcyBQYXJrLCBNaW5uZXNvdGEaAggCWgByAHoAgkDEBAgAEAAYACAAKg4KB3dlYXRoZXIVIG-pQCpKCgh0b21vcnJvdxUAAAAAGghmb3JlY2FzdBoIc2F0dXJkYXkaBXRvZGF5Ggp0b21vcnJvdydzGglmb3JlY2FzdHMaB3RvbmlnaHQqEwoEcGFyaxUC6ZdAGgZwYXJrc3QqIAoCc3QVAAAAABoFc2FpbnQaBnN0cmVldBoGcGFya3N0MqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmtYV3Jzc1dSX01wYU4tajRfaHozYldCZHR0NHdHVVAxMW1EcmdkSTlDMzljY19JVUdNemtpOHMzT3J1ZjRXcldOR2pzclZQWWRGWUdjZEwyRmJDTG85c0I2cDcxRHZkNkhiRlpnWjNyNXZDREVBYkdhOUJ1Q0tVWm5Wd0pJTlV4NHBFVE50RWVZM2U1VDdrZzVweG9sZzpCMTAtRGF5IDxiPldlYXRoZXIgRm9yZWNhc3Q8L2I-IGZvciBCcm9va2x5biA8Yj5QYXJrPC9iPiwgTWlubmVzb3RhQrMBPGI-MTAtZGF5IGZvcmVjYXN0IGZvciBCcm9va2x5biBQYXJrLCBNaW5uZXNvdGE8L2I-IHdpdGggaGlnaHMsIGxvd3MsIGNoYW5jZSBvZiBwcmVjaXBpdGF0aW9uLiBSYWd3ZWVkIHBvbGxlbiBpcyBsb3cgaW4geW91ciBhcmVhIENvbGQgJmFtcDsgRmx1IEZvcmVjYXN0IEZsdSByaXNrIGlzIHZlcnkmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "The Weather Channel"
+    },
+    {
+      "position": 5,
+      "title": "Downtown Park, MN Weather Forecast & Local Records",
+      "link": "https://www.weatherforyou.com/report/downtown+park-mn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVpaO_wGhxbYSge0KSySTmXGZefqBdCwYu7ni5TBMMrHVGCx8R1dOddz28XQ2C89SITv_XtC4-dzSUcoQXn2gYmtYT6cYdykwFHsUVr49v6S22Fhi4IJxP_nnzfqNT_eju4t9kGjmQjdEGmhg&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://www.weatherforyou.com › ... › Minnesota",
+      "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwBgCdASocABwAPtEutFooIagoGAEAGglsALsVB27AN5MK8D2zILwCCaprhaRnkBzZaBMC1uXbf1wPNRkIAAD-9geufY7YHQwN5zOi605UKuniWJT0EcturaCqceVaCGe12u6pvd5bjRda9pCJuYvwWzAd_fJK-WriQgt9O7CWeWNIzXnGHA3E9VffkXk-L_Af3UPPoNPyWn4ONtd7UOi-P04dJ_tIURnXIGSFGkH067PQcWaQI0OPzQHr4_GZ30pghMp4tFz42fBLkBoiSnJkfAf2kxxwg4xmyvJZouy_o_wz_KAuuzJOfh7H_19cIkzsKSZimbzxSNCd1-xH-u98i3B2OklEEH88fj65e64QInBmeL3cbfHeTLx6b4_9O_byuq6SwLX9H_b3G1bX_ZJJ3_P_sL_9b74p71R6cvC8ntIxXX5Qg9-_yAP2MXEXD0bETUHnP7AAAA.webp",
+      "snippet": "Monday, look for showers likely before 1pm, then a chance of drizzle, mainly after 2pm with temperatures around 55°F.",
+      "about_this_result": {
+        "source": {
+          "description": "Monday, look for showers likely before 1pm, then a chance of drizzle, mainly after 2pm with temperatures around 55°F.",
+          "source_info_link": "https://www.weatherforyou.com/report/downtown+park-mn",
+          "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwBgCdASocABwAPtEutFooIagoGAEAGglsALsVB27AN5MK8D2zILwCCaprhaRnkBzZaBMC1uXbf1wPNRkIAAD-9geufY7YHQwN5zOi605UKuniWJT0EcturaCqceVaCGe12u6pvd5bjRda9pCJuYvwWzAd_fJK-WriQgt9O7CWeWNIzXnGHA3E9VffkXk-L_Af3UPPoNPyWn4ONtd7UOi-P04dJ_tIURnXIGSFGkH067PQcWaQI0OPzQHr4_GZ30pghMp4tFz42fBLkBoiSnJkfAf2kxxwg4xmyvJZouy_o_wz_KAuuzJOfh7H_19cIkzsKSZimbzxSNCd1-xH-u98i3B2OklEEH88fj65e64QInBmeL3cbfHeTLx6b4_9O_byuq6SwLX9H_b3G1bX_ZJJ3_P_sL_9b74p71R6cvC8ntIxXX5Qg9-_yAP2MXEXD0bETUHnP7AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVnBhT193R2h4YllTZ2UwS1N5U1RtWEdaZWZxQmRDd1l1N25pNVRCTU1ySFZHQ3g4UjFkT2RkejI4WFEyQzg5U0lUdl9YdEM0LWR6U1Vjb1FYbjJnWW10WVQ2Y1lkeWt3RkhzVVZyNDl2NlMyMkZoaTRJSnhQX25uemZxTlRfZWp1NHQ5a0dqbVFqZEVHbWhnEgQaAggAGq4EEgAaACIAKgA6AEIECAEQAEoRCAESCU1pbm5lc290YRoCCANaAHIAegCCQIEECAAQABgAIAAqDgoHd2VhdGhlchUxBaZAKkoKCHRvbW9ycm93FQirGUAaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFfYymkAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWcGFPX3dHaHhiWVNnZTBLU3lTVG1YR1plZnFCZEN3WXU3bmk1VEJNTXJIVkdDeDhSMWRPZGR6MjhYUTJDODlTSVR2X1h0QzQtZHpTVWNvUVhuMmdZbXRZVDZjWWR5a3dGSHNVVnI0OXY2UzIyRmhpNElKeFBfbm56ZnFOVF9lanU0dDlrR2ptUWpkRUdtaGc6RERvd250b3duIDxiPlBhcms8L2I-LCBNTiA8Yj5XZWF0aGVyIEZvcmVjYXN0PC9iPiAmYW1wOyBMb2NhbCBSZWNvcmRzQnZNb25kYXksIGxvb2sgZm9yIHNob3dlcnMgbGlrZWx5IGJlZm9yZSAxcG0sIHRoZW4gYSBjaGFuY2Ugb2YgZHJpenpsZSwgbWFpbmx5IGFmdGVyIDJwbSB3aXRoIHRlbXBlcmF0dXJlcyBhcm91bmQgNTXCsEYuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVnBhT193R2h4YllTZ2UwS1N5U1RtWEdaZWZxQmRDd1l1N25pNVRCTU1ySFZHQ3g4UjFkT2RkejI4WFEyQzg5U0lUdl9YdEM0LWR6U1Vjb1FYbjJnWW10WVQ2Y1lkeWt3RkhzVVZyNDl2NlMyMkZoaTRJSnhQX25uemZxTlRfZWp1NHQ5a0dqbVFqZEVHbWhnEgQaAggAGq4EEgAaACIAKgA6AEIECAEQAEoRCAESCU1pbm5lc290YRoCCANaAHIAegCCQIEECAAQABgAIAAqDgoHd2VhdGhlchUxBaZAKkoKCHRvbW9ycm93FQirGUAaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFfYymkAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWcGFPX3dHaHhiWVNnZTBLU3lTVG1YR1plZnFCZEN3WXU3bmk1VEJNTXJIVkdDeDhSMWRPZGR6MjhYUTJDODlTSVR2X1h0QzQtZHpTVWNvUVhuMmdZbXRZVDZjWWR5a3dGSHNVVnI0OXY2UzIyRmhpNElKeFBfbm56ZnFOVF9lanU0dDlrR2ptUWpkRUdtaGc6RERvd250b3duIDxiPlBhcms8L2I-LCBNTiA8Yj5XZWF0aGVyIEZvcmVjYXN0PC9iPiAmYW1wOyBMb2NhbCBSZWNvcmRzQnZNb25kYXksIGxvb2sgZm9yIHNob3dlcnMgbGlrZWx5IGJlZm9yZSAxcG0sIHRoZW4gYSBjaGFuY2Ugb2YgZHJpenpsZSwgbWFpbmx5IGFmdGVyIDJwbSB3aXRoIHRlbXBlcmF0dXJlcyBhcm91bmQgNTXCsEYuIgIQAUgAWABoAA",
+      "source": "WeatherForYou.com"
+    },
+    {
+      "position": 6,
+      "title": "10-Day Weather Forecast for Park Rapids, Minnesota",
+      "link": "https://weather.com/us/minnesota/city/park-rapids/tenday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVdboH6uvLBfVDlMzqyO1xxY9W0I9Jv7Dl7S26c6Zv0fTWrgcCYc5tALnj_kWVErRLKU1Idsgf8zcnepL7yHLPLrwiu80LwhE6IxLGbaW3vnLgd4DEmvr9uQEpOUklkE9KzGy3rDjU_hJnz_fcKgc&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://weather.com › city › park-rapids › tenday",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp",
+      "snippet": "Park Rapids, Minnesota. Clear 34° 54°. Cloudy 48° 63° 14 mph -- SE Advertisement Tue 06 8% Mostly Sunny 46° 74° 12 mph. Sat 10 5% AM Clouds/PM. Mon 12 60% Rain ...",
+      "snippet_highlighted_words": [
+        "Park"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Park Rapids, Minnesota. Clear 34° 54°. Cloudy 48° 63° 14 mph -- SE Advertisement Tue 06 8% Mostly Sunny 46° 74° 12 mph. Sat 10 5% AM Clouds/PM. Mon 12 60% Rain ...",
+          "source_info_link": "https://weather.com/us/minnesota/city/park-rapids/tenday",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVmRib0g2dXZMQmZWRGxNenF5TzF4eFk5VzBJOUp2N0RsN1MyNmM2WnYwZlRXcmdjQ1ljNXRBTG5qX2tXVkVyUkxLVTFJZHNnZjh6Y25lcEw3eUhMUExyd2l1ODBMd2hFNkl4TEdiYVczdm5MZ2Q0REVtdnI5dVFFcE9Va2xrRTlLekd5M3JEalVfaEpuel9mY0tnYxIEGgIIABrnBBICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQMEECAAQABgAIAAqDgoHd2VhdGhlchUavaJAKkoKCHRvbW9ycm93FQAAAAAaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFaDIk0AaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWZGJvSDZ1dkxCZlZEbE16cXlPMXh4WTlXMEk5SnY3RGw3UzI2YzZadjBmVFdyZ2NDWWM1dEFMbmpfa1dWRXJSTEtVMUlkc2dmOHpjbmVwTDd5SExQTHJ3aXU4MEx3aEU2SXhMR2JhVzN2bkxnZDRERW12cjl1UUVwT1VrbGtFOUt6R3kzckRqVV9oSm56X2ZjS2djOkAxMC1EYXkgPGI-V2VhdGhlciBGb3JlY2FzdDwvYj4gZm9yIDxiPlBhcms8L2I-IFJhcGlkcywgTWlubmVzb3RhQrUBPGI-UGFyazwvYj4gUmFwaWRzLCBNaW5uZXNvdGEuIENsZWFyIDM0wrAgNTTCsC4gQ2xvdWR5IDQ4wrAgNjPCsCAxNCBtcGggLS0gU0UgQWR2ZXJ0aXNlbWVudCBUdWUgMDYgOCUgTW9zdGx5IFN1bm55IDQ2wrAgNzTCsCAxMiBtcGguIFNhdCAxMCA1JSBBTSBDbG91ZHMvUE0uIE1vbiAxMiA2MCUgUmFpbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVmRib0g2dXZMQmZWRGxNenF5TzF4eFk5VzBJOUp2N0RsN1MyNmM2WnYwZlRXcmdjQ1ljNXRBTG5qX2tXVkVyUkxLVTFJZHNnZjh6Y25lcEw3eUhMUExyd2l1ODBMd2hFNkl4TEdiYVczdm5MZ2Q0REVtdnI5dVFFcE9Va2xrRTlLekd5M3JEalVfaEpuel9mY0tnYxIEGgIIABrnBBICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQMEECAAQABgAIAAqDgoHd2VhdGhlchUavaJAKkoKCHRvbW9ycm93FQAAAAAaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFaDIk0AaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWZGJvSDZ1dkxCZlZEbE16cXlPMXh4WTlXMEk5SnY3RGw3UzI2YzZadjBmVFdyZ2NDWWM1dEFMbmpfa1dWRXJSTEtVMUlkc2dmOHpjbmVwTDd5SExQTHJ3aXU4MEx3aEU2SXhMR2JhVzN2bkxnZDRERW12cjl1UUVwT1VrbGtFOUt6R3kzckRqVV9oSm56X2ZjS2djOkAxMC1EYXkgPGI-V2VhdGhlciBGb3JlY2FzdDwvYj4gZm9yIDxiPlBhcms8L2I-IFJhcGlkcywgTWlubmVzb3RhQrUBPGI-UGFyazwvYj4gUmFwaWRzLCBNaW5uZXNvdGEuIENsZWFyIDM0wrAgNTTCsC4gQ2xvdWR5IDQ4wrAgNjPCsCAxNCBtcGggLS0gU0UgQWR2ZXJ0aXNlbWVudCBUdWUgMDYgOCUgTW9zdGx5IFN1bm55IDQ2wrAgNzTCsCAxMiBtcGguIFNhdCAxMCA1JSBBTSBDbG91ZHMvUE0uIE1vbiAxMiA2MCUgUmFpbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "The Weather Channel"
+    },
+    {
+      "position": 7,
+      "title": "10-Day Weather Forecast for Park Falls, Wisconsin",
+      "link": "https://weather.com/us/wisconsin/city/park-falls/tenday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVxnVQoUXrBRV_jfYYk0PZe7bzpk4EymUxNwDjmHjT_7NZa13UWcaLiwkgLcb4ubIhMW0ycHuMQ9GoSNKKcbQqwdp4bg9w8p8f8-DsmtGsxk6b6oE6MmI5pe6ksV0oZrsa4XP69OlPH0At461GBQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECFMQAQ&uoh=1",
+      "displayed_link": "https://weather.com › city › park-falls › tenday",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp",
+      "snippet": "Mostly Sunny 46° 59° 3. Cloudy 45° 71° 13 mph. Sat 10 13% Partly Cloudy 56° 71° 15 mph. Mon 12 60% Showers 46° 60° 9 mph -- S Tue 13 39%",
+      "snippet_highlighted_words": [
+        "Mostly Sunny 46° 59°"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Mostly Sunny 46° 59° 3. Cloudy 45° 71° 13 mph. Sat 10 13% Partly Cloudy 56° 71° 15 mph. Mon 12 60% Showers 46° 60° 9 mph -- S Tue 13 39%",
+          "source_info_link": "https://weather.com/us/wisconsin/city/park-falls/tenday",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnhuVlFvVVhyQlJWX2pmWVlrMFBaZTdienBrNEV5bVV4TndEam1IalRfN05aYTEzVVdjYUxpd2tnTGNiNHViSWhNVzB5Y0h1TVE5R29TTktLY2JRcXdkcDRiZzl3OHA4ZjgtRHNtdEdzeGs2YjZvRTZNbUk1cGU2a3NWMG9acnNhNFhQNjlPbFBIMEF0NDYxR0JREgQaAggAGsUEEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQKEECAAQABgAIAAqDgoHd2VhdGhlchW68aJAKkoKCHRvbW9ycm93FQAAAAAaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFaIEjEAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWeG5WUW9VWHJCUlZfamZZWWswUFplN2J6cGs0RXltVXhOd0RqbUhqVF83TlphMTNVV2NhTGl3a2dMY2I0dWJJaE1XMHljSHVNUTlHb1NOS0tjYlFxd2RwNGJnOXc4cDhmOC1Ec210R3N4azZiNm9FNk1tSTVwZTZrc1Ywb1pyc2E0WFA2OU9sUEgwQXQ0NjFHQlE6PzEwLURheSA8Yj5XZWF0aGVyIEZvcmVjYXN0PC9iPiBmb3IgPGI-UGFyazwvYj4gRmFsbHMsIFdpc2NvbnNpbkKXATxiPk1vc3RseSBTdW5ueSA0NsKwIDU5wrA8L2I-IDMuIENsb3VkeSA0NcKwIDcxwrAgMTMgbXBoLiBTYXQgMTAgMTMlIFBhcnRseSBDbG91ZHkgNTbCsCA3McKwIDE1IG1waC4gTW9uIDEyIDYwJSBTaG93ZXJzIDQ2wrAgNjDCsCA5IG1waCAtLSBTIFR1ZSAxMyAzOSUiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnhuVlFvVVhyQlJWX2pmWVlrMFBaZTdienBrNEV5bVV4TndEam1IalRfN05aYTEzVVdjYUxpd2tnTGNiNHViSWhNVzB5Y0h1TVE5R29TTktLY2JRcXdkcDRiZzl3OHA4ZjgtRHNtdEdzeGs2YjZvRTZNbUk1cGU2a3NWMG9acnNhNFhQNjlPbFBIMEF0NDYxR0JREgQaAggAGsUEEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQKEECAAQABgAIAAqDgoHd2VhdGhlchW68aJAKkoKCHRvbW9ycm93FQAAAAAaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFaIEjEAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWeG5WUW9VWHJCUlZfamZZWWswUFplN2J6cGs0RXltVXhOd0RqbUhqVF83TlphMTNVV2NhTGl3a2dMY2I0dWJJaE1XMHljSHVNUTlHb1NOS0tjYlFxd2RwNGJnOXc4cDhmOC1Ec210R3N4azZiNm9FNk1tSTVwZTZrc1Ywb1pyc2E0WFA2OU9sUEgwQXQ0NjFHQlE6PzEwLURheSA8Yj5XZWF0aGVyIEZvcmVjYXN0PC9iPiBmb3IgPGI-UGFyazwvYj4gRmFsbHMsIFdpc2NvbnNpbkKXATxiPk1vc3RseSBTdW5ueSA0NsKwIDU5wrA8L2I-IDMuIENsb3VkeSA0NcKwIDcxwrAgMTMgbXBoLiBTYXQgMTAgMTMlIFBhcnRseSBDbG91ZHkgNTbCsCA3McKwIDE1IG1waC4gTW9uIDEyIDYwJSBTaG93ZXJzIDQ2wrAgNjDCsCA5IG1waCAtLSBTIFR1ZSAxMyAzOSUiAhABSABYAGgA",
+      "source": "The Weather Channel"
+    },
+    {
+      "position": 8,
+      "title": "10-Day Weather Forecast for Park Falls, 54552, Wisconsin",
+      "link": "https://weather.com/us/wisconsin/park-falls/postcode/54552/tenday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVDJXuspPzglEp972eQh_nujV9XrXrzXKmRa4o_2BffUUnZKeBM_WqqU9YRuIA3p1yCHJqKT_GZn-jJ4d7oscBEPz8HU9xQ-6Mo0X7EIFcrkt91sDMJXgmISGr1vdyk1UkfntY3zIu9fQ0Ws518TZar9gvcpOfu0Y&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECFUQAQ&uoh=1",
+      "displayed_link": "https://weather.com › park-falls › postcode › tenday",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp",
+      "snippet": "Partly Cloudy 33° 61° 12 mph. Sunny 45° 60°. Tue 06 19% Partly Cloudy 45° 70° 13 mph. Sat 10 12% Partly Cloudy 56° 70° 16 mph. Showers 38° 53° 9",
+      "snippet_highlighted_words": [
+        "Partly Cloudy 33° 61° 12 mph"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Partly Cloudy 33° 61° 12 mph. Sunny 45° 60°. Tue 06 19% Partly Cloudy 45° 70° 13 mph. Sat 10 12% Partly Cloudy 56° 70° 16 mph. Showers 38° 53° 9",
+          "source_info_link": "https://weather.com/us/wisconsin/park-falls/postcode/54552/tenday",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAADwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y3zlX6wNFb55Waz6b9gMZXddMNnRGGJCAjOOM8NiIdcyTRBigAP7r2MnVLCDxLbzcTXzkSq35zXlF_5QFPxGUi-6_kqWXFtfnHygI_UuBfc7Ee7voo7-2ffVU8KsxccoNvjhBP7XT5J_f_w55O16eRRzDAaJLr0-xDf7pcwZTv-awTV6UQ-f4AOGw-ceqbD1forCsm0wKJXLFuUiJ-7712ADntnnuEsZBgdYn6fWBFUQioWnDM9EIelWbDfsK5yi_tjO6f2WZQQNCCDOOc4OseVPpQZj7wgnj5zE9U-a14MqowpYJh1d_uc9GAHFBKfRhEeEcJz9oE5nUwZ9vf9obPlwlZWHsTrZJ2qvBA-1vrrHpRhIUVplQqeCmDd-J_Anfvn2uLp8Vj0agj7uzznhfwIzE1Z5t48ZwLQW4FsoJQpT9Xe7f6JEZhP-Tjbi0_hby-Eu4-fZlCXypTcQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkRKWHVzcFB6Z2xFcDk3MmVRaF9udWpWOVhyWHJ6WEttUmE0b18yQmZmVVVuWktlQk1fV3FxVTlZUnVJQTNwMXlDSEpxS1RfR1puLWpKNGQ3b3NjQkVQejhIVTl4US02TW8wWDdFSUZjcmt0OTFzRE1KWGdtSVNHcjF2ZHlrMVVrZm50WTN6SXU5ZlEwV3M1MThUWmFyOWd2Y3BPZnUwWRIEGgIIABrjBBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkC_BAgAEAAYACAAKg4KB3dlYXRoZXIV1HiiQCpKCgh0b21vcnJvdxUAAAAAGghmb3JlY2FzdBoIc2F0dXJkYXkaBXRvZGF5Ggp0b21vcnJvdydzGglmb3JlY2FzdHMaB3RvbmlnaHQqEwoEcGFyaxWbW4lAGgZwYXJrc3QqIAoCc3QVAAAAABoFc2FpbnQaBnN0cmVldBoGcGFya3N0MrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkRKWHVzcFB6Z2xFcDk3MmVRaF9udWpWOVhyWHJ6WEttUmE0b18yQmZmVVVuWktlQk1fV3FxVTlZUnVJQTNwMXlDSEpxS1RfR1puLWpKNGQ3b3NjQkVQejhIVTl4US02TW8wWDdFSUZjcmt0OTFzRE1KWGdtSVNHcjF2ZHlrMVVrZm50WTN6SXU5ZlEwV3M1MThUWmFyOWd2Y3BPZnUwWTpGMTAtRGF5IDxiPldlYXRoZXIgRm9yZWNhc3Q8L2I-IGZvciA8Yj5QYXJrPC9iPiBGYWxscywgNTQ1NTIsIFdpc2NvbnNpbkKhATxiPlBhcnRseSBDbG91ZHkgMzPCsCA2McKwIDEyIG1waDwvYj4uIFN1bm55IDQ1wrAgNjDCsC4gVHVlIDA2IDE5JSBQYXJ0bHkgQ2xvdWR5IDQ1wrAgNzDCsCAxMyBtcGguIFNhdCAxMCAxMiUgUGFydGx5IENsb3VkeSA1NsKwIDcwwrAgMTYgbXBoLiBTaG93ZXJzIDM4wrAgNTPCsCA5IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkRKWHVzcFB6Z2xFcDk3MmVRaF9udWpWOVhyWHJ6WEttUmE0b18yQmZmVVVuWktlQk1fV3FxVTlZUnVJQTNwMXlDSEpxS1RfR1puLWpKNGQ3b3NjQkVQejhIVTl4US02TW8wWDdFSUZjcmt0OTFzRE1KWGdtSVNHcjF2ZHlrMVVrZm50WTN6SXU5ZlEwV3M1MThUWmFyOWd2Y3BPZnUwWRIEGgIIABrjBBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkC_BAgAEAAYACAAKg4KB3dlYXRoZXIV1HiiQCpKCgh0b21vcnJvdxUAAAAAGghmb3JlY2FzdBoIc2F0dXJkYXkaBXRvZGF5Ggp0b21vcnJvdydzGglmb3JlY2FzdHMaB3RvbmlnaHQqEwoEcGFyaxWbW4lAGgZwYXJrc3QqIAoCc3QVAAAAABoFc2FpbnQaBnN0cmVldBoGcGFya3N0MrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVkRKWHVzcFB6Z2xFcDk3MmVRaF9udWpWOVhyWHJ6WEttUmE0b18yQmZmVVVuWktlQk1fV3FxVTlZUnVJQTNwMXlDSEpxS1RfR1puLWpKNGQ3b3NjQkVQejhIVTl4US02TW8wWDdFSUZjcmt0OTFzRE1KWGdtSVNHcjF2ZHlrMVVrZm50WTN6SXU5ZlEwV3M1MThUWmFyOWd2Y3BPZnUwWTpGMTAtRGF5IDxiPldlYXRoZXIgRm9yZWNhc3Q8L2I-IGZvciA8Yj5QYXJrPC9iPiBGYWxscywgNTQ1NTIsIFdpc2NvbnNpbkKhATxiPlBhcnRseSBDbG91ZHkgMzPCsCA2McKwIDEyIG1waDwvYj4uIFN1bm55IDQ1wrAgNjDCsC4gVHVlIDA2IDE5JSBQYXJ0bHkgQ2xvdWR5IDQ1wrAgNzDCsCAxMyBtcGguIFNhdCAxMCAxMiUgUGFydGx5IENsb3VkeSA1NsKwIDcwwrAgMTYgbXBoLiBTaG93ZXJzIDM4wrAgNTPCsCA5IgIQAUgAWABoAA",
+      "source": "The Weather Channel"
+    },
+    {
+      "position": 9,
+      "title": "Massapequa Park, NY Weather Forecast | 5 Day",
+      "link": "https://www.localconditions.com/us/massapequa-park/new-york/weather/forecast/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFaWSRx_0P8C9IPLUfIdc3RYcwUeAwbsMoo2QIgxtRWcWisQMsr7l64n19FFVkCL-_XmKwZWXU194o8bG3GnX5F9DGjpM6z0PlZgDMFi9aCV3MJxJrc9oaqfr9gXRNrlmVvo9lTtHDNxNLYLLQez3pzq2RVgE4bBm0S6GGhSLhuT2u_VA&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQFnoECFQQAQ&uoh=1",
+      "displayed_link": "https://www.localconditions.com › Weather › New York",
+      "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAwBgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHQq9AddJO6niwB-YOptdvBe99FmaEY5tScuD3UWAP7eJ_OM8aNBzPrXdxf4WsKRT0zU-6WOP2KlyavRKp4j9IWQUgVsMhWFT_2px9k5Ob1muBTMkiIcuHb02P5QdPIU_xyb5QGwMon05njEdYnJAFqRcKNLvKhW6VOPnxHnAp8OdK78E0lF3azSCaXzp7SX5AFx2foSUthi3paktXwSwQk7PQphvT5jLATpPP9lrwn5euBer7lvnQd77l-CGopURvknrenqijXMGEZ8pjdmV5iv8esXit1RLiCWlSeESyr2fYZw41NQYoMHCs0AAA.webp",
+      "snippet": "Sunny with a high of 87°F and a low of 59°F. There's a very small chance of rainfall, only about 5%. Winds will be light at 10mph and gusts of 12.5mph at 10 ...",
+      "snippet_highlighted_words": [
+        "Sunny with a high of 87°F and a low of 59°F"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sunny with a high of 87°F and a low of 59°F. There's a very small chance of rainfall, only about 5%. Winds will be light at 10mph and gusts of 12.5mph at 10 ...",
+          "source_info_link": "https://www.localconditions.com/us/massapequa-park/new-york/weather/forecast/",
+          "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAwBgCdASogACAAPrUurVanIacnG_DgFolsAJ0yhHQq9AddJO6niwB-YOptdvBe99FmaEY5tScuD3UWAP7eJ_OM8aNBzPrXdxf4WsKRT0zU-6WOP2KlyavRKp4j9IWQUgVsMhWFT_2px9k5Ob1muBTMkiIcuHb02P5QdPIU_xyb5QGwMon05njEdYnJAFqRcKNLvKhW6VOPnxHnAp8OdK78E0lF3azSCaXzp7SX5AFx2foSUthi3paktXwSwQk7PQphvT5jLATpPP9lrwn5euBer7lvnQd77l-CGopURvknrenqijXMGEZ8pjdmV5iv8esXit1RLiCWlSeESyr2fYZw41NQYoMHCs0AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZhV1NSeF8wUDhDOUlQTFVmSWRjM1JZY3dVZUF3YnNNb28yUUlneHRSV2NXaXNRTXNyN2w2NG4xOUZGVmtDTC1fWG1Ld1pXWFUxOTRvOGJHM0duWDVGOURHanBNNnowUGxaZ0RNRmk5YUNWM01KeEpyYzlvYXFmcjlnWFJOcmxtVnZvOWxUdEhETnhOTFlMTFFlejNwenEyUlZnRTRiQm0wUzZHR2hTTGh1VDJ1X1ZBEgQaAggAGoUFEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQOEECAAQABgAIAAqDgoHd2VhdGhlchXIyrBAKkoKCHRvbW9ycm93FT4nR0AaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFRTclUAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3RmFXU1J4XzBQOEM5SVBMVWZJZGMzUlljd1VlQXdic01vbzJRSWd4dFJXY1dpc1FNc3I3bDY0bjE5RkZWa0NMLV9YbUt3WldYVTE5NG84YkczR25YNUY5REdqcE02ejBQbFpnRE1GaTlhQ1YzTUp4SnJjOW9hcWZyOWdYUk5ybG1Wdm85bFR0SEROeE5MWUxMUWV6M3B6cTJSVmdFNGJCbTBTNkdHaFNMaHVUMnVfVkE6Rk1hc3NhcGVxdWEgPGI-UGFyazwvYj4sIE5ZIDxiPldlYXRoZXIgVG9tb3Jyb3c8L2I-IHdpdGggNS1EYXkgRm9yZWNhc3RCsgE8Yj5TdW5ueSB3aXRoIGEgaGlnaCBvZiA4N8KwRiBhbmQgYSBsb3cgb2YgNTnCsEY8L2I-LiBUaGVyZSYjMzk7cyBhIHZlcnkgc21hbGwgY2hhbmNlIG9mIHJhaW5mYWxsLCBvbmx5IGFib3V0IDUlLiBXaW5kcyB3aWxsIGJlIGxpZ2h0IGF0IDEwbXBoIGFuZCBndXN0cyBvZiAxMi41bXBoIGF0IDEwJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZhV1NSeF8wUDhDOUlQTFVmSWRjM1JZY3dVZUF3YnNNb28yUUlneHRSV2NXaXNRTXNyN2w2NG4xOUZGVmtDTC1fWG1Ld1pXWFUxOTRvOGJHM0duWDVGOURHanBNNnowUGxaZ0RNRmk5YUNWM01KeEpyYzlvYXFmcjlnWFJOcmxtVnZvOWxUdEhETnhOTFlMTFFlejNwenEyUlZnRTRiQm0wUzZHR2hTTGh1VDJ1X1ZBEgQaAggAGoUFEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQOEECAAQABgAIAAqDgoHd2VhdGhlchXIyrBAKkoKCHRvbW9ycm93FT4nR0AaCGZvcmVjYXN0GghzYXR1cmRheRoFdG9kYXkaCnRvbW9ycm93J3MaCWZvcmVjYXN0cxoHdG9uaWdodCoTCgRwYXJrFRTclUAaBnBhcmtzdCogCgJzdBUAAAAAGgVzYWludBoGc3RyZWV0GgZwYXJrc3QyxgEvZ290bz91cmw9Q0FFU2lBRUI2enN3RmFXU1J4XzBQOEM5SVBMVWZJZGMzUlljd1VlQXdic01vbzJRSWd4dFJXY1dpc1FNc3I3bDY0bjE5RkZWa0NMLV9YbUt3WldYVTE5NG84YkczR25YNUY5REdqcE02ejBQbFpnRE1GaTlhQ1YzTUp4SnJjOW9hcWZyOWdYUk5ybG1Wdm85bFR0SEROeE5MWUxMUWV6M3B6cTJSVmdFNGJCbTBTNkdHaFNMaHVUMnVfVkE6Rk1hc3NhcGVxdWEgPGI-UGFyazwvYj4sIE5ZIDxiPldlYXRoZXIgVG9tb3Jyb3c8L2I-IHdpdGggNS1EYXkgRm9yZWNhc3RCsgE8Yj5TdW5ueSB3aXRoIGEgaGlnaCBvZiA4N8KwRiBhbmQgYSBsb3cgb2YgNTnCsEY8L2I-LiBUaGVyZSYjMzk7cyBhIHZlcnkgc21hbGwgY2hhbmNlIG9mIHJhaW5mYWxsLCBvbmx5IGFib3V0IDUlLiBXaW5kcyB3aWxsIGJlIGxpZ2h0IGF0IDEwbXBoIGFuZCBndXN0cyBvZiAxMi41bXBoIGF0IDEwJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "LocalConditions.com",
+      "read_more_link": "https://www.localconditions.com/us/massapequa-park/new-york/weather/forecast/#:~:text=Sunny%20with%20a%20high%20of,of%2012.5mph%20at%2010%20PM."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Weather tomorrow park st hourly",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Weather+tomorrow+park+st+hourly&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Weather+tomorrow+park+st+hourly"
+    },
+    {
+      "block_position": 1,
+      "query": "Weather in brooklyn park tomorrow",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Weather+in+brooklyn+park+tomorrow&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Weather+in+brooklyn+park+tomorrow"
+    },
+    {
+      "block_position": 1,
+      "query": "Brooklyn weather tomorrow park st",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Brooklyn+weather+tomorrow+park+st&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Brooklyn+weather+tomorrow+park+st"
+    },
+    {
+      "block_position": 1,
+      "query": "Weather in brooklyn park 10 days",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Weather+in+brooklyn+park+10+days&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Weather+in+brooklyn+park+10+days"
+    },
+    {
+      "block_position": 1,
+      "query": "Brooklyn Park Weather 14 day Forecast",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Brooklyn+Park+Weather+14+day+Forecast&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Brooklyn+Park+Weather+14+day+Forecast"
+    },
+    {
+      "block_position": 1,
+      "query": "Brooklyn Park Weather Radar",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Brooklyn+Park+Weather+Radar&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Brooklyn+Park+Weather+Radar"
+    },
+    {
+      "block_position": 1,
+      "query": "Weather brooklyn park, MN 30 day",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Weather+brooklyn+park,+MN+30+day&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Weather+brooklyn+park%2C+MN+30+day"
+    },
+    {
+      "block_position": 1,
+      "query": "Brooklyn Park weather hourly",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&q=Brooklyn+Park+weather+hourly&sa=X&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=Brooklyn+Park+weather+hourly"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=10&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8NMDegQIRxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=10&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAE",
+      "3": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=20&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAG",
+      "4": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=30&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAI",
+      "5": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=40&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAK",
+      "6": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=50&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAM",
+      "7": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=60&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAO",
+      "8": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=70&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAQ",
+      "9": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=80&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAS",
+      "10": "https://www.google.com/search?q=weather+tomorrow+Park+St&sca_esv=8de974bdd654ed99&sxsrf=APpeQnuH2hkfi1yuOHDzFpEby-5X3dRSfA:1791376352416&ei=4DvGarjpGNe35OUP48_d4Qw&start=90&sa=N&sstk=AS6-VmLqOSCGlJRnctZlYpEuqw1YBbQRiAk_7qOPsctQFNO-swtWAb1LDqqqylqGwIIKGcL7Jq1BBoEnl18jk4u7FxRAP9Xlg_ZQzQ&ved=2ahUKEwi42ZP59KeXAxXXG7kGHeNnN8wQ8tMDegQIRxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Park+St&q=weather+tomorrow+Park+St&start=90"
+    }
+  }
+}

@@ -1,0 +1,885 @@
+{
+  "search_metadata": {
+    "id": "6ac63bdc9f8abcbe9e6de3fd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/V5B5xzAUM716gOXqrTrNOq9Nl0rGdogEfVfw62bQf10/6ac63bdc9f8abcbe9e6de3fd.json",
+    "markdown_endpoint": "https://serpapi.com/searches/V5B5xzAUM716gOXqrTrNOq9Nl0rGdogEfVfw62bQf10/6ac63bdc9f8abcbe9e6de3fd.md",
+    "created_at": "2026-10-07 12:32:28 UTC",
+    "processed_at": "2026-10-07 12:32:28 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/mall/@51.5055334,-0.0914069,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/V5B5xzAUM716gOXqrTrNOq9Nl0rGdogEfVfw62bQf10/6ac63bdc9f8abcbe9e6de3fd.html",
+    "prettify_html_file": "https://serpapi.com/searches/V5B5xzAUM716gOXqrTrNOq9Nl0rGdogEfVfw62bQf10/6ac63bdc9f8abcbe9e6de3fd.prettify",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "mall",
+    "ll": "@51.5055334,-0.0914069,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "mall"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Canary Wharf",
+      "place_id": "ChIJF2QmobACdkgRj7cJMpsZFog",
+      "data_id": "0x487602b0a1266417:0x8816199b3209b78f",
+      "data_cid": "9806053392995956623",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487602b0a1266417%3A0x8816199b3209b78f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487602b0a1266417%3A0x8816199b3209b78f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5050464,
+        "longitude": -0.0197988
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJF2QmobACdkgRj7cJMpsZFog",
+      "provider_id": "/g/11_fldbx4",
+      "rating": 4.4,
+      "reviews": 27321,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Women's clothing store"
+      ],
+      "address": "1 Canada Square, Canary Wharf Estate, London, E14 5NY, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+44 20 7418 2000",
+      "website": "https://group.canarywharf.com/",
+      "description": "Designer shops, dining & a movie theater. Vibrant mall offering designer shops, boutiques, restaurants, bars, a grocery store & movie theater.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP0fCDfuYlSCtQZEtDIvnHa8barE_-5vNKfvr2sbNLJ0i8kpRr-iVRG-WN3dGEpK53GHY7K8NJKsr3aEV7gDH85uCUwKyQLkO5rxA0ShTI8smP1yLehPeZG9dYisCFYdX9L7btzNKCW4_X2=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/iZ-PdnicHcTbboIwGADgJypUGaGaeGEKgpZ0oA7FG8OhUCKn9C8495Je722W7Lv4ft9S6xHWptlKy6iHoW7FBEIVQ69Fr41i6MxaZQCoAHNL57HtIlxRt5rS9kR1fPO0u5_7ICN5prw7smfOqlktIefhATfkMR4VapKjjy7cKn1vZLblB6nDCD8wUFbmJU7tBsSe6NeTveLw8Wmr7y0-yfOeQBctXqGQkbj5qzJtgO7S8roKnVz_cEYvH_frcvNcYIyR_L9A_R-PQUZo"
+    },
+    {
+      "position": 2,
+      "title": "Cardinal Place",
+      "place_id": "ChIJr5Trb98EdkgR726OHLFbM_U",
+      "data_id": "0x487604df6feb94af:0xf5335bb11c8e6eef",
+      "data_cid": "17668566579351023343",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604df6feb94af%3A0xf5335bb11c8e6eef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604df6feb94af%3A0xf5335bb11c8e6eef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4971002,
+        "longitude": -0.141117
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr5Trb98EdkgR726OHLFbM_U",
+      "provider_id": "/m/085lwl",
+      "rating": 4.3,
+      "reviews": 7023,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Victoria St, London, SW1E 5JD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–11 PM",
+        "thursday": "8 AM–11 PM",
+        "friday": "8 AM–11 PM",
+        "saturday": "9 AM–11 PM",
+        "sunday": "11 AM–6 PM",
+        "monday": "8 AM–11 PM",
+        "tuesday": "8 AM–11 PM"
+      },
+      "phone": "+44 20 7963 4025",
+      "website": "http://www.createvictoria.com/",
+      "description": "Glass & steel mall for high street shops. Contemporary glass-fronted mall for high-street fashion stores, restaurants and a department store.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPERkTZnSuOt73Ijs8QdrPyg9IjqoXIQbNP21Elu31wgIN4mwxfAg8NdAgKjyfGKrtdAA2f5kpxaKUVpbW4xWKabEQMDoaeUrcTDR90-PaUG9wu4bt1--Qzh2O_5milqwvqQFZZ3g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6js3k3icHcRdDoIgAADgE5G_rWzrgZU15zKprOZLQ1TMUBQwrBt2hG7T1vfwfT-VUp1cGAarnAnlnLJikIUgvFVFqyaENwYVWEpApAFXz441sX94nNL2OOzVzAlqOUe5iF_UC-qeXwOURbFt-WxwLE2DyG30WEI6j3JIw_pVbkOhcgjtcvroRhwm5y67uOMlxJmPdmuOi0SQ0_rgmSDGydbTg5spCwD0ruz9bdrcWa-fPdqkqUOX2jJNE1T_CWh_fJhGVw"
+    },
+    {
+      "position": 3,
+      "title": "Angel Central",
+      "place_id": "ChIJr6KxhkEbdkgRNMKfL8LxsmE",
+      "data_id": "0x48761b4186b1a2af:0x61b2f1c22f9fc234",
+      "data_cid": "7039954983858455092",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b4186b1a2af%3A0x61b2f1c22f9fc234&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b4186b1a2af%3A0x61b2f1c22f9fc234&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.534183,
+        "longitude": -0.10618889999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr6KxhkEbdkgRNMKfL8LxsmE",
+      "provider_id": "/g/1thpw9xn",
+      "rating": 4.2,
+      "reviews": 4199,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "21 Parkfield St, London, N1 0PS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "11 AM–6 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM"
+      },
+      "phone": "+44 20 7359 2674",
+      "website": "http://www.angelcentral.co.uk/",
+      "description": "Chain stores, dining & entertainment. Shopping centre with popular chain retailers, casual eateries & a multiplex cinema.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMPDR_NEgOTjcZnA3AGxb3YgRo0orulgDzlfExJkwr9xQ_JguHw9uCb2AAKj4GAjmkgMR8mAyl8GB0B8K2Gwoe4gNmdEz26SCE6zGQBenbonwLUrgFXpeX63UPIDMpU3tAhRQ8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KqbRFHicHcTbToMwGADgJ2J0dCHMxItyWN2BOZgk05tl1O4nrAfSFos8oO_g25j4XXy_P51zg30KQ9HhBWgNgo-WG6aV48otmJYhmJu1AbMhyb4GIctTXl-PBby-9exDEUzo1OJ3qDXSZhSQz-JeTLuHN-upuu5gfPHrMWsjQvb9ipJePqCsE0m-RUJTlCb7iHrNV3CUn8UcxeesiGdapVy1WvlDY2BzGfglxs1pm5dDgx3p6ip59kuEUND9zwL1B5IpRMc"
+    },
+    {
+      "position": 4,
+      "title": "The Brunswick Centre",
+      "place_id": "ChIJI7h_SjcbdkgRJcCnnXzZM2Q",
+      "data_id": "0x48761b374a7fb823:0x6433d97c9da7c025",
+      "data_cid": "7220353756849225765",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b374a7fb823%3A0x6433d97c9da7c025&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b374a7fb823%3A0x6433d97c9da7c025&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.524759599999996,
+        "longitude": -0.12402819999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI7h_SjcbdkgRJcCnnXzZM2Q",
+      "provider_id": "/m/02m5js",
+      "rating": 4.3,
+      "reviews": 6529,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Unit 57 Bernard St, London, WC1N 1BS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–11 PM",
+        "thursday": "7 AM–11 PM",
+        "friday": "7 AM–11 PM",
+        "saturday": "7 AM–11 PM",
+        "sunday": "7 AM–11 PM",
+        "monday": "7 AM–11 PM",
+        "tuesday": "7 AM–11 PM"
+      },
+      "phone": "+44 20 7833 6066",
+      "website": "http://www.brunswick.co.uk/",
+      "description": "Shopping mall with an arthouse cinema. High street fashion and lifestyle stores in a mall with restaurants and an arthouse cinema.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmONOmvRmdTMTD2-3ieXPJdHc7AYlHAYw-9Y_QvHGvGNKPDRDD-Mf8CNrv2ISWfNQoJdG3YFDlELlsl18At7r7ykrlpQX8WgZQ6Tyc5D3nLVSjHFWHFFFcHDyUu_UP6xcnkym-30=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_g60Q3icHcRJDoIwAADAF1XQRkETD8Ra6oagIOLFmIKgdiFtrfJC3-BvTJzDfD-NMa2eOA5rYK-WsmbVU1eKSmEqYXpUcqdWF60B1U4wsy3j22jL7Y6X6SZFAwBv1TFeloR6QcFIULzAuDgnloQ2jFYx2iEENld_Fik7WOzza5TIZRnCAiM2XzPN-n5gPOV1D8Xa5Ojn9SkZpR0dIijWh_2d4JxgjClBXfY8Z_HoTcWj4wC601ffdV3Q_KdA_AAq2EPE"
+    },
+    {
+      "position": 5,
+      "title": "Surrey Quays Shopping Centre",
+      "place_id": "ChIJg7PD-t8CdkgRi1HP7ZBUq9U",
+      "data_id": "0x487602dffac3b383:0xd5ab5490edcf518b",
+      "data_cid": "15396492732537983371",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487602dffac3b383%3A0xd5ab5490edcf518b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487602dffac3b383%3A0xd5ab5490edcf518b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4952438,
+        "longitude": -0.0468103
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg7PD-t8CdkgRi1HP7ZBUq9U",
+      "provider_id": "/m/02bz67",
+      "rating": 3.9,
+      "reviews": 8900,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Redriff Rd, London, SE16 7LL, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–8 PM",
+        "thursday": "8 AM–8 PM",
+        "friday": "8 AM–8 PM",
+        "saturday": "8 AM–8 PM",
+        "sunday": "11 AM–5 PM",
+        "monday": "8 AM–8 PM",
+        "tuesday": "8 AM–8 PM"
+      },
+      "phone": "+44 20 7237 5282",
+      "website": "https://www.surreyquays.co.uk/",
+      "description": "1-level indoor mall with a supermarket. A grocery store anchors this bright, single-story enclosed mall with a food court & array of retail.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMflSYZRYBiPKPCHKvt8yvUIkHTW1a5w92kxa3k81VwURHxLonizvlOcrzZtWZgwzSoepd4TPf3XRAWhWd3MRZwXD-sPkn0n8JBOjsXllSShnX7J0OAMm9oDYyW43-AydigrT1C=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MF6uvXicHcRdDoIgAADgE5EYtaytB7MH-3E6tVDfHBqYCE5I0gt2hm7T1vfwfT9M617tLIsztKBSUl6_VD0QKXQt9ILIzqJDqRQgynK9sedd8OBJXsT5oYkukedfRu1M4-3U-im2y7XZLtt3iVrHvptb7L-vUjTzyEMyzIXGBTVzIuu-WqXRA2WxixmuUBAXJjsCFbUCCud8CJ8q4zxJmMg2Zxi6QbeVx3zCKwTcqWrokNre3tgQQsD-EyB-JkhGCg"
+    },
+    {
+      "position": 6,
+      "title": "Jubilee Place",
+      "place_id": "ChIJG-8AlbkCdkgRjaCLcfHMfzg",
+      "data_id": "0x487602b99500ef1b:0x387fccf1718ba08d",
+      "data_cid": "4071197925530378381",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487602b99500ef1b%3A0x387fccf1718ba08d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487602b99500ef1b%3A0x387fccf1718ba08d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.503046399999995,
+        "longitude": -0.018730399999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG-8AlbkCdkgRjaCLcfHMfzg",
+      "provider_id": "/g/11cn0y0yq8",
+      "rating": 4.5,
+      "reviews": 1006,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Canary Wharf Estate, London, E14 5NY, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "9 AM–5 PM",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "website": "https://canarywharf.com/shopping/directory/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOi3PZJ8QiMVWSbNtzJkM0fl-OdeFg4YsCB_HyKvkMF7sMEr53KkS9LA4B3hfPeyrjnNdWc9E1Uq8sL5431iDmWNFY8N9MvW0tmSnmQNlYdgnXadzACNysPl19WhdKn4Iog25c94g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/geKoFXicHcRdToMwAADgEzGKLZGa-MBwRMfasZBZ8cXMtmuR_kxaMeyGHsHbmPg9fL8_OsZLuEtTo-FKea-M_Apy4t5F6eKKe5uq6RRCwkNaVvPF2P0A29dtcRjIM-veabxuRwLOJtkLWSvUh2r99rg080jq20A2Uw6bscO7Eq2hPrdymT4cFYzjTXb8LMIuRzAbHiyjdV9QTGYGou2cPVDTC-VeTuJaVnQJrckw06Jx6Mmrm5xjpO6_MwBAov_nifsD8d5E6w"
+    },
+    {
+      "position": 7,
+      "title": "West One",
+      "place_id": "ChIJARwD3ywFdkgRohfrHMp-WgM",
+      "data_id": "0x4876052cdf031c01:0x35a7eca1ceb17a2",
+      "data_cid": "241644936551405474",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876052cdf031c01%3A0x35a7eca1ceb17a2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876052cdf031c01%3A0x35a7eca1ceb17a2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5141634,
+        "longitude": -0.1493614
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJARwD3ywFdkgRohfrHMp-WgM",
+      "provider_id": "/g/1tdy_fk7",
+      "rating": 4.1,
+      "reviews": 852,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "375-383 Oxford St, London, W1C 2JS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "6:30 AM–10 PM",
+        "thursday": "6:30 AM–10 PM",
+        "friday": "6:30 AM–10 PM",
+        "saturday": "8 AM–10 PM",
+        "sunday": "10 AM–9 PM",
+        "monday": "6:30 AM–10 PM",
+        "tuesday": "6:30 AM–10 PM"
+      },
+      "phone": "+44 20 7493 4820",
+      "website": "http://www.west1shopping.co.uk/",
+      "description": "Subterranean mall at a tube station. Connected to the Bond Street tube station, this underground mall features popular eateries & shops.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMMOF8MPP_UL9O9vsHEdS7nLjy-K9vN9fFKxMfxIdrjdaXYfJ2ugWQmNY9scwPWuOlFUm6ya_QgcYHnbgpCtCckk7HjiefObiDVHhlMGJGaDVdT-YXCzsT0333FCbhLgkn6Unzr=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UCVBxXicHcRRDoIgAADQE5GWW0VbH41SK0ldWfnlFBVSRCeo6QU7Q7dp632874cp1ciNpnFmzGhdU551MmtJLVQm1IzUlUbbWEpApLZDfcMrjF1zjT0vChzowl7ah_S6Ek4xgjPsLzA3z2-cv49pW6TxM8xPi44-_OoSQkkG79G53Ayq5RhHPiWhLRLaIIVIWa7s4pXlbvLa323GsXWy4v09vYHwiSZ50w3DMFHCHFqKZSCmdjvMdV0H7D8B4gfixkX0"
+    },
+    {
+      "position": 8,
+      "title": "Castle Square",
+      "place_id": "ChIJTb3tXJ8EdkgRkqGposqTzdw",
+      "data_id": "0x4876049f5cedbd4d:0xdccd93caa2a9a192",
+      "data_cid": "15910535557091533202",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876049f5cedbd4d%3A0xdccd93caa2a9a192&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876049f5cedbd4d%3A0xdccd93caa2a9a192&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.493759499999996,
+        "longitude": -0.09819599999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJTb3tXJ8EdkgRkqGposqTzdw",
+      "provider_id": "/g/11fx8cjcbl",
+      "rating": 4.4,
+      "reviews": 636,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Unit 18, 40 Elephant Rd, London SE17 1EU, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 6:30 PM",
+      "hours": "Open · Closes 6:30 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–6:30 PM",
+        "thursday": "10 AM–6:30 PM",
+        "friday": "10 AM–6:30 PM",
+        "saturday": "10 AM–6:30 PM",
+        "sunday": "11:30 AM–5:30 PM",
+        "monday": "10 AM–6:30 PM",
+        "tuesday": "10 AM–6:30 PM"
+      },
+      "website": "https://www.castlesquarelondon.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM5xJpuU3UIiCjgAKqmQEGUQn9BAKdxFijIrJ1na9T8-kERmxxDV2Gg5GW13dpW0VDq-J-PU3D5kh3hU8YRGDeUQzIsT7niEoLGwuexWdLpGL4qVGvr09bOC9EHmrfk95MscEtwRA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XwsMVnicHcRRToMwAADQE3UUK3E18QOhqzAWhawQP7dSWwZtgcJovKFH8DYmvo_3-6OWZXTPQTAotJPWykGsTszcmkWYZcetDuR8cQ5wF8TJfRz0KfL5uDLEsi65yfg46ZJQVhr8Gh9bf-hu2ZyH5oLPe9CTSnuf1g9URrQJUTs2sE4nkIMPhtKoV0ix_WdFU8HK78ydn0xHbEG3VfimLUZaPE41vc8QX98TTN70_NXj6OQ4WbYqftlCCCFQ_3Ng_gDX_ETF"
+    },
+    {
+      "position": 9,
+      "title": "Churchill Place Shopping Mall",
+      "place_id": "ChIJ2f1qf7oCdkgR6OYmvqAharw",
+      "data_id": "0x487602ba7f6afdd9:0xbc6a21a0be26e6e8",
+      "data_cid": "13576701000930485992",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487602ba7f6afdd9%3A0xbc6a21a0be26e6e8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487602ba7f6afdd9%3A0xbc6a21a0be26e6e8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5045554,
+        "longitude": -0.0148963
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2f1qf7oCdkgR6OYmvqAharw",
+      "provider_id": "/g/1hf42kpsb",
+      "rating": 4.3,
+      "reviews": 580,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "2 Churchill Pl, Canary Wharf Estate, London, E14 5RB, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–8 PM",
+        "thursday": "9 AM–8 PM",
+        "friday": "9 AM–8 PM",
+        "saturday": "10 AM–7 PM",
+        "sunday": "12–6 PM",
+        "monday": "9 AM–8 PM",
+        "tuesday": "9 AM–8 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOsfdEWJy608YN5zDq_laQVlw0qfXc_zkVIKNR-kvgPTu6QngYl6UI9tIVbpyz7mBgWUp0d9oS8o-Bs2Kpa3GYcx8m4oE9xAWWL-CGThtwJV8MRlKDZYeyup2Q4XymVsvN6lwIvyw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SF-KL3icHcTbDoIgAADQL0LpZtrWQ1lrall2Qe2lGRlugVCghH_YJ_Q3bZ2H8_1USgk5sW1aDSzCOaFlI8sX5rUqa2VhzmzyKqQEWNozvxWUbeX9tkxD40A3j0fd4nmhRYKohs97hi_dAwVRvAePluyOjZPUJKfOKfBUgK7CdGM2J-lJwJvHDy4Hc9mPRDFY5fjtsiFfeu9Zmq6BvzpWSofI3exptDjnpWlEPxlmhiHZxg7VQWv0VPcghKD6j0H9A5CPRvU"
+    },
+    {
+      "position": 10,
+      "title": "Mall Galleries",
+      "place_id": "ChIJ9bNTJdAEdkgRmSVzJmEoXRI",
+      "data_id": "0x487604d02553b3f5:0x125d286126732599",
+      "data_cid": "1323258263238813081",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604d02553b3f5%3A0x125d286126732599&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604d02553b3f5%3A0x125d286126732599&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5066786,
+        "longitude": -0.129999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9bNTJdAEdkgRmSVzJmEoXRI",
+      "provider_id": "/g/1s04g8dqr",
+      "rating": 4.7,
+      "reviews": 802,
+      "type": "Art gallery",
+      "types": [
+        "Art gallery",
+        "Art center",
+        "Arts organization",
+        "Museum",
+        "Tourist attraction"
+      ],
+      "address": "The Mall, London, SW1Y 5AS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open now",
+      "phone": "+44 20 7930 6844",
+      "website": "https://www.mallgalleries.org.uk/",
+      "description": "Contemporary art, bookshop & cafe. Modern art space that promotes figurative work by living artists in 3 interlinked galleries.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNeyRxPliy9FuIiPfTq0kyTKb5i-Fpn9D9smDFwzXQEIxHwHO8IZrGIDh0fpDdn_o3tYsQTKv45AFp5z4OnUDyjOK0hoqja7_PH7N_A9l6cSoTVAlx47wVnVj19Fa4Q2oqfWtJR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/DUfc_XicHcRRboIwAADQEyFVQeySfRBrB5IIOGTqD8EOKFjaQquAF_QM3mbJ3sd7v6jWUn2YJqPLWSVExYq7KnoiuC64nhHRmlWfK2UQZbqbh2TtvpgOY8TqCeK7X0dl0oHblARXuzaw5BBB1SI8PE_x1h-9wQvX_qX_8hEFpUS_PBNLfVZxEjws28XSflohP6KpCQNARdfkThZ5zj5zIVuRb5GkLhstZ0h52swhzq14IbryR-8On8McAGDQ_4nB_wD79UVw"
+    },
+    {
+      "position": 11,
+      "title": "Westfield Stratford City",
+      "place_id": "ChIJQfF2b2QddkgRhvL1CKoDiuo",
+      "data_id": "0x48761d646f76f141:0xea8a03aa08f5f286",
+      "data_cid": "16900324580490867334",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d646f76f141%3A0xea8a03aa08f5f286&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d646f76f141%3A0xea8a03aa08f5f286&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.541311,
+        "longitude": -0.005659399999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQfF2b2QddkgRhvL1CKoDiuo",
+      "provider_id": "/m/06y32d",
+      "rating": 4.4,
+      "reviews": 73836,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Montfichet Rd, London, E20 1EJ, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "12–6 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM"
+      },
+      "phone": "+44 20 8221 7300",
+      "website": "https://www.westfield.com/en/united-kingdom/stratfordcity?utm_source=google&utm_medium=GMB",
+      "description": "Expansive mall with shops & restaurants. Large shopping mall featuring numerous luxury stores, plus a cinema, food court & restaurants.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOFx32BceYe2PN8owS_GrgLeSjBkSDs4N8AUwRXFVRl50Q0DS8siUW_C71R4WSsVh-VyorMpTyx7hZbsqaxj2fVSnzo1aRMKGon1rVUTLYIp4oTmhA8avxWG9lpn8cWz6e41NMbBQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5IBLknicHcTRToMwFADQL2K0jG3VxAfYMmIc6CgU58vCmkqdpbf24mD7Qz_BvzHxPJzfHz0MDu_D0Oj5rAPojPpG5SXYQdlhJqEPO98iBhLDZH1xpn_eTvMoleqgopeCwciPme92ip_TT77BuGBJPZavW1GaBdmTDWf4UTfH9YqWccNR6EBcweeuuk4r_XbCr3Y6R--C2xvQtsyfMrDUi7raHR5dDFWvE9Zepia7M84y2dyWKqZFfkr3DyMlhAT6fxnYPyl5Rd0"
+    },
+    {
+      "position": 12,
+      "title": "The Mall Crossing",
+      "place_id": "ChIJIzrlzNMFdkgRQsLWseYchUc",
+      "data_id": "0x487605d3cce53a23:0x47851ce6b1d6c242",
+      "data_cid": "5153557125747098178",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487605d3cce53a23%3A0x47851ce6b1d6c242&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487605d3cce53a23%3A0x47851ce6b1d6c242&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.503723099999995,
+        "longitude": -0.13633099999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIzrlzNMFdkgRQsLWseYchUc",
+      "provider_id": "/g/11fjz9rxl2",
+      "rating": 4.7,
+      "reviews": 58,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "address": "Marlborough Rd, London, SW1A 1BG, United Kingdom",
+      "country": "United Kingdom",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPfxnCroT74H3-1xxGiodd4WzVBfaK14RWJezmBbc4YGfT9edZu0L3ufkmN0nwCUl4NvzGalcSOISxkPK0GbF1ywndLyKbJHwA753srkuNHt2n2rVtQriso7sUdVWpeyoaapVsU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/6xPrLnicHcRLDoIwFADAEyFFaogmLpREUAx-geiutAUMpSV9RT4X9AzexsRZzPdTGdPCyrZF5c5KpUrBO-CaKmm4NDOqGrvUBMCiYG_8dyuaczFIX6u7h0PXcoYheCnGcDal24JEDr5mBz4125ziR1Dcl5w9O3R0u6JuYiR7PxE4fk8BEfR22t-G-hyhIN85Yy_ZcYzyQ9hvvIULuu7i0MzlXKfmol-gPEhYmrV8VIS0KSTr3kEIWdV_askf-IRGyg"
+    },
+    {
+      "position": 13,
+      "title": "Luxury 2BR Flat, Balcony, by Battersea Park & Mall",
+      "place_id": "ChIJ82v3xwQFdkgRp3tLkYKrMLU",
+      "data_id": "0x48760504c7f76bf3:0xb530ab82914b7ba7",
+      "data_cid": "13056123897018809255",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48760504c7f76bf3%3A0xb530ab82914b7ba7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48760504c7f76bf3%3A0xb530ab82914b7ba7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.482681299999996,
+        "longitude": -0.1481645
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ82v3xwQFdkgRp3tLkYKrMLU",
+      "provider_id": "/g/11zz7bj76h",
+      "type": "Lodging",
+      "types": [
+        "Lodging",
+        "Vacation rental"
+      ],
+      "address": "Nine Elms, London, SW11 4NJ, United Kingdom",
+      "country": "United Kingdom",
+      "website": "https://www.booking.com/hotel/gb/luxury-2br-flat-balcony-by-battersea-park-amp-mall.en-gb.html?aid=2068758&utm_source=seogooglelocal&utm_medium=description&utm_term=hotel-16259921&utm_campaign=en-gb&label=seogooglelocal-link-imagesaow-hotel-16259921_grp-1_gendate-20261003"
+    },
+    {
+      "position": 14,
+      "title": "Beautiful flat on Trafalgar Square, Balcony overlooking the Pall Mall",
+      "place_id": "ChIJFXQWK84EdkgRxAQAnb1IWSo",
+      "data_id": "0x487604ce2b167415:0x2a5948bd9d0004c4",
+      "data_cid": "3051550201740264644",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604ce2b167415%3A0x2a5948bd9d0004c4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604ce2b167415%3A0x2a5948bd9d0004c4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5071411,
+        "longitude": -0.128916
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJFXQWK84EdkgRxAQAnb1IWSo",
+      "provider_id": "/g/11zy2l5hf1",
+      "type": "Lodging",
+      "types": [
+        "Lodging",
+        "Vacation rental"
+      ],
+      "address": "London, SW1A 2BB, United Kingdom",
+      "country": "United Kingdom",
+      "website": "https://www.decolar.com/hoteis/h-5496434"
+    },
+    {
+      "position": 15,
+      "title": "Cabot Place",
+      "place_id": "ChIJIW6rDH8DdkgRgBLm6xQyJXI",
+      "data_id": "0x4876037f0cab6e21:0x72253214ebe61280",
+      "data_cid": "8225035359900537472",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876037f0cab6e21%3A0x72253214ebe61280&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876037f0cab6e21%3A0x72253214ebe61280&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.504935499999995,
+        "longitude": -0.0217048
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJIW6rDH8DdkgRgBLm6xQyJXI",
+      "provider_id": "/g/11j26_bj21",
+      "rating": 4.5,
+      "reviews": 232,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Canary Wharf Station, Canary Wharf Estate, London, E14, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "11 AM–3:30 PM",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNMN_23NmShflYupB6mvUW28HUPMp2dI30eIBTfMWGzJVgyaXBqIrjo159W52w4f3e21kGjGuC6Mb24AhyobcMJ5peLKUNWdKy11dtMPtIG2cNMltbUC3ozWfRJIy9XPDA1rQLTyw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/siUxJXicHcRRboIwAADQEyG0FTNN9gGYYNE2bBPrvhYphcYVWmmR1BvuCLuNie_j_f9J54zdhKGSaNFp3SkxWTFyPTgxuAXXfdiNF2sDbsMkuxvVU0J_IKL9l2zV92TSVX-vGHzbVSUxsMEoEjg9toTlj-LU-cs5veHxqkG8ZjGcly0SEPzm13zKVqSGy0R6XXNSxEYc9hVlzd4D0DhSOpxDTolydZUh_WDtZ4H9-lxuEzB-HI5-fp9BFEWBfM2D4QnLukSl"
+    },
+    {
+      "position": 16,
+      "title": "Battersea Power Station",
+      "place_id": "ChIJ4Z9Tf_0EdkgRXVFCTtu_oJY",
+      "data_id": "0x487604fd7f539fe1:0x96a0bfdb4e42515d",
+      "data_cid": "10853886050594607453",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604fd7f539fe1%3A0x96a0bfdb4e42515d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604fd7f539fe1%3A0x96a0bfdb4e42515d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.482020299999995,
+        "longitude": -0.1444907
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4Z9Tf_0EdkgRXVFCTtu_oJY",
+      "provider_id": "/m/0xsq6",
+      "rating": 4.6,
+      "reviews": 31855,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Bar",
+        "Cultural landmark",
+        "Food court",
+        "Ice skating rink",
+        "Indoor playground",
+        "Padel court",
+        "Restaurant",
+        "Historical landmark",
+        "Tourist attraction"
+      ],
+      "address": "Circus Rd W, Nine Elms, London, SW11 8DD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "12–6 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM"
+      },
+      "website": "https://batterseapowerstation.co.uk/?utm_source=gbp&utm_medium=organic&utm_campaign=google_business_profile",
+      "description": "Iconic power plant-turned-shopping mall. Repurposed riverside Victorian power station featuring luxury shops, dining & entertainment.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO-fzxqJIxajTGtj_JGaEDHIM1osECf3ImZqbEDYpU5D_fWC-RJx3oUb0I3nmGUnalk8lo2NJ_i5BD1aNccXdetZlwj3W2gIZNXmt3YD3lklylGyIpf-rYoLsocg6O7Q9ExkUQ64g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/NNJH-HicHcTRToMwFADQL-qAVVCX-KCUsBJl2SLZ4IV0FcrgtpfR6ph_6Cfsb0x2Hs7tr3NutCvPg44uFKKC5ts2k0TjGuMWErWnJmEtkdZ7jX9G0BvS_s7njM-i_0xdX2epSNiafwRok7ilXFfnY8LKsQhZ3e5jsstmisXR59TotDAChifAZZ7Vp_CNBSKX8vDVuAouPd0vFa_yg3a0ZBQGuEJ65WNLphLfLUoVbR63z8k8FNvoQb1cAt_3SXdfEvMPXFdGIw"
+    },
+    {
+      "position": 17,
+      "title": "Admiralty Arch",
+      "place_id": "ChIJj1QIeuMbdkgRDQOA_nJMLIw",
+      "data_id": "0x48761be37a08548f:0x8c2c4c72fe80030d",
+      "data_cid": "10100532121064964877",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761be37a08548f%3A0x8c2c4c72fe80030d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761be37a08548f%3A0x8c2c4c72fe80030d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5067898,
+        "longitude": -0.1286584
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj1QIeuMbdkgRDQOA_nJMLIw",
+      "provider_id": "/m/01h_y1",
+      "rating": 4.5,
+      "reviews": 1087,
+      "type": "Historical place",
+      "types": [
+        "Historical place",
+        "Historical landmark",
+        "Tourist attraction"
+      ],
+      "address": "The Mall, London, SW1A 2WH, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open now",
+      "website": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/monuments",
+      "description": "Landmark Edwardian building & archway. Edwardian landmark building, formerly government offices, featuring archway entrance to the Mall.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNIcyT824v2jQ36LAGep1NyfMMRs8ksvIxYFRzX8-b-fDOX5Ov1TuTlIJSS0BJ_mgape8Yy3W4tudbMxEfqZvAp5TqCvXCPZbHAX4a36iIYtvl_Ik9zf4aE0V5SE_PlrM5a3DNWpw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2I3w8nicHcRLjoIwAADQE1WKBYMmLhAZrRH8QEZwQ0qngFqg0lLFG3oEb2Myb_E-70opIWeGwSs0Ktu25KyXrKNto1ijRrStjbIjUgIqDdfTgtchpkPsjC09vh7QZOuumDDDoQiCo3RuUuNn-nN8JQ7IQbHcJfZOm3Efc7yJIrjYZHVJBHPSAZ0s1f_lwdMv7mftCju-ezrx9ud87SYWQZMLTpXmGb5NX4VFfPhrR362511gE7QMT-Ixf5gQQlD9T0HzBf72RT4"
+    },
+    {
+      "position": 18,
+      "title": "Dubai Mall",
+      "place_id": "ChIJOY6pLwAbdkgR_M6w05_mDq8",
+      "data_id": "0x48761b002fa98e39:0xaf0ee69fd3b0cefc",
+      "data_cid": "12614273180437106428",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b002fa98e39%3A0xaf0ee69fd3b0cefc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b002fa98e39%3A0xaf0ee69fd3b0cefc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5229643,
+        "longitude": -0.1740551
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOY6pLwAbdkgR_M6w05_mDq8",
+      "provider_id": "/g/11mzq6z3k1",
+      "rating": 4.2,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "432 Edgware Rd, London, W2 1EG, United Kingdom",
+      "country": "United Kingdom",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WPpZRSYnpS2JP9e3GiFdGw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=68.61462&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GBCnJ3icHc3BDcIgFADQbbgJtJqmNSHebOKpsQejF4P0Cz-hQACLjuNYbqNxgfc-b5NzSFvGUo4AeUEoAZ9g0ypIqr3XFmTARJWf2VKxbB7zzUm0uyCdx0mchnA5jmcXxvowdLDucT_1hajbVVkEl0UCGZWhuvzE6Ceqo0yJFNFyYkRXk5csomlpU22amgTMyghO_s3dL6Li_Au1YjoF"
+    },
+    {
+      "position": 19,
+      "title": "48 Pall Mall",
+      "place_id": "ChIJq6jhP9cEdkgRK-PM8xQtoxs",
+      "data_id": "0x487604d73fe1a8ab:0x1ba32d14f3cce32b",
+      "data_cid": "1991485028240778027",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604d73fe1a8ab%3A0x1ba32d14f3cce32b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604d73fe1a8ab%3A0x1ba32d14f3cce32b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.506110899999996,
+        "longitude": -0.1361204
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6jhP9cEdkgRK-PM8xQtoxs",
+      "provider_id": "/g/11cs3267kq",
+      "rating": 5,
+      "reviews": 4,
+      "type": "Office space rental agency",
+      "types": [
+        "Office space rental agency"
+      ],
+      "address": "48-49 Pall Mall, Greater, London SW1Y 5JG, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open now",
+      "phone": "+44 20 3437 3301",
+      "website": "http://www.48pallmall.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPzKCHB_Z6LGEcVpN7D-bNh97St6HvcOJ2sxSby9owEyO3GdcLrZHaK-dRiF6_JcOhGYbXgmxiZtBVk8LqzHvVcFOBGpnxZZaSNd7Dm90XaUGNLqdbIDNMHvEEMXb32a2Prj7wS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p8UCH3icHcRRboIwGADgE1UYJCBLfBiCrYrFSEawL6b9IdQNKNIO0At6Bm-zxO_hez2lMb3-tKxGuotaqbqp_nQ1gOpM1ZkFqNaqB641Am19rce-aY-P_ZqEF-YlOIa8p36EBJWBnxmPjJDuHD1n4h6oKb6nLi4hGRjhe1SerhvvsoNU4rMo6na-MhPmv8vk9iBjDps0xH03M8YzWvpRG9gF_8Y0uZViG9EDGeP4UAjX4c5x-PGnbDV92LaN5HtA3T-KbUS8"
+    },
+    {
+      "position": 20,
+      "title": "Stratford westfield mall",
+      "place_id": "ChIJMR9-cAAddkgRkQme8jcAvaM",
+      "data_id": "0x48761d00707e1f31:0xa3bd0037f29e0991",
+      "data_cid": "11798586839074212241",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d00707e1f31%3A0xa3bd0037f29e0991&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d00707e1f31%3A0xa3bd0037f29e0991&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.544094,
+        "longitude": -0.008256
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMR9-cAAddkgRkQme8jcAvaM",
+      "provider_id": "/g/11yz7xzkm0",
+      "rating": 4.6,
+      "reviews": 100,
+      "unclaimed_listing": true,
+      "type": "Tourist attraction",
+      "types": [
+        "Tourist attraction"
+      ],
+      "address": "The Arcade, Westfield stratford city, 9 Westfield Ave, London E20 1EH, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "12–6 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM"
+      },
+      "phone": "+44 20 8221 7300",
+      "website": "https://www.westfield.com/en/united-kingdom/stratfordcity/opening-hours",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPZLIipuGFuURnqMX3zk1Udb4PTtJRl14uhOu4AWZT4FHP_R58t47BrfXI8KRgx5Vok2dm3FObSz7r12O83irSES8S2E6gr4gG1oEdc52Q3gM8ary6ECs7EWVam7bgZdJKH3UNxBIQDNDB5=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g6ExsHicHcTbboIwAADQL0IoLdIs2YNoUWQKgqjhxUDBYriU9eKFn9zz_mbJzsP5_WmUGuWHaXYNnDHOWVdrWQvKB1UPakZ5bzJRSGlQaS6Wj7Hr4_wruI967essGb53Fzi1IKtKFB_VNukA0k2k0eKcH5G_ia-JgxVyPXG7BDhM2Ms58daueuhHZTq5AtgRhneRkhSnNpkzgdgacFJRxz5AtsOFeM_JUrrkfCp6t2R5tQ03MNu_vOCw2q885_MJLMsymv-pMfwBZZhFXg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4051.5055334%2C-0.0914069%2C14z&q=mall&start=20&type=search"
+  }
+}

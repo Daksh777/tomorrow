@@ -1,0 +1,912 @@
+{
+  "search_metadata": {
+    "id": "6ac63bd95604333b4525d10e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/k4bu9LRneIdfqHbzmZ_I2qj26WN0nkdn4kxxqWW2HaI/6ac63bd95604333b4525d10e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/k4bu9LRneIdfqHbzmZ_I2qj26WN0nkdn4kxxqWW2HaI/6ac63bd95604333b4525d10e.md",
+    "created_at": "2026-10-07 12:32:25 UTC",
+    "processed_at": "2026-10-07 12:32:25 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/college/@51.5055334,-0.0914069,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/k4bu9LRneIdfqHbzmZ_I2qj26WN0nkdn4kxxqWW2HaI/6ac63bd95604333b4525d10e.html",
+    "prettify_html_file": "https://serpapi.com/searches/k4bu9LRneIdfqHbzmZ_I2qj26WN0nkdn4kxxqWW2HaI/6ac63bd95604333b4525d10e.prettify",
+    "total_time_taken": 1.34
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "college",
+    "ll": "@51.5055334,-0.0914069,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "college"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Southwark College",
+      "place_id": "ChIJ5X72tLoEdkgRLDjhg_eCi-I",
+      "data_id": "0x487604bab4f67ee5:0xe28b82f783e1382c",
+      "data_cid": "16324285273915602988",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604bab4f67ee5%3A0xe28b82f783e1382c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604bab4f67ee5%3A0xe28b82f783e1382c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5032352,
+        "longitude": -0.1058678
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5X72tLoEdkgRLDjhg_eCi-I",
+      "provider_id": "/m/094lh0",
+      "rating": 4.1,
+      "reviews": 167,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "25 The Cut, London, SE1 8DF, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 4 PM",
+      "hours": "Open · Closes 4 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–4 PM",
+        "thursday": "9 AM–4 PM",
+        "friday": "9 AM–4 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–4 PM",
+        "tuesday": "9 AM–4 PM"
+      },
+      "phone": "+44 20 3757 4000",
+      "website": "http://www.southwark.ac.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnIcCRzDdokp68yJTFVk9UWaqT-qnGhmdU7pRP3Sb1H3Kn1BDIa6FTASoIBWov657pyx58LOqU2YHVVUMQE5dnNEtBWjcoPdz4Zb4iz5mSRvFWN4gnXsxFlFt7Y3wQvLIFgk6lwdQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/--5dFXicHcRLcoIwAADQE0Wg_KwzLkSJ4Jd_xJ0mTGiBJJgIyg17hN6mM32L9_tTKyXkQtPa2pxRzmlbPWX1wJypiqkZ5p1GhQRYAqmtgiTKEAvxOpk2hDfCmb93GSyazxzd-gz0bFt3JHdFEpnp3QjMPTO8TXhzYLZKeeghPji2K94ve3449_lHGRRFfox9m7CTrzz0jXlEJut6t74mu0uTAaKTRdlFvmALlVuaYzwcQkgbpx1JvBwNXddB_T8G7A-yQ0T-"
+    },
+    {
+      "position": 2,
+      "title": "The City College",
+      "place_id": "ChIJ6zDWJaQcdkgR5PCSzCGNcSY",
+      "data_id": "0x48761ca425d630eb:0x26718d21cc92f0e4",
+      "data_cid": "2770150422115184868",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ca425d630eb%3A0x26718d21cc92f0e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ca425d630eb%3A0x26718d21cc92f0e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5285952,
+        "longitude": -0.08777539999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6zDWJaQcdkgR5PCSzCGNcSY",
+      "provider_id": "/g/1tfssck5",
+      "rating": 4.9,
+      "reviews": 38,
+      "type": "College",
+      "types": [
+        "College",
+        "University"
+      ],
+      "address": "55 East Rd, London, N1 6AH, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–6 PM",
+        "thursday": "8 AM–6 PM",
+        "friday": "8 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8 AM–6 PM",
+        "tuesday": "8 AM–6 PM"
+      },
+      "phone": "+44 20 7253 1133",
+      "website": "https://citycollege.ac.uk/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkW1Q_HN8L3BFcvfBhcx9jNfq1AmNlnvorWARHbMl8eOuQc2BE88T3b-O9l4B6eE6KCJr9aeXtIgA0CWDmpN_PjFUokme41gxF6Myx1jFZ1sTPVp1EsDYQOj9l0cOo2Nes8TPnIkA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jQDtu3icHcRdDoIgAADgE5GQzWFbD2g6-0NtltVLK0Y4RTChsiN2hG7T1vfwfT-VtZ2ZOo6s3JHQWkj-MLxnWlmu7Ijp1hGdAcwA45BkmxVlU6L8nFC8doOYPW9BxQa_prc7Ii2V6qn7kmyT60Zinj5yNg4ijAv3ClJfTgKPR94qXPb-hR_sQhAYlvO2o-esjne6afkEiSH2Nu8B1fEJmSLbdygy82Oe1r6ELNVjyg0uMrVoyOyFIISg-s-A-gFu6UPk"
+    },
+    {
+      "position": 3,
+      "title": "University College London",
+      "place_id": "ChIJeTUXaS8bdkgRPhPMrn_GCNA",
+      "data_id": "0x48761b2f69173579:0xd008c67faecc133e",
+      "data_cid": "14990449611398452030",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b2f69173579%3A0xd008c67faecc133e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b2f69173579%3A0xd008c67faecc133e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5245592,
+        "longitude": -0.1340401
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeTUXaS8bdkgRPhPMrn_GCNA",
+      "provider_id": "/m/0dplh",
+      "rating": 4.5,
+      "reviews": 1870,
+      "type": "University",
+      "types": [
+        "University"
+      ],
+      "address": "Gower St, London, WC1E 6BT, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7679 2000",
+      "website": "https://www.ucl.ac.uk/",
+      "description": "Campus-based academic institution. Multi-disciplinary research and teaching institution, founded in 1826, with 28 Nobel laureates.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmL1sHtuvx4ie59DNvvqAQDCeSRTR5M3gnuk7YDtesMNMXDnbDZRFM6a_T1VP2VpEz3Q6nSVXAN-cSjtDNXQ6zTg4e1BfunE8Jskga859vVmfpoZEUJxLvNJAxi8bvr-fKm8lAx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3T6YKnicHcRdDoIgAADgE5GaadbWA4WtWTL_MuulFUOsFEyQXBfsDN2mre_h-34qpVo5N4y6skdMCFbTXtKOCK4oVyMiGoO1EhAJpAE3SZQdmp0lN6rXw-RGnRnCWj9hjFY0TbLECW3G-8f0iBSVIQ4LxK_olKxD93LOrDwa563_tmOXp3kBMSDpXSFcxO47YxNqLcue-14gH-ziOTOdN2UrTv4-GHYaB3C4eVfdgXLbeDUcFi_LNE1Q_SeA_wBNSkSa"
+    },
+    {
+      "position": 4,
+      "title": "The College Of Central London",
+      "place_id": "ChIJAWELl8scdkgRo6yzRTXipgQ",
+      "data_id": "0x48761ccb970b6101:0x4a6e23545b3aca3",
+      "data_cid": "335203940716227747",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ccb970b6101%3A0x4a6e23545b3aca3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ccb970b6101%3A0x4a6e23545b3aca3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.508846399999996,
+        "longitude": -0.06931899999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAWELl8scdkgRo6yzRTXipgQ",
+      "provider_id": "/g/12j86gtt3",
+      "rating": 4.9,
+      "reviews": 55,
+      "type": "Private college",
+      "types": [
+        "Private college",
+        "Educational institution"
+      ],
+      "address": "46-48 E Smithfield, London, E1W 1AW, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM",
+        "tuesday": "9 AM–6 PM"
+      },
+      "phone": "+44 20 3667 7607",
+      "website": "http://www.central-college.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXiq-Z8d7N_tMsBgZ4yucfawPzSDpShKhR4t4oc2H5dgEQ0vLsAYvxHxKKSGeU8aQIKqVwiuLhACUQVDzeAQDZfDcRquXYgVUfc_ZOtkcioA17UQ4vAfumW81hhzf_-TWnxt6M=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5DvymXicHcRNjoIwGADQE1VAUYnJLKoYMahjQUDZEPPZH6JSsC0gF5wzeJtJfIv3-RNa12phWQ8xGXEp-YMaRV8gK00rPQL5tHitECikLBxEx1N2P5cNyr3b_FDovVry3H0bYNfuOMR-HYtQRK52JYyD6Y2vid3uFL60fdCHYbyhiXcl27BJu9LsBF4lJPUHiomfMx-ixpwvPE0YFPmvvkMpsTNPiNtiZp6Z5wgxsAKdsqrXs_1P59i2jcR3QNU_zmpF-g"
+    },
+    {
+      "position": 5,
+      "title": "New City College - Hackney Campus",
+      "place_id": "ChIJSVbDibscdkgRfUM91x4gM78",
+      "data_id": "0x48761cbb89c35649:0xbf33201ed73d437d",
+      "data_cid": "13777391001888703357",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cbb89c35649%3A0xbf33201ed73d437d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cbb89c35649%3A0xbf33201ed73d437d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5306292,
+        "longitude": -0.07883949999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSVbDibscdkgRfUM91x4gM78",
+      "provider_id": "/m/01dzmr",
+      "rating": 3.7,
+      "reviews": 214,
+      "type": "College",
+      "types": [
+        "College",
+        "Adult education school"
+      ],
+      "address": "Falkirk St, London, N1 6HQ, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 330 135 9000",
+      "website": "https://www.ncclondon.ac.uk/hackney-campus?utm_source=gmb&utm_medium=organic&utm_campaign=GMB",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk6OvkrMnp-JC0UADBvew7jvSnGfa_QtfsWILCCgN0nhAegoz3DPNxeCXtIMS7tj-vin1ef3L7uHFJwuF4Tphi3X3UrYnWx_y_TmCFlErp3ozt0p1GHDqGqkepQu4VuWoooGNDX3Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KLZW_3icHcRRDoIgGADgE5E4Wm5tPRim1sqyLO3JNYdQGj8JaHXDjtBt2voevu9HGKP01HFaQUYcgLfMatZVIA2TZlTB3eFKo0oj7fjxfpflzWTbN91GKrSi-OgH854N3q0_yKi-lKmpdb5cU8oTLIXPOLxJsEuejBZmuTl45ob6q3RZTdaejcPVYMNxpsSVFOTYnWX-LF9ldqdhu-gUgbfByo3i4BE9GqZSOz7ZHACiJChIOhtcjDES_yskf0kKRoc"
+    },
+    {
+      "position": 6,
+      "title": "Capital City College Westminster centre (formerly Westminster Kingsway College - Victoria Centre)",
+      "place_id": "ChIJc1zBCN4EdkgRjkXFnXrLeLw",
+      "data_id": "0x487604de08c15c73:0xbc78cb7a9dc5458e",
+      "data_cid": "13580828403829130638",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604de08c15c73%3A0xbc78cb7a9dc5458e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604de08c15c73%3A0xbc78cb7a9dc5458e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4946935,
+        "longitude": -0.1352224
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc1zBCN4EdkgRjkXFnXrLeLw",
+      "provider_id": "/m/0cy1p3y",
+      "rating": 4.3,
+      "reviews": 117,
+      "type": "College",
+      "types": [
+        "College",
+        "Training provider"
+      ],
+      "address": "76 Vincent Square, London, SW1P 2PD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 7832 5000",
+      "website": "https://www.capitalccg.ac.uk/centres/westminster?utm_source=google&utm_medium=organic&utm_campaign=westminster_location_gmb&utm_id=website",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnSJjoJu7zr0VnXEp21V3xU9QeQsYgX7vVeGQPpcnHWJLbyHAjJlq4iOvPUI4PgJjsc5B0Ag20MTYKvT2Rx-zdATRn683IvJ_Vykdg3xoMSG4ajuQhNjFEVeHlL86k-8934A9BNEw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/7I7Gd3icHcRdDoIgAADgE5EkVtrWA22W0Z-akj61IoaRgYWadcOO0G3a-h6-76eo68qMLassUE9oLUreGP5gWtVc1T2mb5aoDGAGGAsHcZjs1Y5ITZrR-wGpyvzK7lPUpV7EI5OLbNRSPo_CiqlgT1anV4AlKe_OZduG6cIJBZGGDaYQCxuuk3zZJnbcgfcZJ7EaumjRkgN9Xc8CdXq9mztH2UTFRs58yoNy5Q6vwPWQg73pxn9Onn0IISj-M6B-1HpEIw"
+    },
+    {
+      "position": 7,
+      "title": "King's College London",
+      "place_id": "ChIJ3VW0o7UEdkgRjZLQfvs-ZLA",
+      "data_id": "0x487604b5a3b455dd:0xb0643efb7ed0928d",
+      "data_cid": "12710353298231693965",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604b5a3b455dd%3A0xb0643efb7ed0928d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604b5a3b455dd%3A0xb0643efb7ed0928d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.511486399999995,
+        "longitude": -0.11599699999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3VW0o7UEdkgRjZLQfvs-ZLA",
+      "provider_id": "/m/014xf6",
+      "rating": 4.2,
+      "reviews": 1058,
+      "type": "College",
+      "types": [
+        "College",
+        "University",
+        "Higher education"
+      ],
+      "address": "Strand, London, WC2R 2LS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 7836 5454",
+      "website": "https://www.kcl.ac.uk/",
+      "description": "Elegant Thames-side university campus. Architecturally significant university, built in 1831 and housing the school of Arts and Humanities.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5FtTew5_gHJaXjneuXKZaCKtBi7gz6RVD3QzunqvZRcGL4kWos37NDJbenRfPl04wYZcEMuPqTRvRD4kadLsRLuzFbJAu88zuWSK4X8JR5d-UTaKG5jX6X2b6mE6DKQmktkUdwA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bDq7-3icHcRdDoIgAADgE5GWP7m2HiytJtaMLMmXpkhYKlRAbt6wI3Sbtr6H7_uplXrImWG0tTViQrCWaklfRHBFuRoR0RnsIQGRQBr-BiVp1jorldLeubBNVOA7pxrDvFhCtbhN2eCiU2DtB82f7xyRdWw3mZDWdBdEJeXomrSm3Z9zEm518kzRGwV2U1SxRLEeVmXka88bdHaANvYi5FTgmBZw7dyxiyel24VuAPddo5pj1fvzfmyaJqj_E8B_KxpFbw"
+    },
+    {
+      "position": 8,
+      "title": "King's College London",
+      "place_id": "ChIJl4WB6l4DdkgR5FdWW_gnyas",
+      "data_id": "0x4876035eea818597:0xabc927f85b5657e4",
+      "data_cid": "12378468998442276836",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876035eea818597%3A0xabc927f85b5657e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876035eea818597%3A0xabc927f85b5657e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5038584,
+        "longitude": -0.0894297
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl4WB6l4DdkgR5FdWW_gnyas",
+      "provider_id": "/g/1tk_nrk6",
+      "rating": 4.4,
+      "reviews": 41,
+      "unclaimed_listing": true,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Newcomen St, London, SE1 1UL, United Kingdom",
+      "country": "United Kingdom",
+      "website": "https://www.kcl.ac.uk/study/home",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkW4CiUBCr6-TUo-9kGnNVDVo271XMq4s5r2ruRYWh4RTvvh9hsvKE8XJGK3R-JKTv7wwnS_YmFLP1fHD1fWvYU4cCfO_g5VZqnBs1C6Em9fK9UoyK6P7ehhCZF9CuMRRzNdBYC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/nMOIoXicHcRJDoIwAADAFxWoslgTD1JEY11IZREvHipQA7RKoUQ_6Bv8jYlzmO-H9_1DzU2z4VOjkrJqikEVHZOiL0RvMNma1UMBpoAylxsaxVmd2fie-LhzQZxIgOq1OKRBKicePO-ftnK6STfQPOM2jbXmiCtNVrPzdk2mFGxJrL1xFKdr3oa7CJabAJaZzhOb4fJ4rZz08hS-gthdtagkKJEv4kZewTm-hAgPe0rfh5uf48UILcsC_D8D4gfEZEL2"
+    },
+    {
+      "position": 9,
+      "title": "City St George's, University of London College Building",
+      "place_id": "ChIJV65TwlobdkgRCSC_4vcNrHs",
+      "data_id": "0x48761b5ac253ae57:0x7bac0df7e2bf2009",
+      "data_cid": "8911513120971628553",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b5ac253ae57%3A0x7bac0df7e2bf2009&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b5ac253ae57%3A0x7bac0df7e2bf2009&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5272742,
+        "longitude": -0.10420309999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV65TwlobdkgRCSC_4vcNrHs",
+      "provider_id": "/g/11b6q90ldh",
+      "rating": 4.5,
+      "reviews": 51,
+      "unclaimed_listing": true,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "City, University of, 280 St John St, Greater, London EC1V 4PB, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7040 5060",
+      "website": "http://www.city.ac.uk/visit/campuses/northampton-square/college-building",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5TYjeqigzXioD9Xr4QTgwL_kQIaY4VkpT5Q2FlAcq1kkW8lPczjbt2-eWFWwd5bf7pgpUmDAQNvHhFUJ0eduWSIwe0-DGB0GwMUIgOusEnwTx-11NuQ9lZIntcIYARsdpk-7f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YuyP1XicHcRRbsIgAADQE2Gpa-Ncso8utZVlc-LoaP0xliJVEGihY_GCnmG3WbL38X7vvffWPUWR6h9mwhih-OT4yIz2XPsZM9dIWAeYAy7K1rstoTIlzYUPZ3GrzyZf1mOCiQhvB4nRsUm-pCUpnhcqY0MsJX1UW3a7tH4OOC1o6NL2tLDCVtc8w5vvdV9Ur5B3E_1EgUOQly-wDO8VEh-TW-lAfkAcbya8VHukPUNNtnOdlWBxeg4xhBD0_zOg_wCsY0Um"
+    },
+    {
+      "position": 10,
+      "title": "Capital City College King's Cross Centre",
+      "place_id": "ChIJUfwr9fwadkgRUfcp3anIoMM",
+      "data_id": "0x48761afcf52bfc51:0xc3a0c8a9dd29f751",
+      "data_cid": "14096487465555195729",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761afcf52bfc51%3A0xc3a0c8a9dd29f751&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761afcf52bfc51%3A0xc3a0c8a9dd29f751&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.526947,
+        "longitude": -0.11865279999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUfwr9fwadkgRUfcp3anIoMM",
+      "provider_id": "/m/026pw38",
+      "rating": 3.5,
+      "reviews": 182,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "211 Gray's Inn Rd, London, WC1X 8RA, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–9 PM",
+        "thursday": "7:30 AM–9 PM",
+        "friday": "7:30 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "7:30 AM–9 PM",
+        "tuesday": "7:30 AM–9 PM"
+      },
+      "phone": "+44 20 7832 5000",
+      "website": "https://www.capitalccg.ac.uk/centres/kings-cross?utm_source=google&utm_medium=organic&utm_campaign=kx_location_gmb&utm_id=website",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn6HYV89xaxlByqp4lBP-DBJ309YD3vFEVblEoOCQnqvu24fT-TMYsfQV_UdNJSJuL4drP_KwZahCsZoR-sw2ee8h_q0AXqJSA6aTSqFC0dMX9IkaFEcntCPhh_i5wPqDqFXbUf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LGtXMXicHcTbDoIgAADQLyIprWVbD15XdqM0016cIUqLQAKzvrBv6G_aOg_n-6Fat2pmGIyag0aIhpFOkQcWXBOuB1jcjaZVACugDGdxQMmJTxZ5OrVf5Yu5b9lazEXAdyMT2rlvPsMgvbBA7Lw9l89uZNUJSDa5qvdpcay2URx1a6t6oGLVn0vqqbM4ANWPCJnSQkInk1HsTMoklqEHq01mL29lGGCuPURpcR33SPoyzC7Het4PIYSA_seA_wAgEERY"
+    },
+    {
+      "position": 11,
+      "title": "Canary Wharf College",
+      "place_id": "ChIJtZkKMZcCdkgRsREwHDhSs5g",
+      "data_id": "0x48760297310a99b5:0x98b352381c3011b1",
+      "data_cid": "11003228715540812209",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48760297310a99b5%3A0x98b352381c3011b1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48760297310a99b5%3A0x98b352381c3011b1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4891854,
+        "longitude": -0.013650899999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtZkKMZcCdkgRsREwHDhSs5g",
+      "provider_id": "/g/1hhvmgtyp",
+      "rating": 3.1,
+      "reviews": 25,
+      "unclaimed_listing": true,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "197 E Ferry Rd, London, E14 3BA, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 4 PM",
+      "hours": "Open · Closes 4 PM",
+      "operating_hours": {
+        "wednesday": "8:30 AM–4 PM",
+        "thursday": "8:30 AM–4 PM",
+        "friday": "8:30 AM–4 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30 AM–4 PM",
+        "tuesday": "8:30 AM–4 PM"
+      },
+      "phone": "+44 20 7515 2328",
+      "website": "https://www.canarywharfcollege.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlXxQnZ77R2jPK4S8b3H0-AFrSiGmPU4uVp9408Pt_yoMMkKK0pl6d2Rqq0hO5hLvTBxCCosPTJU_yCaFEI9Tvxt1ELvF-WO24y5-2pXKJi-jMt82Iwd8WGxEYeCqYF8XPLIltzUA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Jzg-93icHcTvEoEwAADwJ1rNhHHnQ7oi1Zn-KL50pGuYtmxS3tAjeBt3fh9-3w9VSsiZrjM61CrOK1Y-ZfkoeK3KWmkFv-uVkKCQQOrmKiRxyrJuWx8mkxBdiWdE-DRcQWA6j-iyvJPEeO7E1ICYqLznQXDzPCjY-IzCpoF0M6J-Gy86y-KSxOsk762jY7vTuO3UwPZbB6QbZPQjgETmrS_gGiiM3NcZp8vO3pdWs3dwRnyXqXdizl8DCCGg_wtQ_wAzOENe"
+    },
+    {
+      "position": 12,
+      "title": "London College of Contemporary Arts (LCCA)",
+      "place_id": "ChIJk-EDrCwbdkgRnwO7bOhD-SM",
+      "data_id": "0x48761b2cac03e193:0x23f943e86cbb039f",
+      "data_cid": "2592177726064100255",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b2cac03e193%3A0x23f943e86cbb039f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b2cac03e193%3A0x23f943e86cbb039f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5098218,
+        "longitude": -0.07374929999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk-EDrCwbdkgRnwO7bOhD-SM",
+      "provider_id": "/g/1jkx84cxj",
+      "rating": 4.6,
+      "reviews": 685,
+      "type": "College",
+      "types": [
+        "College",
+        "Educational institution"
+      ],
+      "address": "Sceptre Court, 40 Tower Hill, London EC3N 4DX, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–8 PM",
+        "thursday": "9 AM–8 PM",
+        "friday": "9 AM–8 PM",
+        "saturday": "9 AM–6 PM",
+        "sunday": "9 AM–6 PM",
+        "monday": "9 AM–8 PM",
+        "tuesday": "9 AM–8 PM"
+      },
+      "phone": "+44 20 3535 1155",
+      "website": "https://www.lcca.ac.uk/clearing-2026/?utm_source=organic&utm_medium=gmb",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkTnCgRiPC1Tbmx366jQoyCJswdr7VNgDZ92ymL333rfmCfr5Juc4i76xU1kQdZ3d_1aOhMgqdtNjVSHNWlRiAUYPG94vpE9SRgLn-5RQtpj7s-iAjMc3ILk33s3TV-FwNg8JvzEFYcxui8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/J58dvXicHcTLjoIwFADQL6qAV0FMXBDGF0GEihjdTMaCpTxapEXQn3Tt35jMWZzPO1eqkXNNq3IYUSFolXUya4ngKuNqRESt0UYiIpHUnA0O41MZc5diFrpGfK0HMM0iEk_Xk33aWklAfy72-Fn7ANDeavfWTr2OTJhlDkejjNILpL_G3z7f0XuqgiI5bIJThZlzPIdre_JolvYBU5-jKY5UU1gSMafYEdj6JYCEOEGrPqAz7_Fars5k6Nhs0Ru6rqP8f4L4F3x1Rr4"
+    },
+    {
+      "position": 13,
+      "title": "New City College - Tower Hamlets Campus",
+      "place_id": "ChIJAX2otLYCdkgRyjLQEQJtVWk",
+      "data_id": "0x487602b6b4a87d01:0x69556d0211d032ca",
+      "data_cid": "7590092602659058378",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487602b6b4a87d01%3A0x69556d0211d032ca&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487602b6b4a87d01%3A0x69556d0211d032ca&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5087228,
+        "longitude": -0.0177385
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAX2otLYCdkgRyjLQEQJtVWk",
+      "provider_id": "/m/028z04",
+      "rating": 3.2,
+      "reviews": 181,
+      "type": "College",
+      "types": [
+        "College",
+        "Adult education school",
+        "Educational institution",
+        "Learning center",
+        "Teachers college",
+        "Training center",
+        "Training provider"
+      ],
+      "address": "Poplar High St, London, E14 0AF, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–9 PM"
+      },
+      "phone": "+44 330 135 9000",
+      "website": "https://www.ncclondon.ac.uk/tower-hamlets-campus?utm_source=gmb&utm_medium=organic&utm_campaign=GMB",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1QafUCyGBF-YCAz8oXvIwjZsySoVs38qRsmgyntv9HmK_fU_hIyAnKJ_5mO2WpsUr5cGyN7KdCYYepjeVoI2YSkZ-EDg1ZwIcbrvH6YGkIuZe_dg2fqXCIqJuerkRF2OkAXO-=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Z2dmU3icHcTdboIwGADQJ6r8GCcu2QVjAyrJUBSh3BCtpQSkBb4C6V5wz7C3MfFcnP-_Wqke3g3jUa9XXEr-YBOwkUqhmFArKjuD94AoIDDcMDmcM2Edr1Xq6eDTR8Rzfx2Zz3hpCtAneYG1MyTQcS3UvAu7qKzSssbaFdG-3HSxnfWQjhsa6J9tdPcIYX3DLhLb5NQW6PuLW8WC6W2cwzcStHgqWHnndjXkHh72ExvbxLfj1s1j9LFYpmmi-jVF4gngY0Xj"
+    },
+    {
+      "position": 14,
+      "title": "Morley College London - Waterloo Centre for Adult Education",
+      "place_id": "ChIJt5KnarwEdkgRlI9f6DAf-rY",
+      "data_id": "0x487604bc6aa792b7:0xb6fa1f30e85f8f94",
+      "data_cid": "13184885153998016404",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604bc6aa792b7%3A0xb6fa1f30e85f8f94&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604bc6aa792b7%3A0xb6fa1f30e85f8f94&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4980457,
+        "longitude": -0.1097722
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJt5KnarwEdkgRlI9f6DAf-rY",
+      "provider_id": "/m/07nzdt",
+      "rating": 4.1,
+      "reviews": 186,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "61 Westminster Bridge Rd, London, SE1 7HT, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–9 PM",
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–4 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM"
+      },
+      "phone": "+44 20 7450 1889",
+      "website": "http://www.morleycollege.ac.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnlbc7ADjN6Vue7HFpkAt39nywi2x0k2JgSCe5hY9tcB4t2Zxyw3Rl8w7HflqaiPsDfaQdmZppF5EPzQziJz8FceSjYz-6War7rWPSOWcN7btTSlaIdxQLfgYEg1kqYhQsErY8d=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bmk8LHicHcRRDoIgAADQE5GmGdbWh5XOXCvNlsM_QwQTkYSmecHO0G3aeh_v-2FaS7U2DM7sGe06yslLkR53QhOhZ7hrDSoVwAoowwsv8TUT_I6ht3-clrcXgWEgG0_bK_Eeams0Gyui6Y44DK003i60lY_vwb5wd4BhxZ9FHat9VSRlm0sZOH48JVMdTW6ASfpAE1hmRQ_7LE7PGT7Bu76mvDiUY3KsKPLpvHkilii_R265GeamaQL2HwPxA61cRew"
+    },
+    {
+      "position": 15,
+      "title": "South London College",
+      "place_id": "ChIJXdkJlaEFdkgRZOzaIQLOeqs",
+      "data_id": "0x487605a19509d95d:0xab7ace0221daec64",
+      "data_cid": "12356415036197629028",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487605a19509d95d%3A0xab7ace0221daec64&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487605a19509d95d%3A0xab7ace0221daec64&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.495988499999996,
+        "longitude": -0.1458768
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXdkJlaEFdkgRZOzaIQLOeqs",
+      "provider_id": "/g/11jmyw_974",
+      "rating": 4.3,
+      "reviews": 139,
+      "type": "Education center",
+      "types": [
+        "Education center",
+        "Adult education school",
+        "Training center"
+      ],
+      "address": "52 Grosvenor Gardens, London, SW1W 0AU, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM"
+      },
+      "phone": "+44 20 8126 0476",
+      "website": "https://southlondoncollege.org/?utm_source=GMB&utm_medium=organic",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlzedv448ZztPeeH1-PkmVQcaCMQSJXVIJ7aOPJzvL_bsRDlCxQHQ-rMBP0PR9zufgOFKdGUqH_rPsO1kW1T4ABaqDF1SiyLq-oze2x5Bp7ZcTDXRLEhRUUluW-CN7sL4l2cNoQCg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I0vDb3icHcRRboIwAADQE1Wow7At2YeAyBhKW0GMPwRrVxYKBVoY9oY7wm6zZO_j_f7UWvfq1bJE_bTiUnLBJsVGKjvNOr2isrV4rwBVQFnbiKCsEIbdZ8d5vhqNGIsgQE17xrTyD_gUX87vsVulKDZzUt4UCYS_4AiD8eAhG5EXM33yNPy47_MhKkekUtgUMHO2XjUEITx9PZIBSMPWy8br3SvNggtJdjXJczEVwD-6KnHEmh4l9vnbN7RtG9T_U9D9Ac9LRJQ"
+    },
+    {
+      "position": 16,
+      "title": "East London Community College",
+      "place_id": "ChIJfyYC5RcDdkgR0oKp6-7QRZk",
+      "data_id": "0x48760317e502267f:0x9945d0eeeba982d2",
+      "data_cid": "11044463385770558162",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48760317e502267f%3A0x9945d0eeeba982d2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48760317e502267f%3A0x9945d0eeeba982d2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5149453,
+        "longitude": -0.062257999999999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfyYC5RcDdkgR0oKp6-7QRZk",
+      "provider_id": "/g/11tdskzgrv",
+      "rating": 4.8,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Educational institution",
+      "types": [
+        "Educational institution"
+      ],
+      "address": "149 Commercial Rd, London, E1 1PX, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM",
+        "tuesday": "10 AM–5 PM"
+      },
+      "phone": "+44 20 3597 0031",
+      "website": "https://elccollege.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uWVocSNvSB9Fnz1xsvfs6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=1.8390486&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/z3pxG3icHc1LDsIgFADA27CTj5qmNSEmLly6aaJLQykCCeWRPgrV03gtb6PxAjOft8s54YExzLMxuXhTk19NwE1S1ALYYFTySDVMrAiW3TINUflwTCqCH-Vyu4LuL6U_def4EiuWBzaV6OGugzcxSzRq1o7a-hNnGKlNSKpsOXGy25KnqlLQdtfxfduQ5LN2kpP_8oAiBedfrs86Lg"
+    },
+    {
+      "position": 17,
+      "title": "Apex College (London and Leicester)",
+      "place_id": "ChIJr_bXS2YEdkgR-K7dEMQFboU",
+      "data_id": "0x487604664bd7f6af:0x856e05c410ddaef8",
+      "data_cid": "9614628594137280248",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604664bd7f6af%3A0x856e05c410ddaef8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604664bd7f6af%3A0x856e05c410ddaef8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.488717699999995,
+        "longitude": -0.0961519
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr_bXS2YEdkgR-K7dEMQFboU",
+      "provider_id": "/g/11bzsx9c4f",
+      "rating": 4.7,
+      "reviews": 27,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Third Floor, Manor House, 224-236 Walworth Rd, London SE17 1JE, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "Closed",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–5 PM",
+        "tuesday": "10 AM–5 PM"
+      },
+      "phone": "+44 20 7708 1888",
+      "website": "http://www.apexcollege.ac.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQJNZjTfvlRb8sCAWu-MbXUjTCsjqLhcfUp_oqM-Gs_t8GCJgGPE9VvrSWuUoj_yiyFmQOa1soWEanlfWF3GMjFOsGrgJX9QEw3Ww1E6eeqBe6JzICjX1UqOIiCLobo_A4SbF1Vw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cQMU2XicHcTRboIwFADQL6rQsBg12QNroJOIiIIleyHSlGJTucAtEveH-4T9zZKdh_P70zk34M7zbBesNIC2akY1Seid6t1KwsPTAxKJBL3w83wqhM2T45cp2qc9NxtkoZhJ2lSlKRia8dDJthxqGFPCsXYbzhLNT9H2-pwuYi7B1K_7K37k2Y0iiOjW21bEAU9NnCGfdFJt82gJxEKjtVLjh1on33tmKlqO2f7ODtBAHb5dmphel_eF-r5Puv8l6f8AbvhGPA"
+    },
+    {
+      "position": 18,
+      "title": "Aldgate College London",
+      "place_id": "ChIJv-VPerUcdkgR1NJmgmpwqs8",
+      "data_id": "0x48761cb57a4fe5bf:0xcfaa706a8266d2d4",
+      "data_cid": "14963896314648515284",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb57a4fe5bf%3A0xcfaa706a8266d2d4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb57a4fe5bf%3A0xcfaa706a8266d2d4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.514863899999995,
+        "longitude": -0.0694075
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv-VPerUcdkgR1NJmgmpwqs8",
+      "provider_id": "/g/1tgnwq70",
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "4th Floor, 38-40 Commercial Rd, London E1 1LN, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 6 PM",
+      "hours": "Open · Closes 6 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–6 PM",
+        "thursday": "9 AM–6 PM",
+        "friday": "9 AM–6 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–6 PM",
+        "tuesday": "9 AM–6 PM"
+      },
+      "phone": "+44 20 7375 1180",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmatuvppjpJBpocVYWX-bHvS-Lvww-7y1tKkH5qF26GdLiR2GEc1zvnoJLqNpICtgjKVUjWiwf5-ivPnULAmtJxTkTkgpgC_epVgdEn2ynQMpJP4dDpdn9BKKliRmd1p5b7edpv=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ewHLEnicHcRbEsEwFADQFUUflGHGh0eptkxVtXwZkkifySWRYoPWYDdmnI_z_eRKgRwZRp13O0wIVtOHpHcsuKJcdbBoDAYSYYmkMfHiKMmas3pogBL8KQicHrMDunh6h0LdtmjwslRQec5tYfeXJCxie-li66258MPbBlYzxcog3ZdZ0V4dVOiI78NJo_xnUiUVAzY7UUgZcbn94ts1-FGPzIHw4TQI6iJuiAXOZUAJ6HFrmaaJ8v8Y8R8XEka1"
+    },
+    {
+      "position": 19,
+      "title": "International College of London",
+      "place_id": "ChIJ40UvwpmewqgRpMnVGcH2wmk",
+      "data_id": "0xa8c29e99c22f45e3:0x69c2f6c119d5c9a4",
+      "data_cid": "7620924828686862756",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0xa8c29e99c22f45e3%3A0x69c2f6c119d5c9a4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0xa8c29e99c22f45e3%3A0x69c2f6c119d5c9a4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5172068,
+        "longitude": -0.12069049999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ40UvwpmewqgRpMnVGcH2wmk",
+      "provider_id": "/g/11sfs6tf9_",
+      "rating": 5,
+      "reviews": 3,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "125 Kingsway, London, WC2B 6NH, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 7728 385772",
+      "website": "http://www.iclstudy.org/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfjNUIAdPWrMsCu1PtFa532yDisKqWsT1cwqIyuYMeUiAIRrV-hFVT1CI0tqgRfx4RyXqq-myg0TaFAzqqaALLIkfNOhkBw_YFn65wcua1MePoYZet2j6sivYzuk61nk5kslB7Ng=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/b0kplXicHcRRboIwGADgE1VaFZaY7KFqyJoJEoIyfDGkKy0WW8vfjuENd4TdZsm-h-_3R3n_gE0UDWq1kNbKQQQQI7fGC-MX3N4j-QDEAUFE38qiqk13y0-Mfhb1mMEukMKnbbxazvse3l0NFeGTY3NoMnHqKSvHM1LpuSI7hr2TZfe9LucP59B9lrhqU_p0rqWHA9NdflR6O12b1CTxxENLMlHY5iL88pZA_9U8g06I0bGGYfuSy9eJYIyR-p8j8wdgmkbm"
+    },
+    {
+      "position": 20,
+      "title": "Mosaic Soho (Capital City College - Soho centre)",
+      "place_id": "ChIJuTRSfNMEdkgRBeV-dXkySvk",
+      "data_id": "0x487604d37c5234b9:0xf94a3279757ee505",
+      "data_cid": "17963225560964326661",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604d37c5234b9%3A0xf94a3279757ee505&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604d37c5234b9%3A0xf94a3279757ee505&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5127264,
+        "longitude": -0.1351094
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuTRSfNMEdkgRBeV-dXkySvk",
+      "provider_id": "/m/0cy1p48",
+      "rating": 4.1,
+      "reviews": 58,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Ingestre Pl, London, W1F 0HS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 7963 8500",
+      "website": "https://www.capitalccg.ac.uk/centres/soho?utm_source=google&utm_medium=organic&utm_campaign=soho_location_gmb&utm_id=website",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBgPCRI2VjIdtLcOiltUZSJP4KSY3ydv1GZEK2viHNuAX0BEqhDZWdYqHjhyNDWR1WoHfp2ce5o3mEkoOiYQFItUSeQubm8Z96rSdbyzQyuKBdc0zWWPJilFRR7bis00LwcEnP=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_mSZtnicHcRLEoIgAADQE5mo_WdaZFmaTSFWpEuBhFKwwBq7YGfoNs30Fu_74cY0emrbFfd6pVJlxVrNHkRJw6TpEVXbZaMtoi1tz0MED1j6JVygyD1dI2q2ZC8qc8zTDezHaeZ19Oms8yB2nyLctfMz8IM7X-aYZvfwyrvdEiMHq_DSuIQNlFcHN7UXWbKKzDFlSVvU43wyfKS06N5J18Y-JeCNMdyIaoXQqBAagO2LBBLOXg4AwOL_iSV_bAdFGg"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4051.5055334%2C-0.0914069%2C14z&q=college&start=20&type=search"
+  }
+}

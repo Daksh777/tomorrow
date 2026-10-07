@@ -1,0 +1,1265 @@
+{
+  "search_metadata": {
+    "id": "6ac63bd8477874ece57372a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/A3eJbJCac_FuEh1W1pj8owPY4e43CsVqSIgEJLelKes/6ac63bd8477874ece57372a1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/A3eJbJCac_FuEh1W1pj8owPY4e43CsVqSIgEJLelKes/6ac63bd8477874ece57372a1.md",
+    "created_at": "2026-10-07 12:32:24 UTC",
+    "processed_at": "2026-10-07 12:32:24 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/stadium/@51.5055334,-0.0914069,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/A3eJbJCac_FuEh1W1pj8owPY4e43CsVqSIgEJLelKes/6ac63bd8477874ece57372a1.html",
+    "prettify_html_file": "https://serpapi.com/searches/A3eJbJCac_FuEh1W1pj8owPY4e43CsVqSIgEJLelKes/6ac63bd8477874ece57372a1.prettify",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "stadium",
+    "ll": "@51.5055334,-0.0914069,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "stadium"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "The Den",
+      "place_id": "ChIJ4WPCXBwDdkgRR_j5SNhnVjU",
+      "data_id": "0x4876031c5cc263e1:0x355667d848f9f847",
+      "data_cid": "3843373510642235463",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876031c5cc263e1%3A0x355667d848f9f847&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876031c5cc263e1%3A0x355667d848f9f847&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4866716,
+        "longitude": -0.051026699999999994
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4WPCXBwDdkgRR_j5SNhnVjU",
+      "provider_id": "/m/06sfzx",
+      "rating": 4.4,
+      "reviews": 1788,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "John Berylson Wy, London, SE16 3LN, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7232 1222",
+      "website": "http://millwallfc.co.uk/",
+      "description": "Home stadium of Millwall football club. Modern home ground of Millwall football club with matchday bar, offering tours by arrangement.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Great atmosphere at the ground with perfect views in all seats.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfaI9cUxWbY9xBt4JgAtTjKM-dp5ADwOSIcxPFzpAqWTOY9jcal_Ekv3U0ZjVa9T_G62QGGlO5duAZJCIPBSM2bNG1_eWHYwr0JJehVRHbVGi1GCy2yLKvD9QqSkUOpeKBAtPVX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZK4ge3icHcRJDoIwAADAFwEFxaQmHopLWVRQNvFCoFQQEJBWQT_oG_yNiXOY76fgvGNzSaqLiZi3bV7TB6M9aRtOGy6S9iblfcKYQJiEkFbdtpfEgMQfwzSCo8anZo64V1o7IetUtBps1yCjs3l36B56dgRLktTxunpOfHAugwR6MZ4pB4xrW80e6GwuDUdzd0q6x3JMQz0aemCatAiOehrgq4yXL-W1tZ4reLi7lW931NIQd4LTYpABAELxnwjND1OMQ_4"
+    },
+    {
+      "position": 2,
+      "title": "London Stadium",
+      "place_id": "ChIJWbXodWkddkgRlM62BUak_Oc",
+      "data_id": "0x48761d6975e8b559:0xe7fca44605b6ce94",
+      "data_cid": "16716416537542971028",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d6975e8b559%3A0xe7fca44605b6ce94&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d6975e8b559%3A0xe7fca44605b6ce94&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5386745,
+        "longitude": -0.0164597
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWbXodWkddkgRlM62BUak_Oc",
+      "provider_id": "/m/06stlq",
+      "rating": 4.4,
+      "reviews": 18920,
+      "type": "Stadium",
+      "types": [
+        "Stadium",
+        "Concert hall",
+        "Event venue",
+        "Tourist attraction"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium",
+        "concert_hall",
+        "event_venue",
+        "tourist_attraction"
+      ],
+      "address": "London, E20 2ST, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 8522 6000",
+      "website": "https://www.london-stadium.com/",
+      "description": "West Ham's 54,000-seat stadium. Stadium built for 2012 Olympics, and home of West Ham United FC, hosting sports events and concerts.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Nice stadion and clean plenty  of toilets\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWn9Bpj8B5M9q_LD8i-z2cGbWMSWsmWsgLosPA8gK13X6GDs41vD6yzzhj5btZkXeQn9dur-X_k47fw6ub8QxC31QTShEjJ_2Ovouj6a0d0z944dlOEvbTWlbTygmjK1ojVSTS=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_rXZynicHcRRboIwGADgE1VaQYQle4BhTBSjBLKSvRBbunYFWuUvOLngzrDbLNn38P3-KOdu8OJ5vfJX0lrZiwnEyK1xwrgVt4MnxysA4uAlSdoNuaAmTm86Sjen-N7kWfSFljXfM3oqKQwUZG7hkkTySPw63GcQkDkLn8ui9Ia5j64WhYnbaUR10wXbz0c4saj4fvNJUZVqpw_N-jzbSYdX3OIlDoK2P-9mVtGeVU856COx-r2sytcHwRgj9T9H5g9XykS-"
+    },
+    {
+      "position": 3,
+      "title": "Stamford Bridge",
+      "place_id": "ChIJPW-XS4YPdkgR-GWlHng4qkg",
+      "data_id": "0x48760f864b976f3d:0x48aa38781ea565f8",
+      "data_cid": "5236059605333009912",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48760f864b976f3d%3A0x48aa38781ea565f8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48760f864b976f3d%3A0x48aa38781ea565f8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4817241,
+        "longitude": -0.19094709999999998
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPW-XS4YPdkgR-GWlHng4qkg",
+      "provider_id": "/m/0314gb",
+      "rating": 4.6,
+      "reviews": 25572,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "Fulham Rd., London, SW6 1HS, United Kingdom",
+      "country": "United Kingdom",
+      "website": "http://www.chelseafc.com/",
+      "description": "Home stadium of Chelsea Football Club. Modern stadium, home of 'The Blues' with behind-the-scenes tours and on-site hospitality services.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Lovely stadium terrible toilet facilities and seating is very small\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfpf9ilP6yU3nOmWhheP9_HJoCcI-tVNpnlo74o9Wl8LkqscpCQD7ivDekWJU_25IVxKJLkbeHcsk2sdA3V7NNx1Wtk1DEh-dL1-rkg3li-GCkujQzNC2KFdZe4BKM54HpYSnA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/omf4gHicHcRJDoIwAADAF5VdERMPCCoCosYA0YvRUii2tJXW9YH-wd-YOIf5frBSQo51nWJbazhvKLpJ1EPOFGJKg7zTm_4kJYBS9_0p6dJa1F5LN8NXbrN1V2KMNt4xinkAl0AVmWCUuw73SjpKyVVCEWxDt72HiJRxfrQGy-KZxCk5owhKYsnKtws3y55mqYgZzjCoUhP0pLFpCxYBuV227yywknl1QM40WQ2cSOx3zJ88TMMwAP4PAfsBUDBD6A"
+    },
+    {
+      "position": 4,
+      "title": "Mile End Park Leisure Centre and Stadium",
+      "place_id": "ChIJxyoatjIddkgRLUmDKQOwhlg",
+      "data_id": "0x48761d32b61a2ac7:0x5886b0032983492d",
+      "data_cid": "6378979449844746541",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d32b61a2ac7%3A0x5886b0032983492d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d32b61a2ac7%3A0x5886b0032983492d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5192054,
+        "longitude": -0.0321641
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxyoatjIddkgRLUmDKQOwhlg",
+      "provider_id": "/m/0442zb",
+      "rating": 3.8,
+      "reviews": 2234,
+      "type": "Stadium",
+      "types": [
+        "Stadium",
+        "Gym",
+        "Indoor playground",
+        "Sports complex",
+        "Leisure center"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium",
+        "gym",
+        "indoor_playground",
+        "sports_complex",
+        "leisurecentre"
+      ],
+      "address": "and Stadium, Mile End Park Leisure Centre, 190 Burdett Rd, London E3 4HL, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "6 AM–10 PM",
+        "thursday": "6 AM–10 PM",
+        "friday": "6 AM–10 PM",
+        "saturday": "8 AM–6 PM",
+        "sunday": "8 AM–6 PM",
+        "monday": "6 AM–10 PM",
+        "tuesday": "6 AM–10 PM"
+      },
+      "phone": "+44 20 7364 5100",
+      "website": "https://be-well.org.uk/centres/mile-end-leisure-centre-and-stadium/?utm_source=google&utm_medium=website&utm_campaign=centre_clicks",
+      "description": "Community leisure centre & outdoor space. 400-metre athletics track, pitches, sports hall, group exercise studio, gym, and two swimming pools.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"There are a lot of football fields and a lot of football.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM9CZYVMhH-aSvuk6UtkrA3U2bKhpaIxJg7CRjxVHdk7JZurEnxhovkSHE5rpfBaqq1IlgTxCMU27YGjtQLiGe3bVWG9-Ud8yLK6Yu6QOg4OKgAg8-ws6RviiC4mFzf1chrnBt9SQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ztinbnicHcTLDYIwAADQiSogyMfEAzQKgsQggsEbVmwRaLEtiG7oCG5j4ju874dI2YulorREn2HGcFsNouKIUVlROUOsUzAvhQBIKC4c-7aLHXgu8pgEoEzHoTEz2XBXz-aXiPTldgqxBQ_3KQ-ujRWeB76mE2FjkwbrBe9vXvl4aNsWHycYZ3Or8O8y2dV-pV_yk--A7Gq_dpFZDGayx8Y-wi62wVOYh7GuodFt3jcNEU496aTJ6qmpqgrIfwToD26KRhU"
+    },
+    {
+      "position": 5,
+      "title": "Arsenal - Emirates Stadium",
+      "place_id": "ChIJO14pRXYbdkgRkM-CgzxxADY",
+      "data_id": "0x48761b7645295e3b:0x3600713c8382cf90",
+      "data_cid": "3891234582766473104",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b7645295e3b%3A0x3600713c8382cf90&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b7645295e3b%3A0x3600713c8382cf90&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5550821,
+        "longitude": -0.10839979999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO14pRXYbdkgRkM-CgzxxADY",
+      "provider_id": "/m/035zmm",
+      "rating": 4.6,
+      "reviews": 34955,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "Hornsey Rd, London, N7 7AJ, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7619 5000",
+      "website": "https://www.arsenal.com/the-club/emirates-stadium",
+      "description": "Arsenal's 60,000-seat football stadium. Purpose-built football stadium, home to Arsenal FC and some large-scale, close-season pop concerts.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Stadium has good transport links good sight lines and good facilities.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNZm8wMuz5f6PN80Xeux21QuD6zEYQtRyy6MNAh4ywswS9JZDmHvYho0tfHD7GOXsWgav7NrDqNDzYGh2Jh2RkNA1jGTC8JTFyqXarUQ4i2kXFdmkLm9upTNlRqpXkStNvKAwmY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AWEq5nicHcRRDoIgAADQE5loZdbWh4vSWVGaLezPmUopogKSXrAzdJu23sf7fogQDV_pekWmk4Kxosokz7qU1SKrxSRlVC-6hHMt5bqz6ZuKoju11VGO89w6IxvgTL5NI5DQGrdxIMJhsI7IIbNBcXVZ-ndIvT4mDIjcgwv3hPmtSPoF6mCL4Bi7xPSJGZbIMV5utLH9aDe0OOmuwexplnj3oOWBLmUToSpsG1xeBOr3jqLxWhkAAI38T7X6B94vRhM"
+    },
+    {
+      "position": 6,
+      "title": "Lord's Cricket Ground",
+      "place_id": "ChIJ4w_RqLsadkgRRpT_jVKCW-Y",
+      "data_id": "0x48761abba8d10fe3:0xe65b82528dff9446",
+      "data_cid": "16599004142685361222",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761abba8d10fe3%3A0xe65b82528dff9446&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761abba8d10fe3%3A0xe65b82528dff9446&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.529830999999994,
+        "longitude": -0.1721564
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4w_RqLsadkgRRpT_jVKCW-Y",
+      "provider_id": "/m/021p_v",
+      "rating": 4.7,
+      "reviews": 14934,
+      "type": "Cricket ground",
+      "types": [
+        "Cricket ground",
+        "Tourist attraction"
+      ],
+      "type_id": "cricket_ground",
+      "type_ids": [
+        "cricket_ground",
+        "tourist_attraction"
+      ],
+      "address": "St John's Wood Rd, London, NW8 8QN, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7616 8500",
+      "website": "https://www.lords.org/",
+      "description": "Home of English cricket. Middlesex County Cricket Club's ground & traditional home of English cricket, with a museum.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"the cricket stadium is the oldest and yet very well maintained.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNXFibbKjNc5u2QFVG8npzZiahFIo5LZP6MAi7dKbeqefVYPdPiEHY52dltCZ4N8GC9HYLH7ZUbne9x4vR2hnT92yonRVq7wBbrXuBgNfrfHrzzv-4FxPqJR0o8WOobws__qWg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mJjR43icHcRdEkJAAADgE4lEaKaHMkl_kinipWnX2tVol91FOWB36DbN9D183w-RshYzVa3IZIQZwxVqBeKQUYmoHEH2VDG_C6FAoS7crq6ewdUrAdg9Ami2-smL1zath6y8E2_DzH0WTg-L0sp3ADWoiNMwD8uVn5p6Xkk3MwJ77Tp-uvet7AIocl5GF-mEnh39zWgUN1a_BPzaLnFQ8MLnw9AphvcKm22kMTs5MtCL261J8Lwfa5qmkP9QoT9oT0Vt"
+    },
+    {
+      "position": 7,
+      "title": "The Kia Oval",
+      "place_id": "ChIJV5-mhJIEdkgRmHI3O4IrEdU",
+      "data_id": "0x4876049284a69f57:0xd5112b823b377298",
+      "data_cid": "15353100443021963928",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876049284a69f57%3A0xd5112b823b377298&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876049284a69f57%3A0xd5112b823b377298&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.4830501,
+        "longitude": -0.11346049999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV5-mhJIEdkgRmHI3O4IrEdU",
+      "provider_id": "/m/022dwr",
+      "rating": 4.6,
+      "reviews": 10965,
+      "type": "Stadium",
+      "types": [
+        "Stadium",
+        "Cricket club",
+        "Cricket ground",
+        "Tourist attraction"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium",
+        "cricket_club",
+        "cricket_ground",
+        "tourist_attraction"
+      ],
+      "address": "Kennington Oval, London, SE11 5SS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+44 20 3946 0100",
+      "website": "http://www.kiaoval.com/",
+      "description": "Iconic international cricket ground. Surrey Cricket Club's home & traditionally the host of the final test match of the summer.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The stadium is well maintained and full of good facilities for the public.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7pMx-Z3au2hVNnHW1v8cYrfV498p92JDUtrzZEXfqZIMVAi57THd3Pn2bTDy6djNAKzshwj2R-KodfdmKLli-HHoGVERlYZ6Lzz_ylbEIMbn5aH7eFhZSMkpm3REovOiHBxxn=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SVzGy3icHcRdEoFAAADgE61SEmY81BRLhQnRvpjafja23bSLdEFncBszvofv-yFSNmKmKJTog5LzkuYPkbeYM5kzOcC8Vso2EQJgoViWfav9wmyCDiA9eWgk2jB4Gj4nOG6LaDSdNFNt7Rxl2yP3XNzRKoisyjAPMNN3TEsPznucXTeW1wvyumoh8HhWZLXn0wpAyJeRG9IYjf2-v7xp6q6ClBkJNPMFQfvg1tR66PLntoJ217H5a6iqKiD_MWA_ZkFFIg"
+    },
+    {
+      "position": 8,
+      "title": "West Ham United Stadium Store",
+      "place_id": "ChIJz5EGyGkddkgRCs4NbwXD_OU",
+      "data_id": "0x48761d69c80691cf:0xe5fcc3056f0dce0a",
+      "data_cid": "16572335156922011146",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d69c80691cf%3A0xe5fcc3056f0dce0a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d69c80691cf%3A0xe5fcc3056f0dce0a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5373346,
+        "longitude": -0.0153225
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz5EGyGkddkgRCs4NbwXD_OU",
+      "provider_id": "/g/11c0rrghkh",
+      "rating": 4.5,
+      "reviews": 736,
+      "type": "Sporting goods store",
+      "types": [
+        "Sporting goods store",
+        "Clothing store"
+      ],
+      "type_id": "sporting_goods_store",
+      "type_ids": [
+        "sporting_goods_store",
+        "clothing_store"
+      ],
+      "address": "Stadium, Sidings St, London E20 2ST, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–5 PM",
+        "thursday": "10 AM–5 PM",
+        "friday": "10 AM–5 PM",
+        "saturday": "10 AM–5 PM",
+        "sunday": "11 AM–5 PM",
+        "monday": "10 AM–5 PM",
+        "tuesday": "10 AM–5 PM"
+      },
+      "phone": "+44 20 8548 2794",
+      "website": "https://shop.whufc.com/?gad_source=1&gad_campaignid=7779426130&gbraid=0AAAAADg9viZVx3HZ9KvOfzMLVweLOyfLl&gclid=CjwKCAjw8uTQBhAdEiwAVvtJygwXtJgxRPl68OsAq9myE7-_Ooy731Owm-UVmfgV9iFjnxfE9LHR6BoC42YQAvD_BwE",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        }
+      ],
+      "service_options": {
+        "delivery": true
+      },
+      "user_review": "\"Check out a stadium tour that starts from the Café downstairs.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOT9klsNhTZ8xUTTYDO2uzNu_eOLPRpZFc1ph3yHyI30GeHfsBAveZLHH4zyFPIvTvVWT1-VgQFUmL219vy8f2oz3rFUF8Dsx5DksNunJ7JkBsLN78dcSOxKvQ6nYrf332RmPY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jMvqcHicHcTdCoIwGADQJzJ_VmlBF5UsM1GrWehNxJoO1E38dKkP2Dv0NkHn4nw_vOsaWOt6xdGskLKoWA-spVJ0THQzKmu9aJ8AGgV9u1dNVUdkVVYQcpI5Q0JI6kZWP4X9g0VBfGkyTM2Go9Ebj8g4MC-H3VaxLPC8-TTi-KiIut2Jqd2KM07qwDJXanRyS06oxQl2XBgWbglhL3zbL3cQhLbzotdoOKnzUqRtjpB1qeN08zYNw9D4f6qJH27jRHg"
+    },
+    {
+      "position": 9,
+      "title": "Stadium",
+      "place_id": "ChIJ_QfbQgAFdkgRfuQdzcjj62E",
+      "data_id": "0x4876050042db07fd:0x61ebe3c8cd1de47e",
+      "data_cid": "7055983692780266622",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x4876050042db07fd%3A0x61ebe3c8cd1de47e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x4876050042db07fd%3A0x61ebe3c8cd1de47e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.514109,
+        "longitude": -0.136995
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_QfbQgAFdkgRfuQdzcjj62E",
+      "provider_id": "/g/11vx5y9y1q",
+      "unclaimed_listing": true,
+      "type": "Sports club",
+      "types": [
+        "Sports club"
+      ],
+      "type_id": "sports_club",
+      "type_ids": [
+        "sports_club"
+      ],
+      "address": "52 Poland St, London, W1F 7NQ, United Kingdom",
+      "country": "United Kingdom",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zTdzbg0SrVzaPVZAw9dqBg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=234.70245&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2khL5nicHc3BDcIgFADQbbgJtNZoTYjRCUw0PXgxv4BAQgvysWjHcSu30bjAe5-3zTniljHMSes8OV2ie2qPiwjUhGC8huiQyjCwqWLZPoZ-BOd3EcbglJjPau4NP6VuhmN32ZdW3Q-GyP4qvdNjFqghSUtN-YkpKGoSIJIiNpxY0dbkBUXUy4aued2sSHRZWsHJ_7mFSVScfwEsVDrl"
+    },
+    {
+      "position": 10,
+      "title": "Arsenal Stadium Tour",
+      "place_id": "ChIJQ1bxkRIbdkgRO7C6yUHO6U0",
+      "data_id": "0x48761b1291f15643:0x4de9ce41c9bab03b",
+      "data_cid": "5614245192446685243",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b1291f15643%3A0x4de9ce41c9bab03b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b1291f15643%3A0x4de9ce41c9bab03b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5543702,
+        "longitude": -0.10957729999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ1bxkRIbdkgRO7C6yUHO6U0",
+      "provider_id": "/g/11sjj7lkrg",
+      "rating": 4.7,
+      "reviews": 1526,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "Arsenal - Emirates Stadium, Emirates Stadium, Hornsey Rd, London N7 7AJ, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7619 5000",
+      "website": "https://arsenaldirect.arsenal.com/tour/home",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Stadium was well marked and clean.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQn8RwRz7daZO-l0ARMEgQR67Xlpy7gqeTxcdWTwKKTXxNDyscZIeyvnMau7IWWDtZ56hCirtCIFj5r_3QsCxApehL46qOPyDl_gn-tldv5I66UPP7CDPkK6xy8i7lHCatxQwVlQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/zAwV0nicHcRdDoIgAADgE5G2ElpbD4a1nP2Is2y-NIcEFaEJJXTDjtBt2voevu9HGNPqqedJMRrwpuGSPTXraKMMU2ZAm7vHu0prQLUXhvPbfX0mapL12RvVVbkD0g-zzYKTDKKjbB3iD5ZbWhd5nyT50W4jp2kZM_dSm-qJ4qKITBlAgS-dwfHyGnSnEdHYhi0T6zF87FIXyRNXwMj6FcQQ7tMU4Si9JdC6yQXJFa6MJf1Bklk_9H0fiP8UqB9uhUZ9"
+    },
+    {
+      "position": 11,
+      "title": "London Stadium Learning",
+      "place_id": "ChIJ0cPNkJYddkgRl5M7Z3wCsow",
+      "data_id": "0x48761d9690cdc3d1:0x8cb2027c673b9397",
+      "data_cid": "10138168444495565719",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d9690cdc3d1%3A0x8cb2027c673b9397&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d9690cdc3d1%3A0x8cb2027c673b9397&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5372412,
+        "longitude": -0.0153335
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0cPNkJYddkgRl5M7Z3wCsow",
+      "provider_id": "/g/11jgh2nd_j",
+      "rating": 5,
+      "reviews": 3,
+      "unclaimed_listing": true,
+      "type": "Education center",
+      "types": [
+        "Education center"
+      ],
+      "type_id": "education_center",
+      "type_ids": [
+        "education_center"
+      ],
+      "address": "Queen Elizabeth Olympic Park, London, E20 2ST, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 8522 6128",
+      "website": "https://www.londonstadiumlearning.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "planning": [
+            "Appointment required"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHwkRiGZ0rn458pSJdZRbRk-yNft-_r6D3cx_AZUXiEoBvzC-sI42F4_2VCBJ1oUIi02tKK5xnCnKIg81QOgRPzGkSQp1f6ThO61_pG7R7Hbox9SwlRavZmCt6nC4heIcAIc3r0g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3qf8PHicHcRdboIwAADgE1VaQPxJ9gDVYWWZWoYxvBAp2BKgJW0nzBt6BG9jsu_hez2FtYNZO04nvBlXinf1r6k1U9LW0s6Y6h2ur8YAZpwwjNr-q9qNLW3iHGrpz5dDuq9yWtIW_H3fLCh0sPHYVIR5dmm2Kro_MDDEdz_9wj3jaI9URhro2iSZTxLLhPAlOh04PT7iNj0N6Bb8iEOAiiFe0MWuVNMqHTt6vec9toHEvqgJCwnzNOQfI4IQAvE_A_INp0FELg"
+    },
+    {
+      "position": 12,
+      "title": "West Ham United Football Club",
+      "place_id": "ChIJPcLsZMin2EcR6KiFQh71kio",
+      "data_id": "0x47d8a7c864ecc23d:0x2a92f51e4285a8e8",
+      "data_cid": "3067783806506608872",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x47d8a7c864ecc23d%3A0x2a92f51e4285a8e8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x47d8a7c864ecc23d%3A0x2a92f51e4285a8e8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5386672,
+        "longitude": -0.0164443
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPcLsZMin2EcR6KiFQh71kio",
+      "provider_id": "/g/11ddt31n7h",
+      "rating": 4.5,
+      "reviews": 1084,
+      "type": "Soccer club",
+      "types": [
+        "Soccer club",
+        "Football club"
+      ],
+      "type_id": "soccer_club",
+      "type_ids": [
+        "soccer_club",
+        "football_club"
+      ],
+      "address": "Queen Elizabeth Olympic Park, West Ham United PLC, London Stadium, London E20 2ST, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 8548 2748",
+      "website": "http://www.whufc.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Food and drink is a bit overpriced but the stadium is good vibes overall.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOI7YnDtEFZADhvnUc0lO9i-mcAQefkN192TpRIOyCHzbLQDIiHo2-QSmiMd44MN3IKSYG11cnHHEtGx38Y609iPlPh61aLp5yHvy1sfjn5Xf8ueJEPpD_Q-sKXnysfDxXa3k=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_JA0kXicHcTbDoIgAADQL0Ihy7KtBwsLy1K7bNpLM0IxFVzQxT6wf-hv2joP5_vhWrdqbJo1t4xCyqJmd8VuVArNhDaobMzilikFqDJdd1o1wSX0h6nA2psfXcwf4kBhHTolaKgbs7zaIKe3b7d-2M3I-xzE2C-J7IF415TrS7-_3lj-apcuEKKCEE8vXtYotaFTRnXEbZQF7aAjjw6p_CoGST66s6UXtfgUA7VKRKdy_Eoyq5o8EYQQ8P8UiB-tyENC"
+    },
+    {
+      "position": 13,
+      "title": "Arsenal stadium",
+      "place_id": "ChIJ-_05IgAbdkgRyl_4NaLt_LM",
+      "data_id": "0x48761b002239fdfb:0xb3fceda235f85fca",
+      "data_cid": "12969502307866140618",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b002239fdfb%3A0xb3fceda235f85fca&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b002239fdfb%3A0xb3fceda235f85fca&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.538621,
+        "longitude": -0.1028346
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-_05IgAbdkgRyl_4NaLt_LM",
+      "provider_id": "/g/11zz7swvcz",
+      "unclaimed_listing": true,
+      "type": "Football club",
+      "types": [
+        "Football club"
+      ],
+      "type_id": "football_club",
+      "type_ids": [
+        "football_club"
+      ],
+      "address": "London, N1 1QP, United Kingdom",
+      "country": "United Kingdom"
+    },
+    {
+      "position": 14,
+      "title": "Stadium Management Ltd",
+      "place_id": "ChIJkxNabqYcdkgRdXELDwdzOLU",
+      "data_id": "0x48761ca66e5a1393:0xb53873070f0b7175",
+      "data_cid": "13058313593715126645",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ca66e5a1393%3A0xb53873070f0b7175&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ca66e5a1393%3A0xb53873070f0b7175&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5272357,
+        "longitude": -0.0886604
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkxNabqYcdkgRdXELDwdzOLU",
+      "provider_id": "/g/11j6q7w851",
+      "rating": 1,
+      "reviews": 1,
+      "type": "Event management company",
+      "types": [
+        "Event management company"
+      ],
+      "type_id": "event_management_company",
+      "type_ids": [
+        "event_management_company"
+      ],
+      "address": "128 City Rd, London, EC1V 2NX, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–8 PM",
+        "thursday": "9 AM–8 PM",
+        "friday": "9 AM–8 PM",
+        "saturday": "9 AM–6:30 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–8 PM",
+        "tuesday": "9 AM–8 PM"
+      },
+      "phone": "+44 20 8672 2314",
+      "website": "https://www.stadiummanagement.co.uk/",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OtvHngaCsdH0-jbsVaQ3Eg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=239.75706&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AzQaO3icHc3BDcIgFADQbbgVqI3WmhAPxqQ348Wr-aUIGAqEj6DruJXbaFzgvc_b5BxxxxjmpFQuVtVon8phE4HqELRTEC1SGRZWWpbNY5k8WLeP4IOdxSmX0Ws44Dzy5j7hBc7dURM5XaWzymeBCpI0VNefmMJMdQJEUsWWEyOGFXlBFatuoP265xsSbZZGcPJ_bqGIlvMvCFg6gw"
+    },
+    {
+      "position": 15,
+      "title": "kings road stadium",
+      "place_id": "ChIJDZq_JwAbdkgRgqxzUMUt5VU",
+      "data_id": "0x48761b0027bf9a0d:0x55e52dc55073ac82",
+      "data_cid": "6189403588372180098",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b0027bf9a0d%3A0x55e52dc55073ac82&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b0027bf9a0d%3A0x55e52dc55073ac82&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5167298,
+        "longitude": -0.17057529999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDZq_JwAbdkgRgqxzUMUt5VU",
+      "provider_id": "/g/11xmksyqn9",
+      "unclaimed_listing": true,
+      "type": "Sports club",
+      "types": [
+        "Sports club"
+      ],
+      "type_id": "sports_club",
+      "type_ids": [
+        "sports_club"
+      ],
+      "address": "25-27 Southwick St, Tyburnia, London, W2 1JQ, United Kingdom",
+      "country": "United Kingdom",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=APObwDydiidjDWeqps5fFg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=224.59102&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ERxoTHicHc3BDcIgFADQbbgJlNjEmhBj0njVm0dDgcI3tCAfi13HrdxG4wLvfd6-lIR7xrBka8sCtiZ42YCbpKiL0QWrEiDVcWJLw4p_TsOsIBySmiMYebych9qvBsDc-6t9JGzHkyN6uOkAdi4SrcraU1d_Yo6GuqwQSZU7TrzsBFlVlUJsads1XJAERXvJyf8Z4yIbzr8tCjrv"
+    },
+    {
+      "position": 16,
+      "title": "Stadium Capital Holdings",
+      "place_id": "ChIJh-0HmdIadkgR-9wKPYBKgKs",
+      "data_id": "0x48761ad29907ed87:0xab804a803d0adcfb",
+      "data_cid": "12357959292145032443",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ad29907ed87%3A0xab804a803d0adcfb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ad29907ed87%3A0xab804a803d0adcfb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5164243,
+        "longitude": -0.1521918
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJh-0HmdIadkgR-9wKPYBKgKs",
+      "provider_id": "/g/11vjj81_yk",
+      "unclaimed_listing": true,
+      "type": "Investment service",
+      "types": [
+        "Investment service"
+      ],
+      "type_id": "investment_service",
+      "type_ids": [
+        "investment_service"
+      ],
+      "address": "7 Manchester Square, Greater, London W1U 3PQ, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7224 2404",
+      "website": "https://www.stadiumcapitalholdings.co.uk/contact.html",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=I9I5UzIniEuk-0rJmADK7w&cb_client=search.gws-prod.grass&w=80&h=92&yaw=160.12463&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kNn9mnicHc3NDcIgGADQbbiVn6rVmhBjoofq2bOhFOGLFAjQoo7jVm6jcYH3Pm-Tc0hbQlKOSuUZVAnwUDZVQWDtvbZKBEhY-pHMjGQzjb0TYHdBOA8D79pudXl1Do7TvaLxNO4P53VBsr9KC8plnpSI0mBdfmL0A9ZRpIQK31BkeFujpyicNRSzetksUIAsDafo_9z8zBmlX9T4Oe8"
+    },
+    {
+      "position": 17,
+      "title": "Lord's Tour",
+      "place_id": "ChIJ9SuFrrsadkgRVpiRNHx_zTQ",
+      "data_id": "0x48761abbae852bf5:0x34cd7f7c34919856",
+      "data_cid": "3804837431632566358",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761abbae852bf5%3A0x34cd7f7c34919856&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761abbae852bf5%3A0x34cd7f7c34919856&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5289254,
+        "longitude": -0.1748754
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9SuFrrsadkgRVpiRNHx_zTQ",
+      "provider_id": "/g/1thlmkhh",
+      "rating": 4.7,
+      "reviews": 389,
+      "type": "Tour operator",
+      "types": [
+        "Tour operator"
+      ],
+      "type_id": "tour_operator",
+      "type_ids": [
+        "tour_operator"
+      ],
+      "address": "6 Grove End Rd, London, NW8 8QN, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Closed · Opens 9:30 AM Thu",
+      "hours": "Closed · Opens 9:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "9:30 AM–12:30 PM",
+        "thursday": "9:30 AM–12:30 PM",
+        "friday": "9:30 AM–12:30 PM",
+        "saturday": "9:30 AM–12:30 PM",
+        "sunday": "9:30 AM–12:30 PM",
+        "monday": "9:30 AM–12:30 PM",
+        "tuesday": "9:30 AM–12:30 PM"
+      },
+      "phone": "+44 20 7616 8595",
+      "website": "https://www.lords.org/lords/lord-s-experience/tours",
+      "description": "Behind the scenes at the home of cricket. Tour showing the actual Ashes urn, 400 years of cricketing history and even player changing rooms.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly",
+            "Transgender safespace"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Full view stadium was amazing.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOu01h5XfCLzQehS7-LpCFcPunpPs1rQD4Tk2jIdAxtDmbIYeeyyGNLBG2eO1TYNUjasTJGF2yKFTvFgNPGoZWPp4P8qBffPQfvlVnW6CpIYvy0t0f9xsDMDeFsM_UgSLoQ_k9G=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/g3w5R3icHcTbboIwGADgJ0IKuqlLvFBIGxSxRDzgjXFdD1FoK39h4gv6DHubJX4X399LOWfhy_crNRxIY2TFW-ANM9px7QbM1L5sLgAeA38edbaqNy0K1MdRROkz52o79lIbYUZbbSkETR6Pilt4TX7mDxfX30nJed-TLF2QkG-Cosx21wsUS4LDfoWLDsuMEnM6UDuik_tCCJqLrtrrw2dkk7LrkUNi-oB4HXMM6_NOblOTn29TMvsNEEKees88_Q-r7UVK"
+    },
+    {
+      "position": 18,
+      "title": "Chelsea FC Museum",
+      "place_id": "ChIJVdOkOoYPdkgRQy-V9g7RD0k",
+      "data_id": "0x48760f863aa4d355:0x490fd10ef6952f43",
+      "data_cid": "5264656351616118595",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48760f863aa4d355%3A0x490fd10ef6952f43&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48760f863aa4d355%3A0x490fd10ef6952f43&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.482692099999994,
+        "longitude": -0.19152349999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVdOkOoYPdkgRQy-V9g7RD0k",
+      "provider_id": "/g/11g7z7z9vs",
+      "rating": 4.7,
+      "reviews": 3335,
+      "type": "Heritage museum",
+      "types": [
+        "Heritage museum",
+        "Museum",
+        "Tourist attraction"
+      ],
+      "type_id": "heritage_museum",
+      "type_ids": [
+        "heritage_museum",
+        "museum",
+        "tourist_attraction"
+      ],
+      "address": "Stamford Bridge, Fulham Rd., London SW6 1HS, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 4:30 PM",
+      "hours": "Open · Closes 4:30 PM",
+      "operating_hours": {
+        "wednesday": "9:30 AM–4:30 PM",
+        "thursday": "9:30 AM–4:30 PM",
+        "friday": "9:30 AM–4:30 PM",
+        "saturday": "9:30 AM–4:30 PM",
+        "sunday": "Closed",
+        "monday": "9:30 AM–4:30 PM",
+        "tuesday": "9:30 AM–4:30 PM"
+      },
+      "phone": "+44 871 984 1955",
+      "website": "https://www.chelseafc.com/tours",
+      "description": "Soccer memorabilia with guided tour. Exhibition of the iconic soccer club’s trophies, shirts & memorabilia, plus tours of their stadium.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restaurant",
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Getting tickets in advance recommended"
+          ]
+        },
+        {
+          "payments": [
+            "Admission fee"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Amazing stadium with a nice history and proffesional tour guides.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-pP2n-cmQz5L8VOW33_ID3LY8c4vvYAXgmtKeH3hY1f7YjGhTkrC6yOYOjebRzq-pv4VnBvDghTy0q8_7yQTcvE9e34BtV0kGG5Ot6a45wV0KPbNpS78YSizwJJssZMUf_WpZjwj0XtRf=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xDzluXicHcRLjoIwAADQE1WqBUETFzBO8IPih0HrhmhTWkFKpbUELuna25jMW7zPm2st1dSyHhwNWF2zB30p2pBaaCr0gNSVxZqrUoAoy_eDsooIkLuRAKTa907kpfEJoWw5RxH2iG0M9s-s0mu6QBwPcxcXIU_K5mfcxTgu6O3QP4E0dioCM2c86eDTy9xunxDzO6HIDnQKyzB0Yj2-2k6bwvXutpVH18PHe9-uVkpdNn95dpKXoi3gWR_yWTuEEAL-PwHiC3MJR0c"
+    },
+    {
+      "position": 19,
+      "title": "Westbourne Wanderers stadium",
+      "place_id": "ChIJVeD1IVsbdkgRA5oRod5o4eY",
+      "data_id": "0x48761b5b21f5e055:0xe6e168dea1119a03",
+      "data_cid": "16636693803877636611",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b5b21f5e055%3A0xe6e168dea1119a03&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b5b21f5e055%3A0xe6e168dea1119a03&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5457616,
+        "longitude": -0.1136981
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVeD1IVsbdkgRA5oRod5o4eY",
+      "provider_id": "/g/11vdzw4x4k",
+      "rating": 4.5,
+      "reviews": 11,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "88 Bride St, London, N7 8AZ, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 7552 720262",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"Beautiful football, great club level facilities\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN3LagHSoDTD4Ooe22od438COiYKWM9YoiK4LQuXX_yveMTfRdHd1GQfxl6XEDIje1dPh47oGH-V0xD4rrowZY6xU9RAjAgRLMGxw-vghhmqBsTxwMNyx42QULvbWuNTUGqY5L3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/95P3gXicHcRJDoIwFADQE1WmikPiAsWAsaAgKLgxCqXVAF8pQz2hZ_A2Jr7F-3542z7FXFFKbowYACtpJ2iTQd3Suh1lUCmsuQqBMqFYq_5ZVr5Brsw9gB3ZeAdU1yHHxnS1u6fbkzdL4b7FJOiS5PLuqRcVYe7mmhMUsjSTtb15UC3fczwBx0VHVdq4aWA4p6aMZ6H1sFhIPEcOqGecV6-liOTg-W-J9SAm_e3U-VHsvNIxMRaDpqoq4v8zVP8AXNlEvw"
+    },
+    {
+      "position": 20,
+      "title": "Brisbane Road",
+      "place_id": "ChIJi-Ow25wddkgRM0MM951SQpk",
+      "data_id": "0x48761d9cdbb0e38b:0x9942529df70c4333",
+      "data_cid": "11043480074673996595",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761d9cdbb0e38b%3A0x9942529df70c4333&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761d9cdbb0e38b%3A0x9942529df70c4333&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5601583,
+        "longitude": -0.012608699999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi-Ow25wddkgRM0MM951SQpk",
+      "provider_id": "/m/0bt8l5",
+      "rating": 4.6,
+      "reviews": 1084,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "Brisbane Rd, London, E10 5NF, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 8926 1111",
+      "website": "https://www.leytonorient.com/",
+      "description": "Leyton Orient FC's home ground. Football club's stadium with a 9000-plus spectator capacity and a dedicated stand for families.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"great atmosphere, good stadium and nice facilities\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOZQaxdSxDPhHMfNWezhSkpzTO5-EyJSsoGx4nHURpzWWFKYQIBp29HkWiKw8VkXaap3aXA3_G7L3DTOP-21sMnMHfFjegh_IFKiTzjh3XDDStcazfdQnhEmRQV74GAgMnmxYv5_w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HCck6HicHcRdboIwAADgE1XQSpwmPrDxp4iIMMG9kKaWVoG2sVWwN_QIu82SfQ_f75tpLdXKsjoGJ1QI2pGHIncsuCZcT7DoLXpHSgGsLPfrKbs-_cnQeMlH78CipNmXxLC8laZIHeC_trkS4Tjn0fdRmrIM4nO2-ZSzZdSW13j4OLUVQhKiyoV1uNhBr0gPYDZVCU-iJrgRyupNEF8Lc2Ow8rxcY2SaS8aZ3x-z02IeujTh_Xh-OvWwHqa2bQP2Pwb8D372Rms"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4051.5055334%2C-0.0914069%2C14z&q=stadium&start=20&type=search"
+  }
+}

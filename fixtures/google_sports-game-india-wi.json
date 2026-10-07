@@ -1,0 +1,71 @@
+{
+  "search_metadata": {
+    "id": "6ac63b51b8b4a5789d94bad9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/S710O8N5W_GDR6bVWgonCrJd1jutG0o7wCBKNfW6TBA/6ac63b51b8b4a5789d94bad9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/S710O8N5W_GDR6bVWgonCrJd1jutG0o7wCBKNfW6TBA/6ac63b51b8b4a5789d94bad9.md",
+    "created_at": "2026-10-07 12:30:09 UTC",
+    "processed_at": "2026-10-07 12:30:09 UTC",
+    "google_sports_url": "https://www.google.com/search?kgmid=/g/11z3y_p23j&sourceid=chrome&ie=UTF-8&hl=en#sie=m;/g/11z3y_p23j;5;/g/11z3y_p23j;dt;fp;1;;;;-1",
+    "raw_html_file": "https://serpapi.com/searches/S710O8N5W_GDR6bVWgonCrJd1jutG0o7wCBKNfW6TBA/6ac63b51b8b4a5789d94bad9.html",
+    "prettify_html_file": "https://serpapi.com/searches/S710O8N5W_GDR6bVWgonCrJd1jutG0o7wCBKNfW6TBA/6ac63b51b8b4a5789d94bad9.prettify",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "engine": "google_sports",
+    "kgmid": "/g/11z3y_p23j",
+    "sp": "cr",
+    "type": "game",
+    "hl": "en"
+  },
+  "game_results": {
+    "info": {
+      "teams": [
+        {
+          "name": "India national cricket team",
+          "short_name": "India",
+          "short_code": "IND",
+          "kgmid": "/m/024nj1",
+          "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_500x500.png"
+        },
+        {
+          "name": "West Indies cricket team",
+          "short_name": "West Indies",
+          "short_code": "WI",
+          "kgmid": "/m/098knd",
+          "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qziJXGzGxNQbkPJRfxodgA_500x500.png"
+        }
+      ],
+      "league": {
+        "name": "International Cricket Council",
+        "short_code": "ICC",
+        "kgmid": "/m/021q23"
+      },
+      "venue": {
+        "name": "JSCA International Stadium Complex",
+        "location": "Ranchi",
+        "kgmid": "/m/011qf8mc"
+      },
+      "status": "upcoming",
+      "kgmid": "/g/11z3y_p23j",
+      "start_time": "2026-10-09T13:30:00Z",
+      "end_time": "2026-10-09T17:30:00Z",
+      "extensions": [
+        "T20 2 of 5 (IND leads 1-0)"
+      ]
+    },
+    "win_probability": {
+      "title": "Win probability",
+      "options": [
+        {
+          "team_index": 0,
+          "value": "79"
+        },
+        {
+          "team_index": 1,
+          "value": "21"
+        }
+      ]
+    }
+  }
+}

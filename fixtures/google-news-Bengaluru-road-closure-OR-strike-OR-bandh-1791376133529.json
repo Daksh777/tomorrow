@@ -1,0 +1,1411 @@
+{
+  "search_metadata": {
+    "id": "6ac63b03fd5991d7290248e1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LaH-in2RzZx8Alfj81ruPXrRK-CabQxhbeeMUg0qE2M/6ac63b03fd5991d7290248e1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LaH-in2RzZx8Alfj81ruPXrRK-CabQxhbeeMUg0qE2M/6ac63b03fd5991d7290248e1.md",
+    "created_at": "2026-10-07 12:28:51 UTC",
+    "processed_at": "2026-10-07 12:28:51 UTC",
+    "google_news_url": "https://news.google.com/search?q=Bengaluru+road+closure+OR+strike+OR+bandh",
+    "raw_html_file": "https://serpapi.com/searches/LaH-in2RzZx8Alfj81ruPXrRK-CabQxhbeeMUg0qE2M/6ac63b03fd5991d7290248e1.html",
+    "total_time_taken": 2.22
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Bengaluru road closure OR strike OR bandh"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Bengaluru Race Course Road Closure Triggers Major Traffic Diversions",
+      "source": {
+        "name": "Urban Acres",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://urbanacres.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://urbanacres.in/bengaluru-race-course-road-closure-triggers-major-traffic-diversions/",
+      "thumbnail": "https://urbanacres.in/wp-content/uploads/2026/10/urban-acres-news-218235.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNjMUI2VFRWelZXVmhXbGRSVFJERUF4aW1CU2dLTWdB",
+      "date": "10/06/2026, 03:36 PM, +0000 UTC",
+      "iso_date": "2026-10-06T15:36:37Z"
+    },
+    {
+      "position": 2,
+      "title": "Lower Agaram Road closure chokes key link to central Bengaluru",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/bangalore/lower-agaram-road-closure-chokes-key-link-to-central-bengaluru/article71289835.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/vqvpte/article71290379.ece/alternates/LANDSCAPE_1200/_JAI6243.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXpVMVpOY2pWUFZtaG5YM0JGVFJDZkF4ampCU2dLTWdzQmNJUWxKZUlWdFNpMk5B",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Tamil Nadu ban, Karnataka protest: Why Bengaluru roads are slowing down",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/tamil-nadus-ban-on-transport-of-construction-materials-derails-bengaluru-roadworks-4160176",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-09-25%2Fdpezbg38%2Ffile87pktr44gzm4sh4klp5.jpg?rect=0%2C0%2C3950%2C2222&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUZPQzAxWm14R1JuWnVSa1ZvVFJDZkF4amlCU2dLTWdB",
+      "date": "09/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-25T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Bengaluru Race Course Road Closure From October 5",
+      "source": {
+        "name": "urbanacres.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://urbanacres.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://urbanacres.in/bengaluru-race-course-road-shut-for-60-days-from-october-5/",
+      "thumbnail": "https://urbanacres.in/wp-content/uploads/2026/10/urban-acres-news-215312.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNOSGRxWDE5UU5VWXlWVVkzVFJERUF4aW1CU2dLTWdZQmdJcHR1QVU",
+      "date": "10/05/2026, 12:31 AM, +0000 UTC",
+      "iso_date": "2026-10-05T00:31:08Z"
+    },
+    {
+      "position": 5,
+      "title": "Bidadi Township row: Farmers go on hunger strike, block highway",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/states/karnataka/2026/Sep/22/bidadi-township-row-farmers-go-on-hunger-strike-block-highway",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-09-22/zd8b3lkq/bidadi2091351.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVlaVVUyV1VoUGJUaFBNMng1VFJDUUF4ai1CU2dLTWdzQlFJYW5zQ1hJS0hxY29n",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Bengaluru: White-topping shuts Maurya Circle–Race Course Road for two months",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-white-topping-shuts-maurya-circlerace-course-road-for-two-months-4148827",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-09-16%2Frd0svqx3%2Ffile87ml8p21xsm11goflf9i.jpg?rect=0%2C0%2C814%2C458&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkbTFRTW1WamNuRTFSWGR0VFJDZkF4amlCU2dLTWdZQllKQWFzQWM",
+      "date": "09/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Bengaluru street vendors protest eviction drive, hold bandh against Safe Footpath Campaign",
+      "source": {
+        "name": "The News Minute",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thenewsminute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thenewsminute.com/karnataka/bengaluru-street-vendors-protest-eviction-drive-hold-bandh-against-safe-footpath-campaign",
+      "thumbnail": "https://cf-images.assettype.com/thenewsminute/2026-07-09/jyxzl2pb/streetvendorsprotest.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9aRlF6WVVOSFQwbG1OMFI2VFJDZkF4ampCU2dLTWdzQllJaWh0T1NvYWlyTFBR",
+      "date": "07/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-09T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Bengaluru man's song on crumbling infrastructure",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengalurus-infrastructure-woes-strike-a-musical-chord/article71473332.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/q8bh33/article71473988.ece/alternates/LANDSCAPE_1200/Pothole%20road_01.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9ZVzU2V1ZBd1ZYZzRURGxJVFJDZkF4ampCU2dLTWdhQlFvd3hOUVk",
+      "date": "09/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Karnataka bandh, Cauvery row and traffic disruptions, here’s what’s trending today in Bengaluru",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bandh-cauvery-row-and-traffic-disruptions-heres-whats-trending-today-in-bengaluru/articleshow/133206231.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133206434,width-1280,height-720,imgsize-194212,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVOakY0V1RCbFdGZHViR2xKVFJDZkF4ampCU2dLTWdhQkVJU05uUVk",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Bangalore bandh today August 13: Will taxi, bus, metro, airport, rail service be affected? Check strike ti",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/bangalore-bandh-today-august-13-will-taxi-bus-metro-airport-rail-service-be-affected-check-strike-timings-areas-and-services-that-may-be-affected/articleshow/133188759.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-133196887,width-1200,height-900,resizemode-4,imgsize-189540/bangalore-bandh-today-update.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjazVSYkRWbGRscENZMk51VFJEZ0F4aUFCU2dLTWdhZGtJU1VRQVk",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Bengaluru Street Vendors Call Bandh, Mass Protest Against Illegal Evictions",
+      "source": {
+        "name": "cpiml.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cpiml.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cpiml.org/mlupdate/bengaluru-street-vendors-call-bandh-mass-protest-against-illegal-evictions",
+      "thumbnail": "http://cpiml.org/uploads/banners/20260708110639.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpaVlJoVG1sdlRqVk1TakJpVFJDZkF4ampCU2dLTWdZQkVKU0VrZ28",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Bengaluru street vendors call for citywide bandh over footpath eviction drive",
+      "source": {
+        "name": "The South First",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thesouthfirst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://thesouthfirst.com/karnataka/bengaluru-street-vendors-call-for-citywide-bandh-over-footpath-eviction-drive/",
+      "thumbnail": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/07/The-Greater-Bengaluru-Authority-removed-roadside-stalls-as-part-of-Safe-Footpath-Campaign.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFiak5QV1VGMlEyUTBVRlpZVFJDZkF4ampCU2dLTWdZQlFKRHBvUWc",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Service road closure triggers major ORR traffic chaos in Bengaluru",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/service-road-closure-triggers-major-orr-traffic-chaos-in-bengaluru-4093844",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-07-30%2Fq3orlrej%2Ffile86xy4qe8krczamlhmqj.jpg?rect=0%2C0%2C1280%2C720&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUVaM1U0T0RabGQySlpXalY2VFJDZkF4ampCU2dLTWdzSkVJWUxJT2hUMFluQndR",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 14,
+      "title": "Bandh call fails to slow Bengaluru",
+      "source": {
+        "name": "Bangalore Mirror",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bangaloremirror.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bangaloremirror.indiatimes.com/bangalore/others/bandh-call-fails-to-slow-bengaluru/articleshow/133218740.cms",
+      "thumbnail": "https://bangaloremirror.indiatimes.com/thumb/msid-133218760,width-1200,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWFSMHhHWDFBMk16QndkVTF6VFJEZ0F4aUFCU2dLTWdzQlFJQ21uYWdqbGxobUhn",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "Karnataka bandh evokes lukewarm response in Bengaluru, Mysuru, Belagavi",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-bandh-evokes-lukewarm-response-in-mysuru/article71339865.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/a4nmjd/article71340106.ece/alternates/LANDSCAPE_1200/2303_13_8_2026_12_9_4_2_BUSESINMYSURU.JPEG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhhWGhDYm5SbmFHZzJiRVpQVFJDZkF4ampCU2dLTWdrQlVJNEZMS2Rxc2dF",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Cauvery bandh evokes mixed response in Karnataka; Mandya farmers block highway with empty pots",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/cauvery-bandh-evokes-mixed-response-in-karnataka-mandya-farmers-block-highway-with-empty-pots/articleshow/133228243.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133228243,width-1280,height-720,imgsize-154598,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtSRkZRWDNCSmVUUkdjMGx2VFJDZkF4ampCU2dLTWdZQmdJeG53QVU",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "Bengaluru Road Closure Disrupts Central City Connectivity",
+      "source": {
+        "name": "Urban Acres",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://urbanacres.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://urbanacres.in/bengaluru-road-closure-disrupts-central-city-connectivity/",
+      "thumbnail": "https://urbanacres.in/wp-content/uploads/2026/08/file81znzscrqtl1jvpqaa5-1024x576.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9SRTQ1UkdodlZqQnZSMEZ4VFJDZkF4ampCU2dLTWdzQkVJVEpIT2E1THBrZ1ZR",
+      "date": "08/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-01T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Street vendors protest against Bengaluru's footpath eviction drive",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/street-vendors-protest-footpath-eviction-drive-4062543",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-07-05%2Flg9f4ol4%2Ffile86kori2w4o8v5k8cnl3.jpg?rect=0%2C0%2C996%2C560&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNUVSbkZ0Yldkc1V6bG5jRlZ0VFJDZkF4ampCU2dLTWc0QklJU2dKZWNzWlFxeVhMcG1MZw",
+      "date": "07/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-04T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Bengaluru footpath eviction drive: Street vendors call for citywide bandh on July 8",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-footpath-eviction-drive-street-vendors-call-for-citywide-bandh-on-july-8-4064506",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-07-06%2F8yx40xyf%2Ffile86j08g21jl4265nzehd.jpg?rect=0%2C0%2C3873%2C2179&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNTVOMDEyT1ZGMldVaE9YM2xSVFJDZkF4amlCU2dLTWc2Qk1JcUxGZWt6TWlueVk1NjZJZw",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Bengaluru businesses affected due to 60-day closure of Kamaraj Road for construction",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Arnabi Mallick"
+        ]
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/shopkeepers-count-losses-as-kamaraj-road-shuts-4016047",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-05-25%2Fznb4ygim%2Ffile86042kem12fojuyxmqw.jpg?rect=0%2C0%2C1600%2C900&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNkMGhTZVdGUVpTMXhhazkyVFJDZkF4ampCU2dLTWdZQkFJaW1CQXc",
+      "date": "05/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-25T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Bengaluru street vendors call shutdown on July 8, allege seizures without advance notice",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/bengaluru-street-vendors-strike-gba-footpath-eviction-protest-10775294/",
+      "thumbnail": "https://images.indianexpress.com/2026/07/street-vendors.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNhRmxGT0ZkNVQweGZWMFZ1VFJDZkF4ampCU2dLTWdZQkVJYXp1QVE",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Bengaluru small traders, street vendors to go on strike from June 18",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2026/Jun/17/bengaluru-small-traders-street-vendors-to-go-on-strike-from-june-18",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2026-02-18%2Fc75x8f62%2FC_35_1_CH0282_66564928.jpg?rect=0%2C21%2C450%2C253&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNRemRYUW5WTlNubFdUVGxqVFJEOUFSakNBeWdLTWdZQmNJYnhQQVE",
+      "date": "06/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-17T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Bengaluru Street Vendors Call Citywide Shutdown Against Eviction Drive",
+      "source": {
+        "name": "Pioneer Daily",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailypioneer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dailypioneer.com/news/bengaluru-street-vendors-call-for-strike-over-ongoing-eviction-drive",
+      "thumbnail": "https://dailypioneer.com/uploads/2026/story/images/big/bengaluru-street-vendors-call-for-strike-over-ongoing-eviction-drive-2026-07-08.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdlRVJqZUZsSk5tbFBXVVZEVFJDbUF4alhCU2dLTWdB",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "After HC order, no bus strike from today",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/after-hc-order-no-bus-strike-from-today/articleshow/131210907.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-117518781,width-1280,height-720,imgsize-317946,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW9UalpUYTNkVlptZENkVk5UVFJDZkF4ampCU2dLTWdzUlU0eU1wU1NpYjBrVFZB",
+      "date": "05/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-20T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Vendors challenge legality of eviction drive in Bengaluru, to protest Wednesday",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/vendors-challenge-legality-of-eviction-drive-in-bengaluru-to-protest-wednesday/articleshow/132223737.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Bengaluru ORR Closure Triggers Traffic Disruptions",
+      "source": {
+        "name": "Urban Acres",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://urbanacres.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://urbanacres.in/bengaluru-orr-closure-triggers-traffic-disruptions/",
+      "thumbnail": "https://urbanacres.in/wp-content/uploads/2026/07/images.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJURTB6WDBVdE9FUklYMnhxVFJEdEFoaWpCQ2dLTWdhQllaYkpxUWM",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Cauvery water bandh fizzles in Bengaluru as buses, metro and shops operate normally",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/cauvery-bandh-lukewarm-impact-on-bengaluru-as-buses-metro-shops-operate-normally/articleshow/133217636.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133217636,width-1280,height-720,imgsize-165653,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpkRUZHU0U5V1l5MWhZWEZPVFJDZkF4ampCU2dLTWdrQlVJeUNObWJRVkFF",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Lowry Under Bridge in Bengaluru closed from June 4",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2026/May/31/lowry-under-bridge-in-bengaluru-closed-from-june-4",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-05-31/ga4mdyv8/Lowry-under-bridge.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBabU0zWTFKTVEyRnlaak00VFJDZkF4ampCU2dLTWdNZHdBQQ",
+      "date": "05/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-31T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "Cauvery row: As Vatal Nagaraj announces Karnataka bandh tomorrow, many organisations back off",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/cauvery-row-as-vatal-nagaraj-announces-karnataka-bandh-tomorrow-many-organisations-back-off/articleshow/133185810.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133185882,width-1280,height-720,imgsize-1329066,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhbTVsVUdORFRTMXNNbll4VFJDZkF4ampCU2dLTWdZQlFJNkZJZ2s",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "Peenya elevated flyover closure in Bengaluru: Take these routes to avoid early-morning traffic snarls",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/peenya-flyover-closure-bengaluru-traffic-diversions-timings-10675799/",
+      "thumbnail": "https://images.indianexpress.com/2026/05/Traffic-6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVFhVk5CWW1kTk9VeDVWMVJWVFJDZkF4ampCU2dLTWdzQkVJVE9GQ1RRS2FxbVBB",
+      "date": "05/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-06T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "Karnataka bandh 2026: What's open and what's closed on August 13",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bandh-2026-whats-open-and-whats-closed-on-august-13/articleshow/132866936.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-133179859,width-1280,height-720,imgsize-1078867,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBXVU5rV2tSdWRXcE1VMmQyVFJDZkF4ampCU2dLTWdhQkdaTGpKZ2c",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Chennai-Bangalore route update: Skip this stretch for a smoother drive",
+      "source": {
+        "name": "Team-BHP",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.team-bhp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarthak Bhadane"
+        ]
+      },
+      "link": "https://www.team-bhp.com/news/chennai-bangalore-route-update-skip-stretch-smoother-drive",
+      "thumbnail": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/Chennai%20Bangalore%20drive%20route%20update.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRiazVXWHpsYVIxOVVjVVk0VFJEZ0F4aUFCU2dLTWdZQjhJWmgxd00",
+      "date": "05/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Karnataka govt announces half-day closure of Vidhan Soudha offices for Shivakumar's swearing-in on June 3",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/karnataka-govt-announces-half-day-closure-of-vidhan-soudha-offices-for-shivakumars-swearing-in-on-june-3-4024634",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-06-02%2Foa4j9ftl%2Ffile863oayluzpk9x50h6zl.jpg?w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkMWRmTlhoWU9URjFObUU0VFJDZkF4ampCU2dLTWdZVjRZWUx6Z00",
+      "date": "06/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-02T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Lower Agaram Road Closure Disrupts Bengaluru Connectivity",
+      "source": {
+        "name": "urbanacres.in",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://urbanacres.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://urbanacres.in/lower-agaram-road-closure-disrupts-bengaluru-connectivity/",
+      "thumbnail": "https://urbanacres.in/wp-content/uploads/2026/08/JAI6243.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBWblpzWW1WZmJuWnpRMDFGVFJDZkF4ampCU2dLTWdB",
+      "date": "08/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-02T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Minister warns employees not to participate in bus strike",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/minister-warns-employees-not-to-participate-in-bus-strike/articleshow/131183800.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131183799,width-1280,height-720,imgsize-302270,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW9TRTVrWkd4d1J6TnVVbU5PVFJDZkF4amlCU2dLTWd1QkVZU3kxR0dZcEpyY1JB",
+      "date": "05/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-18T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "Trade unions call indefinite bus strike from May 20 over ‘unilateral’ pay revision",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/trade-unions-call-indefinite-bus-strike-from-may-20-over-unilateral-pay-revision/articleshow/131074941.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-131074932,width-1280,height-720,imgsize-16976,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFXazl1T0dJd0xVeERWVXRsVFJDZkF4amlCU2dLTWdhZE5Jck5JUWM",
+      "date": "05/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Buses to go off the roads in Karnataka from May 20 as unions announce second strike in 3 months",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/karnataka-bus-strike-may-20-wage-hike-protest-10687849/",
+      "thumbnail": "https://images.indianexpress.com/2026/05/Karnataka-KSRTC-bus.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpNRm93YUZvd1Z5MDJZazFqVFJDZEF4am5CU2dLTWdrSkVJYnBEV1ZFN0FF",
+      "date": "05/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "70–80 pc pharmacies remained open in Karnataka despite nationwide bandh",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gayathri M Kurup"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/states/karnataka/2026/May/21/7080-pc-pharmacies-remained-open-in-karnataka-despite-nationwide-bandh",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-05-20/lo2yep6u/pharmacies.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdWWE13UldVNWRHZFlOa3RUVFJEX0FoaWdCaWdLTWdrQklJYXFGYVZ6OWdB",
+      "date": "05/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-21T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Bangalore Bandh Today, August 13: Airport Issues Travel Advisory; How To Navigate Traffic & Highway Routes",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pooja Jaiswar"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/bangalore-bandh-today-august-13-travel-advisory-highway-disruptions-kempegowda-airport-advisory-1528089.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/08/bangalorebandhtoday1-33921786583696.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUNlalIwYkZocVIySmpRUzF5VFJDRUF4allCQ2dLTWdB",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Traffic Advisory: Bengaluru police issue advisory for April 26, major road closures for TCS World 10k Maratho",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joy Pillai"
+        ]
+      },
+      "link": "https://www.india.com/news/india/traffic-advisory-bengaluru-police-issue-advisory-april-26-major-road-closures-tcs-world-10k-marathon-check-routes-diversions-field-marshal-sam-manekshaw-parade-ground-ulsoor-lake-8392933/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/04/bengaluru-traffic-advisory.png?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU1la0pqWkZwTVdqSm5TVFp1VFJERUF4aW1CU2dLTWdzQkFJUnBGQ1VWWTJ1SlJR",
+      "date": "04/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-25T07:00:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Street vendors in Bengaluru call for protest, bandh on Jul 8 over footpath eviction drive",
+      "source": {
+        "name": "Udayavani",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://udayavani.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://udayavani.com/karnataka/street-vendors-in-bengaluru-call-for-protest-bandh-on-jul-8-over-footpath-eviction-drive-116006?lang=en",
+      "thumbnail": "https://d3jde0c4xcko0v.cloudfront.net/production/07-07-26/news/60g4rdmraoc75sFotoJet%20-%202026-07-07T184738.580.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNDNkVEJpY1V4VE5VSlVlRVozVFJDdEF4akxCU2dLTWc2QkVJYkFIdVNSSXF2bW9WNVNEdw",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Bengaluru Strike Tomorrow: Why Small Shops and Street Vendors Are Shutting Down Across the City On June 18?",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Madhulika Pandey"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/bengaluru-strike-tomorrow-why-small-shops-and-street-vendors-shutting-down-across-the-city-june-18-1516165.html",
+      "thumbnail": "https://images.goodreturns.in/img/2026/06/bengalurustriketomorrow6-1781691489.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9OR2hXTURaSWVIVjRXRXAyVFJEU0FoallCQ2dLTWdZUkE1QkpGUVk",
+      "date": "06/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-17T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Bengaluru traffic alert: MG Road resurfacing to begin tomorrow, Bangalore University road closed",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/bengaluru-traffic-alert-mg-road-resurfacing-to-begin-tomorrow-bangalore-university-road-closed-10564333/",
+      "thumbnail": "https://images.indianexpress.com/2026/03/Photo-8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFNRVpKYUdOMGIxVm1OREJWVFJDZkF4ampCU2dLTWdZQmNJWlZRQVU",
+      "date": "03/04/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-04T08:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Proposed four day closure of Bengaluru’s Peenya elevated flyover closure gets deferred",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/bengalurus-peenya-elevated-flyover-4-daysalternative-routes-you-can-take-10630634/",
+      "thumbnail": "https://images.indianexpress.com/2026/04/Untitled-design-4.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZVRTVJZWpRdE1tdEhOelUxVFJDZkF4ampCU2dLTWdNQlFBNA",
+      "date": "04/11/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-11T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Bengaluru's Peenya flyover may shut for 82 hours from April 13 to April 17",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Muthi-ur-Rahman Siddiqui"
+        ]
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-peenya-flyover-may-shut-for-82-hours-from-april-13-to-april-17-3962610",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-04-09%2Frhu634xr%2Ffile85cgsqshmk41eg5jsikj.jpg?rect=0%2C0%2C1280%2C720&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdPR28wWkMxM1NEQXlTMUl5VFJDZkF4ampCU2dLTWdZQmNJcXZPUWM",
+      "date": "04/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-09T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "Panathur Road closure adds an hour to HAL Airport Road rush hour, chokes Marathahalli bridge",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/national/karnataka/panathur-road-closure-adds-an-hour-to-hal-airport-road-rush-hour-chokes-marathahalli-bridge/article70262827.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/j447g1/article70268753.ece/alternates/LANDSCAPE_1200/_DSC6432.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdZMkZRUkhGUmFreFZhMU52VFJDZkF4ampCU2dLTWdtQlVZQWl3ZUpMQ1FJ",
+      "date": "11/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-11T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Underpass work without alternate road leaves Bengaluru's Dodda Alada Mara Road residents stranded",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/underpass-work-without-alternate-road-leaves-bengalurus-dodda-alada-mara-road-residents-stranded-3838918",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2025-12-21%2F8nm9aa8t%2Ffile83sbrl0irx21ef8sjieu.jpg?rect=0%2C0%2C1600%2C900&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVTSE4zVFdocFFsUnhkWFpaVFJDZkF4ampCU2dLTWdZQmdKWXF0Z2M",
+      "date": "12/21/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-21T08:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Traffic diversions around Freedom Park in Bengaluru",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/traffic-diversions-around-freedom-park-in-bengaluru/articleshow/129737708.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-117518785,width-1280,height-720,imgsize-342498,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUlhSG94Vkc5VFVYZFphWFpUVFJDZkF4ampCU2dLTWdzTlU0eU1vZVNwYjBrVFhB",
+      "date": "03/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-23T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Bengaluru traffic advisory: Road closure, parking ban announced on these roads ahead of Rahul Gandhi rally",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/new-updates/bengaluru-traffic-advisory-police-announe-road-closure-parking-ban-on-these-roads-ahead-of-rahul-gandhi-rally/articleshow/123179847.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-123179899,width-1200,height-900,resizemode-4,imgsize-217866/bengaluru-traffic.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRVa1JZY1dsMVZFeEJkMmRLVFJEZ0F4aUFCU2dLTWdZQlVJU0tyQU0",
+      "date": "08/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-08T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Bengaluru’s Marathahalli bridge will be closed for 3 days for metro construction. Check traffic diversions and alternative routes",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/bengalurus-marathahalli-bridge-will-be-closed-for-3-days-for-metro-construction-check-traffic-diversions-and-alternative-routes-10602417/",
+      "thumbnail": "https://images.indianexpress.com/2026/03/Photo-4-3.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhjV2hFWW1aZlZUZFpPRXR1VFJDZkF4ampCU2dLTWdZTkVveUltUWc",
+      "date": "03/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-27T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Bengaluru traffic alert: Road closure, parking curbs in place ahead of Rahul Gandhi-led Congress protest",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/traffic-alert-road-closure-parking-curbs-rahul-gandhi-congress-protest-10177216/",
+      "thumbnail": "https://images.indianexpress.com/2025/08/gandhi-4.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhjM1YyUm5KUGJGVk9lRmh3VFJDZkF4ampCU2dLTWdZVlU1Um9JZ2c",
+      "date": "08/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-08T07:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Bengaluru's Sarjapur Road closure: Here are the alternative routes to take",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-sarjapur-road-closure-here-are-the-alternative-routes-to-take-3746732",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2025-09-29%2Fupiidr8g%2Ffile7ynw9edxyn5oom6cmmr.jpg?w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZa0pzVUhCTVkwWjNRbEZWVFJDZkF4ampCU2dLTWdhSlpvNG5KZ1U",
+      "date": "09/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-29T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Bengaluru: K R Puram–Nagawara service road shut until Wednesday for pipeline work",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-k-r-puramnagawara-service-road-shut-until-wednesday-for-pipeline-work-3820409",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2025-12-04%2Fxdgf0gie%2Ffile7v0utudbalyrrbzb31u.jpg?w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJkbVZwVGtORlZqSTVka3hFVFJDZkF4ampCU2dLTWdhTlVZYkl0UU0",
+      "date": "12/04/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-04T08:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Railway bridge closure on Bangalore University road frustrates motorists",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/railway-bridge-closure-on-bangalore-university-road-frustrates-motorists/articleshow/129109672.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-129109663,width-1280,height-720,imgsize-62630,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFkR1YyV1Zoc01rVkZaRXBvVFJDZkF4amlCU2dLTWdB",
+      "date": "03/06/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-06T08:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Bengaluru traffic advisory: Festive season congestion, Sarjapur road closure ahead; check alternate route",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-traffic-advisory-festive-season-congestion-sarjapur-road-closure-ahead-check-alternate-routes/articleshow/124207213.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-124207317,width-1280,height-720,resizemode-72/124207317.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXROalo0WjNwTGFYaFZhbU40VFJDZkF4ampCU2dLTWdrQkFJQUVFU00yVEFF",
+      "date": "09/29/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-29T07:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "Bengaluru traffic police temporarily halt BMRCL’s Bannerghatta Road partial closure proposal over notification issue",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-traffic-police-temporarily-halt-bmrcls-bannerghatta-road-partial-closure-proposal-over-notification-issue/article68016433.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/coun5a/article68017256.ece/alternates/LANDSCAPE_1200/_KMK1098.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVpTSEJ3Y25kNVZqTmlSRm80VFJDZkF4ampCU2dLTWdzQkFJYUZHR1l0TkFsTjBR",
+      "date": "04/01/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-04-01T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "12km in 2 hours: Bengaluru ORR traffic turns a nightmare after bus breaks down on outer ring road; IT cor",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nithya Mandyam"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/12km-in-two-hours-bengaluru-traffic-turns-a-nightmare-after-bus-breaks-down-on-outer-ring-road/articleshow/124559385.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-124565806,width-1280,height-720,resizemode-72/124565806.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUalF3Y2tWcE1YUXlTMmx3VFJDZkF4ampCU2dLTWdZQkFJeXpvQWM",
+      "date": "10/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-15T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Bengaluru's Hosur Road reopens for traffic after temporary closure due to flooding | Bengaluru",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/cities/bengaluru-news/bengalurus-hosur-road-closed-due-to-heavy-flooding-traffic-police-issue-advisory-101747716560829.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/05/20/1600x900/his_1747716995559_1747716999076.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTBabVp2Um10d1lqa3RkbWhWVFJDZkF4ampCU2dLTWdB",
+      "date": "05/20/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-20T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Bengaluru: Peenya flyover shut, brace for traffic diversions",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengaluru-peenya-flyover-shut-brace-for-traffic-diversions-3963961",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2024-04%2F84ed42ca-c713-47be-984f-8f2d86d51a83%2Ffile7s9phnvytghtnh9df3m.jpg?rect=0%2C59%2C3147%2C1770&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVZYMGc0TkhsTlVIWkhaM2hrVFJDbUF4alhCU2dLTWc0QkFJUWl3bU5UcHhwVFBaNjVJZw",
+      "date": "04/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-10T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "To decongest Marathahalli Bridge Junction, Bengaluru police announce traffic curbs on trial basis",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/marathahalli-bridge-junction-police-traffic-curbs-10423964/",
+      "thumbnail": "https://images.indianexpress.com/2025/12/bengaluru-traffic-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5TM2N6WVdkaGIxaENkR05rVFJDZkF4ampCU2dLTWdhQmtJUVF5UVE",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-16T08:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "PM Modi in Bengaluru: Traffic restrictions around Electronic City",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/pm-modi-in-bengaluru-traffic-restrictions-around-electronic-city-3673915",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2025-08-09%2Fmh39j3r9%2Ffile81vhtod0at1clhqg2q7.jpg?rect=0%2C0%2C1200%2C675&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU5WMWRvVEVwYU5EVjVOMmRJVFJDZkF4ampCU2dLTWdNRndBQQ",
+      "date": "08/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-09T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Relief for Bengaluru commuters: Kamaraj Road Fully Open After 6 Years",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/relief-for-bengaluru-commuters-kamaraj-road-fully-open-after-6-years/photostory/126318403.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-126318409/126318409.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdTVUZsVW1OVlVqUnNZM05uVFJDZkF4ampCU2dLTWdZQm9JUWF0QVk",
+      "date": "01/03/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-03T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Panathur-Balagere road in Bengaluru reopens",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/panathur-balagere-road-in-bengaluru-reopens/articleshow/125369364.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-117518770,width-1280,height-720,resizemode-72/117518770.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlXVTVoWTNOU1NWZzRhV1JqVFJDZkF4ampCU2dLTWdrUlU0d290V1J6YUFJ",
+      "date": "11/17/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-17T08:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Clearance of 26 months' arrears: Road Transport Corporation staff hold stir in Bengaluru",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/rtc-staff-hold-stir-in-b-luru-3904978",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2026-02-19%2F9xigu6gy%2Ffile84n7jxbmd53ta0vep0j.jpg?rect=0%2C0%2C3896%2C2192&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpTV2QxZGtWVE9VUlJTVmRwVFJDZkF4amlCU2dLTWdrQmNJNXR1R1doN1FF",
+      "date": "02/19/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-19T08:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Karnataka bandh today: Schools to function normally, districts on alert",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/bharat-bandh-today-schools-to-function-normally/articleshow/128234489.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-128235840,width-1280,height-720,imgsize-51120,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNTZjbmMxY21zNVpraDVObTFaVFJDZkF4ampCU2dLTWc0Qk1JcDByS1dCS01wQnFTNzJJQQ",
+      "date": "02/12/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-12T08:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Hosur flyover shut after developing lateral shift; closure leads to 3-km traffic jam on Bengaluru-Chennai highway",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/hosur-flyover-shut-after-developing-lateral-shift-closure-leads-to-3-km-traffic-jam-on-bengaluru-chennai-highway-10080956/",
+      "thumbnail": "https://images.indianexpress.com/2025/06/US-President-Donald-Trump-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRjell3WDFJeU5YWnliVTFOVFJDZkF4ampCU2dLTWdNTk1nNA",
+      "date": "06/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-06-22T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Bengaluru's Outer Ring Road comes to a halt after BMTC bus breakdown",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/news/india/bengalurus-outer-ring-road-comes-to-a-halt-after-bmtc-bus-breakdown-13616118.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251014123514_pto.jpg?impolicy=website&width=350&height=196",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRSR3hQYjB0YVRYTkNWVkozVFJERUFSamVBaWdLTWdZUlFJQk4xUUk",
+      "date": "10/14/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-14T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Malleshwaram–Majestic Road Shut For 3 Months, 10-Minute Drive Now Takes An Hour",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.news18.com/photogallery/cities/bengaluru-news/malleshwaram-majestic-road-shut-for-3-months-10-minute-drive-now-takes-an-hour-skn-ws-l-9816593.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/01/road-closure-2026-01-08366e503ca2272018a327722bbae27f.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthbE4zTjNkQ1NERm5Xa0p0VFJDZkF4ampCU2dLTWdZQkFJYkFTUVE",
+      "date": "01/08/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-08T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Bengaluru’s Bannerghatta Road to be partially closed for a year: Details",
+      "source": {
+        "name": "The News Minute",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thenewsminute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thenewsminute.com/karnataka/bengalurus-bannerghatta-road-to-be-partially-closed-for-a-year-details",
+      "thumbnail": "https://cf-images.assettype.com/thenewsminute/2024-03/864c7ffb-de6b-4b9c-885f-60a0650275be/GJ54qt7WIAAWnXf.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpPRE5VVms1SVVGTnlTVFkxVFJEUkF4aVRCU2dLTWdZWkk0S1BHUXM",
+      "date": "03/30/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-30T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "White-topping: Bengaluru’s Panathur Road shut for 21 days",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/white-topping-bengalurus-panathur-road-shut-for-21-days-3759281",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2025-10-10%2Fsgmm3nib%2FiStock-1158008959.jpg?rect=0%2C1%2C3864%2C2174&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHplVEZaTFZaMmJISjJWbnA0VFJDZkF4amlCU2dLTWdB",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Bengaluru outer ring road closed for 45 days due to metro construction: Check alternatives",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cnbctv18.com/india/bengaluru-outer-ring-road-closed-for-45-days-due-to-metro-construction-check-alternatives-19708632.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2025/10/bengaluru-traffic-2025-10-25cff58fc0ed5fc851c8391518c5e13b.jpg?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFVVjg0VnpWaFYxQmxiSEpMVFJDZkF4ampCU2dLTWdrQkVJS2t4R0pNNlFF",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Whitetopping: Deadline to reopenBengaluru road extended",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/whitetopping-deadline-to-reopenbengaluru-road-extended/articleshow/124793936.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-124793934,width-1280,height-720,resizemode-72/124793934.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJabUZ4VUY5dU1rMWtTR1UzVFJDZkF4amlCU2dLTWdhaFk0YU5OUVU",
+      "date": "10/25/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-25T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Bengaluru's Outer Ring Road snarls: Traffic Police warns of heavy evening jam amid flyover closure | Bengaluru",
+      "source": {
+        "name": "Hindustan Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.hindustantimes.com/cities/bengaluru-news/bengalurus-outer-ring-road-snarls-traffic-police-warns-of-heavy-evening-jam-amid-flyover-closure-101739361327542.html",
+      "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/02/12/1600x900/PTI03-19-2022-000168B-0_1647853388634_1739361582224.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU1UWGRKZFZwYVUwdFlkV0ZZVFJDZkF4ampCU2dLTWdzQkFJcWdIR1ppSlVzbVhR",
+      "date": "02/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-12T08:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Egg-wielding highwaymen strike twice on B’luru-Mys road",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rajiv Kalkod"
+        ]
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/egg-wielding-highwaymen-strike-twice-on-bluru-mys-road/articleshow/116691176.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-116691172,width-1280,height-720,resizemode-72/116691172.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWFSVjlZZEc1SWMxSkNZVWhCVFJDZ0F4amlCU2dLTWdzbEk0aHZxU1NMMDFqVGlR",
+      "date": "12/26/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-12-26T08:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Metro work: ORR service road in Bengaluru’s HSR Layout to remain closed for 45 days",
+      "source": {
+        "name": "The Hindu",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thehindu.com/news/cities/bangalore/metro-work-orr-service-road-in-bengalurus-hsr-layout-to-remain-closed-for-45-days/article70140446.ece",
+      "thumbnail": "https://th-i.thgim.com/public/incoming/cpmll9/article70143140.ece/alternates/LANDSCAPE_1200/ORR%20HSR%204.JPEG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVOWFZPWTJjNFJqZ3dWemR4VFJDZkF4ampCU2dLTWdZZE1vQ01SUUk",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-08T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "In Brief: BEL road closure sparks outrage",
+      "source": {
+        "name": "Bangalore Mirror",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bangaloremirror.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bangaloremirror.indiatimes.com/bangalore/others/in-brief-bel-road-closure-sparks-outrage/articleshow/123067745.cms",
+      "thumbnail": "https://bangaloremirror.indiatimes.com/thumb/msid-62986185/62986185.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iKENnNWxiRzlUZDFNemVUaHhjVEozVFJCa0dHUW9DaklHaVlHVTU3QUg",
+      "date": "08/03/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-03T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "Bus breaks down on Bengaluru's ORR, traffic hit for hours",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2025/Oct/15/bus-breaks-down-on-bengalurus-orr-traffic-hit-for-hours",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-10-14/jfa3sj6u/Bus-breaks.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iRTVSU25KMWVWRlVjM0JmVFJEUEJCaUhCQ2dLTWdZQmNJcUZRZ1U",
+      "date": "10/15/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-15T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Bengaluru news: Hebbal flyover ramp closure, Traffic swells on roads below, but no congestion",
+      "source": {
+        "name": "Deccan Herald",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.deccanherald.com/india/karnataka/bengaluru/hebbal-flyover-ramp-closure-traffic-swells-on-roads-below-but-no-congestion-2983029",
+      "thumbnail": "https://media.assettype.com/deccanherald%2F2024-04%2F4ca5b714-e807-4d49-947f-b304977b5b68%2Ffile7v1c6c67e52dacw4bb5.jpg?rect=0%2C0%2C3876%2C2180&w=undefined&auto=format%2Ccompress&fit=max",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtORkZOWjBOeFpsOTJaaTFpVFJDZkF4ampCU2dLTWdhQkVJQ0xHUU0",
+      "date": "04/17/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-04-17T07:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Sugarcane farmers’ indefinite strike enters 4th day, pressure mounts on govt",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/hubballi/sugarcane-farmers-indefinite-strike-enters-4th-day-pressure-mounts-on-govt/articleshow/125037617.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-125037616,width-1280,height-720,resizemode-72/125037616.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNRamh4VERSU1YwTjRPVWxsVFJDZkF4ampCU2dLTWdNVlFnUQ",
+      "date": "11/03/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-03T08:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "Caught on camera: School bus topples over pothole in Bengaluru, 20 children rescued",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nagarjun Dwarakanath"
+        ]
+      },
+      "link": "https://www.indiatoday.in/cities/bengaluru/story/ktaka-bengaluru-potholes-strike-again-school-bus-topples-inpanathur-main-road-20-kids-rescued-2786097-2025-09-12",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202509/bengaluru-potholes-strike-again-school-bus-topples-inpanathur-main-road--20-kids-rescued-12082948-16x9_0.jpeg?VersionId=cWZcPeJAIt_HsDjoBcaBfRKqdJW1LfsX&size=1280:720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZWVkZxU0hoemRrNWpRV1IwVFJDZkF4ampCU2dLTWdZQkE0eE5EUVk",
+      "date": "09/12/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-09-12T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "Inter-state buses remain off road, continue strike over ‘unfair taxes’",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/states/kerala/2025/Nov/28/inter-state-buses-remain-off-road-continue-strike-over-unfair-taxes",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2025-11-27%2F9dnu8keo%2FInter-state-buses-remain.jpg?rect=0%2C0%2C626%2C352&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWVTlEV1hCS2QyMWlZMFkxVFJEZ0FoanlCQ2dLTWdZQkFJTG5rUW8",
+      "date": "11/28/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-28T08:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Section of Bannerghatta road to remain closed for one year from April 1 for Metro work",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2024/Mar/30/section-of-bannerghatta-road-to-remain-closed-for-one-year-from-april-1-for-metro-work",
+      "thumbnail": "https://cf-images.assettype.com/TNIE/import/2019/6/22/original/Engineer_attacked.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBOMFZ6WVdoWGIwMVBZM3BzVFJDRkF4aVRCaWdLTWdZQmNJd29zZ1U",
+      "date": "03/30/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-03-30T07:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "Devarabisanahalli-Sakra Road Closure: BBMP Shuts Major Bengaluru Road For 60 Days For Upkeep; Check Alternate Routes",
+      "source": {
+        "name": "Curly Tales",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://curlytales.com/devarabisanahalli-sakra-road-closure-bbmp-shuts-major-bengaluru-road-for-60-days-for-upkeep-check-alternate-routes/",
+      "thumbnail": "https://curlytales.com/wp-content/uploads/2024/11/bluru-road.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdjR0o0WVhVMWJVazNhblpKVFJDZkF4ampCU2dLTWdhNUVJcnpIQWM",
+      "date": "11/15/2024, 08:00 AM, +0000 UTC",
+      "iso_date": "2024-11-15T08:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Bengaluru Bus Strike Updates: Why drivers are protesting, what to expect, and are cabs and private buses o",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/bengaluru-news/bengaluru-bus-strike-updates-why-drivers-are-protesting-what-to-expect-and-are-cabs-and-private-buses-operating/articleshow/123108242.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-123108407,width-1200,height-900,resizemode-4,imgsize-62974/bengaluru-bus-strike-update.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBTVFJaWVZwcFZIcEVTRVpTVFJEZ0F4aUFCU2dLTWdZQkFKUW5CUTQ",
+      "date": "08/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-05T07:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Bengaluru's Bannerghatta Road to be closed for a year: Here are alternate routes and advisory",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/bengaluru-news/bengalurus-bannerghatta-road-to-be-closed-for-a-year-here-are-alternate-routes-and-advisory/articleshow/108933040.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-108933215,width-1200,height-900,resizemode-4,imgsize-302788/bengaluru-vehicles-stuck-in-a-traffic-jam-after-the-elevated-road-near-peenya-w-.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRZbGRMV2t4RmJUQnNiV2h5VFJEZ0F4aUFCU2dLTWdZaE1JWU9yQU0",
+      "date": "04/01/2024, 07:00 AM, +0000 UTC",
+      "iso_date": "2024-04-01T07:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "Road near Dodda Alada Mara to be closed for 9 months",
+      "source": {
+        "name": "Bangalore Mirror",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bangaloremirror.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bangaloremirror.indiatimes.com/bangalore/others/road-near-dodda-alada-mara-to-be-closed-for-9-months/articleshow/125798275.cms",
+      "thumbnail": "https://bangaloremirror.indiatimes.com/thumb/msid-62986185/62986185.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iKENnNWxiRzlUZDFNemVUaHhjVEozVFJCa0dHUW9DaklHaVlHVTU3QUg",
+      "date": "12/06/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-06T08:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "KSRTC deploys over 20 additional services to Bengaluru amid private bus strike",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/states/kerala/2025/Nov/11/ksrtc-deploys-over-20-additional-services-to-bengaluru-amid-private-bus-strike",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-09-25/y0gdyp81/C_32_1_CH0343_69684330.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRlbVpPVDBOVlVUWnNURVZVVFJEZ0F4al9CQ2dLTWdhUlJJZ3JLZ1E",
+      "date": "11/11/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-11T08:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "Karnataka Bandh on March 22: Cabs, autos may stay off roads",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/march-22-karnataka-bandh-is-on-say-some-pro-kannada-outfits/articleshow/119174535.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-119190254,width-1280,height-720,resizemode-72/119190254.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZSRTF6V1RkM1dUVm9Na3hXVFJDZkF4ampCU2dLTWdhQkFZd3JuUW8",
+      "date": "03/20/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-20T07:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "Karnataka bus strike leaves several long-distance commuters in lurch",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bus-strike-leaves-several-long-distance-commuters-in-lurch/articleshow/123126061.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-123126060,width-1280,height-720,resizemode-72/123126060.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkMHRHVkdab1VVUlJUSFZJVFJDZ0F4amlCU2dLTWdhSkVvUkpwUU0",
+      "date": "08/06/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-06T07:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "Karnataka transport union suspends strike till Thursday, KSRTC staff told to resume work",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sanath Prasad"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/karnataka-transport-union-suspends-strike-ksrtc-staff-resume-work-10171719/",
+      "thumbnail": "https://images.indianexpress.com/2025/08/Karnataka-strike-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFaMFpaYkVNMGFGcEVVM0JuVFJDZkF4ampCU2dLTWdNQlVBUQ",
+      "date": "08/05/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-08-05T07:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Hosur Road in Bengaluru Reopens After Temporary Closure Post Heavy Rainfall; Check Other Waterlogged Routes",
+      "source": {
+        "name": "Goodreturns",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Madhulika Pandey"
+        ]
+      },
+      "link": "https://www.goodreturns.in/news/hosur-road-in-bengaluru-reopens-after-temporary-closure-post-heavy-rainfall-check-waterlogged-route-1430325.html",
+      "thumbnail": "https://images.goodreturns.in/img/2025/05/bengaluru-rains-1200-wise-1747653464580-600x338-1747727366.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5RbWt3TmpSclNURlpXRnBtVFJEU0FoallCQ2dLTWdB",
+      "date": "05/20/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-05-20T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Karnataka cab and autorickshaw drivers threaten strike over bike taxis, high road tax and unmet demands",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/cities/bangalore/karnataka-cab-autorickshaw-drivers-threaten-strike-bike-taxis-road-tax-9870418/",
+      "thumbnail": "https://images.indianexpress.com/2025/03/bengaluru-auto-drivers.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXVRV0pLVlV0VExVcDVNMWg0VFJDZkF4ampCU2dLTWc0QmNJaUJPS1VWU3hybVJmTGdIQQ",
+      "date": "03/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-03-05T08:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Mysuru-Bengaluru Highway: No closure of entry, exit points, clarifies PWD Minister Jarkiholi",
+      "source": {
+        "name": "Star of Mysore",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://starofmysore.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://starofmysore.com/mysuru-bengaluru-highway-no-closure-of-entry-exit-points-clarifies-pwd-minister-jarkiholi/",
+      "thumbnail": "https://starofmysore.com/wp-content/uploads/2024/06/highway-entry-exit.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZUelJzVmxCRU16UmhZalUyVFJDZkF4ampCU2dLTWdtQkFaQ0pEU3pvTXdF",
+      "date": "03/17/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-17T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Development works in Bengaluru face halt as contractors threaten strike over Rs 3,850 crore pending bills",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mohammed Yacoob"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/states/karnataka/2025/Jan/15/development-works-in-bengaluru-face-halt-as-contractors-threaten-strike-over-rs-3850-crore-pending-bills",
+      "thumbnail": "https://cf-images.assettype.com/TNIE%2Fimport%2F2018%2F6%2F22%2Foriginal%2FCrisis.jpg?rect=0%2C0%2C720%2C405&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVUMk5YVW5KU1V6TTFhVEJoVFJDVkF4alFCU2dLTWdB",
+      "date": "01/15/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-01-15T08:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Armed robbers strike on Bengaluru-Mysuru highway, loot Tamil Nadu cop and family",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Praveen Kumar"
+        ]
+      },
+      "link": "https://www.newindianexpress.com/cities/bengaluru/2025/Oct/09/armed-robbers-strike-on-bengaluru-mysuru-highway-loot-tamil-nadu-cop-and-family",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2024-06/4dc876c8-a426-4193-a552-fdcbc7a41d87/C_32_1_CH0992_60738155.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhWekJpY2xOblZtcERZbTQ0VFJDa0JCaXZCQ2dLTWdZZGxJNnJzUVk",
+      "date": "10/09/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-09T07:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "Bengaluru Buzz: 2 bandhs protest Cauvery sharing | Govt notifies 225 wards … and more",
+      "source": {
+        "name": "Citizen Matters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://citizenmatters.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://citizenmatters.in/bengaluru-buzz-cauvery-bandh-wards-bbmp-orr-jayanagar-metro-mitra-app/",
+      "thumbnail": "https://images-citizenmatters.sgp1.digitaloceanspaces.com/wp-content/uploads-new/2024/02/aap.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZiVFJEYjJ4VFFrcHBRMTlpVFJEZ0F4aUFCU2dLTWdZQmNZUk4wUUk",
+      "date": "09/30/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-09-30T07:00:00Z"
+    },
+    {
+      "position": 97,
+      "title": "Bengaluru waste collection may be hit as BSWML workers threaten strike over job regularisation",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/states/karnataka/2025/Mar/26/bengaluru-waste-collection-may-be-hit-as-bswml-workers-threaten-strike-over-job-regularisation",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-03-25/a9mp89zv/Waste-collection.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPVkZFUjJVMVJGZFRTRTl5VFJEZEF4aURCU2dLTWdZeE1KWlJuQWc",
+      "date": "03/26/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-26T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "Karnataka Bandh: Regular life likely to be unaffected; cabs, autos may remain off roads",
+      "source": {
+        "name": "The New Indian Express",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newindianexpress.com/states/karnataka/2025/Mar/22/karnataka-bandh-regular-life-likely-to-be-unaffected-cabs-autos-may-remain-off-roads",
+      "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-03-22/zcw5cmbr/PTI03222025000020B.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJaamR2YWpkQ05EaHFXa05RVFJDNUF4aTNCU2dLTWdB",
+      "date": "03/22/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-03-22T07:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "Now, that’s a toll order",
+      "source": {
+        "name": "Bangalore Mirror",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bangaloremirror.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sridhar Vivan"
+        ]
+      },
+      "link": "https://bangaloremirror.indiatimes.com/bangalore/cover-story/bengaluru-mysuru-expressway-toll-evasion-crackdown-leads-to-controversial-closure/articleshow/118261633.cms",
+      "thumbnail": "https://bangaloremirror.indiatimes.com/thumb/msid-118261617,width-1200,height-900,resizemode-4/.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZSVzluWlV4MVNIRjNTMUowVFJEZ0F4aUFCU2dLTWdrQkVJYW1NYVV0TkFF",
+      "date": "02/15/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-02-15T08:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "People, Bangalore Traffic To Get Worse With Closure Of Silk Board Junction Flyover For Metro Work",
+      "source": {
+        "name": "Curly Tales",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://curlytales.com/people-bangalore-traffic-to-get-worse-with-closure-of-silk-board-junction-flyover-for-metro-work/",
+      "thumbnail": "https://curlytales.com/wp-content/uploads/2023/10/bangalore-metro-flyover-cover.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNU9PR0ZuWkRadlUzSnllVk5JVFJDZkF4ampCU2dLTWc0Qk1JSW5LV1EwdUhqTFJKNllMQQ",
+      "date": "10/23/2023, 07:00 AM, +0000 UTC",
+      "iso_date": "2023-10-23T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

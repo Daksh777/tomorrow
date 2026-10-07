@@ -1,0 +1,1433 @@
+{
+  "search_metadata": {
+    "id": "6ac63be1c06680d320e1bd53",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mnqukCGAYcswQwfgTKLXK0SfehsHETelkkIYtWxOzHo/6ac63be1c06680d320e1bd53.json",
+    "markdown_endpoint": "https://serpapi.com/searches/mnqukCGAYcswQwfgTKLXK0SfehsHETelkkIYtWxOzHo/6ac63be1c06680d320e1bd53.md",
+    "created_at": "2026-10-07 12:32:33 UTC",
+    "processed_at": "2026-10-07 12:32:33 UTC",
+    "google_news_url": "https://news.google.com/search?q=Park+St+road+closure+OR+strike+OR+bandh",
+    "raw_html_file": "https://serpapi.com/searches/mnqukCGAYcswQwfgTKLXK0SfehsHETelkkIYtWxOzHo/6ac63be1c06680d320e1bd53.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "Park St road closure OR strike OR bandh"
+  },
+  "news_results": [
+    {
+      "position": 2,
+      "title": "Construction alert: Auburn Station Parking and Access Improvements",
+      "source": {
+        "name": "Sound Transit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.soundtransit.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.soundtransit.org/get-to-know-us/news-events/project-updates/24-7-road-closure-st-nw-between-1st-2nd-st-nw-oct-12",
+      "thumbnail": "https://content.govdelivery.com/attachments/fancy_images/WASOUND/2026/10/14489143/7169928/asai-construction-alert-10-12-26-map_crop.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURhamh5VDFBNExYQmxhRFl3VFJEZkFSamlBU2dCTWdZQkFZb3lxUWM",
+      "date": "10/06/2026, 08:24 PM, +0000 UTC",
+      "iso_date": "2026-10-06T20:24:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Clearwater Road Closures",
+      "source": {
+        "name": "City of Clearwater",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.myclearwater.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.myclearwater.com/My-Government/0-City-Departments/Public-Works/Clearwater-Road-Closures",
+      "thumbnail": "https://www.myclearwater.com/files/sharedassets/public/v/1/engineering/images/road-closed-sign.jpg?dimension=pageimage&w=480",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJhMTg0WVRGdVdrNUtValpoVFJEb0FoamdBeWdLTWdZaGRaS3JxUVk",
+      "date": "10/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-10-02T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Updates and Alerts",
+      "source": {
+        "name": "TMC Houston",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tmc.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tmc.edu/operations/tmc-campus/updates-and-alerts/",
+      "thumbnail": "https://www.tmc.edu/wp-content/uploads/2026/03/tmc-campus.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDBZVXg0WTBsWmJuQlJOSGt0VFJEaUFoamlCaWdLTWdPSmt3WQ",
+      "date": "10/05/2026, 04:49 PM, +0000 UTC",
+      "iso_date": "2026-10-05T16:49:40Z"
+    },
+    {
+      "position": 5,
+      "title": "Brief Road Closure for Tomorrow",
+      "source": {
+        "name": "thexradio.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thexradio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thexradio.com/news/local-news/48490-brief-road-closure-for-tomorrow/",
+      "thumbnail": "https://www.thexradio.com/news/wp-content/uploads/2025/03/city-of-effingham-2024-logo-640.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRPR0ZSUzFocWJEVm5XRGhFVFJEd0FSaUFCU2dLTWdZSlVKQUtJZ2s",
+      "date": "10/06/2026, 03:46 PM, +0000 UTC",
+      "iso_date": "2026-10-06T15:46:00Z"
+    },
+    {
+      "position": 6,
+      "title": "City of Salem Announces Planned and Anticipated October Road Closures",
+      "source": {
+        "name": "Salem, MA | Official Website (.gov)",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://salemma.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://salemma.gov/CivicAlerts.aspx?AID=469",
+      "thumbnail": "http://salemma.gov/ImageRepository/Document?documentID=10063",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVV3hPYVVoZlp6aHdSWE00VFJEN0FSakpBU2dCTWdhVlVvWnJKUVU",
+      "date": "09/18/2026, 03:52 AM, +0000 UTC",
+      "iso_date": "2026-09-18T03:52:41Z"
+    },
+    {
+      "position": 7,
+      "title": "Home",
+      "source": {
+        "name": "Alpharetta, GA",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.alpharetta.ga.us&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.alpharetta.ga.us/?contentId=69125058-9e0c-4258-94f3-249487c16f20",
+      "date": "10/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-10-06T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "City Of Effingham Announces Road Closure",
+      "source": {
+        "name": "Effingham Radio",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.effinghamradio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.effinghamradio.com/2026/10/06/city-of-effingham-announces-road-closure-30/",
+      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/257/files/2022/07/road-closed.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxjRUphVG1aNWNFMWFNM1pyVFJEM0FoajBBeWdLTWdZTlE0cElvUVE",
+      "date": "10/06/2026, 03:33 PM, +0000 UTC",
+      "iso_date": "2026-10-06T15:33:24Z"
+    },
+    {
+      "position": 9,
+      "title": "Record of Determination for the Temporary Closure of Certain Park Roads At Waterside Drive NW for Public Safety During Roadway Rehabilitation",
+      "source": {
+        "name": "National Park Service (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nps.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nps.gov/rocr/learn/management/record-of-determination-for-the-temporary-closure-of-certain-park-roads-at-waterside-drive-nw-for-public-safety-during-roadway-rehabilitation.htm",
+      "thumbnail": "https://www.nps.gov/rocr/learn/management/images/ROCR-Waterside-Drive-ROD-Overview.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpkbDlzVWxWa1JWRllTMUZxVFJENkFSaktBU2dCTWdZbE1vd1BvUVk",
+      "date": "09/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-17T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "NW Ferris Avenue Road Closure Planned for International Festival Derby Race",
+      "source": {
+        "name": "City of Lawton, OK (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lawtonok.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.lawtonok.gov/CivicAlerts.aspx?AID=261",
+      "thumbnail": "http://www.lawtonok.gov/ImageRepository/Document?documentID=2141",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5MVU41VkdnelJsUkVhR2hWVFJEN0F4amRCQ2dLTWdrWkVZck5IS2RNSkFN",
+      "date": "09/24/2026, 06:33 PM, +0000 UTC",
+      "iso_date": "2026-09-24T18:33:08Z"
+    },
+    {
+      "position": 11,
+      "title": "Street Closure for Juneteenth",
+      "source": {
+        "name": "City of Madison, WI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cityofmadison.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cityofmadison.com/news/2026-06-16/street-closure-for-juneteenth",
+      "thumbnail": "https://www.cityofmadison.com/sites/default/files/styles/social/public/traffic-engineering/images/traffic_engineering-banner.jpg?h=790be497&itok=9R2jmRvx",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpPWHAwZUhkUlNVcFpRVk5yVFJDUUF4ai1CU2dLTWdZSnVJNW9RZ1U",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Traffic Advisory: Street Closure - East High Street between 4th Street NE & Park Street",
+      "source": {
+        "name": "Charlottesville City (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http://www.charlottesville.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "http://www.charlottesville.gov/m/newsflash/Home/Detail/2502",
+      "date": "06/09/2026, 07:42 AM, +0000 UTC",
+      "iso_date": "2026-06-09T07:42:11Z"
+    },
+    {
+      "position": 13,
+      "title": "Grant Street closure Monday for paving",
+      "source": {
+        "name": "Lebanon Local",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.lebanonlocalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.lebanonlocalnews.com/370071-2/",
+      "thumbnail": "https://www.lebanonlocalnews.com/wp-content/uploads/2026/02/city-of-lebanon-800x492.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpiMWRDTkVsMWEyTXdVRXRuVFJDeUF4akNCU2dLTWdrQmtKU2lOaWN0endF",
+      "date": "09/17/2026, 12:44 AM, +0000 UTC",
+      "iso_date": "2026-09-17T00:44:05Z"
+    },
+    {
+      "position": 14,
+      "title": "🚧 Road Closure Alert 🚧 Heading near the stadium Tuesday or Wednesday? Plan ahead! To keep everyone safe during heavy foot traffic, roads around the stadium perimeter will be closed to vehicles on July 14th and 15th from 10:00 AM to 12:30 AM. Travel S",
+      "source": {
+        "name": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/AtlantaPoliceDpt/posts/-road-closure-alert-heading-near-the-stadium-tuesday-or-wednesday-plan-aheadto-k/1486260546872443/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1486258233539341",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJlVXhxTkhKS1RWUnZiakZDVFJEckJCanZBeWdLTWdrTk1vcm9IQ2hyMEFF",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "City Announces Road Closures, Parking Restrictions, and Other Details for 2026 Philadelphia Juneteenth Parade and Festival | Office of Special Events",
+      "source": {
+        "name": "City of Philadelphia (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phila.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natalie Faragalli"
+        ]
+      },
+      "link": "https://www.phila.gov/2026-06-18-city-announces-road-closures-parking-restrictions-and-other-details-for-2026-philadelphia-juneteenth-parade-and-festival/",
+      "thumbnail": "https://www.phila.gov/media/20250617140556/Juneteenth-parade-float-SRamones-for-vp-2200x1237px-2-1400x1050-1-933x700.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZlak16Tldsa01IZFJaWHB4VFJEZ0F4al9CQ2dLTWdZQm9JNWxPZ1k",
+      "date": "06/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-18T07:00:00Z"
+    },
+    {
+      "position": 16,
+      "title": "Street Closure for Funeral",
+      "source": {
+        "name": "City of Madison, WI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cityofmadison.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cityofmadison.com/news/2026-08-13/street-closure-for-funeral",
+      "thumbnail": "https://www.cityofmadison.com/sites/default/files/styles/social/public/traffic-engineering/images/traffic_engineering-banner.jpg?h=790be497&itok=9R2jmRvx",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpPWHAwZUhkUlNVcFpRVk5yVFJDUUF4ai1CU2dLTWdZSnVJNW9RZ1U",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "HWY 101 Closure at Hoh River Bridge",
+      "source": {
+        "name": "National Park Service (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nps.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nps.gov/olym/planyourvisit/hwy-101-closure-at-hoh-river-bridge.htm",
+      "thumbnail": "https://www.nps.gov/olym/planyourvisit/images/101-closure-for-socials-1.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhOSGhmY1VSUE1qSnFlVTF5VFJEMkJCam5BeWdLTWdhRkE0cHZSUVE",
+      "date": "09/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-15T07:00:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Traffic Advisory: Road Closure – Emmet Street S.",
+      "source": {
+        "name": "Charlottesville City (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http://www.charlottesville.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "http://www.charlottesville.gov/m/newsflash/Home/Detail/2612",
+      "date": "08/19/2026, 12:50 AM, +0000 UTC",
+      "iso_date": "2026-08-19T00:50:06Z"
+    },
+    {
+      "position": 19,
+      "title": "Street Closures for IRONMAN Weekend – September 12–13",
+      "source": {
+        "name": "City of Madison, WI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cityofmadison.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cityofmadison.com/news/2026-09-04/street-closures-for-ironman-weekend-september-12-13",
+      "thumbnail": "https://www.cityofmadison.com/sites/default/files/styles/non_cropped_lg/public/traffic-engineering/images/news/NB%20JND%20closure%20for%20IRONMAN.jpg?itok=Dou5jQeC",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVViblZvWXpkRE1GOTBZV2RoVFJDdEF4akxCU2dLTWdZQkJJN3RGUW8",
+      "date": "09/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-04T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "Street Closures and Parking Restrictions for AC/DC at Camp Randall Stadium",
+      "source": {
+        "name": "City of Madison, WI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cityofmadison.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cityofmadison.com/news/2026-07-16/street-closures-and-parking-restrictions-for-ac-dc-at-camp-randall-stadium",
+      "thumbnail": "https://www.cityofmadison.com/sites/default/files/styles/social/public/traffic-engineering/images/traffic_engineering-banner.jpg?h=790be497&itok=9R2jmRvx",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpPWHAwZUhkUlNVcFpRVk5yVFJDUUF4ai1CU2dLTWdZSnVJNW9RZ1U",
+      "date": "07/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-16T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "🚧 Temporary Road Closure Alert 🚧 Following FIFA World Cup matches at Atlanta Stadium, the City of Atlanta will temporarily close Marietta Street between Park Avenue and Centennial Olympic Park Drive, as well as Centennial Olympic Park Drive from Mariett",
+      "source": {
+        "name": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/AtlantaPoliceDpt/posts/-temporary-road-closure-alert-following-fifa-world-cup-matches-at-atlanta-stadiu/1459818739516624/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1459817742850057",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhNV3MzTkZjMVkyWlBOa1JEVFJDcUJCaXFCQ2dLTWdZUmNvd0pzUVU",
+      "date": "06/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-15T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Important road closures: update, September 17 to 25",
+      "source": {
+        "name": "McGill University Health Centre",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://muhc.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://muhc.ca/news-and-patient-stories/news/important-road-closures-update",
+      "thumbnail": "https://muhc.ca/sites/default/files/2026-09/Grand%20prix%20teaser%20-%20WEB.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhhMDVpWlZGT2QxRmxPVU53VFJDM0FSaVRBaWdCTWdNQmNCWQ",
+      "date": "09/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-17T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "Street Closure for the Fete De Marquette 2026",
+      "source": {
+        "name": "City of Madison, WI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cityofmadison.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cityofmadison.com/news/2026-07-08/street-closure-for-the-fete-de-marquette-2026",
+      "thumbnail": "https://www.cityofmadison.com/sites/default/files/styles/social/public/traffic-engineering/images/traffic_engineering-banner.jpg?h=790be497&itok=9R2jmRvx",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpPWHAwZUhkUlNVcFpRVk5yVFJDUUF4ai1CU2dLTWdZSnVJNW9RZ1U",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Traffic Advisory: Frederick Pride Parade and Festival this Weekend",
+      "source": {
+        "name": "The City of Frederick, MD (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http://www.cityoffrederickmd.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "http://www.cityoffrederickmd.gov/m/newsflash/Home/Detail/8200",
+      "thumbnail": "http://www.cityoffrederickmd.gov/ImageRepository/Document?documentID=27212",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdkaTFuZWxoM1VqVjJkbkF5VFJDUkJCakVCQ2dLTWdhVlVvcHFxUVE",
+      "date": "06/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-25T07:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "Road closure planned Friday in Madison for funeral of Corey Ruiz",
+      "source": {
+        "name": "WKOW",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wkow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chad Thompson"
+        ]
+      },
+      "link": "https://www.wkow.com/news/road-closure-planned-friday-in-madison-for-funeral-of-corey-ruiz/article_a77b5c4d-287b-4ce8-884c-7bf623f9476c.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/1/2a/12a94678-9b2b-49e7-b9c6-d1010c7ab526/6a7dcc075b35f.image.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTNYMHN3WmxvM2NVVlJjalZpVFJDcEFSaXFBaWdCTWdB",
+      "date": "08/13/2026, 02:11 PM, +0000 UTC",
+      "iso_date": "2026-08-13T14:11:45Z"
+    },
+    {
+      "position": 26,
+      "title": "Newsroom - City of Burbank",
+      "source": {
+        "name": "City of Burbank (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.burbankca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.burbankca.gov/newsroom/-/newsdetail/20124/updated-fifa-fan-zone-street-closures-parking-impacts-event-information",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "Randolph Street Lane Closure and Fire Station No. 1 Parking Lot Construction",
+      "source": {
+        "name": "City of Champaign (.gov)",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://champaignil.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://champaignil.gov/2026/08/27/randolph-street-lane-closure-and-fire-station-no-1-parking-lot-construction/",
+      "thumbnail": "https://champaignil.gov/app/uploads/2026/08/08.27.26-Randolph-Lane-Closure-and-Fire-Station-No.-1-Parking-Lot-1024x775.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNaVEozZW1WNlVrNXBNSFV6VFJEaUF4ajlCQ2dLTWdB",
+      "date": "08/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-27T07:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Academy Street closure and parking impacts",
+      "source": {
+        "name": "University of Delaware",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.udel.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.udel.edu/udaily/2026/july/academy-street-closure-and-parking-impacts/",
+      "thumbnail": "https://www.udel.edu/udaily/2026/july/academy-street-closure-and-parking-impacts/_jcr_content/udaily_Image.coreimg.jpeg/1569592521219/udaily-default.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZRazVaYld3eFYwaFROMVk0VFJDUkF4ajhCU2dLTWdZaHBKUnN0UVk",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "City Announces Road Closures and other Details for 2026 ODUNDE Festival",
+      "source": {
+        "name": "City of Philadelphia (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phila.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natalie Faragalli"
+        ]
+      },
+      "link": "https://www.phila.gov/2026-06-10-city-announces-road-closures-and-other-details-for-2026-odunde-festival/",
+      "thumbnail": "https://www.phila.gov/media/20170525170452/Odunde1-1024x653.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhVa2szYlVaWmNHY3RkVWRUVFJDNkF4aTJCU2dLTWdZQjBJVG9TQU0",
+      "date": "06/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-10T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "🚧 Temporary Road Closure Alert 🚧 Following FIFA World Cup matches at Atlanta Stadium, the City of Atlanta will temporarily close northbound lanes on Marietta Street between Baker St. and Centennial Olympic Park Drive, as well as Centennial Olympic Park",
+      "source": {
+        "name": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/AtlantaPoliceDpt/posts/-temporary-road-closure-alert-following-fifa-world-cup-matches-at-atlanta-stadiu/1465618392269992/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1465631762268655",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1XR05tWDFoa1R6ZEtWRFJWVFJEckJCanZBeWdLTWdZQkFvd1FDUWM",
+      "date": "06/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-21T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "City Announces Road Closures, Parking Restrictions and Other Details for 2026 Philly Pride March and Festival",
+      "source": {
+        "name": "City of Philadelphia (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phila.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natalie Faragalli"
+        ]
+      },
+      "link": "https://www.phila.gov/2026-06-03-city-announces-road-closures-parking-restrictions-and-other-details-for-2026-philly-pride-march-and-festival/",
+      "thumbnail": "https://www.phila.gov/media/20190722095720/Pride-in-the-Park-Balloons-700x700.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUR2sxWTBoWllYaG5WalF4VFJDcUJCaXFCQ2dLTWdZSmNKSnByUWM",
+      "date": "06/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-03T07:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Rogers Street Closed at Switchyard Park Entrance for Two Weeks for Crosswalk Construction",
+      "source": {
+        "name": "City of Bloomington, Indiana (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bloomington.in.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bloomington.in.gov/news/2026/05/22/6552",
+      "thumbnail": "https://bloomington.in.gov/sites/default/files/styles/content_teaser/public/2026-02/Robly%20image%20500px%20Powerline%20Trail%20Route%20Feb%202026.png?itok=Uz-LQHOI",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjVFJRYjI1ak5rcHBZM1JGVFJEU0FSaU1BU2dCTWdZQkVJSUFqd3M",
+      "date": "05/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-22T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "News Flash Archive - U.S. 33 (Riverside Drive) Closure at Fishinger Road",
+      "source": {
+        "name": "City of Upper Arlington (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.upperarlingtonoh.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.upperarlingtonoh.gov/CivicAlerts.aspx?AID=329",
+      "thumbnail": "https://www.upperarlingtonoh.gov/ImageRepository/Document?documentID=1776",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXhUMVJEVVZWTFYwdFdORUZpVFJDM0FSaVRBaWdCTWdzQlFKUnhuR1o1U1dyTFhB",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Road Closure & Traffic Advisory: SOF Week May 18-22",
+      "source": {
+        "name": "City of Tampa (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tampa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tampa.gov/news/2026-05/road-closure-traffic-advisory-sof-week-may-18-22-190341",
+      "thumbnail": "https://www.tampa.gov/sites/default/files/styles/large_image/public/2026-05/sof.jpg?itok=_UcKcu5u",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlSRkpTTjBadFJXczFNekozVFJDZkF4amlCU2dLTWdZQlVJcG5IZ2s",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "Richland Ave Closure August 11- September 10, 2026",
+      "source": {
+        "name": "Ohio University",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ohio.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ohio.edu/transportation-parking/transportation-parking-announcements/richland-ave-closure-august-11",
+      "thumbnail": "https://www.ohio.edu/sites/default/files/styles/max_2600x2600/public/2026-08/Richland%20Dairy%20Lane%20Closure.png?itok=3B0eLXrV",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVJWRk5MVVU5NlpVZHBXVGhxVFJEVUFSanVBU2dCTWdzQkFJYnVER1VXd3Jva05B",
+      "date": "08/14/2026, 02:51 AM, +0000 UTC",
+      "iso_date": "2026-08-14T02:51:14Z"
+    },
+    {
+      "position": 36,
+      "title": "Highway 169 will be closed at 109th Ave for the weekend from Friday, August 28 at 8PM until Saturday, August 29 at 6AM. The detour route is shown below and will utilize Highway 610 and Highway 10. For additional information on the project, please visit the",
+      "source": {
+        "name": "Facebook",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.facebook.com/brooklynparkmn/posts/highway-169-will-be-closed-at-109th-ave-for-the-weekend-from-friday-august-28-at/1451950563647805/",
+      "thumbnail": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1451950503647811",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVNMnh6U0VwWVJXTjZkRGh0VFJDV0JCaV9CQ2dLTWdhRklZclNFQXM",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Main Street corridor closure begins Monday; three-phase sewer work runs through October",
+      "source": {
+        "name": "KBOI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://idahonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://idahonews.com/news/local/main-street-corridor-closure-begins-monday-three-phase-sewer-work-runs-through-october",
+      "thumbnail": "https://idahonews.com/resources/media2/16x9/576/1174/0x39/80/046a709e-00a3-4270-92c4-9e18d66333e8-Screenshot20260731133757.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSR1JTUjA5TWNpMWFlamRYVFJDZkF4ampCU2dLTWdZQlFJd0hxZ1k",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "Temporary Street Use Permitting (TSUP)",
+      "source": {
+        "name": "City of Portland, Oregon (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.portland.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.portland.gov/transportation/permitting/temporary-street-use-permitting-tsup",
+      "thumbnail": "https://www.portland.gov/sites/default/files/styles/2_1_1600w/public/2020-06/permitting-online2.png?itok=X9xzZpdh",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZjR1JaU2toRFNVOUJWR1pRVFJDZkFSaS1BaWdCTWdZWkFJWXBVZ00",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Baltimore announced road closures, traffic changes for Fourth of July weekend",
+      "source": {
+        "name": "WBFF",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://foxbaltimore.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexa Dikos"
+        ]
+      },
+      "link": "https://foxbaltimore.com/news/local/baltimore-road-closures-traffic-changes-fourth-of-july-weekend",
+      "thumbnail": "https://foxbaltimore.com/resources/media2/16x9/3840/1174/center/80/f09e7809-06b2-47d7-b9e7-2a257fe7a0c1-BaltimoreDowntownGFXbkgrnd2026.04.23FILESJP.mp4.00_00_30_13.Still001.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXhUbTVzU0hONFRFSXhaVWd5VFJDZkF4ampCU2dLTWdzQk1JQ050R0ltWmhwMEhn",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "LITTLE FARMS AVENUE ROAD CLOSURE",
+      "source": {
+        "name": "Jefferson Parish (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.jeffparish.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.jeffparish.gov/CivicAlerts.aspx?AID=582",
+      "thumbnail": "https://www.jeffparish.gov/ImageRepository/Document?documentID=64",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRWV0pCYTBnelRtVkhNRUprVFJDWkF4anVCU2dLTWdNQnNBWQ",
+      "date": "06/18/2026, 08:23 PM, +0000 UTC",
+      "iso_date": "2026-06-18T20:23:14Z"
+    },
+    {
+      "position": 41,
+      "title": "Transportation information, road closures released for MLB All-Star week events in Philadelphia",
+      "source": {
+        "name": "6abc Philadelphia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://6abc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://6abc.com/post/transportation-information-road-closures-released-mlb-star-week-events-philadelphia/19481934/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19482164_071026-wpvi-amanda-mlb-events-begin-4pm-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNURWxTZGxoTmJIQXphVUZWVFJDZkF4ampCU2dLTWdhTnBJQ0k0UUU",
+      "date": "07/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-10T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "Road and Dock Report for Thursday, August 6, 2026 City of West Palm Beach",
+      "source": {
+        "name": "City of West Palm Beach",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wpb.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wpb.org/News-Folder/News-2026/080526-Road-and-Dock",
+      "thumbnail": "https://www.wpb.org/files/assets/city/v/3/engineering/images/13109_road-construction.jpg?dimension=pageimage&w=480",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNZVVJQV1dOQmJXZExhMkZVVFJEQUFoamdBeWdLTWdZQllJNkhzUWc",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Chicago triathlon 2026: Supertri Chicago takes over Grant Park, Monroe Harbor; street closures impacted Chicago traffic",
+      "source": {
+        "name": "ABC7 Chicago",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7chicago.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lissette Nuñez"
+        ]
+      },
+      "link": "https://abc7chicago.com/post/chicago-triathlon-2026-supertri-takes-grant-park-monroe-harbor-street-closures-impact-traffic/19722793/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19724505_082326-wls-nunez-supertri-5p-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUWFp2VFRZMmVWTm9iSEJWVFJDZkF4ampCU2dLTWdZQllJWUFKZ2c",
+      "date": "08/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-23T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "Notice to Public: Temporary closure of designated parklands at the National Mall and Memorial Parks, White House and President's Park, and George Washington Memorial Parkway for the Salute to America and Grand Fireworks Show",
+      "source": {
+        "name": "National Park Service (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nps.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nps.gov/nama/learn/management/notice-to-public-temporary-closure-of-designated-parklands-at-the-national-mall-and-memorial-parks-white-house-and-president-s-park-and-george-washington-memorial-parkway-for-the-salute-to-america-and-grand-fireworks-show.htm",
+      "thumbnail": "https://www.nps.gov/nama/learn/management/images/Record-of-Determination-Figure-2-of-July-4th-Related-NPS-Closures.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRZM2wyTlVwdVVYaG5PRUU1VFJDWkF4anVCU2dLTWdrTkFvb0tJU1Zyd0FN",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Waimea Canyon Drive between Ma’ule and Kōke’e Road to close daily for resurfacing",
+      "source": {
+        "name": "State of Hawaii Department of Transportation (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://hidot.hawaii.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://hidot.hawaii.gov/blog/2026/06/12/waimea-canyon-drive-between-maule-and-kokee-road-to-close-daily-for-resurfacing/",
+      "thumbnail": "https://hidot.hawaii.gov/highways/files/2026/06/Waimea-Canyon-closure-1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXJkSEZJUlROdWR6RlFTelY1VFJDUkF4andCQ2dLTWdzRkVJcktGS1Vtby1xV1BR",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "California State Parks Announces Temporary Closure of Fremont Peak State Park for Road Improvements",
+      "source": {
+        "name": "California State Parks (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.parks.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.parks.ca.gov/NewsRelease/1551",
+      "thumbnail": "https://www.parks.ca.gov/pages/712/images/Fremont-Peak-2026-20260724.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUJhMk0wWlhocWJEUlVURU0yVFJDMEFSaVhBaWdCTWdB",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Temporary Pedestrian Access Closure Along Broom Street",
+      "source": {
+        "name": "City of Madison, WI",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cityofmadison.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cityofmadison.com/news/2026-05-08/temporary-pedestrian-access-closure-along-broom-street",
+      "thumbnail": "https://www.cityofmadison.com/sites/default/files/styles/social/public/traffic-engineering/images/traffic_engineering-banner.jpg?h=790be497&itok=9R2jmRvx",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpPWHAwZUhkUlNVcFpRVk5yVFJDUUF4ai1CU2dLTWdZSnVJNW9RZ1U",
+      "date": "05/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Santa Barbara Releases Fiesta 2026 Safety, Parking, Street Closure Plan",
+      "source": {
+        "name": "edhat",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.edhat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.edhat.com/news/old-spanish-days-fiesta-2026-public-safety/",
+      "thumbnail": "https://www.edhat.com/wp-content/smush-webp/2026/07/Screenshot-2026-07-23-at-5.36.13-PM-1024x449.png.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpRbUp2YzJRNVNrWldhbDkwVFJEdkFoakZCaWdLTWdB",
+      "date": "07/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-24T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "Road closure: Intersection of Whitewater Park Boulevard, Main Street",
+      "source": {
+        "name": "KTVB",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ktvb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ktvb.com/video/traffic/road-closure-intersection-of-whitewater-park-boulevard-main-street/277-1261ee67-68b0-4c97-85d4-71ba382c7214",
+      "thumbnail": "https://media.ktvb.com/assets/KTVB/images/fae21f2f-91e6-48a8-9693-6beac6cbcc72/20260829T003846/fae21f2f-91e6-48a8-9693-6beac6cbcc72_1920x1080.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdPWFJvTTFGMllVRjNRbDh6VFJDZkF4ampCU2dLTWdZaEJJNnNoUVk",
+      "date": "08/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-28T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Notice to the Public for temporary closure and public use limits for Great American State Fair and FIFA Fan Zone",
+      "source": {
+        "name": "National Park Service (.gov)",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nps.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nps.gov/nama/learn/management/notice-to-the-public-for-gasf-and-fifa.htm",
+      "thumbnail": "https://www.nps.gov/nama/learn/management/images/Road-Closure-Map_8.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFNRmxGZVRGc1ZUTmhMUzFrVFJDMEF4akFCU2dLTWdrQklJcXJvQ2RqY1FF",
+      "date": "06/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-18T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Traffic Advisory: Mount Phillip Road - Road Closure",
+      "source": {
+        "name": "The City of Frederick, MD (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http://www.cityoffrederickmd.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "http://www.cityoffrederickmd.gov/m/newsflash/Home/Detail/8157",
+      "thumbnail": "http://www.cityoffrederickmd.gov/ImageRepository/Document?documentID=27141",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlXakpQZVZsdmRXMTRhRWhaVFJDcUJCaXFCQ2dLTWdhUmtveXRzUVk",
+      "date": "04/29/2026, 03:11 PM, +0000 UTC",
+      "iso_date": "2026-04-29T15:11:03Z"
+    },
+    {
+      "position": 52,
+      "title": "Long-Term Closure of Southbound Highway 1 Off-Ramp at Bay Ave. Begins August 2",
+      "source": {
+        "name": "California Department of Transportation | Caltrans (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dot.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dot.ca.gov/caltrans-near-me/district-5/d5-news/d5-news-7-20-2026-2",
+      "date": "07/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-20T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "Lollapalooza 2026 road closures begin around Chicago's Grant Park | What to know about bag policy, prohibited items",
+      "source": {
+        "name": "ABC7 Chicago",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7chicago.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stephanie Wade"
+        ]
+      },
+      "link": "https://abc7chicago.com/post/lollapalooza-2026-road-closures-begin-around-chicagos-grant-park-what-know/19516262/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19585569_072726-wls-lolla-closures-wade-11a-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWliRkV3ZFhKNmVVeDZWRWxMVFJDZkF4ampCU2dLTWdPTlV3QQ",
+      "date": "07/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-28T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "Taste of Chicago 2026: Street closures begin in Grant Park ahead of summer food festival",
+      "source": {
+        "name": "ABC7 Chicago",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7chicago.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://abc7chicago.com/post/taste-chicago-2026-street-closures-begin-grant-park-ahead-summer-food-festival/19411944/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19411694_062926-wls-taste-closures-430avo-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNXWEpxVEdwc04yeFJjVkF4VFJDZkF4ampCU2dLTWdZUk1wUVJMUWM",
+      "date": "06/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-29T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Five-night closure of major Hertfordshire roundabout begins TONIGHT",
+      "source": {
+        "name": "Watford Observer",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.watfordobserver.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Liam Fitzpatrick"
+        ]
+      },
+      "link": "https://www.watfordobserver.co.uk/news/26606646.hertfordshire-park-street-roundabout-closure-begins-tonight/",
+      "thumbnail": "https://www.watfordobserver.co.uk/resources/images/15507352/?type=mds-article-620",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJZVTlIWTNGNmFVRmpiVmd0VFJEZEFoanNCQ2dLTWdZRlFKQUZvZ2c",
+      "date": "10/05/2026, 09:12 AM, +0000 UTC",
+      "iso_date": "2026-10-05T09:12:30Z"
+    },
+    {
+      "position": 56,
+      "title": "Road Closures Announced for 2026 PGH Marathon Weekend of Events",
+      "source": {
+        "name": "PittsburghPA.gov",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pittsburghpa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pittsburghpa.gov/News-articles/Homepage/Road-Closures-Announced-for-2026-DICK%E2%80%99S-Sporting-Goods-Pittsburgh-Marathon-Weekend-of-Events",
+      "thumbnail": "https://content.govdelivery.com/attachments/fancy_images/PAPITT/2026/04/13587100/marathon-map-3_original.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUtkelZGY0ZwMmFsVTVTM0Z0VFJEbUF4ajJCQ2dLTWdzQkFJU3BsS1c1SmhxUFRR",
+      "date": "04/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-29T07:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "City of Philadelphia Releases Information for 2026 Philadelphia Cycling Classic",
+      "source": {
+        "name": "City of Philadelphia (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.phila.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Natalie Faragalli"
+        ]
+      },
+      "link": "https://www.phila.gov/2026-08-20-city-of-philadelphia-releases-information-for-2026-philadelphia-cycling-classic/",
+      "thumbnail": "https://www.phila.gov/media/20260820145524/The-Classic-is-back_1200x638.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjVlV5Y25CYWJHZzFOMUU0VFJDUUF4ai1CU2dLTWdZQlVJNnRLUWc",
+      "date": "08/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-20T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "Moe Road closure begins following culvert washout",
+      "source": {
+        "name": "NEWS10 ABC",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.news10.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Courtney Ward"
+        ]
+      },
+      "link": "https://www.news10.com/news/saratoga-county/moe-road-closure-begins-following-culvert-washout/",
+      "thumbnail": "https://www.news10.com/wp-content/uploads/sites/64/2026/07/moe-road-closure.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURiSE5xVjFsWE5rd3RiVU5WVFJDUUF4aklCU2dLTWdZaEpJaXNIUVU",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Huntington Park announces street closures ahead of Mexico World Cup match",
+      "source": {
+        "name": "KTLA",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ktla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lily Dallow"
+        ]
+      },
+      "link": "https://ktla.com/news/local-news/huntington-park-announces-street-closures-ahead-of-mexico-world-cup-match/",
+      "thumbnail": "https://ktla.com/wp-content/uploads/sites/4/2026/06/AP26157639093420-e1781192171689.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1YMk5rU0UxRGIzRTBTbGwzVFJERUF4aW1CU2dLTWdrQlFZYmxJT1phVkFF",
+      "date": "07/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-05T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "DC road closures, parking restrictions in effect for Freedom 250 Grand Prix",
+      "source": {
+        "name": "WTOP News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wtop.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://wtop.com/dc/2026/08/dc-road-closures-parking-restrictions-in-effect-for-freedom-250-grand-prix/",
+      "thumbnail": "https://wtop.com/wp-content/uploads/2026/07/GettyImages-2285321724-480x320.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpTVWhTTVdob1RqQkRja1ZOVFJEQUFoamdBeWdLTWdZQmNJaGt1UVE",
+      "date": "08/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-20T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Market Street Bridge closed to vehicles for 14 months in Philadelphia as rehabilitation project ramps up",
+      "source": {
+        "name": "6abc Philadelphia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://6abc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elizabeth Worthington"
+        ]
+      },
+      "link": "https://6abc.com/post/market-street-bridge-close-vehicles-14-months-philadelphia-rehabilitation-project-ramps/19715982/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19726776_082426-wpvi-market-street-bridge-6a-vo-video-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSVFpzYzIxb2VFMTZPRkJ6VFJDZkF4ampCU2dLTWdZQklJQ0dZUUU",
+      "date": "08/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-24T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Greenway Alerts",
+      "source": {
+        "name": "RaleighNC.gov",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://raleighnc.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://raleighnc.gov/greenway-alerts",
+      "thumbnail": "https://raleighnc.gov/sites/default/files/styles/max_325x325/public/2019-10/greenways-alert-parks.jpg?itok=eT5H_98U",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdUMGhVYWxOUlNEbDRjV3hqVFJDM0FSakZBaWdLTWdZWmc0eHROUVU",
+      "date": "08/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-10T07:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "MBTA Red Line Closures",
+      "source": {
+        "name": "the City of Cambridge (.gov)",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cambridgema.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cambridgema.gov/streetsandtransportation/redlineclosures2026",
+      "thumbnail": "https://www.cambridgema.gov/streetsandtransportation/%2F-%2Fmedia%2FImages%2Fdepartmentoftransportation%2F2024projects%2Fredlineshutdown%2Funsplashredlinetrainalewife.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNbXcwTWxoc1RXMUtRMTlpVFJEX0JCamdBeWdLTWdZQlFKTElLUWM",
+      "date": "06/29/2026, 08:43 PM, +0000 UTC",
+      "iso_date": "2026-06-29T20:43:39Z"
+    },
+    {
+      "position": 64,
+      "title": "These roads will be closed for Fourth of July events in Fort Collins",
+      "source": {
+        "name": "The Coloradoan",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.coloradoan.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.coloradoan.com/story/news/local/2026/07/01/fort-collins-road-closures-for-fourth-of-july/90701348007/",
+      "thumbnail": "https://www.coloradoan.com/gcdn/authoring/authoring-images/2025/07/05/PFTC/84478504007-ftc-07042025-fireworks-at-city-park-01.jpg?crop=3499,1968,x0,y182&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVXbXBCTTNCRlNqZEZkbmhDVFJEekFoaVVCU2dLTWdZQmNvUnV1UUk",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "Philadelphia releases road closures for 47th annual Independence Blue Cross Broad Street Run Sunday",
+      "source": {
+        "name": "6abc Philadelphia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://6abc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://6abc.com/post/philadelphia-releases-road-closures-47th-annual-independence-blue-cross-broad-street-run-sunday/18996924/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19019138_050126-wpvi-broad-street-run-preps-leland-11pm-CC-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBhRzlmWjNNM1F6bDNaVTVZVFJDZkF4ampCU2dLTWdZTlU1UkhxZ2M",
+      "date": "05/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-01T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Park Boulevard night construction, First Street closure: See 5 DFW transportation updates",
+      "source": {
+        "name": "Community Impact Newspaper",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://communityimpact.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://communityimpact.com/plano/transportation/park-boulevard-night-construction-first-street-closure-see-5-dfw-transportation-updates/",
+      "thumbnail": "https://communityimpact.com/_next/image/?url=https%3A%2F%2Fassets.communityimpact.com%2Fuploads%2Fimages%2F2026%2F06%2F23%2F429790.jpg&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjVTh5Wm01TVlUbFZNazlUVFJERUF4aW5CU2dLTWdhQmFaUURLd2c",
+      "date": "07/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-20T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Reminder: Third of Three Weekend Closures Scheduled for 19th Avenue (State Route 1) Rehabilitation Project in City of San Francisco",
+      "source": {
+        "name": "California Department of Transportation | Caltrans (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dot.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-05-20-19th-avenue-closure",
+      "thumbnail": "https://dot.ca.gov/-/media/dot-media/district-4/images/d4-san-francisco-central-freeway-rehabilitation-assets/19th-avenue-paving-and-rehabilitation/ct3969-19th-ave-final-75-hr-closure-rehab-daytime-project-map-(1).jpg?h=603&w=450&hash=3324277B52E91D844DE46B44B55D7CD0",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJaVEZFVlZwa1pEWk9RM05OVFJEYkJCakNBeWdLTWdZQk1vckVPZ1k",
+      "date": "05/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-20T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Details announced for Commonwealth Concert Series at Point State Park",
+      "source": {
+        "name": "PittsburghPA.gov",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.pittsburghpa.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.pittsburghpa.gov/News-articles/Homepage/City-of-Pittsburgh-and-America250PA-Announce-Key-Details-for-Commonwealth-Concert-Series-at-Point-State-Park",
+      "thumbnail": "https://www.pittsburghpa.gov/files/sharedassets/city/v/1/news-thumbs/a-z.jpg?dimension=pageimage&w=480",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpVamRZV0dsMFVUWlJTMnhGVFJDOEFoamdBeWdLTWdZRlFvNk1JUVU",
+      "date": "06/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-24T07:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Multi-Day Road Closures In Enfield",
+      "source": {
+        "name": "Patch",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jay Kenney"
+        ]
+      },
+      "link": "https://patch.com/connecticut/enfield/enfield-drivers-warned-multi-day-road-closure",
+      "thumbnail": "https://patch.com/img/cdn20/users/27209493/20260707/110143/styles/patch_image/public/202301-pcs-road-closed-sign-schiavone-01___07110037124.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRSbXhuWmxKRVpHOVZORzkwVFJEZ0F4al9CQ2dLTWdZUlE0NXBJUVk",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "Road closures begin in Philadelphia's Fairmount Park in preparation for FIFA Fan Festival",
+      "source": {
+        "name": "6abc Philadelphia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://6abc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Corey Davis"
+        ]
+      },
+      "link": "https://6abc.com/post/road-closures-begin-fairmount-park-preparation-fifa-fan-festival/19173377/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19173635_052626-wpvi-fifa-fan-fest-road-closures-7a-pkg-video-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJkWFZvV1RoNFozRjFPVlZDVFJDZkF4ampCU2dLTWdtQmNvRE5NV2FDbUFB",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Lititz Police announce parking restrictions, road closure for Car Cruise event",
+      "source": {
+        "name": "fox43.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fox43.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Keith Schweigert"
+        ]
+      },
+      "link": "https://www.fox43.com/article/news/local/lancaster-county/lititz-lions-club-car-cruise-road-closure-parking-restrictions-map-wednesday-august-19/521-b3a8c66e-3576-4316-b6ec-8ceaad31595f",
+      "thumbnail": "https://media.tegna-media.com/assets/WPMT/images/e1c35d1f-c299-49fc-8e3b-70ec4485cccf/20260817T150834/e1c35d1f-c299-49fc-8e3b-70ec4485cccf_360x203.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhkR2QzVlhaZmNFZFRkVTVUVFJETEFSam9BaWdLTWdB",
+      "date": "08/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-17T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "CAMBUS service alert: Washington St. detour beginning June 1, 2026",
+      "source": {
+        "name": "The University of Iowa",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://transportation.uiowa.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://transportation.uiowa.edu/cambus-service-alert-washington-st-detour-beginning-june-1-2026",
+      "thumbnail": "https://transportation.uiowa.edu/sites/transportation.uiowa.edu/files/2026-05/Washington-St-Phase-A_0.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHpYemhHY25OUmNETjJka0puVFJDdEJCaW1CQ2dLTWdPQkF3bw",
+      "date": "05/14/2026, 06:42 PM, +0000 UTC",
+      "iso_date": "2026-05-14T18:42:37Z"
+    },
+    {
+      "position": 73,
+      "title": "3-day closure coming to Beaver Avenue as State College’s new high-rise takes shape",
+      "source": {
+        "name": "Centre Daily Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.centredaily.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Paloma Pimentel"
+        ]
+      },
+      "link": "https://www.centredaily.com/news/local/community/state-college/article315991761.html",
+      "thumbnail": "https://www.centredaily.com/public/latest-news/k1nd9o/picture315996489/alternates/LANDSCAPE_1200/001NittanyResidenceConstruction.JPG",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRaQzF6U0hKUk1uaGZjVmhFVFJDZkF4ampCU2dLTWdB",
+      "date": "06/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-04T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Reminder: Second of Three Weekend Closures Scheduled for 19th Avenue (State Route 1) Rehabilitation Project in City of San Francisco",
+      "source": {
+        "name": "California Department of Transportation | Caltrans (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dot.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-05-07-sr1-19th-ave-weekend-closure",
+      "thumbnail": "https://dot.ca.gov/-/media/dot-media/district-4/images/2026-press-release-images/traffic-advisory-2026-05-04-19th_ave_repaving_work_detour_map.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhiVTVqVmpWdk5FbEdkamxXVFJEMkJCam5BeWdLTWdrUkFJNldqQ2VEU1FJ",
+      "date": "05/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-07T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "City of Sparks releases road closure, parking, public transit information for Hot August Nights",
+      "source": {
+        "name": "KTVN",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.2news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.2news.com/news/local/city-of-sparks-releases-road-closure-parking-public-transit-information-for-hot-august-nights/article_70718807-723b-48af-9244-a430fd364055.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/4/9f/49feb964-c18a-488c-a027-e3281a1871b2/6a6a29fff00ae.image.jpg?resize=200%2C128",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRjMUJ4VTNoUFNHOXlWMk4xVFJDQUFSaklBU2dLTWdZQklJb0hIZ2c",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "State Route 1-Tom Lantos (Devil’s Slide) Tunnels Full Overnight Closure",
+      "source": {
+        "name": "California Department of Transportation | Caltrans (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dot.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-07-14-sr1-tom-lantos-tunnels-closures",
+      "thumbnail": "https://dot.ca.gov/-/media/dot-media/district-4/images/2026-press-release-images/traffic-advisory-2026-07-14-sr1-overnight-closures-tom-lantos-tunnel-map.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliV1p5YW5kRU5sRklZakJhVFJERkFSaUFBaWdCTWdZWkU0cktOUVk",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "Construction to bring road closure, lane restrictions, and traffic pattern changes to Fort Wayne’s northwest side",
+      "source": {
+        "name": "WPTA | 21Alive | Fort Wayne, IN",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.21alivenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.21alivenews.com/2026/06/12/construction-bring-road-closure-lane-restrictions-traffic-pattern-changes-fort-waynes-northwest-side/",
+      "thumbnail": "https://gray-wpta-prod.gtv-cdn.com/resizer/v2/P77OHDRIIVE5JOLEKVKLTTOITU.jpg?auth=a9e68120be75b34f06d2c0bf62d38aac3630849a2ab2f2969fd8aeafa784e999&width=1200&height=600&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1lbkpSTkdKc1MxSkJiMFJ0VFJDSEF4aVBCaWdLTWdZMUJKSndoUWM",
+      "date": "06/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-12T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Outside Lands 2026: Tickets, Parking, Road Closures and Bag Rules",
+      "source": {
+        "name": "KQED",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kqed.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nisa Khan"
+        ]
+      },
+      "link": "https://www.kqed.org/news/12091823/outside-lands-2026-tickets-parking-road-closures-and-bag-rules",
+      "thumbnail": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/07/Charli-XCX-1.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZVU5SY1hCcUxURlBVRmxHVFJERUF4aW1CU2dLTWdZVkI0cEtqZ28",
+      "date": "08/03/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-03T07:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Pop-Up City event to bring road closure to Virginia Beach Town Center on Saturday",
+      "source": {
+        "name": "13newsnow.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.13newsnow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marta Berglund"
+        ]
+      },
+      "link": "https://www.13newsnow.com/article/news/local/mycity/virginia-beach/pop-up-city-event-to-bring-road-closure-to-virginia-beach-town-center-on-saturday/291-c7802a89-a06d-4ff4-a3b2-cb5af1c0d951",
+      "thumbnail": "https://media.13newsnow.com/assets/WVEC/images/39e10a29-59fb-4312-8e07-ee81295f5590/20260706T211914/39e10a29-59fb-4312-8e07-ee81295f5590_1920x1080.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdOVXR0Y0cxU2MwbGZjM3B2VFJDZkF4ampCU2dLTWdrQkFJSkxoZXhURWdF",
+      "date": "07/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-06T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "Heading to the World Cup in Boston? Here's all you need to know about traffic, road closures and transportation",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Riley Rourke"
+        ]
+      },
+      "link": "https://www.cbsnews.com/boston/news/world-cup-traffic-maps-boston-foxboro/",
+      "thumbnail": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/11/679b8b96-8483-49d4-ba98-944b52052ff1/thumbnail/1200x630/d8c1d1a13fbdbc99617fd02d99808dad/mbta.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVVRXRpTWswM2FUbFRMWFExVFJDUkF4ajhCU2dLTWdhNU00b3hKUWM",
+      "date": "06/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-17T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "City Of Effingham Announces Road Closure For This Morning",
+      "source": {
+        "name": "Effingham Radio",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.effinghamradio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.effinghamradio.com/2026/08/12/city-of-effingham-announces-road-closure-for-today-9/",
+      "date": "08/12/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-12T07:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Friday evening traffic: Highway 1 closed at Park Ave.; multiple lane closures",
+      "source": {
+        "name": "Lookout Santa Cruz",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://lookout.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://lookout.co/friday-morning-traffic-highway-9-highway-1-highway-17-lane-closures-for-roadwork/story",
+      "thumbnail": "https://i0.wp.com/lookout-the-commons-image-assets.s3.amazonaws.com/025d2cd5e7e28a4a6b894dc89d1f8de8_1780720280.png?w=780&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZObG8xU0Y5UVgxQjRVamRWVFJDUUF4aUFCU2dLTWdNVlV3dw",
+      "date": "06/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-05T07:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "ODOT clarifies Riverside Drive/US 33 closure, detour beginning Aug. 3",
+      "source": {
+        "name": "The Columbus Dispatch",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dispatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nathan Hart"
+        ]
+      },
+      "link": "https://www.dispatch.com/story/news/local/2026/07/27/us-33-closures-upper-arlington-dublin-traffic-news/91069680007/",
+      "thumbnail": "https://www.dispatch.com/gcdn/authoring/authoring-images/2026/07/27/NCOD/91069884007-odot-detour-map.png?crop=694,391,x0,y104&width=660&height=371&format=pjpg&auto=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlka3h0VDJKVFYwcGxTVmwyVFJEekFoaVVCU2dLTWdPTklndw",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Police Announce Street Closure, Parking Restrictions For Newtown Theatre Event",
+      "source": {
+        "name": "Patch",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Werner"
+        ]
+      },
+      "link": "https://patch.com/pennsylvania/newtown-pa/police-announce-street-closure-parking-restrictions-newtown-theatre-event",
+      "thumbnail": "https://patch.com/img/cdn20/users/26019821/20260901/034908/styles/patch_image/public/bw-dinner-1___01034510639.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNTemN0TFVvemMxOXBUbmR0VFJEZkF4aUFCU2dLTWdhQlVZWk1wUVU",
+      "date": "09/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-01T07:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Center City road closures begin ahead of Philly's FIFA Fan Fest",
+      "source": {
+        "name": "NBC10 Philadelphia",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nbcphiladelphia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcela Camargo"
+        ]
+      },
+      "link": "https://www.nbcphiladelphia.com/news/local/road-closures-transportation-plans-announced-for-phillys-fifa-fan-fest/4404371/",
+      "thumbnail": "https://media.nbcphiladelphia.com/2026/05/Screenshot-21.png?resize=1200%2C675&quality=85&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUVkl0V21wMVltVTNlR0pvVFJDZkF4ampCU2dLTWdhQm9aQXJPUWM",
+      "date": "05/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-19T07:00:00Z"
+    },
+    {
+      "position": 86,
+      "title": "Flower Mart and Kinetic Sculpture Race traffic and road closure information",
+      "source": {
+        "name": "Baltimore Fishbowl",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://baltimorefishbowl.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aliza Worthington"
+        ]
+      },
+      "link": "https://baltimorefishbowl.com/stories/flower-mart-and-kinetic-sculpture-race-traffic-and-road-closure-information/",
+      "thumbnail": "https://i0.wp.com/baltimorefishbowl.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-3.31.07-PM.png?fit=780%2C486&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlPV3h5YmxGS2ExcGFaRk4wVFJDMUF4aS1CU2dLTWdZVmdJNnh0QVU",
+      "date": "04/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-30T07:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "Florham Park Provides Road Closure Update on James Street and Briarwood Road",
+      "source": {
+        "name": "TAPinto",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tapinto.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tapinto.net/towns/east-hanover-and-florham-park/sections/police-and-fire/articles/florham-park-provides-road-closure-update-on-james-street-and-briarwood-road",
+      "thumbnail": "https://assets.tapinto.net/uploads/articles/sc/best_crop_71710cd5303c64c0fd73_Screenshot_2026-07-06_214356.png?id=6429362&v=2c6e376e01122c5fa57c",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVVbXR3VTJGb1JpMXlibTV5VFJENEF4amhCQ2dLTWdZZHNaQlB3UVk",
+      "date": "07/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-07T07:00:00Z"
+    },
+    {
+      "position": 88,
+      "title": "LIRR strike updates: MTA shuttle buses, contingency plans to get around as Long Island Rail Road service stops",
+      "source": {
+        "name": "ABC7 Eyewitness News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7ny.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://abc7ny.com/post/lirr-strike-update-2026-mta-shuttle-buses-contingency-plans-get-around-long-island-railroad-service-stops/19099771/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19099814_051426-wabc-lirr-ap-img.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVhMlY0YzJoNlRHRjJXWGQ1VFJDZkF4ampCU2dLTWdhQk1vajBVQVE",
+      "date": "05/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-18T07:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "Park Avenue merchants embrace upcoming road closure for cycling event, hope to attract tourists",
+      "source": {
+        "name": "CBC",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cbc.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cbc.ca/player/play/video/9.7308090",
+      "thumbnail": "https://i.cbc.ca/ais/01fbd3a7-c4f5-45d6-902f-bb62386ec99f,1786748970564/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D1180",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtORVZVUm5kd1gzSjVaa0Y2VFJDZkF4amlCU2dLTWdZTlU1QnBJUWM",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "Dunfermline roadworks summer 2026",
+      "source": {
+        "name": "Fife Council",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fife.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.fife.gov.uk/news/2026/dunfermline-roadworks-summer-2026",
+      "thumbnail": "https://www.fife.gov.uk/__data/assets/image/0026/90827/Carnegie-Drive-road-condition-12.08.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtNbGx3ZFRodmRUSTBSazlqVFJDckJCalBBeWdLTWdNZFFBNA",
+      "date": "09/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-25T07:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "Arts District street closure, Waymo goes driverless, & park staff unionize",
+      "source": {
+        "name": "Nevada Public Radio",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://knpr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://knpr.org/daily-rundown/2026-07-10/arts-district-street-closure-waymo-goes-driverless-park-staff-unionize",
+      "thumbnail": "https://npr.brightspotcdn.com/dims4/default/0a4ced5/2147483647/strip/true/crop/1280x720+0+0/resize/880x495!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F5b%2Fa3c1b03148f484e1fe32486763c6%2Ftdr-0710.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVUak5qYVd3d2RqZFVabmhVVFJDb0FSaXNBaWdCTWdtRkVvWUNpMnM5VHdF",
+      "date": "07/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-10T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "Traverse City to close 100 block of Cass Street for crosswalk reconstruction May 18 to June 26",
+      "source": {
+        "name": "9and10News.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.9and10news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Fellows"
+        ]
+      },
+      "link": "https://www.9and10news.com/2026/05/14/traverse-city-to-close-100-block-of-cass-street-for-crosswalk-reconstruction-may-18-to-june-26/",
+      "thumbnail": "https://cloudfront-us-east-1.images.arcpublishing.com/910mediagroup/EKAIDOFIEZJTDGHWRSESWJ6Y6Y.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZVjlhWWs4NFVIVTNhemxrVFJDZkF4ampCU2dLTWdhOVlwQVNwUVk",
+      "date": "05/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Closure of Southbound Highway 1 On-ramp at Park Ave. Begins April 19",
+      "source": {
+        "name": "California Department of Transportation | Caltrans (.gov)",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dot.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dot.ca.gov/caltrans-near-me/district-5/d5-news/d5-news-4-13-2026",
+      "date": "04/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-13T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "Road closure announced by the New River Gorge National Park and Preserve",
+      "source": {
+        "name": "WVNS",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wvnstv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jessica Phillips"
+        ]
+      },
+      "link": "https://www.wvnstv.com/traffic/road-closure-announced-by-the-new-river-gorge-national-park-and-preserve/",
+      "thumbnail": "https://www.wvnstv.com/wp-content/uploads/sites/76/2018/04/road20closures20mgn_1523875391633.jpg_39967715_ver1.0.jpg?strip=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBlbXBtWDNwc2QxRjBhRWRpVFJEb0FoaUFCU2dLTWdrQklJd0NteWd1U1FJ",
+      "date": "04/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-29T07:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "Street closure OK’d for fire department spray park in downtown Ann Arbor",
+      "source": {
+        "name": "MLive.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ryan Stanton"
+        ]
+      },
+      "link": "https://www.mlive.com/news/ann-arbor/2026/06/street-closure-okd-for-fire-department-spray-park-in-downtown-ann-arbor.html",
+      "thumbnail": "https://www.mlive.com/resizer/v2/LP4KERY63ZCAFOPS3WAFTDG6AQ.jpg?auth=abef0942706a19e82c7191e3b39a574b51c41db7c1ea84bf71c7c65bf4543869&width=500&smart=true&quality=90",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1OelJFTUhvM09GTjBNVnBVVFJEM0FoajBBeWdLTWdZQm9JakN3Z1E",
+      "date": "06/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-02T07:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "Major traffic changes planned for Eau Claire Marathon this weekend, including State Street closure",
+      "source": {
+        "name": "WQOW",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wqow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kristen Shill"
+        ]
+      },
+      "link": "https://www.wqow.com/eye-on-eau-claire/major-traffic-changes-planned-for-eau-claire-marathon-this-weekend-including-state-street-closure/article_66700a9d-0906-4ebd-b149-2d8e0c342c13.html",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wqow.com/content/tncms/assets/v3/editorial/c/84/c8416910-e480-11ed-8412-ebe3401a8a55/6449a424457c8.image.jpg?crop=1207%2C680%2C335%2C1&resize=400%2C225&order=crop%2Cresize",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTZUMmRoWVV0U1dFSkplRE5YVFJEaEFSaVFBeWdLTWdB",
+      "date": "04/29/2026, 12:56 AM, +0000 UTC",
+      "iso_date": "2026-04-29T00:56:47Z"
+    },
+    {
+      "position": 97,
+      "title": "Road Closure Information for Parade Weekend 2026",
+      "source": {
+        "name": "City of Holyoke",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.holyoke.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.holyoke.org/road-closure-information-for-parade-weekend-2026/",
+      "thumbnail": "https://storage.googleapis.com/proudcity/holyokema/2025/03/Road-race-map-2025.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFTMmhyTjB0QmFrdGFTVWs1VFJEUUF4aVZCU2dLTWdhQkFaQUtsUWc",
+      "date": "03/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-17T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "Workington Gateway Project enters final phase",
+      "source": {
+        "name": "Cumberland Council",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cumberland.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cumberland.gov.uk/news/2026/workington-gateway-project-enters-final-phase",
+      "thumbnail": "https://www.cumberland.gov.uk/sites/default/files/styles/medium_28_9/public/2026-07/ramsay_brow_proposed_visual3.jpg?itok=97fj4TdA",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUWEJUTmxCVVFVbGtSMU5OVFJDNkFoalJCeWdLTWdZQmNZekNxZ1k",
+      "date": "07/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-31T07:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "A mile of Acadia’s Park Loop Road will be closed until mid-June",
+      "source": {
+        "name": "Bangor Daily News",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bangordailynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.bangordailynews.com/2026/04/14/hancock/hancock-culture/acadia-park-loop-road-closure/",
+      "thumbnail": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/04/SchoodicBike102319-8.jpg?fit=780%2C520&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXJTa3MyVTBwMk9UUkhOVkZUVFJERUF4aW1CU2dLTWdPSmtBNA",
+      "date": "04/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-14T07:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "Workington roadworks update: key dates and closures from 21 August",
+      "source": {
+        "name": "Cumberland Council",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cumberland.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cumberland.gov.uk/news/2026/workington-roadworks-update-key-dates-and-closures-21-august",
+      "thumbnail": "https://www.cumberland.gov.uk/sites/default/files/styles/medium_28_9/public/2023-07/highways_team_member_and_van.jpg?itok=JeVBRCbV",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlWWFZsZVRONFlqVnBRbTh0VFJDNkFoalJCeWdLTWdNQkF3WQ",
+      "date": "08/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-21T07:00:00Z"
+    },
+    {
+      "position": 101,
+      "title": "Roundabout closures as flyover demolition continues",
+      "source": {
+        "name": "Gateshead Council",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gateshead.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.gateshead.gov.uk/article/38163/Roundabout-closures-as-flyover-demolition-continues",
+      "thumbnail": "https://www.gateshead.gov.uk/image/50586/Five-Bridges-anonymised/original.jpg?m=1781091697197",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1SVVJZUlV4U1NrdEpkRzFyVFJERUF4aW1CU2dLTWdZQnNJcFh6QU0",
+      "date": "06/05/2026, 02:10 PM, +0000 UTC",
+      "iso_date": "2026-06-05T14:10:28Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

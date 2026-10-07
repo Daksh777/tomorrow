@@ -1,0 +1,456 @@
+{
+  "search_metadata": {
+    "id": "6ac64801eb6ec5b60cc603c4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/QkS0N6m4_19Ezy9bQpcwDGbqCohelhUOc6qaAMx7kHA/6ac64801eb6ec5b60cc603c4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/QkS0N6m4_19Ezy9bQpcwDGbqCohelhUOc6qaAMx7kHA/6ac64801eb6ec5b60cc603c4.md",
+    "created_at": "2026-10-07 13:24:17 UTC",
+    "processed_at": "2026-10-07 13:24:17 UTC",
+    "google_news_url": "https://news.google.com/search?q=Connaught+Place+protest+OR+closure+OR+traffic+when%3A2d&hl=en&gl=IN",
+    "raw_html_file": "https://serpapi.com/searches/QkS0N6m4_19Ezy9bQpcwDGbqCohelhUOc6qaAMx7kHA/6ac64801eb6ec5b60cc603c4.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "gl": "in",
+    "hl": "en",
+    "q": "Connaught Place protest OR closure OR traffic when:2d"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Delhi traffic curbs as INDIA bloc marches to ECI; Connaught Place, Parliament Street affected",
+      "source": {
+        "name": "The Economic Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://m.economictimes.com/news/india/delhi-traffic-curbs-as-india-bloc-marches-to-eci-connaught-place-parliament-street-affected/articleshow/134722377.cms",
+      "thumbnail": "https://m.economictimes.com/thumb/msid-134722376,width-1200,height-900,resizemode-4,imgsize-153978/india-bloc-protest-delhi-traffic-police-issues-advisory-urges-commuters-to-avoid-new-delhi-routes.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURUSGxvYmt0UlVFWndUV0YyVFJEZ0F4aUFCU2dLTWdZQllJZ2hSZ1E",
+      "date": "10/06/2026, 03:51 AM, +0000 UTC",
+      "iso_date": "2026-10-06T03:51:07Z"
+    },
+    {
+      "position": 2,
+      "title": "Delhi traffic alert: Connaught Place, Parliament Street choke amid INDIA bloc march",
+      "source": {
+        "name": "Livemint",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kanishka Singharia"
+        ]
+      },
+      "link": "https://www.livemint.com/news/india/delhi-traffic-alert-connaught-place-parliament-street-choke-amid-india-bloc-march-11791282675785.html",
+      "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/maxresdefault_1791285845152_RecT_1791285850539_Ew3t_7c0be2d7-3afc-4cdc-a8a7-89374b96b994_HDg5.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBkakpCU1hObE9GVjNhak5oVFJDZkF4ampCU2dLTWdZdFpvRE91UVU",
+      "date": "10/06/2026, 11:09 AM, +0000 UTC",
+      "iso_date": "2026-10-06T11:09:19Z"
+    },
+    {
+      "position": 3,
+      "title": "Raahgiri Day: For three hours, Connaught Place forgot it was a traffic circle",
+      "source": {
+        "name": "Pioneer Daily",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailypioneer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://dailypioneer.com/news/raahgiri-day-for-three-hours-connaught-place-forgot-it-was-a-traffic-circle",
+      "thumbnail": "https://dailypioneer.com/uploads/2026/story/images/big/raahgiri-day--for-three-hours--connaught-place-forgot-it-was-a-traffic-circle-2026-10-05.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5lVXd0V1hKU1YzUTNZbEJ2VFJDbUF4alhCU2dLTWdB",
+      "date": "10/05/2026, 04:04 PM, +0000 UTC",
+      "iso_date": "2026-10-05T16:04:37Z"
+    },
+    {
+      "position": 4,
+      "title": "Delhi Traffic Alert Today: Diversions Around CP, Parliament Street From 8AM | Roads To Avoid",
+      "source": {
+        "name": "News18",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumedha Kirti"
+        ]
+      },
+      "link": "https://www.news18.com/cities/new-delhi-news/delhi-traffic-alert-today-diversions-around-cp-parliament-street-from-8am-roads-to-avoid-10368853.html",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/10/delhi-traffic-restrictions-today-2026-10-b1ba14fa581031d4f323aa0d65f10133.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtaakZPYjFCT2FsSkpWR1YxVFJDZkF4ampCU2dLTWdZOUFJTFRnQU0",
+      "date": "10/06/2026, 05:19 AM, +0000 UTC",
+      "iso_date": "2026-10-06T05:19:28Z"
+    },
+    {
+      "position": 5,
+      "title": "Video: Traffic jam in central Delhi amid curbs for INDIA bloc's protest march - India Today",
+      "source": {
+        "name": "India Today",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.indiatoday.in/cities/delhi/video/video-traffic-jam-in-central-delhi-amid-curbs-for-india-bloc-protest-march-3010522-2026-10-06",
+      "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202610/traffic-jam-065635172-16x9_0.png?VersionId=e2VRm3ZBi5LWY1k6V1TZbKqEJEiVUFSY?size=647:363",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBURm8zTjFkRWMwVm5XRzl6VFJDZkF4ampCU2dLTWdrQlVJNlFPS1hBQndJ",
+      "date": "10/06/2026, 05:57 AM, +0000 UTC",
+      "iso_date": "2026-10-06T05:57:05Z"
+    },
+    {
+      "position": 6,
+      "title": "Traffic crawls across Lutyens' Delhi amid INDIA bloc march to EC",
+      "source": {
+        "name": "Metro Vaartha",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://english.metrovaartha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://english.metrovaartha.com/amp/story/news/national/traffic-crawls-across-lutyens-delhi-amid-india-bloc-march-to-ec",
+      "thumbnail": "https://cf-images.assettype.com/metrovaartha-en/2026-07-20/dpuhdhu2/1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhVMGd5Y1ZCMFJ6TTFSRXRZVFJDZkF4ampCU2dLTWdrQklJTEluU01tOVFB",
+      "date": "10/06/2026, 12:24 PM, +0000 UTC",
+      "iso_date": "2026-10-06T12:24:05Z"
+    },
+    {
+      "position": 7,
+      "title": "Traffic moved at a snail’s pace in Lutyens’ Delhi due to Opposition’s protest march",
+      "source": {
+        "name": "The Statesman",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestatesman.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thestatesman.com/cities/delhi/traffic-moved-at-a-snails-pace-in-lutyens-delhi-due-to-oppositions-protest-march-1503647875.html",
+      "thumbnail": "https://www.thestatesman.com/wp-content/uploads/2025/10/Untitled-design-2025-10-17T213319.066.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpPWEV3UjFWUWFYSnZUamR2VFJDZkF4ampCU2dLTWdZQlFvQUhwUU0",
+      "date": "10/06/2026, 04:43 PM, +0000 UTC",
+      "iso_date": "2026-10-06T16:43:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Delhi-NCR traffic alert: Central Delhi barricaded amid INDIA bloc march, VIP movement; avoid these routes",
+      "source": {
+        "name": "The Times of India",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-ncr-traffic-india-bloc-march-vip-movements-trigger-diversions-jams-cp-aiims-old-delhi-mayur-vihar-among-most-affected-areas/amp_articleshow/134726970.cms",
+      "thumbnail": "https://static.toiimg.com/thumb/msid-134727044,width-1280,height-720,imgsize-129935,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtZVlZHWVdwTVZ6ZEZTM1pYVFJDZkF4ampCU2dLTWdhQmdvSmdRZ1E",
+      "date": "10/06/2026, 07:30 AM, +0000 UTC",
+      "iso_date": "2026-10-06T07:30:00Z"
+    },
+    {
+      "position": 9,
+      "title": "INDIA bloc protest: Delhi Traffic Police issues advisory, urges commuters to avoid New Delhi routes",
+      "source": {
+        "name": "Devdiscourse",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.devdiscourse.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.devdiscourse.com/article/headlines/3987334-india-bloc-protest-delhi-traffic-police-issues-advisory-urges-commuters-to-avoid-new-delhi-routes",
+      "date": "10/06/2026, 04:22 AM, +0000 UTC",
+      "iso_date": "2026-10-06T04:22:11Z"
+    },
+    {
+      "position": 10,
+      "title": "Traffic curbs in central Delhi as Opposition MPs protest, march to Election Commission over SIR row",
+      "source": {
+        "name": "Mid-Day",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mid-day.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.mid-day.com/news/india-news/article/delhi-traffic-updates-traffic-curbs-in-central-delhi-as-opposition-mps-protest-march-to-election-commission-over-sir-row-23653627",
+      "thumbnail": "https://images.mid-day.com/images/images/2026/oct/cong-MPs-protest-Rahul-PTI_1791271969091_d.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRhVWhoVjJzelZVdDJWVzFYVFJDZkF4ampCU2dLTWdZQllJUlJuUWM",
+      "date": "10/06/2026, 07:35 AM, +0000 UTC",
+      "iso_date": "2026-10-06T07:35:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Traffic curbs in central Delhi as INDIA bloc marches to EC over SIR row",
+      "source": {
+        "name": "Moneycontrol.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.moneycontrol.com/city/traffic-curbs-in-central-delhi-as-india-bloc-marches-to-ec-over-sir-row-article-14045479.html",
+      "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/10/20261006051024_dttib.png?impolicy=website&width=1600&height=900",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFSRWg2VTE4NFh6QmxOVkZ4VFJDZkF4ampCU2dLTWdB",
+      "date": "10/06/2026, 05:10 AM, +0000 UTC",
+      "iso_date": "2026-10-06T05:10:38Z"
+    },
+    {
+      "position": 12,
+      "title": "Traffic Crawls Across Lutyens' Delhi Amid INDIA Bloc March To EC",
+      "source": {
+        "name": "Outlook India",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.outlookindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.outlookindia.com/national/traffic-crawls-across-lutyens-delhi-amid-india-bloc-march-to-ec",
+      "thumbnail": "https://cf-images.assettype.com/outlookindia/2025-08-11/xn8720tt/INDIA-bloc-MPs-hold-protest-march1.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iOkNnNXBZbEo2TjJKSlEyRlNTV2RUVFJERUF4aW1CU2dLTWhFQkVJSWduQ2lKenlpSlBiNG1sNEdfQlE",
+      "date": "10/06/2026, 09:24 AM, +0000 UTC",
+      "iso_date": "2026-10-06T09:24:20Z"
+    },
+    {
+      "position": 13,
+      "title": "Rahul Gandhi and Co. head to Jantar Mantar for anti-CEC protest, round 2",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Asad Rehman",
+          "chandrashekar srinivasan"
+        ]
+      },
+      "link": "https://indianexpress.com/article/cities/delhi/india-bloc-lunch-central-delhi-rahul-gandhi-mallikarjun-kharge-police-standby-10910614/",
+      "thumbnail": "https://images.indianexpress.com/2026/10/rahul-gandhi-delhi.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNVV1JTVDBabUxXSnhOa1ZpVFJDZkF4ampCU2dLTWdB",
+      "date": "10/07/2026, 11:44 AM, +0000 UTC",
+      "iso_date": "2026-10-07T11:44:45Z"
+    },
+    {
+      "position": 14,
+      "title": "Delhi traffic advisory October 6: Multiple roads closed today due to INDIA bloc march | Check routes to avoid",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Abhijeet Sen"
+        ]
+      },
+      "link": "https://www.india.com/news/india/delhi-traffic-advisory-october-6-multiple-roads-closed-today-connaught-place-patel-chowk-parliament-street-patel-chowk-gpo-windsor-place-gpo-ashoka-road-jantar-manta-8533342/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/09/delhi-traffic-advisory.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBaazUxWldkR1JESmxWMDlNVFJERUF4aW1CU2dLTWdZQmtJb0JOd1k",
+      "date": "10/06/2026, 09:51 AM, +0000 UTC",
+      "iso_date": "2026-10-06T09:51:12Z"
+    },
+    {
+      "position": 15,
+      "title": "INDIA Bloc leaders march to Election Commission; traffic advisory issued, check routes to avoid",
+      "source": {
+        "name": "India.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.india.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Victor Dasgupta"
+        ]
+      },
+      "link": "https://www.india.com/news/india/india-bloc-march-election-commission-gyanesh-kumar-special-intensive-revisionvijay-chowk-connaught-place-patel-chowk-parliament-street-patel-chowk-gpo-windsor-place-gpo-ashoka-road-8533223/",
+      "thumbnail": "https://static.india.com/wp-content/uploads/2026/07/traffic-challan.jpg?impolicy=Medium_Resize&w=1200&h=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVabkZ1ZEY4eU1XNVlkR0puVFJERUF4aW1CU2dLTWdZQlFKYVZuQWc",
+      "date": "10/06/2026, 05:14 AM, +0000 UTC",
+      "iso_date": "2026-10-06T05:14:40Z"
+    },
+    {
+      "position": 16,
+      "title": "‘Gyanesh, it’s done, bro’: Rahul Gandhi, INDIA bloc MPs march to ECI, demand CEC’s resignation",
+      "source": {
+        "name": "CNBC TV18",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.cnbctv18.com/india/gyanesh-its-done-bro-rahul-gandhi-india-bloc-mps-march-to-eci-demand-cecs-resignation-20005442.htm",
+      "thumbnail": "https://images.cnbctv18.com/uploads/2026/10/untitled-design-2026-10-25b9f08976c0be34234178485b358d5b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlia2xtWlRNeFVrVnpUM0p0VFJDZkF4ampCU2dLTWdZQlVJaEF0Z1U",
+      "date": "10/06/2026, 06:41 AM, +0000 UTC",
+      "iso_date": "2026-10-06T06:41:06Z"
+    },
+    {
+      "position": 17,
+      "title": "Delhi cop, accused of misbehaving with woman journalist during protest, promoted",
+      "source": {
+        "name": "The Tribune",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rahul Gahlawat"
+        ]
+      },
+      "link": "https://www.tribuneindia.com/news/delhi/delhi-cop-accused-of-misbehaving-with-woman-journalist-during-protest-promoted/amp",
+      "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdjYTM5MWQwLWMwYzktMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZOblZ1VjJ0S0xVOVZZazk1VFJEd0JCanJBeWdLTWdZUk41eEluZ2s",
+      "date": "10/05/2026, 02:29 PM, +0000 UTC",
+      "iso_date": "2026-10-05T14:29:42Z"
+    },
+    {
+      "position": 18,
+      "title": "New Delhi: SFI members protest against Election Commission at Connaught Place #Gallery",
+      "source": {
+        "name": "Social News XYZ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.socialnews.xyz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.socialnews.xyz/2026/10/06/new-delhi-sfi-members-protest-against-election-commission-at-connaught-place-gallery/",
+      "thumbnail": "https://s3.socialnews.xyz/wp-content/uploads/2026/10/06/20261006591f-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhOVkpOUlVkamIzZHBhbnBvVFJEV0F4aU1CU2dLTWdtRlVaVE5KS201elFF",
+      "date": "10/06/2026, 04:03 PM, +0000 UTC",
+      "iso_date": "2026-10-06T16:03:16Z"
+    },
+    {
+      "position": 19,
+      "title": "New Delhi: Traffic Jam at Connaught Place #Gallery",
+      "source": {
+        "name": "Social News XYZ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.socialnews.xyz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.socialnews.xyz/2026/10/06/new-delhi-traffic-jam-at-connaught-place-gallery/",
+      "thumbnail": "https://s3.socialnews.xyz/wp-content/uploads/2026/10/06/20261006206f-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpkRXBYY1hsSVVUaGtXVEZtVFJERUF4aW1CU2dLTWdZQjBJQ016QUk",
+      "date": "10/06/2026, 08:37 PM, +0000 UTC",
+      "iso_date": "2026-10-06T20:37:55Z"
+    },
+    {
+      "position": 20,
+      "title": "SFI members protest against Election Commission at Connaught Place",
+      "source": {
+        "name": "Prokerala",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prokerala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.prokerala.com/news/photos/sfi-members-protest-against-election-commission-at-connaught-place-3775054.html",
+      "thumbnail": "https://files.prokerala.com/news/photos/imgs/1024/sfi-members-protest-against-election-commission-2112581.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNiVnBQYjNkclRrbHRhVzF2VFJDOUFSaUtBaWdCTWdtQmNaTE1LR2k1cmdF",
+      "date": "10/06/2026, 04:00 PM, +0000 UTC",
+      "iso_date": "2026-10-06T16:00:01Z"
+    },
+    {
+      "position": 21,
+      "title": "Traffic curbs in central Delhi as INDIA bloc marches to EC over SIR row",
+      "source": {
+        "name": "English Varthabharati",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://english.varthabharati.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://english.varthabharati.in/amp/india/traffic-curbs-in-central-delhi-as-india-bloc-marches-to-ec-over-sir-row-2280555",
+      "date": "10/06/2026, 05:07 AM, +0000 UTC",
+      "iso_date": "2026-10-06T05:07:31Z"
+    },
+    {
+      "position": 22,
+      "title": "Delhi traffic restrictions begin 8am around Connaught Place",
+      "source": {
+        "name": "NewsBytes",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsbytesapp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsbytesapp.com/news/india/delhi-traffic-restrictions-begin-8am-around-connaught-place/tldr",
+      "thumbnail": "https://i.cdn.newsbytesapp.com/images/l144_15281791255300.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFhak5VU0VsWFRXcHVOV293VFJDZkF4ampCU2dLTWdhZFlwSXNNUWM",
+      "date": "10/06/2026, 03:52 AM, +0000 UTC",
+      "iso_date": "2026-10-06T03:52:56Z"
+    },
+    {
+      "position": 23,
+      "title": "Traffic Jam at Connaught Place",
+      "source": {
+        "name": "Prokerala",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prokerala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.prokerala.com/news/photos/traffic-jam-at-connaught-place-3774989.html",
+      "thumbnail": "https://files.prokerala.com/news/photos/imgs/1024/traffic-jam-at-connaught-place-2112155.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTWGgyWkRKcWVqbHNTWGRYVFJDTUFoaThBU2dCTWdZQmNZRW9aUUE",
+      "date": "10/06/2026, 09:30 AM, +0000 UTC",
+      "iso_date": "2026-10-06T09:30:01Z"
+    },
+    {
+      "position": 24,
+      "title": "INDIA Bloc SIR Protest: Delhi Traffic Police Issues Advisory, Diversions Around EC Office, Jantar Mantar",
+      "source": {
+        "name": "ABP Live English",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.abplive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://news.abplive.com/cities/india-bloc-sir-protest-delhi-traffic-police-issues-advisory-diversions-around-ec-office-jantar-mantar-1869954",
+      "thumbnail": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/07/23/fa6c54f28434fed772d3185673987a4217847948910721388_original.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVjekZ0V0Zsek5raDNNWFJ3VFJDOUF4aXhCU2dLTWdZQnNJeU1RQVU",
+      "date": "10/06/2026, 04:10 AM, +0000 UTC",
+      "iso_date": "2026-10-06T04:10:39Z"
+    },
+    {
+      "position": 25,
+      "title": "Delhi Traffic Alert Today: Central Delhi Roads To Face Diversions From 8 AM Amid Opposition March To Election Commission; Check Affected Areas, Alternate Routes And Metro Advisory",
+      "source": {
+        "name": "The Sunday Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sundayguardianlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zainab Khanam"
+        ]
+      },
+      "link": "https://sundayguardianlive.com/india/delhi-traffic-alert-today-central-delhi-roads-to-face-diversions-from-8-am-amid-opposition-march-to-election-commission-check-affected-areas-alternate-routes-and-metro-advisory-299932/",
+      "thumbnail": "https://sundayguardianlive.com/wp-content/uploads/2026/10/delhi-traffic-7.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXVNVVUwU25WYU0wbHZVbWxvVFJEZ0F4aUFCU2dLTWdzQk1JQ05tQ0dZRDhuRmtR",
+      "date": "10/06/2026, 08:32 AM, +0000 UTC",
+      "iso_date": "2026-10-06T08:32:30Z"
+    },
+    {
+      "position": 26,
+      "title": "INDIA bloc march to Election Commission snarls New Delhi traffic",
+      "source": {
+        "name": "NewsBytes",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.newsbytesapp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.newsbytesapp.com/news/india/india-bloc-march-to-election-commission-snarls-new-delhi-traffic/tldr",
+      "thumbnail": "https://i.cdn.newsbytesapp.com/images/l144_28221791277536.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhSRXBoTFVKclNUbEpTM1ZSVFJDcEF4alJCU2dLTWdhQllvSkhXZ00",
+      "date": "10/06/2026, 09:29 AM, +0000 UTC",
+      "iso_date": "2026-10-06T09:29:13Z"
+    },
+    {
+      "position": 27,
+      "title": "Breaking: Delhi Traffic Advisory Today, October 6: Diversions around Connaught Place, Jantar Mantar from 8 AM; check affected routes",
+      "source": {
+        "name": "ET Now",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.etnownews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Anamika Singh"
+        ]
+      },
+      "link": "https://www.etnownews.com/news/delhi-traffic-advisory-today-october-6-diversions-around-connaught-place-jantar-mantar-from-8-am-check-affected-routes-article-156281562",
+      "thumbnail": "https://images.etnownews.com/thumb/msid-156281562,thumbsize-79213,width-1280,height-720,resizemode-75/156281562.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxMWGhxWW5SUVRteGFPV1l3VFJDZkF4ampCU2dLTWdZZGM0NXJLUVk",
+      "date": "10/06/2026, 02:25 AM, +0000 UTC",
+      "iso_date": "2026-10-06T02:25:23Z"
+    },
+    {
+      "position": 28,
+      "title": "Delhi Protest: IPS Officer Promoted To DCP Rank Days After Female Journalists Accused Him Of Sexual Harassment",
+      "source": {
+        "name": "The Daily Jagran",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thedailyjagran.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chetna Shree"
+        ]
+      },
+      "link": "https://www.thedailyjagran.com/india/news/delhi-protest-ips-officer-promoted-to-dcp-rank-days-after-female-journalists-accused-him-of-sexual-harassment-10331653",
+      "thumbnail": "https://images.thedailyjagran.com/images/2026/10/05/template/image/Delhi-Police-1791211801059.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdaMk0yWjBWVVVuZEVVblJaVFJDZkF4ampCU2dLTWdhWk40cEpLZ1k",
+      "date": "10/05/2026, 02:53 PM, +0000 UTC",
+      "iso_date": "2026-10-05T14:53:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "India",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+    }
+  ]
+}

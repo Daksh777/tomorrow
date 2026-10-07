@@ -1,0 +1,1503 @@
+{
+  "search_metadata": {
+    "id": "6ac63be36f1e407606cfc577",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lfkj5y7arRcwD7YPMfwzVEnREqUO5bGa1QVnDQpplHs/6ac63be36f1e407606cfc577.json",
+    "markdown_endpoint": "https://serpapi.com/searches/lfkj5y7arRcwD7YPMfwzVEnREqUO5bGa1QVnDQpplHs/6ac63be36f1e407606cfc577.md",
+    "created_at": "2026-10-07 12:32:35 UTC",
+    "processed_at": "2026-10-07 12:32:35 UTC",
+    "google_sports_url": "https://www.google.com/search?kgmid=/m/021q23&sourceid=chrome&ie=UTF-8&hl=en#sie=lg;/m/021q23;2;/m/021q23;bs;fp;1;;;2026-10-07T12:32:35Z;-1",
+    "raw_html_file": "https://serpapi.com/searches/lfkj5y7arRcwD7YPMfwzVEnREqUO5bGa1QVnDQpplHs/6ac63be36f1e407606cfc577.html",
+    "prettify_html_file": "https://serpapi.com/searches/lfkj5y7arRcwD7YPMfwzVEnREqUO5bGa1QVnDQpplHs/6ac63be36f1e407606cfc577.prettify",
+    "total_time_taken": 1.28
+  },
+  "search_parameters": {
+    "engine": "google_sports",
+    "kgmid": "/m/021q23",
+    "sp": "ft",
+    "type": "league",
+    "tab": "gm",
+    "moa": "2026-10-07T12:32:35Z",
+    "mob": "2026-10-15T12:32:35Z",
+    "hl": "en"
+  },
+  "league_results": {
+    "game_groups": [
+      {
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "Saudi Arabia national cricket team",
+                "short_name": "Saudi Arabia",
+                "short_code": "SDA",
+                "kgmid": "/m/0g_6qt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_500x500.png"
+              },
+              {
+                "name": "Singapore national cricket team",
+                "short_name": "Singapore",
+                "short_code": "SIN",
+                "kgmid": "/m/0cprdy",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SXDmM3hD3sYznbTTTpru3Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxp84bln",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxp84bln&sp=cr&type=game",
+            "start_time": "2026-10-08T06:00:00Z",
+            "end_time": "2026-10-08T10:00:00Z",
+            "extensions": [
+              "T20 2 of 15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tomorrow",
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "Mongolia national cricket team",
+                "short_name": "Mongolia",
+                "short_code": "MNG",
+                "kgmid": "/g/11rsbdp814",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/J1GVv__Jofi9-GD11pYhhg_500x500.png"
+              },
+              {
+                "name": "Thailand national cricket team",
+                "short_name": "Thailand",
+                "short_code": "THA",
+                "kgmid": "/m/0cz9qz",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aEBU_ri8U6F06oTqWmKY5g_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw35p7sy",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw35p7sy&sp=cr&type=game",
+            "start_time": "2026-10-09T01:15:00Z",
+            "end_time": "2026-10-09T05:15:00Z",
+            "extensions": [
+              "T20 10 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Qatar national cricket team",
+                "short_name": "Qatar",
+                "short_code": "QAT",
+                "kgmid": "/m/0g_41d",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h0FNA5YxLzWChHS5K0o4gw_500x500.png"
+              },
+              {
+                "name": "Myanmar national cricket team",
+                "short_name": "Myanmar",
+                "short_code": "MYA",
+                "kgmid": "/m/0gz5gd"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxq00r2m",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxq00r2m&sp=cr&type=game",
+            "start_time": "2026-10-09T01:15:00Z",
+            "end_time": "2026-10-09T05:15:00Z",
+            "extensions": [
+              "T20 11 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Kuwait national cricket team",
+                "short_name": "Kuwait",
+                "short_code": "KUW",
+                "kgmid": "/m/0c0tgg",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Rj-XKkiRUEQYkJMMsrhM_A_500x500.png"
+              },
+              {
+                "name": "Bahrain national cricket team",
+                "short_name": "Bahrain",
+                "short_code": "BRN",
+                "kgmid": "/m/0gfkdt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HUez63n7xzBx0v__6EfsTA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxq07s1x",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxq07s1x&sp=cr&type=game",
+            "start_time": "2026-10-09T01:15:00Z",
+            "end_time": "2026-10-09T05:15:00Z",
+            "extensions": [
+              "T20 11 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Oman national cricket team",
+                "short_name": "Oman",
+                "short_code": "OMA",
+                "kgmid": "/m/07x722",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/tr94i28azTadAjK9PBYFGA_500x500.png"
+              },
+              {
+                "name": "Canada national cricket team",
+                "short_name": "Canada",
+                "short_code": "CAN",
+                "kgmid": "/m/0639sd",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/H23oIEP6qK-zNc3O8abnIA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Oman",
+              "kgmid": "/g/11g_rjjfy8"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11ntnyhr6g",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11ntnyhr6g&sp=cr&type=game",
+            "start_time": "2026-10-09T05:30:00Z",
+            "end_time": "2026-10-09T13:30:00Z",
+            "extensions": [
+              "ODI 131 of 144"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Afghanistan national cricket team",
+                "short_name": "Afghanistan",
+                "short_code": "AFG",
+                "kgmid": "/m/076tnc",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8rwaXVaUKfdJq31QgGtQrw_500x500.png"
+              },
+              {
+                "name": "Bangladesh national cricket team",
+                "short_name": "Bangladesh",
+                "short_code": "BAN",
+                "kgmid": "/m/038_6w",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/uTQstsRqQKZC-VUZWaNi0w_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Zayed Cricket Stadium",
+              "alt_name": "Sheikh Zayed Stadium",
+              "location": "Abu Dhabi",
+              "kgmid": "/m/047rc5n"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nvxg6twj",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nvxg6twj&sp=cr&type=game",
+            "start_time": "2026-10-09T06:00:00Z",
+            "end_time": "2026-10-13T13:00:00Z",
+            "extensions": [
+              "One-off Test"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Malaysia National Cricket Team",
+                "short_name": "Malaysia",
+                "short_code": "MAS",
+                "kgmid": "/m/0b7_mm",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/cJH9pZPURSZ68UjxxS4nKw_500x500.png"
+              },
+              {
+                "name": "Saudi Arabia national cricket team",
+                "short_name": "Saudi Arabia",
+                "short_code": "SDA",
+                "kgmid": "/m/0g_6qt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2fr7xp",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2fr7xp&sp=cr&type=game",
+            "start_time": "2026-10-09T06:00:00Z",
+            "end_time": "2026-10-09T10:00:00Z",
+            "extensions": [
+              "T20 4 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Maldives national cricket team",
+                "short_name": "Maldives",
+                "short_code": "MDV",
+                "kgmid": "/m/0gyjvw",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Cs0ez-udd-z-tZGxaOaong_500x500.png"
+              },
+              {
+                "name": "Singapore national cricket team",
+                "short_name": "Singapore",
+                "short_code": "SIN",
+                "kgmid": "/m/0cprdy",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SXDmM3hD3sYznbTTTpru3Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2fsvcl",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2fsvcl&sp=cr&type=game",
+            "start_time": "2026-10-09T06:00:00Z",
+            "end_time": "2026-10-09T10:00:00Z",
+            "extensions": [
+              "T20 6 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "China national cricket team",
+                "short_name": "China",
+                "short_code": "CHN",
+                "kgmid": "/m/0glgx6"
+              },
+              {
+                "name": "Hong Kong national cricket team",
+                "short_name": "Hong Kong",
+                "short_code": "HK",
+                "kgmid": "/m/05_89x",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxp950jd",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxp950jd&sp=cr&type=game",
+            "start_time": "2026-10-09T06:00:00Z",
+            "end_time": "2026-10-09T10:00:00Z",
+            "extensions": [
+              "T20 5 of 15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fri, Oct 9",
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "South Africa national cricket team",
+                "short_name": "South Africa",
+                "short_code": "SA",
+                "kgmid": "/m/038zy5",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/EGwD4_SUlmwZWbnHhcmTPA_500x500.png"
+              },
+              {
+                "name": "Australia national cricket team",
+                "short_name": "Australia",
+                "short_code": "AUS",
+                "kgmid": "/m/020wyp",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QYCU22ymggIHGp6LW4EQVg_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Hollywoodbets Kingsmead Cricket Stadium",
+              "alt_name": "Kingsmead",
+              "location": "Durban",
+              "kgmid": "/m/04v644"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11n4nzt7sn",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11n4nzt7sn&sp=cr&type=game",
+            "start_time": "2026-10-09T07:30:00Z",
+            "end_time": "2026-10-13T14:30:00Z",
+            "extensions": [
+              "Test 1 of 3"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "India national cricket team",
+                "short_name": "India",
+                "short_code": "IND",
+                "kgmid": "/m/024nj1",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_500x500.png"
+              },
+              {
+                "name": "West Indies cricket team",
+                "short_name": "West Indies",
+                "short_code": "WI",
+                "kgmid": "/m/098knd",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qziJXGzGxNQbkPJRfxodgA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "JSCA International Stadium Complex",
+              "location": "Ranchi",
+              "kgmid": "/m/011qf8mc"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11z3y_p23j",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11z3y_p23j&sp=cr&type=game",
+            "start_time": "2026-10-09T13:30:00Z",
+            "end_time": "2026-10-09T17:30:00Z",
+            "extensions": [
+              "T20 2 of 5 (IND leads 1-0)"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Pakistan national cricket team",
+                "short_name": "Pakistan",
+                "short_code": "PAK",
+                "kgmid": "/m/038_0z",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-I9tpg9uetJjQNCh15jmKw_500x500.png"
+              },
+              {
+                "name": "Sri Lanka national cricket team",
+                "short_name": "Sri Lanka",
+                "short_code": "SL",
+                "kgmid": "/m/023fxp",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Rawalpindi Cricket Stadium",
+              "location": "Rawalpindi",
+              "kgmid": "/m/0cmj_4"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nvc6kfky",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nvc6kfky&sp=cr&type=game",
+            "start_time": "2026-10-09T15:00:00Z",
+            "end_time": "2026-10-09T19:00:00Z",
+            "extensions": [
+              "T20 1 of 3"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Namibia national cricket team",
+                "short_name": "Namibia",
+                "short_code": "NAM",
+                "kgmid": "/m/027pkcb",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8zTp1yeTn2hlV2y0TYHS9A_500x500.png"
+              },
+              {
+                "name": "United Arab Emirates national cricket team",
+                "short_code": "UAE",
+                "kgmid": "/m/060kgt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/v_vORXEGt13cTEb-zw7yWA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Grand Prairie Cricket Stadium",
+              "location": "Grand Prairie",
+              "kgmid": "/g/11bwdtyntv"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zyvtrnk3",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zyvtrnk3&sp=cr&type=game",
+            "start_time": "2026-10-09T15:00:00Z",
+            "end_time": "2026-10-09T23:00:00Z",
+            "extensions": [
+              "ODI 132 of 144"
+            ]
+          }
+        ]
+      },
+      {
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "Malaysia National Cricket Team",
+                "short_name": "Malaysia",
+                "short_code": "MAS",
+                "kgmid": "/m/0b7_mm",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/cJH9pZPURSZ68UjxxS4nKw_500x500.png"
+              },
+              {
+                "name": "Maldives national cricket team",
+                "short_name": "Maldives",
+                "short_code": "MDV",
+                "kgmid": "/m/0gyjvw",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Cs0ez-udd-z-tZGxaOaong_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2fx8k6",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2fx8k6&sp=cr&type=game",
+            "start_time": "2026-10-11T01:15:00Z",
+            "end_time": "2026-10-11T05:15:00Z",
+            "extensions": [
+              "T20 8 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Hong Kong national cricket team",
+                "short_name": "Hong Kong",
+                "short_code": "HK",
+                "kgmid": "/m/05_89x",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_500x500.png"
+              },
+              {
+                "name": "Saudi Arabia national cricket team",
+                "short_name": "Saudi Arabia",
+                "short_code": "SDA",
+                "kgmid": "/m/0g_6qt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zytk967r",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zytk967r&sp=cr&type=game",
+            "start_time": "2026-10-11T01:15:00Z",
+            "end_time": "2026-10-11T05:15:00Z",
+            "extensions": [
+              "T20 7 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "China national cricket team",
+                "short_name": "China",
+                "short_code": "CHN",
+                "kgmid": "/m/0glgx6"
+              },
+              {
+                "name": "Singapore national cricket team",
+                "short_name": "Singapore",
+                "short_code": "SIN",
+                "kgmid": "/m/0cprdy",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SXDmM3hD3sYznbTTTpru3Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zytkljwc",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zytkljwc&sp=cr&type=game",
+            "start_time": "2026-10-11T01:15:00Z",
+            "end_time": "2026-10-11T05:15:00Z",
+            "extensions": [
+              "T20 8 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Canada national cricket team",
+                "short_name": "Canada",
+                "short_code": "CAN",
+                "kgmid": "/m/0639sd",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/H23oIEP6qK-zNc3O8abnIA_500x500.png"
+              },
+              {
+                "name": "Nepal national cricket team",
+                "short_name": "Nepal",
+                "short_code": "NEP",
+                "kgmid": "/m/05_83k",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FLrQ4VpsM5eSQHSadNA0SQ_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Oman",
+              "kgmid": "/g/11g_rjjfy8"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11ntnyq3c6",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11ntnyq3c6&sp=cr&type=game",
+            "start_time": "2026-10-11T05:30:00Z",
+            "end_time": "2026-10-11T13:30:00Z",
+            "extensions": [
+              "ODI 133 of 144"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Mongolia national cricket team",
+                "short_name": "Mongolia",
+                "short_code": "MNG",
+                "kgmid": "/g/11rsbdp814",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/J1GVv__Jofi9-GD11pYhhg_500x500.png"
+              },
+              {
+                "name": "Bahrain national cricket team",
+                "short_name": "Bahrain",
+                "short_code": "BRN",
+                "kgmid": "/m/0gfkdt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HUez63n7xzBx0v__6EfsTA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2zqzsj",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2zqzsj&sp=cr&type=game",
+            "start_time": "2026-10-11T06:00:00Z",
+            "end_time": "2026-10-11T10:00:00Z",
+            "extensions": [
+              "T20 15 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Kuwait national cricket team",
+                "short_name": "Kuwait",
+                "short_code": "KUW",
+                "kgmid": "/m/0c0tgg",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Rj-XKkiRUEQYkJMMsrhM_A_500x500.png"
+              },
+              {
+                "name": "Myanmar national cricket team",
+                "short_name": "Myanmar",
+                "short_code": "MYA",
+                "kgmid": "/m/0gz5gd"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxq00r89",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxq00r89&sp=cr&type=game",
+            "start_time": "2026-10-11T06:00:00Z",
+            "end_time": "2026-10-11T10:00:00Z",
+            "extensions": [
+              "T20 13 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Bhutan national cricket team",
+                "short_name": "Bhutan",
+                "short_code": "BHU",
+                "kgmid": "/m/0gfly1"
+              },
+              {
+                "name": "Qatar national cricket team",
+                "short_name": "Qatar",
+                "short_code": "QAT",
+                "kgmid": "/m/0g_41d",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h0FNA5YxLzWChHS5K0o4gw_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zyv0fn90",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zyv0fn90&sp=cr&type=game",
+            "start_time": "2026-10-11T06:00:00Z",
+            "end_time": "2026-10-11T10:00:00Z",
+            "extensions": [
+              "T20 13 of 21"
+            ]
+          }
+        ]
+      },
+      {
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "India national cricket team",
+                "short_name": "India",
+                "short_code": "IND",
+                "kgmid": "/m/024nj1",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_500x500.png"
+              },
+              {
+                "name": "West Indies cricket team",
+                "short_name": "West Indies",
+                "short_code": "WI",
+                "kgmid": "/m/098knd",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qziJXGzGxNQbkPJRfxodgA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Holkar Stadium",
+              "location": "Indore",
+              "kgmid": "/m/02pwtwq"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nb5pj9j_",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nb5pj9j_&sp=cr&type=game",
+            "start_time": "2026-10-11T13:30:00Z",
+            "end_time": "2026-10-11T17:30:00Z",
+            "extensions": [
+              "T20 3 of 5 (IND leads 1-0)"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Pakistan national cricket team",
+                "short_name": "Pakistan",
+                "short_code": "PAK",
+                "kgmid": "/m/038_0z",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-I9tpg9uetJjQNCh15jmKw_500x500.png"
+              },
+              {
+                "name": "Sri Lanka national cricket team",
+                "short_name": "Sri Lanka",
+                "short_code": "SL",
+                "kgmid": "/m/023fxp",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Rawalpindi Cricket Stadium",
+              "location": "Rawalpindi",
+              "kgmid": "/m/0cmj_4"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zf1yw_0v",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zf1yw_0v&sp=cr&type=game",
+            "start_time": "2026-10-11T15:00:00Z",
+            "end_time": "2026-10-11T19:00:00Z",
+            "extensions": [
+              "T20 2 of 3"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "United States national cricket team",
+                "short_code": "USA",
+                "kgmid": "/m/03wb6g",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/wj9uZvn_vZrelLFGH8fnPA_500x500.png"
+              },
+              {
+                "name": "United Arab Emirates national cricket team",
+                "short_code": "UAE",
+                "kgmid": "/m/060kgt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/v_vORXEGt13cTEb-zw7yWA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Grand Prairie Cricket Stadium",
+              "location": "Grand Prairie",
+              "kgmid": "/g/11bwdtyntv"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zyvtmd57",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zyvtmd57&sp=cr&type=game",
+            "start_time": "2026-10-11T15:00:00Z",
+            "end_time": "2026-10-11T23:00:00Z",
+            "extensions": [
+              "ODI 134 of 144"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Hong Kong national cricket team",
+                "short_name": "Hong Kong",
+                "short_code": "HK",
+                "kgmid": "/m/05_89x",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_500x500.png"
+              },
+              {
+                "name": "Maldives national cricket team",
+                "short_name": "Maldives",
+                "short_code": "MDV",
+                "kgmid": "/m/0gyjvw",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Cs0ez-udd-z-tZGxaOaong_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2gv5_f",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2gv5_f&sp=cr&type=game",
+            "start_time": "2026-10-12T01:15:00Z",
+            "end_time": "2026-10-12T05:15:00Z",
+            "extensions": [
+              "T20 11 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "China national cricket team",
+                "short_name": "China",
+                "short_code": "CHN",
+                "kgmid": "/m/0glgx6"
+              },
+              {
+                "name": "Saudi Arabia national cricket team",
+                "short_name": "Saudi Arabia",
+                "short_code": "SDA",
+                "kgmid": "/m/0g_6qt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2gx8kf",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2gx8kf&sp=cr&type=game",
+            "start_time": "2026-10-12T01:15:00Z",
+            "end_time": "2026-10-12T05:15:00Z",
+            "extensions": [
+              "T20 11 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Malaysia National Cricket Team",
+                "short_name": "Malaysia",
+                "short_code": "MAS",
+                "kgmid": "/m/0b7_mm",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/cJH9pZPURSZ68UjxxS4nKw_500x500.png"
+              },
+              {
+                "name": "Singapore national cricket team",
+                "short_name": "Singapore",
+                "short_code": "SIN",
+                "kgmid": "/m/0cprdy",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SXDmM3hD3sYznbTTTpru3Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zytkkvrr",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zytkkvrr&sp=cr&type=game",
+            "start_time": "2026-10-12T01:15:00Z",
+            "end_time": "2026-10-12T05:15:00Z",
+            "extensions": [
+              "T20 10 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Mongolia national cricket team",
+                "short_name": "Mongolia",
+                "short_code": "MNG",
+                "kgmid": "/g/11rsbdp814",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/J1GVv__Jofi9-GD11pYhhg_500x500.png"
+              },
+              {
+                "name": "Qatar national cricket team",
+                "short_name": "Qatar",
+                "short_code": "QAT",
+                "kgmid": "/m/0g_41d",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h0FNA5YxLzWChHS5K0o4gw_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxpsz860",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxpsz860&sp=cr&type=game",
+            "start_time": "2026-10-12T06:00:00Z",
+            "end_time": "2026-10-12T10:00:00Z",
+            "extensions": [
+              "T20 16 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Kuwait national cricket team",
+                "short_name": "Kuwait",
+                "short_code": "KUW",
+                "kgmid": "/m/0c0tgg",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Rj-XKkiRUEQYkJMMsrhM_A_500x500.png"
+              },
+              {
+                "name": "Bhutan national cricket team",
+                "short_name": "Bhutan",
+                "short_code": "BHU",
+                "kgmid": "/m/0gfly1"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxpt1xwf",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxpt1xwf&sp=cr&type=game",
+            "start_time": "2026-10-12T06:00:00Z",
+            "end_time": "2026-10-12T10:00:00Z",
+            "extensions": [
+              "T20 17 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Thailand national cricket team",
+                "short_name": "Thailand",
+                "short_code": "THA",
+                "kgmid": "/m/0cz9qz",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aEBU_ri8U6F06oTqWmKY5g_500x500.png"
+              },
+              {
+                "name": "Myanmar national cricket team",
+                "short_name": "Myanmar",
+                "short_code": "MYA",
+                "kgmid": "/m/0gz5gd"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxq05wkb",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxq05wkb&sp=cr&type=game",
+            "start_time": "2026-10-12T06:00:00Z",
+            "end_time": "2026-10-12T10:00:00Z",
+            "extensions": [
+              "T20 17 of 21"
+            ]
+          }
+        ]
+      },
+      {
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "Oman national cricket team",
+                "short_name": "Oman",
+                "short_code": "OMA",
+                "kgmid": "/m/07x722",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/tr94i28azTadAjK9PBYFGA_500x500.png"
+              },
+              {
+                "name": "Nepal national cricket team",
+                "short_name": "Nepal",
+                "short_code": "NEP",
+                "kgmid": "/m/05_83k",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FLrQ4VpsM5eSQHSadNA0SQ_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Oman",
+              "kgmid": "/g/11g_rjjfy8"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zh9ljj6n",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zh9ljj6n&sp=cr&type=game",
+            "start_time": "2026-10-13T05:30:00Z",
+            "end_time": "2026-10-13T13:30:00Z",
+            "extensions": [
+              "ODI 135 of 144"
+            ]
+          }
+        ]
+      },
+      {
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "Pakistan national cricket team",
+                "short_name": "Pakistan",
+                "short_code": "PAK",
+                "kgmid": "/m/038_0z",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-I9tpg9uetJjQNCh15jmKw_500x500.png"
+              },
+              {
+                "name": "Sri Lanka national cricket team",
+                "short_name": "Sri Lanka",
+                "short_code": "SL",
+                "kgmid": "/m/023fxp",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OC5jEMcI70iVSVE7HL12ww_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Rawalpindi Cricket Stadium",
+              "location": "Rawalpindi",
+              "kgmid": "/m/0cmj_4"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zf1yc1yc",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zf1yc1yc&sp=cr&type=game",
+            "start_time": "2026-10-13T15:00:00Z",
+            "end_time": "2026-10-13T19:00:00Z",
+            "extensions": [
+              "T20 3 of 3"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "United States national cricket team",
+                "short_code": "USA",
+                "kgmid": "/m/03wb6g",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/wj9uZvn_vZrelLFGH8fnPA_500x500.png"
+              },
+              {
+                "name": "Namibia national cricket team",
+                "short_name": "Namibia",
+                "short_code": "NAM",
+                "kgmid": "/m/027pkcb",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8zTp1yeTn2hlV2y0TYHS9A_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Grand Prairie Cricket Stadium",
+              "location": "Grand Prairie",
+              "kgmid": "/g/11bwdtyntv"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxqg3z38",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxqg3z38&sp=cr&type=game",
+            "start_time": "2026-10-13T15:00:00Z",
+            "end_time": "2026-10-13T23:00:00Z",
+            "extensions": [
+              "ODI 136 of 144"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Qatar national cricket team",
+                "short_name": "Qatar",
+                "short_code": "QAT",
+                "kgmid": "/m/0g_41d",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h0FNA5YxLzWChHS5K0o4gw_500x500.png"
+              },
+              {
+                "name": "Bahrain national cricket team",
+                "short_name": "Bahrain",
+                "short_code": "BRN",
+                "kgmid": "/m/0gfkdt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/HUez63n7xzBx0v__6EfsTA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2yx__t",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2yx__t&sp=cr&type=game",
+            "start_time": "2026-10-14T01:15:00Z",
+            "end_time": "2026-10-14T05:15:00Z",
+            "extensions": [
+              "T20 20 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Mongolia national cricket team",
+                "short_name": "Mongolia",
+                "short_code": "MNG",
+                "kgmid": "/g/11rsbdp814",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/J1GVv__Jofi9-GD11pYhhg_500x500.png"
+              },
+              {
+                "name": "Myanmar national cricket team",
+                "short_name": "Myanmar",
+                "short_code": "MYA",
+                "kgmid": "/m/0gz5gd"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11nw2zpx_c",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11nw2zpx_c&sp=cr&type=game",
+            "start_time": "2026-10-14T01:15:00Z",
+            "end_time": "2026-10-14T05:15:00Z",
+            "extensions": [
+              "T20 19 of 21"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Malaysia National Cricket Team",
+                "short_name": "Malaysia",
+                "short_code": "MAS",
+                "kgmid": "/m/0b7_mm",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/cJH9pZPURSZ68UjxxS4nKw_500x500.png"
+              },
+              {
+                "name": "China national cricket team",
+                "short_name": "China",
+                "short_code": "CHN",
+                "kgmid": "/m/0glgx6"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zytl6d3v",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zytl6d3v&sp=cr&type=game",
+            "start_time": "2026-10-14T01:15:00Z",
+            "end_time": "2026-10-14T05:15:00Z",
+            "extensions": [
+              "T20 13 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Hong Kong national cricket team",
+                "short_name": "Hong Kong",
+                "short_code": "HK",
+                "kgmid": "/m/05_89x",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_500x500.png"
+              },
+              {
+                "name": "Singapore national cricket team",
+                "short_name": "Singapore",
+                "short_code": "SIN",
+                "kgmid": "/m/0cprdy",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SXDmM3hD3sYznbTTTpru3Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "Bayuemas Cricket Oval",
+              "location": "Klang",
+              "kgmid": "/m/0_yhz40"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxpb6tx_",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxpb6tx_&sp=cr&type=game",
+            "start_time": "2026-10-14T06:00:00Z",
+            "end_time": "2026-10-14T10:00:00Z",
+            "extensions": [
+              "T20 14 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Maldives national cricket team",
+                "short_name": "Maldives",
+                "short_code": "MDV",
+                "kgmid": "/m/0gyjvw",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Cs0ez-udd-z-tZGxaOaong_500x500.png"
+              },
+              {
+                "name": "Saudi Arabia national cricket team",
+                "short_name": "Saudi Arabia",
+                "short_code": "SDA",
+                "kgmid": "/m/0g_6qt",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "UKM Cricket Oval",
+              "alt_name": "UKM-YSD Oval",
+              "location": "Bangi",
+              "kgmid": "/g/11gw319vp1"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxpbcyh8",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxpbcyh8&sp=cr&type=game",
+            "start_time": "2026-10-14T06:00:00Z",
+            "end_time": "2026-10-14T10:00:00Z",
+            "extensions": [
+              "T20 15 of 15"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Bhutan national cricket team",
+                "short_name": "Bhutan",
+                "short_code": "BHU",
+                "kgmid": "/m/0gfly1"
+              },
+              {
+                "name": "Thailand national cricket team",
+                "short_name": "Thailand",
+                "short_code": "THA",
+                "kgmid": "/m/0cz9qz",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aEBU_ri8U6F06oTqWmKY5g_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's T20 World Cup Qualifier",
+              "short_name": "World T20 Qualifier",
+              "kgmid": "/m/04cy133"
+            },
+            "venue": {
+              "name": "STC Cricket Ground",
+              "alt_name": "Selangor Turf Club",
+              "location": "Seri Kembangan",
+              "kgmid": "/g/11h0cffvhm"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zyv9s1sf",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zyv9s1sf&sp=cr&type=game",
+            "start_time": "2026-10-14T06:00:00Z",
+            "end_time": "2026-10-14T10:00:00Z",
+            "extensions": [
+              "T20 21 of 21"
+            ]
+          }
+        ]
+      },
+      {
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "India national cricket team",
+                "short_name": "India",
+                "short_code": "IND",
+                "kgmid": "/m/024nj1",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mlXOOB9HXxLpoeS2dHSgGA_500x500.png"
+              },
+              {
+                "name": "West Indies cricket team",
+                "short_name": "West Indies",
+                "short_code": "WI",
+                "kgmid": "/m/098knd",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qziJXGzGxNQbkPJRfxodgA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "International Cricket Council",
+              "short_code": "ICC",
+              "kgmid": "/m/021q23"
+            },
+            "venue": {
+              "name": "Rajiv Gandhi International Cricket Stadium",
+              "alt_name": "Rajiv Gandhi International Stadium",
+              "location": "Hyderabad",
+              "kgmid": "/m/0bvklc"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11z2wtvv09",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11z2wtvv09&sp=cr&type=game",
+            "start_time": "2026-10-14T13:30:00Z",
+            "end_time": "2026-10-14T17:30:00Z",
+            "extensions": [
+              "T20 4 of 5 (IND leads 1-0)"
+            ]
+          },
+          {
+            "teams": [
+              {
+                "name": "Oman national cricket team",
+                "short_name": "Oman",
+                "short_code": "OMA",
+                "kgmid": "/m/07x722",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/tr94i28azTadAjK9PBYFGA_500x500.png"
+              },
+              {
+                "name": "Canada national cricket team",
+                "short_name": "Canada",
+                "short_code": "CAN",
+                "kgmid": "/m/0639sd",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/H23oIEP6qK-zNc3O8abnIA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "ICC Men's Cricket World Cup League 2",
+              "short_name": "ICC CWC League 2",
+              "kgmid": "/g/11mv4nc1_7"
+            },
+            "venue": {
+              "name": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Oman",
+              "kgmid": "/g/11g_rjjfy8"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zh9ll6tj",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zh9ll6tj&sp=cr&type=game",
+            "start_time": "2026-10-15T05:30:00Z",
+            "end_time": "2026-10-15T13:30:00Z",
+            "extensions": [
+              "ODI 137 of 144"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

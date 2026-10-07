@@ -1,0 +1,1775 @@
+{
+  "search_metadata": {
+    "id": "6ac63afc1f56fa7d2f88ff48",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/hFiycGz67MP0o8EviXyiEeX63Xib4DLfvy1O_nM9KKk/6ac63afc1f56fa7d2f88ff48.json",
+    "markdown_endpoint": "https://serpapi.com/searches/hFiycGz67MP0o8EviXyiEeX63Xib4DLfvy1O_nM9KKk/6ac63afc1f56fa7d2f88ff48.md",
+    "created_at": "2026-10-07 12:28:44 UTC",
+    "processed_at": "2026-10-07 12:28:44 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/mall/@12.974658999999999,77.6067528,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/hFiycGz67MP0o8EviXyiEeX63Xib4DLfvy1O_nM9KKk/6ac63afc1f56fa7d2f88ff48.html",
+    "prettify_html_file": "https://serpapi.com/searches/hFiycGz67MP0o8EviXyiEeX63Xib4DLfvy1O_nM9KKk/6ac63afc1f56fa7d2f88ff48.prettify",
+    "total_time_taken": 2.5
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "mall",
+    "ll": "@12.974658999999999,77.6067528,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "mall"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "UB City",
+      "place_id": "ChIJ96tpUHcWrjsRit-gsot2OOE",
+      "data_id": "0x3bae16775069abf7:0xe138768bb2a0df8a",
+      "data_cid": "16228851599599001482",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16775069abf7%3A0xe138768bb2a0df8a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16775069abf7%3A0xe138768bb2a0df8a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9716428,
+        "longitude": 77.5959367
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ96tpUHcWrjsRit-gsot2OOE",
+      "provider_id": "/m/047skbt",
+      "rating": 4.5,
+      "reviews": 69392,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "11 AM–11 PM",
+        "thursday": "11 AM–11 PM",
+        "friday": "11 AM–12 AM",
+        "saturday": "11 AM–12 AM",
+        "sunday": "11 AM–11 PM",
+        "monday": "11 AM–11 PM",
+        "tuesday": "11 AM–11 PM"
+      },
+      "phone": "+91 97316 00994",
+      "website": "http://www.ubcitybangalore.in/",
+      "description": "High-end mall with shops & restaurants. Three-level shopping center with luxury, international retailers, plus sophisticated restaurants.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"The mall has a great selection of international brands and local stores.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGSdmTdH9meQNIp78fMQuGNtlb6Newf-eT2882EN8-hl2VVD514WtvIosBnyhLFXFgR9Ee6v5cwhZxk7BRlZtZ4brHqEk4PnnbG-w_q3b5291u0RAmtmPw1AFFeZWWpAzMRSCkuQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/8gber3icHcRJDoIwAADAF1UWAcHEQ1EWEyWCBgwXI7XQhC5Ii1V_6BP8jYlzmO-HKDXIpWFQMp91QnQUTxKPSHCFuZohwYxuvEoJkDQgDHu2a5PjjZ1uacBwnm2Hhd_u8ynJFG28DOsW4JPt-3aU-YBQuyw3ruVU6rEVMuQvsovPcVcEEfYeLtKkfvaLsKC1qp1mTO9R7xw4bxKgL_d549qBNZkFZIodtAXjGNdVNcD3vjiu-ylfacs0TUD-I8B_whxExg"
+    },
+    {
+      "position": 2,
+      "title": "Nexus Koramangala Mall",
+      "place_id": "ChIJuzGXhU0UrjsRCRsq7sQj5Xs",
+      "data_id": "0x3bae144d859731bb:0x7be523c4ee2a1b09",
+      "data_cid": "8927581165048175369",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae144d859731bb%3A0x7be523c4ee2a1b09&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae144d859731bb%3A0x7be523c4ee2a1b09&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.934669099999999,
+        "longitude": 77.6111143
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuzGXhU0UrjsRCRsq7sQj5Xs",
+      "provider_id": "/m/0fxtc5",
+      "rating": 4.4,
+      "reviews": 140452,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560030, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80 2206 7803",
+      "website": "https://www.nexusselecttrust.com/nexus-koramangala",
+      "description": "Vibrant retail hub with dining & theater. Contemporary mall featuring brand-name retail shops, restaurants & a movie theater & grocery store.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"The mall offers a myriad of choices with several well known brands.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsnbFuKgoyqcLKNRI9kqCiIo7hN20duDNK3UWIUVvpzD2e36FaLl2hmMye6zhpwr8FwZivg8x1dTMbZgOPLPUHB9fu3Ovy4gG8BNm4NLU9HPer1-NpL9eMhyOBgSondcXlck89=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/UyKM0HicHcRJDoIwAADAFyFrlJp4EAlKKIWoqOEGpbYGaIGyCB_0Df7GxDnM98P6vpFbVa2YuaJC0IoMknRY8J7wfoVFrdIuk1LBUt3vnbKGheS5NwRUzC2GATr7oGwPL19sGDK0YnBRYCZ3P7mNzeIaxFx7GawMVoczWS-smTrbm9LXSO23XlzDPKVRDOPk5IDnYEbjbNGj7aDaQjABp5h0uoIaCEjI5sihF8EL_KhwaYPdpGuaprD_WOE_w9FFMA"
+    },
+    {
+      "position": 3,
+      "title": "Lulu Mall Bengaluru",
+      "place_id": "ChIJlb8QkIwXrjsRGUxSwTzIMhQ",
+      "data_id": "0x3bae178c9010bf95:0x1432c83cc1524c19",
+      "data_cid": "1455445792861080601",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae178c9010bf95%3A0x1432c83cc1524c19&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae178c9010bf95%3A0x1432c83cc1524c19&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9812053,
+        "longitude": 77.5634649
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlb8QkIwXrjsRGUxSwTzIMhQ",
+      "provider_id": "/g/11gns734dl",
+      "rating": 4.4,
+      "reviews": 62567,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Amusement park",
+        "Hypermarket",
+        "Outlet mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "amusement_park",
+        "hypermarket",
+        "outlet_mall"
+      ],
+      "address": "Gopalapura, Binnipete, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–11 PM",
+        "thursday": "9 AM–11 PM",
+        "friday": "9 AM–11 PM",
+        "saturday": "9 AM–11 PM",
+        "sunday": "9 AM–11 PM",
+        "monday": "9 AM–11 PM",
+        "tuesday": "9 AM–11 PM"
+      },
+      "phone": "+91 80 4560 7788",
+      "website": "https://www.bengaluru.lulumall.in/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Beautiful mall with numerous shopping option, food courts and a Cinepolis!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpbpb0FffXrWQn-KCWNl8GAI-pMYPPf6ifs47aYYawYC6kmn3zR1d9d6Y574xZ4CT5M6qR06LEzNO2cwfixAVmbRG-bjW2uW8vvL0a3rrQWiOhKPUiG42PuSADDu8x21XIBfc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0FkWsXicHcRJDoIwAADAF1XKYkUTDwWVGFERl1pvUCigULAFIT7QP_gbE-cw30_eto2aaVqZm6OsrrMy7VQqWS3aVLQjVldaJiOlAFMaxs6j8pMmbmK44vwqyUGAjUt2pe3hNWi2NAg4KriyJhGlUU9d9KiE-Q71ZJogOp5Yw81yT-MteoYQ-cv3bm-wnhcDvlRx6IH4ToyO2K-XDyNTygMp9vkmOBeeZQTdES8WnT0Y-nXtcDbvdQghyP8zIH7RmkLy"
+    },
+    {
+      "position": 4,
+      "title": "Orion Mall",
+      "place_id": "ChIJZ0FegEs9rjsRZFR-C-hVwqQ",
+      "data_id": "0x3bae3d4b805e4167:0xa4c255e80b7e5464",
+      "data_cid": "11872146022815650916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d4b805e4167%3A0xa4c255e80b7e5464&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d4b805e4167%3A0xa4c255e80b7e5464&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.011023,
+        "longitude": 77.55471519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ0FegEs9rjsRZFR-C-hVwqQ",
+      "provider_id": "/m/0_s3hxr",
+      "rating": 4.5,
+      "reviews": 198328,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560055, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–11 PM",
+        "thursday": "10 AM–11 PM",
+        "friday": "10 AM–11 PM",
+        "saturday": "10 AM–11 PM",
+        "sunday": "10 AM–11 PM",
+        "monday": "10 AM–11 PM",
+        "tuesday": "10 AM–11 PM"
+      },
+      "phone": "+91 80672 82222",
+      "website": "https://www.orionmalls.com/orion-mall-at-brigade-gateway/contact",
+      "description": "Big shopping centre with a man-made lake. Modern, multilevel mall featuring popular chain stores, global dining & an artificial lake.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Nursing room",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The mall's architecture is sleek and expansive, with a luxury atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQmdoNUUXSv_Gjk8hTf_ZS7nKZVHuwChSyHjwuf6C_qVIaSW1Zk1ztZ7SJRHCqaYdrzOLWe6zo5JkE-Z5xjGKsGhdlUWfPGYSVimppwMFMn5-srKBRw9KmxNgQ4mwT-gMF1_VTxw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/kGVkDHicHcTbToMwAADQL-qAKKAmPmxEQBhTVi7SF0K4tAJtgRbL-MN9gn9j4nk4v3ci5SReNG0kDwfMOR7bVbRLzZlsmTzUnGp4qYQAtdCOx9NAz01MG35J0y_4U3r98ESSrkTQZiHK_FU5BN78Xq2d5ZRz9l7B3ECDsUtkw-DqO3NVNMv-cc5ba-dmMLwBZG69FwqPNGOad59eAbNvOk0qciNmArGEp6t6Dul2wfEjVQnAkWuUWbKpV2Xoug7I_zVgf7eCRyc"
+    },
+    {
+      "position": 5,
+      "title": "Mantri Square Mall",
+      "place_id": "ChIJoRKfACMWrjsRrWqiP9PBT5Y",
+      "data_id": "0x3bae1623009f12a1:0x964fc1d33fa26aad",
+      "data_cid": "10831088741899201197",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1623009f12a1%3A0x964fc1d33fa26aad&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1623009f12a1%3A0x964fc1d33fa26aad&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9916302,
+        "longitude": 77.5711719
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoRKfACMWrjsRrWqiP9PBT5Y",
+      "provider_id": "/m/0bbykhf",
+      "rating": 4.4,
+      "reviews": 152916,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "1, Sampige Rd, near Central bus stop, Malleshwaram, Bengaluru, Karnataka 560003, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80 3016 0000",
+      "website": "http://www.mantrisquare.com/",
+      "description": "Global retailers, food court & theater. Large urban mall offering global & local retail shops, a food court, grocery store & movie theater.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true
+      },
+      "user_review": "\"The mall is fully functional and has well maintained shops inside.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSHDoF97Thj1ImhPkGFWfAfjWOYGDCC6h1e_DlU42czZaiMylhyvtbSRaJ3JvacoqlUA3CcLvhaJmq_9K9A4RaFDPIr4zTVDpCft5tiPYvnQpUP1MP0-I9cNvHWKtB4yuN9P2Y=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZeGNXXicHcTbDoIgAADQLzKv1WjrgWSWVkYXc_bSiFQqFBOi6Q_2Df1NW-fhfD9MqUZOTJMzd1AKUfL8JfOWilrltRpQUZllS6Q0qDQhnD2q1XW_QCIA4wO722HF8GMepAUs7ukmmyPfHzE7PyOeeA7tT-S27jjrtLrsdyRyI02oePIEuj5daUai6nkGSwC9HQkQDluvPxxR4xdqqG440_W2SbC9xpYRAhrrRbpUM697xQA72fRtW5ZlsP_UqH92fUR5"
+    },
+    {
+      "position": 6,
+      "title": "1 MG - Lido Mall",
+      "place_id": "ChIJQ_NRvx4RrjsRMM9IFxUFU5g",
+      "data_id": "0x3bae111ebf51f343:0x985305151748cf30",
+      "data_cid": "10976122304975130416",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae111ebf51f343%3A0x985305151748cf30&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae111ebf51f343%3A0x985305151748cf30&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9736499,
+        "longitude": 77.62040209999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ_NRvx4RrjsRMM9IFxUFU5g",
+      "provider_id": "/g/1wzt0tjv",
+      "rating": 4,
+      "reviews": 39261,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–9:30 PM",
+        "thursday": "10 AM–9:30 PM",
+        "friday": "10 AM–9:30 PM",
+        "saturday": "10 AM–9:30 PM",
+        "sunday": "10 AM–9:30 PM",
+        "monday": "10 AM–9:30 PM",
+        "tuesday": "10 AM–9:30 PM"
+      },
+      "phone": "+91 81475 79347",
+      "website": "https://1mglidomall.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Nursing room",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"This mall is quite big and has several premium brands.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7EwxdBojzMeUWDUh1f0_pJl3LARUUqs-WIQ1VU4k3QP7z1l6FLgURZ0527-ZoJGq76Dq83HD1Yaw-udkAYHPyLV6jWVye-DK2icI0r2NJaIi9j1ecFeUdZaMNdPRNlK7BS4R2mg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I3KL_HicHcRdDoIgAADgE5GgJdXWg85-NHNmQ5cvzQFhipJis7phR-g2bX0P3_dTDsNdLw1DltZEKCUkf2jeU9UOvB0mVDWG6AutAdWG47h1EzK8Hp_MVdX7wEnmkRJd4eUeSCt0EkI6DTL_iFIyra1jjN9I2ptQkCSHMxODXAXbDtteN7d2HjoXI3iw2jnv4leY2lWWvjjw9uaN-rA3o6Dwb4sKcbrhhOXFIWJxEsk9dk_TxGzEakQQQlD-p6D9AVdAQwk"
+    },
+    {
+      "position": 7,
+      "title": "GT World Mall - Bengaluru",
+      "place_id": "ChIJbQb8IPs9rjsR4j-RbzJFroA",
+      "data_id": "0x3bae3dfb20fc066d:0x80ae45326f913fe2",
+      "data_cid": "9272424765724901346",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3dfb20fc066d%3A0x80ae45326f913fe2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3dfb20fc066d%3A0x80ae45326f913fe2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9738099,
+        "longitude": 77.5515904
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbQb8IPs9rjsR4j-RbzJFroA",
+      "provider_id": "/g/11gck777dh",
+      "rating": 4.3,
+      "reviews": 48359,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Market"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "market"
+      ],
+      "address": "Magadi Main Rd, next to Prasanna Theatre, Cholur Palya, Vijayanagar, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80 4632 9003",
+      "website": "http://www.gtworld.in/",
+      "description": "Shopping mall with cinema & bowling. Indoor mall with various clothing stores, plus a food court, supermarket, cinema & bowling alley.",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"An very good mall with lots of clothing stores, huge food court.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHrv5LnBCBlA-dOwD_rBnX3ZMGNO1pBBcg8A_HVyY036tZzFQNJPwCJ9T56stf3rxKPXO_wcAyB34Rv1fR0oRyCCi4URJYiZVH22pzUaoioy9Wa3yGEscwCYrifkkY8EiVtWIT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AjY9YXicHcTbDoIgAADQLzIxqlVbD0AXs4vlytIX58gL08ABRfSDfUN_09Z5ON9PrXWnpq7b1rBXCVG1xUMVkgquC657VNzdSuZKOVS5COHmvqW-fA63HBPcIucWmnkmMb_CdLfah16HMa3GKPNjmwA40ul7edwHB0OCyWk4UrqE8rU5XMPMUGQxHERPr4yAiCwhbHCOgoSlsd_vd-9zLpiwk0sO7WqhqCGJZGXTJOMFi_VlfZoZDwDg1P-pw38qKER6"
+    },
+    {
+      "position": 8,
+      "title": "Gopalan Signature Mall",
+      "place_id": "ChIJRwuGpIgRrjsR5AkVvuuRgdU",
+      "data_id": "0x3bae1188a4860b47:0xd58191ebbe1509e4",
+      "data_cid": "15384738243766716900",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1188a4860b47%3A0xd58191ebbe1509e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1188a4860b47%3A0xd58191ebbe1509e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.993150199999999,
+        "longitude": 77.661684
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRwuGpIgRrjsR5AkVvuuRgdU",
+      "provider_id": "/g/11g69886q8",
+      "rating": 4.1,
+      "reviews": 46152,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Bowling alley",
+        "Bowling club",
+        "Cafe",
+        "Children's store",
+        "Fashion accessories store",
+        "Food court",
+        "Movie theater",
+        "Outlet mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "bowling_alley",
+        "bowling_club",
+        "cafe",
+        "childrens_store",
+        "fashion_accessories_store",
+        "food_court",
+        "movie_theater",
+        "outlet_mall"
+      ],
+      "address": "Old Madras Rd, Nagavarapalya, Bennigana Halli, Bengaluru, Karnataka 560093, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10:30 PM",
+        "thursday": "10 AM–10:30 PM",
+        "friday": "10 AM–10:30 PM",
+        "saturday": "10 AM–10:30 PM",
+        "sunday": "10 AM–10:30 PM",
+        "monday": "10 AM–10:30 PM",
+        "tuesday": "10 AM–10:30 PM"
+      },
+      "phone": "+91 96060 28201",
+      "website": "https://www.gopalanmall.com/",
+      "description": "Stately venue for shopping & leisure. Elegant building with 70+ stores, a food court & entertainment options such as bowling & movies.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom",
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"The mall is really nice with a wide variety of stores and restaurants!\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdL0XeTRfUrX-MllRX1udgHHrTnY6RWpzw2LgJrQxqM1I4oh8kfVuf8lE6oLASyzpe4UlmQ8WOuK1kXvb7d2fmm_4mbk7T5wMdj9_I8FwvoKZ5L87mkBMPyHogwG5KBiDYJIf90=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_h03_HicHcRRboIwAADQEyFFQaqJHxA3QUpUxIn-mAlt0bYUW7CTC-4M3mbJ3sd7_9Zd1-q5bfN6MqJSUo57jVUpmw433aiUwqbqW2ur1HYQhEygCoEC5xk5qMJKOc8Kp69oFKm8OU2zYzuYMaJrtft5pE7syhoy8tUTyD-mEgX719Bi98DFDh43feKw4nn1qzER4uKKK_Nzz6TVfXaJ4ad5yuTsIegLFqbbVySpWXlJeFue1jGZgYVxAABW_X9pNX_KhEUi"
+    },
+    {
+      "position": 9,
+      "title": "Garuda Mall",
+      "place_id": "ChIJd78MuOoXrjsRZtF2_LW3vYE",
+      "data_id": "0x3bae17eab80cbf77:0x81bdb7b5fc76d166",
+      "data_cid": "9348830393743626598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17eab80cbf77%3A0x81bdb7b5fc76d166&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17eab80cbf77%3A0x81bdb7b5fc76d166&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9701592,
+        "longitude": 77.6101329
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd78MuOoXrjsRZtF2_LW3vYE",
+      "provider_id": "/g/11n0j1t49c",
+      "rating": 4.2,
+      "reviews": 3978,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM"
+      },
+      "phone": "+91 80 4069 8857",
+      "website": "https://garudamall.in/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The mall has INOX theater, a good food court, and many clothing stores.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfx0JJ0tQ7WE4DMRnc8pcH7EFDTC4ziVrVYPmjPGPM4ywZzdvxjdODijgruUg20n2CFKAsfGZ5gpxYGBDN1IOy7rIJKRU1o3GSq6s9UoIMD2IoXYwCwV8O4ck6V-190dZQOpVnRAg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/2P3ZgXicHcTRFoEwAADQL0orkZzjIY0UKdGoN2dlibZsS_GHPsHfOMd9uN9PKWUjpqp6L4cDwhi5F60oOGZUFlQOMKtVws9CKFiotj2_1ZtLD3wfyJ15XBgwiCmeNHhlLpbw4BjvK-IojeoqcqPAeHXZO3_2VR7Ca0V4mxAdUN1Zrm1xcbMRafrUncOt5oUvk3v-Ok40NnT3j7GwEuYFUPfYKe2cDk1CA9_GSNEskGe7sEE0tsms0wAASvkfK_QHwUZEOg"
+    },
+    {
+      "position": 10,
+      "title": "ETA Mall",
+      "place_id": "ChIJVVVVRf49rjsRsD_35zqkOAk",
+      "data_id": "0x3bae3dfe45555555:0x938a43ae7f73fb0",
+      "data_cid": "664461517943947184",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3dfe45555555%3A0x938a43ae7f73fb0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3dfe45555555%3A0x938a43ae7f73fb0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9656357,
+        "longitude": 77.5618257
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVRf49rjsRsD_35zqkOAk",
+      "provider_id": "/g/11b6c66qh1",
+      "rating": 3.9,
+      "reviews": 34827,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Tank Bund Rd, Binny Pete, Jagajeevanram Nagar, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80674 10009",
+      "website": "http://etamall.in/",
+      "description": "Movie theater, food court & retailers. Contemporary, multi-level mall with a limited selection of stores, plus a cinema & food court.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Simple mall with all the necessities, like Decathlon and Metro and stuffs.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8Thz3DcrXExkPuLuc__x7n4ccF1GEb-eO6-7QY1YF252EDtsLlol5YV0V8usqw2Xc6PBg0zIMLUIk_GxQ2KsOYzqwRDxc9QUpAk3nrKDEfCfe2-XjhhmOSJZtMLiuEF2DLCWVAQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W9ae73icHcRRboIwGADgE1VKGeiW7AFtMc4aZJsIvhD9U-gGtErbQLjhjrDbLNn38P3-SGvv5sXzOhksGq2bTjgjBtDKCmUXoHuvGa7GIDBeHK_bnterTzkHFIaCTe3RcQdVNS3VE0Dib9kNiTRCy6z0y4SEhFFreKe7sMxxvnLmMZICouO6wfPuwE-7ttpOGdmbtJwf4zud4Dk73eM2UMOesnpTC4KKbyn79OPtYg_8y7GEUL4553H2OvoYYyT_B6T-ANEhRKs"
+    },
+    {
+      "position": 11,
+      "title": "Plazzo Retail Mall",
+      "place_id": "ChIJmecGuokWrjsR4xQLMkrM4-0",
+      "data_id": "0x3bae1689ba06e799:0xede3cc4a320b14e3",
+      "data_cid": "17141769225741472995",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1689ba06e799%3A0xede3cc4a320b14e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1689ba06e799%3A0xede3cc4a320b14e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9826907,
+        "longitude": 77.60965639999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmecGuokWrjsR4xQLMkrM4-0",
+      "provider_id": "/g/11cn9mfr2h",
+      "rating": 4,
+      "reviews": 583,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Outlet mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center",
+        "outlet_mall"
+      ],
+      "address": "63, Ibrahim Sahib Street, Commercial Street, near Westside Koskii, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 97429 34777",
+      "website": "http://www.plazzomall.com/",
+      "description": "Humble shopping destination for fashions. Multi-leveled commercial site featuring shops with discounted clothing, accessories & more.",
+      "extensions": [
+        {
+          "service_options": [
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "onsite_services": true
+      },
+      "user_review": "\"Neat and clean.. there are variety of Shops.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnOftm9Fm_6XYgIz8cwCOfCYaWOBgu8nBo1W2czei8QVerzRDliHLwClu1s_gKfnwj6kKxhspKHkPr7TUwFU_8z73tHuRc0avyE2h5VstE_DM4O2nvtp611S49ZTZGE46DvHfm=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/9gzHinicHcRJDoIwAADAFyEUEdDEA6sYNCjuXghpSqvQltBClQ_6Bn9j4hzm-yFStmKh6w2ZTjDnuEG9QB3kTCImJ5BTHXelEBoUuuf5Nd1AllWSzmNa2NcbXo8uVEFWBbfykvm4d5nPwcWEI3q4-zPqxjxsHslGBU0PRIHTiqmnXacvIto0qXedczyp-FS4ozOVSZ9DoxzekUlmZyGjItxamckG2doAHKz5_XhfRZYdDklFlwoYhqGR_1BjPwjoRZI"
+    },
+    {
+      "position": 12,
+      "title": "Divinity Mall",
+      "place_id": "ChIJN4q9BYU_rjsRMyGYsonZocw",
+      "data_id": "0x3bae3f8505bd8a37:0xcca1d989b2982133",
+      "data_cid": "14745305840417775923",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3f8505bd8a37%3A0xcca1d989b2982133&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3f8505bd8a37%3A0xcca1d989b2982133&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.940347599999999,
+        "longitude": 77.5250485
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN4q9BYU_rjsRMyGYsonZocw",
+      "provider_id": "/g/11rpqr5j32",
+      "rating": 4.1,
+      "reviews": 1695,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "WGRG+42M, Pantarapalya, Nayanda Halli, Bengaluru, Karnataka 560026, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Its a community mall which also has PVR and a decent food court.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRAk2q0ENPkOQgg0_NE-apdSGAy12ybo1xEhYusl5yZh1zMG_qGYOrsQzt_4Mc5PWyONvzs7jf6U26Ijhdm8ja8CdfHXtaqmajCxi3NY1_iIJaPuNt-0no66r1F8qvzjw2CHu8=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/okPtwHicHcRdDoIgAADgE5FgZa6tB3OmtkKrtbIXR2gQ_pCClV6wM3Sbtr6H7_vhWj_U3DBKPh4xKVmZdypvqax1XusRlZXBWqIUoMpwnGVRbbK9U5gN9HBcRDvGYIo9QB7ZwXd6ZPZXid4eTzpVTvsLR8PWTxs_iVq1G3Q62dJpfOoj_BzUTNyso2mFgmeVLYjtZrfgrElTEeG-72OcoPQerkncYQ1gLS2rRSu7eQ7iZbpBZy9eCEII-H8K6h-zoUV4"
+    },
+    {
+      "position": 13,
+      "title": "VR Bengaluru",
+      "place_id": "ChIJtV2JQAsRrjsRp4HCbaob4R0",
+      "data_id": "0x3bae110b40895db5:0x1de11baa6dc281a7",
+      "data_cid": "2153032515659661735",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae110b40895db5%3A0x1de11baa6dc281a7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae110b40895db5%3A0x1de11baa6dc281a7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9962927,
+        "longitude": 77.6953702
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtV2JQAsRrjsRp4HCbaob4R0",
+      "provider_id": "/g/11cn8y24b8",
+      "rating": 4.4,
+      "reviews": 68847,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 96634 67772",
+      "website": "https://www.vrbengaluru.com/",
+      "description": "Retail hub with a mall, hotel & offices. Modern, multi-use complex featuring a multilevel shopping center, plus lodging & office space.",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The mall is known for its unique architecture and vibrant atmosphere.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4PB4gTGTNN7MR0xZYYF-ZujuIrzWdGagQeiLcMMbTM6zuL5H48G_mbSVoLIf1mvDTfo2spKj0Rb4WKjruK1y1MuWSIVcYqmC2GdKCpAZLTfuPZXNWtvrTwCzOZqsXC8hzhgW5=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/V8Upv3icHcRdboIwAADgEyFFcZole0CMjNAyp42Fvhip0Mosxf7o5IKewduY-D18z4ewtjefvn8WkxFXip9rZ2rNVGfrzo6Ykj7XB2M8ZvwoWvxJ2ITrRchxgvN8hjbgn5blyqOudakeyDE58N_6BBlCFUYfg4PT73Ce7GW13SmYNoG8LnGjxqbPWrCpQpK12mXBPUCObNMdKy8yHifHLO4jCnHj1rTIib1qfIuHH3oxRTwXg-Bk-nULAACeeM-87gV5E0Vq"
+    },
+    {
+      "position": 14,
+      "title": "Sukh sagar shopping mall",
+      "place_id": "ChIJH0MFFg4WrjsRdZKqWwa5TJc",
+      "data_id": "0x3bae160e1605431f:0x974cb9065baa9275",
+      "data_cid": "10902292234915975797",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae160e1605431f%3A0x974cb9065baa9275&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae160e1605431f%3A0x974cb9065baa9275&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9767424,
+        "longitude": 77.57773809999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH0MFFg4WrjsRdZKqWwa5TJc",
+      "provider_id": "/g/11h_4rv2qn",
+      "rating": 4.1,
+      "reviews": 3146,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "WH Hanumanthappa Rd, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Nice mall\nGood Food and shopping ..\nUnder parking available\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqQCIbMkaV2A2bsEemXt2zqgiyI5WDk68Qnsc4uJnPfxhhCu_BLhIltIozjbRuP_W4KZSjzLxLSVkhaj8F-AF3_rKkngQtCzBjF0j4b7yxPZBgSfIB1wqpnStntKjcIz-ZDmeC=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mhb8FnicHcRRboIwGADgE1UQ0RmTPVCQpAMTGIkaXgjU2tpCK_QnYi-4M-w2S_Y9fL8_AuBpD57Xi82KG8N7Nls2UaOBaVhRM3h8aq1F1HpRhNWQ38YyJt1JtecgCjp7ZMMVAjfyx5tsL4na7UttaTh_6eK-CBHPDc4F6YEYJ7vvuWguYVZX0uVLXp2VaOU-RVG6aaZMaV5C7LBMfRl2H--lqDGv7gSvX-NTV6Ahk5Q4VCcDiz9fa9_3kfifIv0HHhJGtw"
+    },
+    {
+      "position": 15,
+      "title": "Gopalan Mall",
+      "place_id": "ChIJ1z3eSAQ-rjsR1jtOUY1sm-Q",
+      "data_id": "0x3bae3e0448de3dd7:0xe49b6c8d514e3bd6",
+      "data_cid": "16472879416247991254",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3e0448de3dd7%3A0xe49b6c8d514e3bd6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3e0448de3dd7%3A0xe49b6c8d514e3bd6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.957773,
+        "longitude": 77.55408
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1z3eSAQ-rjsR1jtOUY1sm-Q",
+      "provider_id": "/g/1tjz6d7g",
+      "rating": 3.9,
+      "reviews": 38,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Valmiki Nagar, Azad Nagar, Bengaluru, Karnataka 560026, India",
+      "country": "India",
+      "extensions": [
+        {
+          "getting_here": [
+            "24-hour transit available"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Enjoy the activities\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfV6po5x4-BDmOTj1b-q-e-ZmkcCqsWkFakoeK7czl4-a8yzsG7QbB8JMJC4BjCqUJx9qvmotSMrVKY3VviA5u_j_Nr81UkYAApixBThDigc-h7h8J_b447YHIKGkK7ddFDcoIreQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Gh2fhHicHcTdboIwGADQJ_oEYl1xyS5aiD-gW4zKwm4I1EqhlEJbHfqGe4S9zZKdi_P7I5wb7KvndWI-q7WuO36z3DDdO967GdPKq01pLTDrEUKl2l2zl0EvJgQ0Vh-nNqhgBA5fSrJotJ9yVUrNU8yeHYIyfDztGh8qGib7JEK0jcZzMi3Hu9LuuDdZms-ze0MWt6It3k0YnGVOyNBM9CTipmYgsAiTokII55ttupYpvlxWMdNbww9v34Hv-yD-Z9D_AfWQRRM"
+    },
+    {
+      "position": 16,
+      "title": "Orion Mall Circle",
+      "place_id": "ChIJXzNFKA49rjsRI8A7yKMSkj0",
+      "data_id": "0x3bae3d0e2845335f:0x3d9212a3c83bc023",
+      "data_cid": "4436629077561688099",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d0e2845335f%3A0x3d9212a3c83bc023&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d0e2845335f%3A0x3d9212a3c83bc023&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0129267,
+        "longitude": 77.5541458
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXzNFKA49rjsRI8A7yKMSkj0",
+      "provider_id": "/g/11sj7x87_h",
+      "rating": 4,
+      "reviews": 48,
+      "unclaimed_listing": true,
+      "type": "Historical landmark",
+      "types": [
+        "Historical landmark"
+      ],
+      "type_id": "historical_landmark",
+      "type_ids": [
+        "historical_landmark"
+      ],
+      "address": "Karnataka Government Soap Factory, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        }
+      ],
+      "user_review": "\"Busiest area, we can get masala foods,chats etc .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdAwVn6du4w3EZphtlkSIgiJznYt-fDYdyKRI_0jwyTGZ7YMfQTZxmk82PQXNT0XQpLOPEVOdwn_CYcp6ebDKLO7nnunGqDzpbYN3tccOEcqeNWsav5rTd1-h3J8abLZytNqTuN3w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LpnEEHicHcTdToMwGADQJ-ro7P5i4gUKWbZhGdrMlZsF2o4q8FFosbI33CP4Niaei_N7184Z-xgEjSazquuqRo1WDaIDp8DNRNcG1VBYi4QNwvC5bhMZ-hOs5LjwJM6Ndk39vqs-9zfgDl0jLqfD2-6Cv_zEtvmav14zlv-09ebhmJ0pw-fMJOkxPqXSw-WFC7NSZXRI0jXACNs-upmSU-KESGPRK_phi-_lwOQcabLfFGWST472bKTEP_k5xhjp_wWCP6hoRyI"
+    },
+    {
+      "position": 17,
+      "title": "Orion Mall Food Court",
+      "place_id": "ChIJAV62v3g9rjsRT7TFt6zi4Uk",
+      "data_id": "0x3bae3d78bfb65e01:0x49e1e2acb7c5b44f",
+      "data_cid": "5323785465974076495",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d78bfb65e01%3A0x49e1e2acb7c5b44f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d78bfb65e01%3A0x49e1e2acb7c5b44f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0117011,
+        "longitude": 77.5548982
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJAV62v3g9rjsRT7TFt6zi4Uk",
+      "provider_id": "/g/11fxc1n4s5",
+      "rating": 4.3,
+      "reviews": 16009,
+      "price": "₹200–1,200",
+      "extracted_price": 200,
+      "type": "Food court",
+      "types": [
+        "Food court",
+        "Fast food restaurant"
+      ],
+      "type_id": "food_court",
+      "type_ids": [
+        "food_court",
+        "fast_food_restaurant"
+      ],
+      "address": "Brigade Gateway, 26/1, Dr Rajkumar Rd, Subramanyanagar,2 State, Rajajinagar, Bengaluru, Karnataka 560055, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "description": "Multiple cuisines in a food court. Sprawling food court located in a mall, with multiple options in cuisines.",
+      "extensions": [
+        {
+          "service_options": [
+            "Delivery",
+            "Onsite services",
+            "Takeout",
+            "Dine-in"
+          ]
+        },
+        {
+          "popular_for": [
+            "Solo dining"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "atmosphere": [
+            "Casual",
+            "Cozy",
+            "Trendy",
+            "Upscale"
+          ]
+        },
+        {
+          "crowd": [
+            "Groups"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Good for kids"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking",
+            "Usually plenty of parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "dine_in": true,
+        "takeout": true,
+        "delivery": true
+      },
+      "user_review": "\"The ambiance is clean and modern, enhanced by the mall’s upscale vibe.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBAQJiBv3VnrX8EFBlhD7h301CUm2iaN2niZD176UHfnr9f3dwyijUXgIN3s9lx4HwVMlaHYa7etc06HZVsGMz8XQVVwSmbTlSgaktWU-9sreIM_3Hv6XRcZgOHy5lboZNGv9O=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0fkyh3icHcRdboIwAADgEyHFbvws8QHmZl0Eg4yO8bLUrrSM0i5tBfWCnsHbLNn38N1vwrlf--T7UsAF15pLdrLMUK0cU25B9ehzQ6z1qPXTNBvGXZel5VufTRAr08Qvr5kU60hAEDzX47InxVL17TqIwhp1yiQd_J4v_U_d8G0BbSLPD2jGuSTok0TMURCiFttNfo2bEuO5Go_vsuJkcB-1l1jDtvkXRFPYHGjL9-jyKI-6LTZTsl_NAQDAE_9TT_0BMuFEhA"
+    },
+    {
+      "position": 18,
+      "title": "Forum Mall",
+      "place_id": "ChIJQ7wYf1IUrjsRBM5Cw9hBLME",
+      "data_id": "0x3bae14527f18bc43:0xc12c41d8c342ce04",
+      "data_cid": "13919572947540037124",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae14527f18bc43%3A0xc12c41d8c342ce04&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae14527f18bc43%3A0xc12c41d8c342ce04&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.934166,
+        "longitude": 77.61089799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ7wYf1IUrjsRBM5Cw9hBLME",
+      "provider_id": "/g/11g3h3gqcf",
+      "rating": 4.1,
+      "reviews": 26,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Tavarekere, Chikku Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka 560030, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards"
+          ]
+        }
+      ],
+      "user_review": "\"Beautiful 😍❤️❤️😍❤️\nFrom mall\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiB7S5CY7dHggw3U0Toz26HsPsgsWMeM9e4dULt2cawMo_VLRZEjq-3uUt9vvBgX7rxtcHdqmlyk3kL95-usnKkn-turVm3Lqz1fWYV1kPzkRI-VgMky-A0jYR8jjjJThfoFGc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rof063icHcRRboIwGADgE1UKnUOW-ADGjW0lISg4fDGm1LIWWuEvMLjgzuBtlux7-B6_tbV3eHGcpiYrYYxo-AC8Z0Zbru2KmdYR_RUAMXDCMFIt5d-Rf1jvSr-KhZhIjo9m8Z5jSEHAKeFJwJ-qnFqPXafEXAqanfeyQ2TIbTCOkfjy-x_L4qprm1kRRYM1GkB_Ko3s0Bctod3i3k5l4ap0Udk7KkSiZhRiWWYbKeXHsb6Z1ze2nVyMMar_Z0j_AcCSReU"
+    },
+    {
+      "position": 19,
+      "title": "Lulu Hypermarket",
+      "place_id": "ChIJi2onuMsXrjsR_dnOpKTY_aw",
+      "data_id": "0x3bae17cbb8276a8b:0xacfdd8a4a4ced9fd",
+      "data_cid": "12465357545282656765",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17cbb8276a8b%3A0xacfdd8a4a4ced9fd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17cbb8276a8b%3A0xacfdd8a4a4ced9fd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.98125,
+        "longitude": 77.5636111
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi2onuMsXrjsR_dnOpKTY_aw",
+      "provider_id": "/g/11nngtb5tb",
+      "rating": 4.4,
+      "reviews": 33836,
+      "type": "Hypermarket",
+      "types": [
+        "Hypermarket"
+      ],
+      "type_id": "hypermarket",
+      "type_ids": [
+        "hypermarket"
+      ],
+      "address": "opposite Sujatha Theatre, Gopalapura, Rajajinagar, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–11 PM",
+        "thursday": "9 AM–11 PM",
+        "friday": "9 AM–12 AM",
+        "saturday": "9 AM–12 AM",
+        "sunday": "9 AM–12 AM",
+        "monday": "9 AM–11 PM",
+        "tuesday": "9 AM–11 PM"
+      },
+      "phone": "+91 89519 37940",
+      "website": "https://www.bengaluru.lulumall.in/shop/lulu-hypermarket/",
+      "extensions": [
+        {
+          "service_options": [
+            "No-contact delivery",
+            "Delivery",
+            "In-store pickup",
+            "In-store shopping",
+            "Onsite services"
+          ]
+        },
+        {
+          "highlights": [
+            "Great produce"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Food",
+            "Salad bar"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "planning": [
+            "Quick visit"
+          ]
+        },
+        {
+          "recycling": [
+            "Plastic bags"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "in_store_shopping": true,
+        "in_store_pickup": true,
+        "delivery": true
+      },
+      "user_review": "\"The mall is very clean and well maintained.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQCaA2Lx4fyuleytSuoDCv91c_IzazocbwY78GmPg1_L4q0syvDBm3tlOz0OSQuqyG2spsixDx3BMBfuKOM_0OVgoJLgOCXytuFAM6AGF2ddxlP_lXmwlVyWn52TO3_GAkqB2pox7c20Zs=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vHG1o3icHcTBToMwGADgJ2KUsjk18dBCRlRIt8zM6aVhhRWzlsL-drS8pGffZonf4fv77awd4DmOVZcupDFStQ7aqzC9bXu7EEbH8loDRAJiQuhFl80uqwku_fIcnGqD3TuTZ7enRPDXuZ6NOE1f68dCb2XCy-WIINxyqlOr2IzYfufGUGAY4MfnPqUVPbt3VnHEDtK8lZJlx2DdhlQPpNjgpvFqy9VRT-oQPvsV_mApL8hlpHgwfi0w-oaXKUEIRd3_Iurvas5I6A"
+    },
+    {
+      "position": 20,
+      "title": "Phoenix Mall Of Asia",
+      "place_id": "ChIJL8E77SUZrjsRi18NhbIac3s",
+      "data_id": "0x3bae1925ed3bc12f:0x7b731ab2850d5f8b",
+      "data_cid": "8895483043025608587",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1925ed3bc12f%3A0x7b731ab2850d5f8b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1925ed3bc12f%3A0x7b731ab2850d5f8b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.070625699999999,
+        "longitude": 77.5914188
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL8E77SUZrjsRi18NhbIac3s",
+      "provider_id": "/g/11s96cgbgv",
+      "rating": 4.4,
+      "reviews": 22113,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "type_id": "shopping_center",
+      "type_ids": [
+        "shopping_center"
+      ],
+      "address": "Bellary Rd, Indra Nagar, Park View Layout, Byatarayanapura, Bengaluru, Karnataka 560092, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 63669 51619",
+      "website": "https://phoenixmallofasia.com/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        },
+        {
+          "offerings": [
+            "Arcade games"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)",
+            "Playground"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking",
+            "Paid parking garage",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The mall is new and features a variety of brand stores and a food court.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeYuVWcFg_FKvCbWyEeBl9fe9lkhm2FVbHG2rPWeee-nyIJ1sA7cnqRXjD5AiCpHIUkO0_hclav7NvzMYsKIcPMXRQr6gIxXz36ADpJpgFCOai3LL2FyaI_9EdITIDftdgdwG6Rhpgwgyg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cN7GgHicHcTRboIwFADQL0IQMgxL9lDBahWnI5vgE8FyvXWU0tEKw4_c-_5myc7D-f0R1mrz7LpSBDPsOpRwN9DzTllQdsa71sW-MsbhxiVk2bQpnO-nnFMs6W6IL_m0gqWMrhDJRrQ-PV02a78_5gDgqIlt54YsuPrKis_kidxivWEfzcErBZfVsHgdHvuz2TF-3BfZWx8i-y4eQUgSvdVI40N1C9LUp1PFymhVs3eWXG2N9bgOM6FxxAlfxrnneY74nzvqD8H_SBk"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.974658999999999%2C77.6067528%2C14z&q=mall&start=20&type=search"
+  }
+}

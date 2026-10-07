@@ -1,0 +1,938 @@
+{
+  "search_metadata": {
+    "id": "6ac63bb70558c0e38367d22b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vk6ll63m-Lq8MFi6VSiMZcxySB5JOKG3LFmlCntOUXc/6ac63bb70558c0e38367d22b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vk6ll63m-Lq8MFi6VSiMZcxySB5JOKG3LFmlCntOUXc/6ac63bb70558c0e38367d22b.md",
+    "created_at": "2026-10-07 12:31:51 UTC",
+    "processed_at": "2026-10-07 12:31:51 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/college/@12.9672485,77.6367305,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/vk6ll63m-Lq8MFi6VSiMZcxySB5JOKG3LFmlCntOUXc/6ac63bb70558c0e38367d22b.html",
+    "prettify_html_file": "https://serpapi.com/searches/vk6ll63m-Lq8MFi6VSiMZcxySB5JOKG3LFmlCntOUXc/6ac63bb70558c0e38367d22b.prettify",
+    "total_time_taken": 1.05
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "college",
+    "ll": "@12.9672485,77.6367305,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "college"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "New Horizon PU College",
+      "place_id": "ChIJuwzIEi0RrjsRR1w5f18lDP8",
+      "data_id": "0x3bae112d12c80cbb:0xff0c255f7f395c47",
+      "data_cid": "18378105271478737991",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae112d12c80cbb%3A0xff0c255f7f395c47&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae112d12c80cbb%3A0xff0c255f7f395c47&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.005520599999999,
+        "longitude": 77.6608605
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuwzIEi0RrjsRR1w5f18lDP8",
+      "provider_id": "/g/11b6dp9_b0",
+      "rating": 4.2,
+      "reviews": 1666,
+      "type": "Educational institution",
+      "types": [
+        "Educational institution"
+      ],
+      "address": "3Rd A Cross, 2nd A Main Rd, East of NGEF Layout, Kasturi Nagar, Bengaluru, Karnataka 560043, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8 AM Thu",
+      "hours": "Closed · Opens 8 AM Thu",
+      "operating_hours": {
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "Closed",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM"
+      },
+      "phone": "+91 80 2542 9365",
+      "website": "https://nhpuc.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOtSMzbk6SjQL5iXl1gI6DVcZ1-PIa8_6f5wyfbhjwqOs7WH4F8XKQaJU6TNdzMQUxh0PplUKGtUADu9S0CuuiLtrDikjH1sWk-_TeaUXE4g8U_OiqEhivi96QjXXkleHtGeDg4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BWQKXXicHcThEoEwAADgJ5rWyZQ7P5wQIl3Gzp8uM9tqKm0JL-gZvI0734_v-xHG1HpkWUr0e7yquGKtZg2tSsNK06PVzeJNpjWg2ppMH7W6RSbZvM8FSvI4HEiibL5E_oGebLBbZm6KroPudT2LvLtHengMnLlL1nG2wmi_vbw3MX4KuKsVXi8Mnvitl8Bp28rQNL4s8sDWxwKke5ZhMnO4i9NI3mdCPqSH4pyQQrHALJjPnXFnQwiB-E9B-QOqDkVW"
+    },
+    {
+      "position": 2,
+      "title": "BMS College of Engineering",
+      "place_id": "ChIJL03jEYsVrjsRD9iLq9vbSl8",
+      "data_id": "0x3bae158b11e34d2f:0x5f4adbdbab8bd80f",
+      "data_cid": "6866542318402131983",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae158b11e34d2f%3A0x5f4adbdbab8bd80f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae158b11e34d2f%3A0x5f4adbdbab8bd80f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9416151,
+        "longitude": 77.5668099
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL03jEYsVrjsRD9iLq9vbSl8",
+      "provider_id": "/m/039z72",
+      "rating": 4.4,
+      "reviews": 3547,
+      "unclaimed_listing": true,
+      "type": "College",
+      "types": [
+        "College",
+        "Educational consultant",
+        "Educational institution"
+      ],
+      "address": "Bull Temple Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9:30 AM Thu",
+      "hours": "Closed · Opens 9:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "9:30 AM–5 PM",
+        "thursday": "9:30 AM–5 PM",
+        "friday": "9:30 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9:30 AM–5 PM",
+        "tuesday": "9:30 AM–5 PM"
+      },
+      "website": "http://www.bmsce.ac.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM2airBdKI4g1acpKbqrbJ8TfLretcb9tusW7bpdznFT0p8DITkwZ83DdwfTVqIyYZkgQFTugv3oU0gBSC6XKUM9PIlr5jnRrhSkbxKbOhyIMohnnGa0ed3vRHkFoKgtoZ1davH=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/LNBBMHicHcRLcoIwAADQEwGhqMXOdFF10DRlWjX-2OVH0oJJTAJUL9gzeBtn-hbv_qdCsP4lSVqVxdIY2YrOC8eMDkKHmJlzIh3xPmI-eZv3tj2XT-TbzTiCI5kSZhG9OPqe4_rDicDoNHT-8Ewtv-kCA5svIG6GKs8WfKjx_gKvp6qR6wJ3ss_MDsjZdj45ol05_YKtG__ojVPbhv4i-qmusDRK6yUBgmf9ZtUUBslgqpSTfvU6pACASP3PIv0AQ9ZHDA"
+    },
+    {
+      "position": 3,
+      "title": "Jain PU & Degree College",
+      "place_id": "ChIJr2zPvKMWrjsR762PbvLbKKE",
+      "data_id": "0x3bae16a3bccf6caf:0xa128dbf26e8fadef",
+      "data_cid": "11612773473458302447",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16a3bccf6caf%3A0xa128dbf26e8fadef&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16a3bccf6caf%3A0xa128dbf26e8fadef&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.976854999999999,
+        "longitude": 77.63406359999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr2zPvKMWrjsR762PbvLbKKE",
+      "provider_id": "/g/11dxrgyzty",
+      "rating": 4.5,
+      "reviews": 161,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "17 'c' Cross, Chinmaya Mission Hospital Rd, 2nd stage Indiranagar, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "10 AM–3 PM",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+91 79962 02111",
+      "website": "https://www.jaincolleges.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMD09LapFlZfKM3vAda0hmFYoGqpDzzyKzje6NEGz2Pc294FrIlDwbNe06hF-8H6p10PLSETwTpAhMGeKt5WDwuOu5AY3nKCNFVtUiIPeawVfkeo72VUiuhOcBRbtz7zkN47rgVlA6dfXPj=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/xoRNsHicHcRLEoIgAADQE5mkptVMC8qwxjSnj312RigVCgnGxCVbd5tmeov3_VClhBzbNqNur-K8YqSTpMW8UaRRPcxru2oLKS0sbTh7CVYnIRitCoHYuYwT9wWvBaA1OvHoKUJj3rG5Ez-dR8bJsDPyULtkob6kBPgUWcOFL_ogW23nO70TkCYRidXgEOpu3Q3gyW3iWYpytb8tM1LovHwQHjj5_tbRNZ5uLsoE5pF6QVvlDPrX8pjdJ7oPALDof2w1P8GvR6w"
+    },
+    {
+      "position": 4,
+      "title": "Government Ramnarayan Chellaram College of Commerce & Management",
+      "place_id": "ChIJGb6Bm2wWrjsRaFIIKY86RxM",
+      "data_id": "0x3bae166c9b81be19:0x13473a8f29085268",
+      "data_cid": "1389143396610232936",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae166c9b81be19%3A0x13473a8f29085268&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae166c9b81be19%3A0x13473a8f29085268&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.983163699999999,
+        "longitude": 77.5870508
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJGb6Bm2wWrjsRaFIIKY86RxM",
+      "provider_id": "/g/1tdncprb",
+      "rating": 4.2,
+      "reviews": 1180,
+      "unclaimed_listing": true,
+      "type": "College",
+      "types": [
+        "College",
+        "Polytechnic institute"
+      ],
+      "address": "GOVERNMENT RAMNARAYAN CHELLARAM COLLEGE, Palace Rd, near Drugs Control Department, Racecourse, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–4 PM",
+        "thursday": "9 AM–4 PM",
+        "friday": "9 AM–4 PM",
+        "saturday": "9 AM–4 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–4 PM",
+        "tuesday": "9 AM–4 PM"
+      },
+      "phone": "+91 80 2226 2889",
+      "website": "https://gpt.karnataka.gov.in/gricpbengaluru/public/en",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN1fuAnrctH1W-3QfOn9V-4ZHYFFnzVjTIhJrymtmptyXlcIe58J30gY-uIdLotHhHqwqL6tkRJ1BaAJrEVGUDl23ASRahJnTJ_R5Idv7ccQv4ihzcI3G19sjOFdReakuhwvh9O2A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gIY-iXicHcTdboIwGADQJ6pQq06W7KL7QdoYicyxuZuFfFSqlhbbD4i-4R7Bt1myc3HuvxqxC49RZDSbNM41RvVBeXAWlcUJuDZqfBUCgRDxl6Ez7YYeem49YEY_CdsecpuUZPad7dPU3srTTmjpry22HV6_DAg1X0oWN3vSi3rtMNPZZbysF3guJH2uuPRv5erj1UwZfy8qLe1O_hRzUQ8PANthdtQ3EGxFk3DK07pQ1bnX46CTfMqfRhrHMdH_A7F_TzlF-g"
+    },
+    {
+      "position": 5,
+      "title": "University College for Women",
+      "place_id": "ChIJ_8S6YHcXrjsRN1lmAjrseV8",
+      "data_id": "0x3bae177760bac4ff:0x5f79ec3a02665937",
+      "data_cid": "6879789639677663543",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae177760bac4ff%3A0x5f79ec3a02665937&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae177760bac4ff%3A0x5f79ec3a02665937&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0027929,
+        "longitude": 77.5669575
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_8S6YHcXrjsRN1lmAjrseV8",
+      "provider_id": "/g/11sc79pg9d",
+      "rating": 4.7,
+      "reviews": 127,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "2H38+4RC, Malleshwaram, Bengaluru, Karnataka 560003, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–12 PM",
+        "saturday": "9 AM–3 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "website": "https://bcu.karnataka.gov.in/109/constituent-college/en",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPcZrZY8D2Jqx3dawCn7hl37W6lx2BYrjijSmyf8XOF1hijzzlXdNwJOtcRSXXGu1ccHN9dgr27FaovYGTztp32DeBK9KwpTPPLmt7tAjzyDq_Fi3YxQ2WKGdhTSs-l90sSAZoZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/S26rv3icHcRdCoIwAADgE6lzg9SgB1M0MspSSPcSMs0p09k2f_KCnaHbBH0P3_dDlRrk1jAYRXrNec2qUVaC8F5VvdIJ74xaFFJqRBquNw2siwkWOLd9eHwtqCxmr7coQ9Z9wxa4z0XbtEn3ftrZJTBp064ry8rzfLwockuyLBxNQg5np6wFtIKCT3mYrmpA0K_2kRPNQxrHp05Zym3Xt_96BA3Klyu8R2FJ00RqzAEycTHHu9kEAGj0P9H6HxfHRiU"
+    },
+    {
+      "position": 6,
+      "title": "St.Anne's Evening College",
+      "place_id": "ChIJl9K9rJ4WrjsRQvuk_MU_MrY",
+      "data_id": "0x3bae169eacbdd297:0xb6323fc5fca4fb42",
+      "data_cid": "13128625983318195010",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae169eacbdd297%3A0xb6323fc5fca4fb42&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae169eacbdd297%3A0xb6323fc5fca4fb42&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9745891,
+        "longitude": 77.6254111
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl9K9rJ4WrjsRQvuk_MU_MrY",
+      "provider_id": "/g/11hbnk1r0q",
+      "rating": 4.6,
+      "reviews": 7,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "St Annes Degree College For Women, 23, Cambridge Rd, Halasuru, Cambridge Layout, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "4–9 PM",
+        "thursday": "4–9 PM",
+        "friday": "4–9 PM",
+        "saturday": "4–9 PM",
+        "sunday": "Closed",
+        "monday": "4–9 PM",
+        "tuesday": "4–9 PM"
+      },
+      "phone": "+91 80 2554 4454",
+      "website": "https://www.anneseveningcollege.in/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNPoRVxjb76unV2ronzq0sGeeXs1Ds6WF-lU-jjmUQDg6QtznGqAntKx4mEe74tI5s1qc_G6FLd9DNn35iygj1B9060WuuOfivaGGZwESfJ7wIl4iDzR_HTimoV53h6dMH55bmtPCBxvCVz=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/WnFeJXicHcTJjoIwGADgJ6oUoSWazEFBq7M4rmjmYrTWAuki_GWRl5yzbzPJfIfv9Zs594Cx56ksGEhrpRI1iIpb44RxA261J6sLAOLgTeLmofRqbbdpV1wjWpt0WFnTlxiYECfwE6DHOVIHVBT6sEkk3bjesHJi3EcX6pmIQrck4Jf8zOj88zZKViYg-VMW_nSEKT7W9fc9by6M_bSz3f09apcqzJN-e17sc21TEmT09rUg5KrdOp52TZz2b62PMUbZ_xyZPytPSAc"
+    },
+    {
+      "position": 7,
+      "title": "Sea College of Science, Commerce and Arts",
+      "place_id": "ChIJ4Z6yxS0RrjsRyBDnuJ7GgbQ",
+      "data_id": "0x3bae112dc5b29ee1:0xb481c69eb8e710c8",
+      "data_cid": "13006895583831986376",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae112dc5b29ee1%3A0xb481c69eb8e710c8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae112dc5b29ee1%3A0xb481c69eb8e710c8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0074066,
+        "longitude": 77.71379259999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4Z6yxS0RrjsRyBDnuJ7GgbQ",
+      "provider_id": "/g/11frldzhn7",
+      "rating": 3.7,
+      "reviews": 432,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Sea College of Science Commerce and Arts ayyapan Nagar circle ekta Nagar, Devasandra Main Rd, Virgonagar, Krishnarajapuram, Karnataka 560049, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8:30 AM Thu",
+      "hours": "Closed · Opens 8:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "8:30 AM–5 PM",
+        "thursday": "8:30 AM–5 PM",
+        "friday": "8:30 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30 AM–5 PM",
+        "tuesday": "8:30 AM–5 PM"
+      },
+      "phone": "+91 99007 32511",
+      "website": "https://seadegree.ac.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN2VWRJPlIWJVEe1F-l4XPbwNo_UxwTWcPEVJZHfrzcfYyIaPKpvdA08nB8u2nJPg_AGZheGw6emjZonsiuaoJYSko-MBKhJn33arJk5IId04_HE0wfubhwGD8oQFqkQZfOeF7d=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Kq4wAnicHcRNUoMwGADQEwVS6A_jjAuqQElHTLUFy4aBEEgl5EMCTesFPYO3cca3eL8_YpoG_WDbUrhWC9BKPms-MlATV5PFoLfbsdQaMW37T9dB9omTZm-EyjgjacAXIZLLD1qZBIrTzRwzRoOU5Ltm_GbN-R6XdD9cax97auvNjiK0LfwoFzwya95_5qD0ZS6BnN87QC_bvSDKdcuRdKs4rvGy2AXYNHMlTPTswSH86g5588rDTf1oFhhjJP5nSP0B1eBFnw"
+    },
+    {
+      "position": 8,
+      "title": "St. Francis College",
+      "place_id": "ChIJo-PSudgVrjsRy180IG48g0Q",
+      "data_id": "0x3bae15d8b9d2e3a3:0x44833c6e20345fcb",
+      "data_cid": "4936856060212568011",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d8b9d2e3a3%3A0x44833c6e20345fcb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d8b9d2e3a3%3A0x44833c6e20345fcb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.925900799999999,
+        "longitude": 77.6299006
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJo-PSudgVrjsRy180IG48g0Q",
+      "provider_id": "/g/11y37jb605",
+      "rating": 4.1,
+      "reviews": 436,
+      "type": "College",
+      "types": [
+        "College",
+        "Educational institution"
+      ],
+      "address": "8th Main Rd, 3rd Block, Koramangala 1A Block, Koramangala 3 Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8:30 AM Thu",
+      "hours": "Closed · Opens 8:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "8:30 AM–4 PM",
+        "thursday": "8:30 AM–4 PM",
+        "friday": "8:30 AM–4 PM",
+        "saturday": "8:30 AM–1 PM",
+        "sunday": "Closed",
+        "monday": "8:30 AM–4 PM",
+        "tuesday": "8:30 AM–4 PM"
+      },
+      "phone": "+91 94492 60409",
+      "website": "https://www.stfranciscollege.edu.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOprlC4_o4mEV3hvXVsGxKrHUV0EfOflsm0Bjmna6_bttscnlUwl-wUVRXlxIuPuC3iBDWWyyIbFJjdrTHgFKgoxPiGLJsLJ-mqb14oxaHCEfBewNavZhn1qfbdda4IXHlZl22f=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HvdrhHicHcTdboIwGADQJ6oUIbtY4sVgKKBRswwk3phSaKv52mK_8uMT7hn2Nkt2Ls7vj_J-wPcgABWtpLUS-hF7x63xvfErbnUgHUMkHIOPdBpAnwYHaXyzsc7qSE1Njbtl7_Kqppk4CUBNk4c27O3Weo_cQDUDmav6q4GlGM9jGt2Tz8vl9Srabfno3Hcut3tpl_N9dyjxUBL9bMPYLixPM5H085FNV2XCp2i7jsVFk8MV1muxmUNKKVH_c2L-AIElR0k"
+    },
+    {
+      "position": 9,
+      "title": "Silicon City College",
+      "place_id": "ChIJZxmsmqkRrjsRa3XlYuUS-1w",
+      "data_id": "0x3bae11a99aac1967:0x5cfb12e562e5756b",
+      "data_cid": "6699969647059760491",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae11a99aac1967%3A0x5cfb12e562e5756b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae11a99aac1967%3A0x5cfb12e562e5756b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.011197899999999,
+        "longitude": 77.7016513
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZxmsmqkRrjsRa3XlYuUS-1w",
+      "provider_id": "/g/1tcznt6d",
+      "rating": 4.2,
+      "reviews": 322,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Ravindra Layout, 26/2, near Police Quarters, Nisarga Layout, KR Puram, Krishnarajapuram, Bengaluru, Karnataka 560036, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8:30 AM Thu",
+      "hours": "Closed · Opens 8:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "8:30 AM–5:30 PM",
+        "thursday": "8:30 AM–5:30 PM",
+        "friday": "8:30 AM–5:30 PM",
+        "saturday": "8:30 AM–2:30 PM",
+        "sunday": "Closed",
+        "monday": "8:30 AM–5:30 PM",
+        "tuesday": "8:30 AM–5:30 PM"
+      },
+      "phone": "+91 81470 93466",
+      "website": "http://www.siliconcitycollege.ac.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOHo0w-Ie-ssn4S1JEU2JJ5jQJYYRfrizolHwI7qEx0hECH5Iep2NbWra0mm-WSL0Fy9_knsEJW5nxzQC_20xAWBydVWylkwqlQYsIVkIaHdGy-Ma-fCO0GX_HaDbaxu8RJnMpe_w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GgVLvnicHcTRboIwFADQL6pcmURdsgdFtG10Bo1WnkjFCkppkYsr-If7hP3NEs_D-fst2rbGT8_TxccgtzbX6omqyaxplWkHma28vJGIJENvFv7UutpSC44wRRDNaD_k0cHnPLjHPEl21-b2spo6Nn5EHRRRSAOmav_7LBoJVUXEfg3LfpqWBiMuAtO94jD1oZuJeX85il6X7qHjBNmxZJJeVj3ZSHINt7A6pVQuzrJ7TnbcbGqVui83BABSvM-I-Qce8kYG"
+    },
+    {
+      "position": 10,
+      "title": "National PU College Jayanagar",
+      "place_id": "ChIJv2v3MZwVrjsRPKFSTR_0hxs",
+      "data_id": "0x3bae159c31f76bbf:0x1b87f41f4d52a13c",
+      "data_cid": "1983822576158417212",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae159c31f76bbf%3A0x1b87f41f4d52a13c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae159c31f76bbf%3A0x1b87f41f4d52a13c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.924812,
+        "longitude": 77.57928919999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv2v3MZwVrjsRPKFSTR_0hxs",
+      "provider_id": "/g/11v0237df8",
+      "rating": 4.3,
+      "reviews": 70,
+      "unclaimed_listing": true,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "National College, 36th B Cross Rd, 7th Block, Jayanagar, Bengaluru, Karnataka 560070, India",
+      "country": "India",
+      "open_state": "Open · Closes 4:30 AM Thu",
+      "hours": "Open · Closes 4:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "10 AM–4:30 AM",
+        "thursday": "10 AM–4:30 AM",
+        "friday": "10 AM–4:30 AM",
+        "saturday": "10 AM–4:30 AM",
+        "sunday": "Closed",
+        "monday": "10 AM–4:30 AM",
+        "tuesday": "10 AM–4:30 AM"
+      },
+      "phone": "+91 80 2653 3541",
+      "website": "http://nationalpujayanagar.edu.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPZNYl8LTY0ioab28Km4_ia0WBtYiZhv8vTjg55RTM1qDir7aLqkhNtbDAxCjb-qp6ciXtEexrRah6KHhm_Q07kJcaHSkH0kMSdO0I4oI6madg7tcfyqG4AG9KHRl9uUmEK24aNvE0OicIx=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IZAsfnicHcRBjoIwFADQEyFfRUATF4wSQRQVMTO4MaUybaWlQCviKV17GxPf4r1fVOtazUyT0_GASEl4cVdFi2Wli0oPsBQmaZFSBlamt-hqLvbnOOPuJs2ASZSP3EhYF4bg90dn7Ew7t0tvZDJJ0u2wWbLWQZumpLHOl16_uOVGU9uY_Wm_6NsEUTsKqLgcwCnXGAXHMoBye7zuILRkaAt0JY7G_89mZXmraRQkfHo_CT8aWSjufNgxHPbzxxAADPodG9UHA6ZHrw"
+    },
+    {
+      "position": 11,
+      "title": "Srushti Degree College",
+      "place_id": "ChIJYf4GISsSrjsR35YOFtB4pC8",
+      "data_id": "0x3bae122b2106fe61:0x2fa478d0160e96df",
+      "data_cid": "3433001651081746143",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae122b2106fe61%3A0x2fa478d0160e96df&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae122b2106fe61%3A0x2fa478d0160e96df&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9692378,
+        "longitude": 77.7006601
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYf4GISsSrjsR35YOFtB4pC8",
+      "provider_id": "/g/1ptwzxpp8",
+      "rating": 4.5,
+      "reviews": 106,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Marathalli Outer Ring Road, 92, Service Rd, Karthik Nagar, Doddanekundi, Bengaluru, Karnataka 560037, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8:30 AM Thu",
+      "hours": "Closed · Opens 8:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "8:30 AM–5 PM",
+        "thursday": "8:30 AM–5 PM",
+        "friday": "8:30 AM–5 PM",
+        "saturday": "8:30 AM–5 PM",
+        "sunday": "Closed",
+        "monday": "8:30 AM–5 PM",
+        "tuesday": "8:30 AM–5 PM"
+      },
+      "phone": "+91 99646 45111",
+      "website": "https://srushtidegreecollege.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOiDu4xekaCT2PXEtcc872jV5c5Ls3Sq9LXw5ePKUSMcekweuIQJxFVET_prAJBSXc7f2jZ4g41shdnkQEBj9BJtUJIILY2cG9PFX7Gt24fptsIYBb7cDkFKmtQDmClN1cYLQnfSQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/j1v_GnicHcRLDoIwFADAEyFQIYiJC_kZEJUGMeDG6LOAfArSh3hFj-BtTJzFfD8lYi-WstyU81nRdUXDRsEG6DgyjjPoWrkYrkJIIOS1_eqb9vBwRu3N6qt9JFHqIsDCINVJBz0U8_hphumks2ibxDtg9cRGnwZv7-QeL_2wDqw4BSMn1VkrNFWUd15T16pMK8Ak8P0wI7AxIy81Nki0vEfhZ9bNAKf2ti1Sp7WbvQpZSHke09WkKooilf9B4j_90UTo"
+    },
+    {
+      "position": 12,
+      "title": "Sampurna Montfort College",
+      "place_id": "ChIJVVVV0ZA9rjsRoJnDrt5unbg",
+      "data_id": "0x3bae3d90d1555555:0xb89d6edeaec399a0",
+      "data_cid": "13302910777016162720",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d90d1555555%3A0xb89d6edeaec399a0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d90d1555555%3A0xb89d6edeaec399a0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.985804499999999,
+        "longitude": 77.6466609
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVV0ZA9rjsRoJnDrt5unbg",
+      "provider_id": "/g/1tcxbn3m",
+      "rating": 4.3,
+      "reviews": 156,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "No. 184, Old Madras Rd, Binna Mangala, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+91 80 2528 3320",
+      "website": "https://montfortcollege.edu.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPAZjOx1SaSUs4JqP1WZJtiqFyapEb9lokLT5PyB8SF3nxxZRHLrP3jDbvieWOdUw9QFKMs-XazyLdds0mALBjn5KxJK8yNZM8XNpeNpjX1_cE5kBgenRbweOMfHq9h3bwyiAN2wg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/k1RFb3icHcRdCoIwAADgE5maCRr0oJWE_2WR-BI619R0m2411w07QrcJ-h6-76fhnLK1qvaNsUCEoB4-GZwAwRxivgBkUNFUMqYApjrbF-2H1Cm6ZNazMruwlT-m-rXweTt6sqT7yu7JIzybqXStzDPwPBenQzilRrerXi28JvVF2EcviJiSl28Z1jXTBid0O2wGsx9YMi4iK48pjGmX6zewNx8ugvhUCZhE98NoN0YlZOvES4E2Qtc0TWn-AwX_AI-gRt8"
+    },
+    {
+      "position": 13,
+      "title": "JAIN College - V V Puram",
+      "place_id": "ChIJy2NZEIAUrjsRtR0Rm3MQZ2g",
+      "data_id": "0x3bae1480105963cb:0x686710739b111db5",
+      "data_cid": "7522999791254576565",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1480105963cb%3A0x686710739b111db5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1480105963cb%3A0x686710739b111db5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.949565199999999,
+        "longitude": 77.5770482
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy2NZEIAUrjsRtR0Rm3MQZ2g",
+      "provider_id": "/m/07kf_5f",
+      "rating": 3.7,
+      "reviews": 621,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Dr A N, 91/2, MN Krishna Rao Rd, Vishweshwarapura, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–5:30 PM",
+        "thursday": "9 AM–5:30 PM",
+        "friday": "9 AM–5:30 PM",
+        "saturday": "9 AM–5:30 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–5:30 PM",
+        "tuesday": "9 AM–5:30 PM"
+      },
+      "website": "https://www.jaincollege.ac.in/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPXyQB6IHn-I1n7TpSQJCPxrwaoHS27fc2qEvKXWlxpDRr4Hs7Dh5CtJdf6ULUjHjhOtJeYSkv28HCHqLPbu9_zLP6dJtyLwrOhdrRgEy0thrI0DKYl7hT5asqmYd7G3mPnqEI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/YA96C3icHcRRDoIgAADQE5loJdXWR6kLzS3MXPnVDE1mCAqk2QG7Q7dp632874dq3aqVaTI6nVRCVKx8qlISwXXJ9YSIxqxkrpRBlLlx-5Y1-DLGWydA3AgsDk9tEocufskhFyix4Z3Ynd_vL2f2ar2jnCEFPTp3dVjcnTRKa1TTgw7LLHn09gK5qIvw7bm8viPsFKEeo0EeaCGPlT8CTWUAvH3GID3Nc9U1WQF30wbzzg_WgwUAMOh_YvAfcCBFQQ"
+    },
+    {
+      "position": 14,
+      "title": "Central College",
+      "place_id": "ChIJMxkUuP4XrjsRIUQZEXa86pI",
+      "data_id": "0x3bae17feb8141933:0x92eabc7611194421",
+      "data_cid": "10586481089366803489",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17feb8141933%3A0x92eabc7611194421&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17feb8141933%3A0x92eabc7611194421&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.974866299999999,
+        "longitude": 77.5829672
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJMxkUuP4XrjsRIUQZEXa86pI",
+      "provider_id": "/g/11hnwk59kb",
+      "rating": 4.4,
+      "reviews": 140,
+      "unclaimed_listing": true,
+      "type": "University",
+      "types": [
+        "University"
+      ],
+      "address": "XHFM+W5W, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Closed · Opens 10 AM Thu",
+      "hours": "Closed · Opens 10 AM Thu",
+      "operating_hours": {
+        "wednesday": "10 AM–5:30 PM",
+        "thursday": "10 AM–5:30 PM",
+        "friday": "10 AM–5:30 PM",
+        "saturday": "10 AM–5:30 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–5:30 PM",
+        "tuesday": "10 AM–5:30 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOKphHdMoAMAVUvqM1BN1sVDlR6ZHrWEIe5hn80bhd07jkNkVQNVyOLxADj_64fSvztqitp4AdwxOze-SWharl4amB21fcX9BmU1w06kScYarvQJ-eRwGM_MaBq1lDGVrHxGzT2Dg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-MvW9nicHcRRboIwAADQE1Vax9g02UcZBrZZiDLrth9TS6WTQqGtgNxwR_A2Jnsf7_YnnWvt0vOUfJiVWpdKXKwwXDdONG7Gde2VhlkLuPXwa9-qOvtoZVIQjQmmu74jKEyRpZHaBj-J2a_exKNsnuFRFvDpXKUV3aT0mq1HHJ0PgX_K-8l1v671cTGM2SRAvpfMKJ_V4Ryd-NcirHdogEGV829m-s07ENshJgfCwg6pKKYmGePpcx6VLwOCEAL5PwfNHU-mRhA"
+    },
+    {
+      "position": 15,
+      "title": "Sri Chaitanya CBSC & PU College",
+      "place_id": "ChIJE1YSoy0SrjsReS9YSeEbcKU",
+      "data_id": "0x3bae122da3125613:0xa5701be149582f79",
+      "data_cid": "11921058868061810553",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae122da3125613%3A0xa5701be149582f79&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae122da3125613%3A0xa5701be149582f79&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.962291299999999,
+        "longitude": 77.7032894
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE1YSoy0SrjsReS9YSeEbcKU",
+      "provider_id": "/g/1hhmnvqzr",
+      "rating": 3.3,
+      "reviews": 333,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "1st Main Road Vinayaka Layout Coconut Garden Munnekolala, Kasavanahalli Village, Marathahalli, Bengaluru, Karnataka 560037, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8 AM Thu",
+      "hours": "Closed · Opens 8 AM Thu",
+      "operating_hours": {
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "9 AM–4 PM",
+        "sunday": "9 AM–2 PM",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM"
+      },
+      "website": "http://srichaitanyaschool.net/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNNlP8RtZYFxulTLSR6tzMMQ3gpw8nEuo7fyl2LvmTLOgDT0v6tP6bd9IpB9brZ5N7SIorMl24lQ169QosVwEqN_L4vqhqgFr5agCMg9PkErk-bDm8sUKzefjD16yAQ3yULHoer=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_7m9vHicHcRdEkJAAADgEwlh0UwP5WcyLSGaqZcm2tbUsuwu4oKdods00_fwfT-VEC1fyTKptAWmFBPUc8RK2gjUiEVJaxmzG-dSyeWNM7SkjiISW6m4nP13TzJ4TIGYwzDRcDtajddT8zGRJRzqDB6wmykDEDEo7nbQbu2CXYzIPAaUhWSpk0QFdkL5afS66Ar1oas67DPjhp0Q2_HLYy-pcGuL5_sZPZ6uCqZNok053FHE1qOqKIpU_S-l5gflCUWd"
+    },
+    {
+      "position": 16,
+      "title": "Dharmaram College",
+      "place_id": "ChIJVVVVEHX5rjsRmJqiAOMuB44",
+      "data_id": "0x3baef97510555555:0x8e072ee300a29a98",
+      "data_cid": "10234200230725851800",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3baef97510555555%3A0x8e072ee300a29a98&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3baef97510555555%3A0x8e072ee300a29a98&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9365451,
+        "longitude": 77.60255339999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVEHX5rjsRmJqiAOMuB44",
+      "provider_id": "/m/0j3d4h9",
+      "rating": 4.7,
+      "reviews": 78,
+      "type": "College",
+      "types": [
+        "College",
+        "Religious school",
+        "Seminary"
+      ],
+      "address": "Diary Circle, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+91 80 4111 6111",
+      "website": "https://www.dharmaram.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMGJrmN0ikKG50XxrLeQuxhOUrD75VxFbzrkezsc3BNfTUg251Tx_ybk23FlCzxuSVJotmw2EU9q7KjDIvKjHm_0AywXqqXH4rTW88kQkisRm4MrW-J0cuUb1uOclpKWkqojf_f5A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/aeQVxXicHcRJDoIwAADAFyEFJC6JB9wFl6hsNyJNAWlLoYtUfugT_I2Jc5jvp5KyFXPTJJUzKhkrCVICccgaiRo5goyaJX8IYUBheqtXS-hp53N6Bk8c7FyQan5EV6WrS8TXEzfW23zgGA0COstzEUal7Vqhzt45tp0tWQ1a3WOfSdrbm2jWTYJ6fXgF9Z5mwHv3adel-zEPk-kUX_FT3Oj4xBPDB1BFuaUukLRBgjtWF1nheoveAgAY1X9oND-yF0c9"
+    },
+    {
+      "position": 17,
+      "title": "Bangalore Animation College",
+      "place_id": "ChIJN3S3iRwVrjsRjfB1Db8rRGQ",
+      "data_id": "0x3bae151c89b77437:0x64442bbf0d75f08d",
+      "data_cid": "7224947801773699213",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae151c89b77437%3A0x64442bbf0d75f08d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae151c89b77437%3A0x64442bbf0d75f08d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9927295,
+        "longitude": 77.7155216
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN3S3iRwVrjsRjfB1Db8rRGQ",
+      "provider_id": "/g/11h03323rg",
+      "rating": 4.8,
+      "reviews": 151,
+      "type": "College",
+      "types": [
+        "College"
+      ],
+      "address": "Block A, ARDENTE OFFICE ONE, L 2, Hoodi, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "country": "India",
+      "open_state": "Closed · Opens 10 AM Thu",
+      "hours": "Closed · Opens 10 AM Thu",
+      "operating_hours": {
+        "wednesday": "10 AM–6 PM",
+        "thursday": "10 AM–6 PM",
+        "friday": "10 AM–6 PM",
+        "saturday": "10 AM–4 PM",
+        "sunday": "Closed",
+        "monday": "10 AM–6 PM",
+        "tuesday": "10 AM–6 PM"
+      },
+      "phone": "+91 98363 90098",
+      "website": "http://www.bangaloreanimationcollege.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPMyqGTwtQsrOpdW5NGjfW06Wl1xB53EYXGOCbhjeUsI0i_RZT7OKkkejVnxL3_tKpI-3luTdXS1MNW2Y59hPz98I7972_uoyprCBYHCF2zfckIouy-iB-CztwCmU5QwuViemuT=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A0rbwXicHcRRToMwAADQExUKBBGTfYxGkSBjczCGP0RLoUChHW1lcEHP4G1MfB_v94cqJeSTaTLqGC3nLSNakhnzSZFJGZiPZjt_SgmwNPfoW7DxmKy3MFvUSc6pqAv3EPZNAR8KZt0D13kur2GKvmhPchnBrnr_yLw0HgbSX6b7m1OpWETAYTqrr2crORR26fr0uPmPked7dqX5KmYUlK_oxd4aPERcr6ALANrUgsbcPS360pFRZ7vFghAC-j8G0x---kV4"
+    },
+    {
+      "position": 18,
+      "title": "Gopalan College of Commerce",
+      "place_id": "ChIJ4RHWbC0RrjsRwFuXhRMDfmk",
+      "data_id": "0x3bae112d6cd611e1:0x697e031385975bc0",
+      "data_cid": "7601516603428527040",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae112d6cd611e1%3A0x697e031385975bc0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae112d6cd611e1%3A0x697e031385975bc0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.986365099999999,
+        "longitude": 77.71708629999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4RHWbC0RrjsRwFuXhRMDfmk",
+      "provider_id": "/g/11fjxvx9dw",
+      "rating": 4.5,
+      "reviews": 264,
+      "type": "Private college",
+      "types": [
+        "Private college",
+        "Certified public accountant",
+        "College",
+        "Education center",
+        "Educational institution",
+        "Financial consultant",
+        "Financial institution",
+        "Senior high school",
+        "Student career counseling office",
+        "Student union"
+      ],
+      "address": "182/1, 181/1, Basavanagar, behind SAP LABS, Hoodi, Seetharampalya, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "country": "India",
+      "open_state": "Closed · Opens 8:30 AM Thu",
+      "hours": "Closed · Opens 8:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "8:30 AM–4:30 PM",
+        "thursday": "8:30 AM–4:30 PM",
+        "friday": "8:30 AM–4:30 PM",
+        "saturday": "8:30 AM–12:30 PM",
+        "sunday": "Closed",
+        "monday": "8:30 AM–4:30 PM",
+        "tuesday": "8:30 AM–4:30 PM"
+      },
+      "phone": "+91 96069 41906",
+      "website": "http://www.gopalancolleges.com/gcc",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM0Hl5fcNyXcHQWSsI-aYi4ZcAPbIsTaWaibtdcDNQXfPDmPsf--TzFNqxuwNngMra2AypyWS22rgetoaMtgh57C4iHME9gdFu9GTCVSWaH-OK2W3gMDsaI2uLkNJ2wOmQImHAJ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/27_IWHicHcRBroIwFADAE1WwaowmLgioRW2FQKy6qxUKkVLkFZF_Qc_gbX7iLOb7KaxtYOk4VTEZKWNUlXWQtdLUNqvtSBrtqFYAIAmO57-aSlOXVLNcsuEsScwTCJG4lNOr9KJbCKngorzZuwxYfM6jQEeQI5T-bdjz3fWsVrQV2BuagScYtyqzRlCritncn5aErhfqvukW29Q_JVwQdNxjPlE0ABHi7vBgO9wfdRxq4u1W_dh1XVT8lqj-B-HRRRg"
+    },
+    {
+      "position": 19,
+      "title": "United PU and Degree College",
+      "place_id": "ChIJ0YZUNx0XrjsRTkr_Vs_5U_8",
+      "data_id": "0x3bae171d375486d1:0xff53f9cf56ff4a4e",
+      "data_cid": "18398323571651725902",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae171d375486d1%3A0xff53f9cf56ff4a4e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae171d375486d1%3A0xff53f9cf56ff4a4e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0108831,
+        "longitude": 77.61466519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0YZUNx0XrjsRTkr_Vs_5U_8",
+      "provider_id": "/g/11bx8m2jm2",
+      "rating": 4.4,
+      "reviews": 137,
+      "type": "College",
+      "types": [
+        "College",
+        "University"
+      ],
+      "address": "12, opposite to upcoming Metro Station, Pillanna Garden 2nd Stage, Pillanna Garden, P and T Colony, Devara Jeevanahalli, Bengaluru, Karnataka 560045, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9:30 AM Thu",
+      "hours": "Closed · Opens 9:30 AM Thu",
+      "operating_hours": {
+        "wednesday": "9:30 AM–4:30 PM",
+        "thursday": "9:30 AM–4:30 PM",
+        "friday": "9:30 AM–4:30 PM",
+        "saturday": "9:30 AM–2:30 PM",
+        "sunday": "Closed",
+        "monday": "9:30 AM–4:30 PM",
+        "tuesday": "9:30 AM–4:30 PM"
+      },
+      "phone": "+91 74832 54480",
+      "website": "https://www.unitedcollege.edu.in/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPtXYGaxRaADbQEk_penxUC1-H-rB4RFbKx-iICo4Hb6VvZScmPJyMCI7MPuQ9oCVb5F9-R1UToB77REtb06AOR4OVDEHXZLZMQVN4zAHEGO7mUY7vHFv2y4W04ra-VlGnxV_hp1g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0TpW1nicHcRLjoIwAADQE1WKU200cYEVqB8EqlRlY2hDwAgtoZXBuaFHmNtMMm_xfj-1tZ1ZOk5Tf00qraumfJmyl1rZUtmJ1K1T9YUxQBrHI0PXtIm93sJiZIW3Ean_vHelGjPiAgr6NWKB2I_gsSUaUTHnQ36SbbJ7R2SLo-SVLjThYhYsAHOzs15jzHwr4NyLGYr5xqfX_JBHKT-iH4_6YYzb7IYHGgzTN7pA1BeAN6Ea-b3u3Gr17UIIQf2_BOoPiZlDWg"
+    },
+    {
+      "position": 20,
+      "title": "St. George School of Business",
+      "place_id": "ChIJVVWV2SsRrjsRnxu6LEUO-y0",
+      "data_id": "0x3bae112bd9955555:0x2dfb0e452cba1b9f",
+      "data_cid": "3313257641127058335",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae112bd9955555%3A0x2dfb0e452cba1b9f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae112bd9955555%3A0x2dfb0e452cba1b9f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.008716,
+        "longitude": 77.6510792
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVWV2SsRrjsRnxu6LEUO-y0",
+      "provider_id": "/g/1tdc86_v",
+      "rating": 4,
+      "reviews": 430,
+      "type": "Private college",
+      "types": [
+        "Private college"
+      ],
+      "address": "B.Channasandra Main Rd, OMBR Layout, Banaswadi, Bengaluru, Karnataka 560043, India",
+      "country": "India",
+      "open_state": "Closed · Opens 9 AM Thu",
+      "hours": "Closed · Opens 9 AM Thu",
+      "operating_hours": {
+        "wednesday": "9 AM–5:30 PM",
+        "thursday": "9 AM–5:30 PM",
+        "friday": "9 AM–5:30 PM",
+        "saturday": "9 AM–4 PM",
+        "sunday": "Closed",
+        "monday": "9 AM–5:30 PM",
+        "tuesday": "9 AM–5:30 PM"
+      },
+      "phone": "+91 98450 62687",
+      "website": "https://www.stgeorgecollege.org.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMTl3tmpcdlIZTzqmxX4ULwEcH0HMROQHdq4vmOFTelOiIw7dQJKNb-lqDApr5n0uHUEasr35dXwhWDGp9PLEgSERJqk_-TwVaUMLX47PWpx4dfAW7hZ5nbpJuBrZJthkYsb9o9=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/HMBQMnicHcTbToMwAADQLyrUACGY7IFtKEMYu4AgLwZapIbeaMu67Af9Bv_GxPNwfn-IMVI_uy4lnjMJMdFx1aNCgpuRGwcJ5k6q1xog7ca7m6SsqKhnmESYHrrqsbB769e5TVAK0-JSnlO8-DdWvlQjLb8PNsTn7O04ALrsY6kCDte0TnqtvAC3ljT7Vxmd8mS6JpdsmT9BZd_7ushbPzw18u7jr7gJSRfwQWbrVnWZIfOHHiIRbewThBCQ_xHgfweWRfI"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.9672485%2C77.6367305%2C14z&q=college&start=20&type=search"
+  }
+}

@@ -1,0 +1,1017 @@
+{
+  "search_metadata": {
+    "id": "6ac63bddacb3e44e4bb6818e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_-5tfCW0KpG2DZecs6Iw54EpubUhLW-6QpAYm03VQFk/6ac63bddacb3e44e4bb6818e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_-5tfCW0KpG2DZecs6Iw54EpubUhLW-6QpAYm03VQFk/6ac63bddacb3e44e4bb6818e.md",
+    "created_at": "2026-10-07 12:32:29 UTC",
+    "processed_at": "2026-10-07 12:32:29 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/event+venue/@51.5055334,-0.0914069,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/_-5tfCW0KpG2DZecs6Iw54EpubUhLW-6QpAYm03VQFk/6ac63bddacb3e44e4bb6818e.html",
+    "prettify_html_file": "https://serpapi.com/searches/_-5tfCW0KpG2DZecs6Iw54EpubUhLW-6QpAYm03VQFk/6ac63bddacb3e44e4bb6818e.prettify",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "event venue",
+    "ll": "@51.5055334,-0.0914069,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "event venue"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Shoreditch Treehouse",
+      "place_id": "ChIJfannDrAcdkgRc6tFdeu0vDU",
+      "data_id": "0x48761cb00ee7a97d:0x35bcb4eb7545ab73",
+      "data_cid": "3872168703009598323",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb00ee7a97d%3A0x35bcb4eb7545ab73&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb00ee7a97d%3A0x35bcb4eb7545ab73&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5250737,
+        "longitude": -0.0812566
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfannDrAcdkgRc6tFdeu0vDU",
+      "provider_id": "/g/11fzf7yxct",
+      "rating": 4.9,
+      "reviews": 131,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Live music venue"
+      ],
+      "address": "34 Charlotte Rd, London, EC2A 3PB, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "Closed",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM"
+      },
+      "phone": "+44 7778 712143",
+      "website": "https://www.shoreditchtreehouse.co.uk/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "book_online": "https://www.tagvenue.com/venues/london/23898/unit-two?rwg_token=AE37R_iMqD6ZlbUoGxVAehaQsHU30SAd9SiOw4aU5o_Yiy8hWUqFsGzNYixpaegcHyFCowdZ31ynxHBKsrKEvY5QOC2oZObslQ%3D%3D",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfOtB4B_ku1XqIXto91XX8Qz1e_47708suuczNQ5HYsWtffebVNSa5_Z9k0gZiO9u95wt-xO_4UkY49F_AoDESRxFVv70GoEzi70-ktxVQEsk_2FugJUeX42pzaIFPH8_wi8bJYBQYeFlOQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fXMpKnicHcTNboIwAADgJ6oUVwI12QEi9SdG1hmxeGmwKYUUqbOtEF5y573NEr_D9_fbOvewqyDo24-FMkb10lv5FGZwcnALYe6BetbWAmGDNM30_dAULkMZ1z5kPzvmDA4ZS-gcSo7iGCbWezEfabSt7MU1jbyVx1Md8SvWUF27AnscjQ5MBUdnXSFMeGrW-el7IuUrhhuTz10MgXZTSXOr-ZJ4tT9LhpaPud6Rr23Cxy657auMVpL0Bf0cQwghaN8LMPwDid9G0g"
+    },
+    {
+      "position": 2,
+      "title": "Middle Temple Venue",
+      "place_id": "ChIJq6pqxrQEdkgRuvlI3SLBTZg",
+      "data_id": "0x487604b4c66aaaab:0x984dc122dd48f9ba",
+      "data_cid": "10974640222457362874",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604b4c66aaaab%3A0x984dc122dd48f9ba&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604b4c66aaaab%3A0x984dc122dd48f9ba&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5125289,
+        "longitude": -0.11133639999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6pqxrQEdkgRuvlI3SLBTZg",
+      "provider_id": "/g/11b77dxjx9",
+      "rating": 4.6,
+      "reviews": 217,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Wedding venue"
+      ],
+      "address": "Middle Temple Hall, Middle Temple Ln, Temple, London EC4Y 9AT, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 7427 4820",
+      "website": "https://www.middletemplevenue.org.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO3iQAo-yd6cXBJoMNhmPe261TqBmrlYr-si5v35bgrdh75wj2wGPY-4zG5EJtTiKGLMN1dBdl4vPm-iYDgLRczKkz_fSG_nyunZROdJpSoLRqTm1q7fV5yN_0miXdr7DofFzzo8A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/AAW3iXicHcRdboIwAADgE1VArCxLfIC5kSAiQ2JkL2Rroe3WH2grhN7QI-w2Jn4P3_-dWjuYV8_jNFwRpQjvbqbTSEnbSbtCSnhEfxsDkPHit2ng4hSyz1iBBW_RNcnUsaCi7NbboB4ToXmjgWFwCuEP0ZhGcP5dz2nZgI1L4Xtma3ZI82MR4ATzzVQKwJo9ySvkDn-u7c9pK5eb_KpOOBvOKq_GWgRj1F_gUrS-YFeso73qP5xTL_FuDnzfB_Q5AvIBQsdGcw"
+    },
+    {
+      "position": 3,
+      "title": "St Mary's Marylebone (Venue Hire)",
+      "place_id": "ChIJxQYKJaobdkgRSFOjdh7iu5I",
+      "data_id": "0x48761baa250a06c5:0x92bbe21e76a35348",
+      "data_cid": "10573293170649682760",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761baa250a06c5%3A0x92bbe21e76a35348&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761baa250a06c5%3A0x92bbe21e76a35348&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5197724,
+        "longitude": -0.1619116
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxQYKJaobdkgRSFOjdh7iu5I",
+      "provider_id": "/g/11f9vsj9nd",
+      "rating": 4.7,
+      "reviews": 102,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "Wyndham Pl, London, W1H 1PQ, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5:30 PM",
+      "hours": "Open · Closes 5:30 PM",
+      "operating_hours": {
+        "wednesday": "9:30 AM–5:30 PM",
+        "thursday": "9:30 AM–5:30 PM",
+        "friday": "9:30 AM–5:30 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9:30 AM–5:30 PM",
+        "tuesday": "9:30 AM–5:30 PM"
+      },
+      "website": "https://stmarysmarylebone.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPSvLBZ2KpRPOssdzea6L01TjVhiqHkZASzj4OVlhClWVCOUKkKbBQ7Ad4EtxrRHo9k5cGspkU-WRt0MAu-Lbi5ue15_O0b3ZaWLVvLHHDFmaEYQf-CKUDChmBNQqUZhfsr4V5Q7g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bu3vnHicHcRNjoIwGADQE1XKCBonmQXUHxKqCA4lsjFQK1UKRb6Cxht6hLnNJL7F-3tLYzr4tiwlp5NK60qJAUTPdWtEayZcN1bVFwCIg-WRsVPN_jBSP_8Ku2QfAZxfophRbP_emLzegzr3Dq-bEzElicoYidKwDks_nntnZ2WefRLoRe3yDXR1irLE4K03IFpe3UHY7inC5TQvMspGGgTLdVOsjvEFkTBdEtn4u_ie5vICvcPceF79PGyMMZKfOWr_AS0dRRo"
+    },
+    {
+      "position": 4,
+      "title": "Glaziers Hall",
+      "place_id": "ChIJV4bXLlcDdkgRZK1toJqcqN0",
+      "data_id": "0x487603572ed78657:0xdda89c9aa06dad64",
+      "data_cid": "15972188266399903076",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487603572ed78657%3A0xdda89c9aa06dad64&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487603572ed78657%3A0xdda89c9aa06dad64&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5067534,
+        "longitude": -0.0887448
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJV4bXLlcDdkgRZK1toJqcqN0",
+      "provider_id": "/g/1tgg9fjc",
+      "rating": 4.6,
+      "reviews": 482,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Conference center"
+      ],
+      "address": "9 Montague Cl, London, SE1 9DD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 7403 3300",
+      "website": "http://www.glaziershall.co.uk/",
+      "description": "Multi-event spaces in former warehouse. 7 flexible corporate/private event spaces accommodating 500 guests in a 19th-century warehouse.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN8QQDCGMpYxpx-H58FLy9ND2IJ4b6JSxb4Ls6MQQMkk2V_ztegFTMdVcpiTkmjGvADBdxBPUU-RJSmwzNbeTH9qOrfSbud8fhEoE7IwdXiYOOR9niFY1p7QTMpt0wNYoliHHo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fSP0OnicHcRJDoIwAADAF1VwBxMPCCISC5YtcjJSKiBLKy2LPtA_-BsT5zDfTy4E4xtJqvL5JKM0q0jHSYtpI0gjJpjWUtbeOAeYS5res6p2FIQM_QBZPLIRWEvFPL1Ux5gd7UWysv0xWZz4CiIEy3IWXd-CZGYA0wizIijrx6HXjF067s5hCDzbr4e3k5DAUp9ue_eTLlXu-Z7u18chvRSx63pqU5jxlK1RAJmQByemVWFZdDtMZVkG-X8Mmh8190Tx"
+    },
+    {
+      "position": 5,
+      "title": "Iron Bloom Shoreditch Event Space / moved to 83 Rivington Street",
+      "place_id": "ChIJBR1nDbAcdkgREmjqwny6Z4U",
+      "data_id": "0x48761cb00d671d05:0x8567ba7cc2ea6812",
+      "data_cid": "9612856974654466066",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb00d671d05%3A0x8567ba7cc2ea6812&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb00d671d05%3A0x8567ba7cc2ea6812&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.524830099999996,
+        "longitude": -0.080883
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJBR1nDbAcdkgREmjqwny6Z4U",
+      "provider_id": "/g/11f3_m3x9d",
+      "rating": 4.2,
+      "reviews": 77,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "46 Great Eastern St, London, EC2A 3EP, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Closed · Opens 6 PM",
+      "hours": "Closed · Opens 6 PM",
+      "operating_hours": {
+        "wednesday": "6 PM–2 AM",
+        "thursday": "6 PM–2 AM",
+        "friday": "6 PM–3 AM",
+        "saturday": "6 PM–3 AM",
+        "sunday": "6 PM–2 AM",
+        "monday": "6 PM–2 AM",
+        "tuesday": "6 PM–2 AM"
+      },
+      "phone": "+44 7896 718880",
+      "website": "http://www.83rivingtonstreet.com/",
+      "description": "Modern, industrial event space. A versatile event space in renovated iron factory with three floors for small & large party options.",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe6IxPB14K1bhqqEK061vGxMyWfU_Pjq9M-wvTvGMgc3brqhyphUArlWrWavMyXvb_v-hcyOVIs_QHVNuYxIsLP12j57cQlxFVDN5VNTNuxXXbJDmRe3uh_ohXpRakMJbHNFMWO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vLlRMnicHcRLDoIwFADAE1Wo-IkmLjD-UFvRKOCK0KbyokChhVpO6Bm8jYmzmO8H2rbWc8cpwBvkUuaF6LRQXFatqNoBl6WTq0xrxLXj-8tXeRSTwIZLPDpgBk2zPrgTbLaW9PHjlobPZkbQ21zNluTcY6qBvoabr4pYxZkhfWJYahDw_hQFOj3vItrdbaCPIR4-x1N-LuwmWtFxRK-0s0nC9qvyIrwOUglJfcleZM92dEPi0-KNXddF8J-j6gfrMEY3"
+    },
+    {
+      "position": 6,
+      "title": "Shoreditch London Event Venues",
+      "place_id": "ChIJX8agg7AcdkgR45I6v7RYsiA",
+      "data_id": "0x48761cb083a0c65f:0x20b258b4bf3a92e3",
+      "data_cid": "2356043088393835235",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb083a0c65f%3A0x20b258b4bf3a92e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb083a0c65f%3A0x20b258b4bf3a92e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.525188,
+        "longitude": -0.078772
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX8agg7AcdkgR45I6v7RYsiA",
+      "provider_id": "/g/1tdpr49w",
+      "rating": 4.5,
+      "reviews": 55,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Conference center",
+        "Event management company",
+        "Event planner",
+        "Meeting planning service",
+        "Photography studio",
+        "Wedding service",
+        "Wedding venue"
+      ],
+      "address": "37 Bateman's Row, London, EC2A 3HH, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 7 PM",
+      "hours": "Open · Closes 7 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–7 PM",
+        "thursday": "10 AM–7 PM",
+        "friday": "10 AM–7 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "10 AM–7 PM",
+        "tuesday": "10 AM–7 PM"
+      },
+      "phone": "+44 20 7033 9006",
+      "website": "https://shoreditch.com/?utm_source=Google&utm_medium=SL%20local&utm_campaign=search",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd06CA355y4MkozJMZ0qLF30OqbuLVIJHpNjujQQf4qqJXNRK47hzDEIKSKyjpW0xRZXPU_W6wxlQcyB8-wjT1zCaX8j_cmD_xj0AHUe1dzAjkgWlIcuaZenwZjRfwo1CDDv_Z5SA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/-jEjwnicHcRJDoIwAADAFwElLBoTDxU0sriAC6QXgrVAylKwYIEf-gR_Y-Ic5vsp-r7lK0WpCk3OGcsrMnDywqzpSdPLmNVK_ko5lzBXINyUtf8EpgU1w5j0Q8lm94BA5-80cOoeg3933H17pAMNgkzvOjc-hp6-KGZ763gXb6JtBMYQxedbEplirAI8bZaSoFd1ttJ4SRNc28lIAdzfiPqcIS3zqHLwkCLSCETDTDDVsu13gowLXAsVACAV_7HU_ADYIEW6"
+    },
+    {
+      "position": 7,
+      "title": "Stationers' Hall",
+      "place_id": "ChIJoUbVyawEdkgRuS8hXcbo0Bk",
+      "data_id": "0x487604acc9d546a1:0x19d0e8c65d212fb9",
+      "data_cid": "1860242584767639481",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604acc9d546a1%3A0x19d0e8c65d212fb9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604acc9d546a1%3A0x19d0e8c65d212fb9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5142515,
+        "longitude": -0.1012936
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoUbVyawEdkgRuS8hXcbo0Bk",
+      "provider_id": "/g/11h2ndsj8c",
+      "rating": 4.8,
+      "reviews": 129,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Conference center"
+      ],
+      "address": "Ave Maria Ln, London, EC4M 7DD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "8 AM–5 PM",
+        "sunday": "8 AM–5 PM",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM"
+      },
+      "phone": "+44 20 7246 0999",
+      "website": "https://www.stationershall.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP4qJOMXHB1iBfzdZNVhie_4ozRVIf47633O-Kb3ZZ5tm-j-9OoBU-CvuXMXluAXLFEtr7uOFMUb1rsTZqAkSJD01rmKFsv5VW4tfEZ_mNm2jRlXblq1VRPgqPxx2ltmD9Kf4oI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CAh6onicHcRJDoIwAADAFxWoFI0mHkAhKrIEFZteiCCL2lJoCxo_6Bv8jYlzmO-nUaqTC12njanVnNe0HGQpCt6qslVawZlei4uUoJC6vRo7ymLU76IAbxx4c6r3lYRpcyszxN9Juq3QbGqaEfBzkxBLMXAH84g7J7AaBxxgOth477lKzIbIC045FPJIevtx2K0NKJjvydFKz0hVLslYyCb3hOKc9jBN4rqPX68JVWw99yvEt8snNAwDNP8L0P4AS_REkw"
+    },
+    {
+      "position": 8,
+      "title": "41 Portland Place",
+      "place_id": "ChIJNblsotYadkgRByepirfJ_kA",
+      "data_id": "0x48761ad6a26cb935:0x40fec9b78aa92707",
+      "data_cid": "4683402452654434055",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ad6a26cb935%3A0x40fec9b78aa92707&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ad6a26cb935%3A0x40fec9b78aa92707&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5205589,
+        "longitude": -0.1454416
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNblsotYadkgRByepirfJ_kA",
+      "provider_id": "/g/11b6zry32f",
+      "rating": 4.9,
+      "reviews": 69,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "41 Portland Pl, London, W1B 1QH, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–5 PM",
+        "thursday": "8 AM–5 PM",
+        "friday": "8 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8 AM–5 PM",
+        "tuesday": "8 AM–5 PM"
+      },
+      "phone": "+44 20 3141 3260",
+      "website": "https://www.41portlandplace.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMloF-Dtg5TPTMPSEyGDOlUX9RC4mu3uyWI9TVGDxPMDaCiMAL4JSSnrH6zVxRAIFRJnDHT5DeDjsyJV0_rZwSlHwgjxJblfUAHq1g4aJ9kL6tT9mKA1VVX03jJA7dPkjlr3xUR=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TsGeiHicHcRRDoIgAADQE5k4rWZbH0wqo1xOkVo_zcwwQyjA1C7YGbpNW-_jfT-VMQ89s21euSMmJeNlq0tVSGFKYUaFbGymcq2tQtsweD14E3G5tJBhYxKTKE4XwwrteHbwk8BrWrcd9muf0BXq4wjlwS2CWw-nqVDh5E37BK6XCRYoJGNUoloPmIKTOnYpDztW9_jMrxkMnw7zcuzftxND_GYDHUoPwK0xnF7ie82V22fJvHMAAFb1v7DED15kREI"
+    },
+    {
+      "position": 9,
+      "title": "Hoxton Arches",
+      "place_id": "ChIJy6XiVLkcdkgRSKjSxxJU_HY",
+      "data_id": "0x48761cb954e2a5cb:0x76fc5412c7d2a848",
+      "data_cid": "8573820230245197896",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cb954e2a5cb%3A0x76fc5412c7d2a848&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cb954e2a5cb%3A0x76fc5412c7d2a848&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5306396,
+        "longitude": -0.0760996
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy6XiVLkcdkgRSKjSxxJU_HY",
+      "provider_id": "/g/1s04h97k6",
+      "rating": 4.4,
+      "reviews": 163,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Art gallery",
+        "Christmas market",
+        "Handicraft fair",
+        "Photography studio",
+        "Showroom",
+        "Wedding venue"
+      ],
+      "address": "Arch 402, Cremer St, London E2 8HD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 7 PM",
+      "hours": "Open · Closes 7 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–7 PM",
+        "thursday": "10 AM–7 PM",
+        "friday": "10 AM–12 AM",
+        "saturday": "10 AM–12 AM",
+        "sunday": "10 AM–12 AM",
+        "monday": "10 AM–7 PM",
+        "tuesday": "10 AM–7 PM"
+      },
+      "phone": "+44 20 3051 5087",
+      "website": "http://www.hoxtonarches.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPf7qezTruZvBST9pJkM3Su7BL8SR2x2cR0tCW94SU8B3Kr2xKgFLssFIE-Q6pmgn6hrjKm0Iv71KlOuEqOh88qkdIjmewBHfls4UyA20YQE9G5U_iOcVlQxxwM4aLSUB840LX7CMxWIaCE=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ATGZrHicHcTNboIwAADgJ0IqMClLdrAEJwPCsDJ1l4V0tVVbftoC3V5yZ9_GZN_hu_9xY3r97LqC-wvWdUzQUVNFutbQ1ixIJ12mGq0dot11PPVCvp_Dgf7u1fg5IbyP-rdb4eMxRDnEO896ZAdMfIgCXEPkZ8qzGdvkWm_SxKlWvWTtiqtrJkE6hctMlGMylBzC4fadXiWd0fYsdFD_rD1wqpLo9an-upTkQ1TWzkXQ5LhGMAD5MYwLe0ibOHmZlwAAh_9PnPYBny5Geg"
+    },
+    {
+      "position": 10,
+      "title": "One Great George Street",
+      "place_id": "ChIJl7lLzsQEdkgRBtJKzsKngxQ",
+      "data_id": "0x487604c4ce4bb997:0x1483a7c2ce4ad206",
+      "data_cid": "1478209557834158598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604c4ce4bb997%3A0x1483a7c2ce4ad206&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604c4ce4bb997%3A0x1483a7c2ce4ad206&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.501128099999995,
+        "longitude": -0.1290274
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl7lLzsQEdkgRBtJKzsKngxQ",
+      "provider_id": "/m/02qv9t_",
+      "rating": 4.6,
+      "reviews": 722,
+      "type": "Conference center",
+      "types": [
+        "Conference center",
+        "Event venue",
+        "Fine dining restaurant",
+        "Wedding venue"
+      ],
+      "address": "1 Great George St, London, SW1P 3AA, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5:30 PM",
+      "hours": "Open · Closes 5:30 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–5:30 PM",
+        "thursday": "8 AM–5:30 PM",
+        "friday": "8 AM–5:30 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8 AM–5:30 PM",
+        "tuesday": "8 AM–5:30 PM"
+      },
+      "phone": "+44 20 7665 2323",
+      "website": "https://www.onegreatgeorgestreet.com/",
+      "description": "Edwardian wedding & conference venue. Grand, domed Edwardian building with 21 function rooms, staging weddings, conferences and dining.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqEAGXZY8MxeW012Qxu6hAhG4oR0-yow7MtfWiK0sbFAoM2pjJrvpEp9UjPRRD8WZE3g1jCVcOUobZ2K3xQdebKiVcxwm0o0zMBNEwzPy4MIxO0uBmz6r2ufNmN7CeHcF-xuZe=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KYJuZXicHcRBcoIwFADQE0U-4Kh1pougaFsaVGaUyq6kkUgNH0lSIhf0DN7Gmb7Fe9ylMa2ee95FhqMKsboIq0XHsTGiMSOOyqu6b60J1x6l0a_65NeYrr-K44w5kYMf7JydSCrXY8yA3LCfMnPKzwnockWRBW390f21cfuyr7dZtpzlRRxWfr048M0eyyJIQrf7EWVyPnDXK0AYWJTG_bC9jdm724CN1DDpAntKVTpdiDe-Is4W4rX3AYDI_zlpnmVuROM"
+    },
+    {
+      "position": 11,
+      "title": "Six Park Place (home of the Royal Over-Seas League)",
+      "place_id": "ChIJKZwEzrkFdkgRD1QYKXoFYXM",
+      "data_id": "0x487605b9ce049c29:0x7361057a2918540f",
+      "data_cid": "8313932409336255503",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487605b9ce049c29%3A0x7361057a2918540f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487605b9ce049c29%3A0x7361057a2918540f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.506128499999996,
+        "longitude": -0.1407114
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKZwEzrkFdkgRD1QYKXoFYXM",
+      "provider_id": "/g/11kjdp0964",
+      "rating": 4.8,
+      "reviews": 33,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "6 Park Pl, St James's St, London SW1A 1LR, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+44 20 7408 0214",
+      "website": "https://www.sixparkplace.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPS0rgAHAiPUQ-afFFHUzk6fnltC3czKbJ3MVZhf6eDnLT966Ouih4Iyvy10RUjpZ24zelJb1eEE7SzLIrfxSAR8QT71C3bSVreluSv75tXu_uZhpmaYhXGxzBZU5w-38hBi67v=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/IfUAjnicHcTbboIwAADQL6oUK0WX7AFQ5zVeKobxYqAplFkK6QW1P-g37G-W7Dyc3zc3ptcfnic4GtVdVwtmNVO0k4ZJM6Jd69Wq0BpQ7UXJ0Iv2SKCqo1XUHNMTKKrlcpW6O66kMAmibltu0P6a8wqzudxdZhgfbMMn69fw8uE5_enz8cQxsSl9tliExO3WqnqS6Dw9XUI_QSW5KiYsGcLAZPZmc963xTfPvp4uztPgAdCUxw0Oh8-HDyEE_H8K5B-KfkTh"
+    },
+    {
+      "position": 12,
+      "title": "Drapers' Hall",
+      "place_id": "ChIJ7QMQwKwcdkgRj3Z53c3UVlE",
+      "data_id": "0x48761cacc01003ed:0x5156d4cddd79768f",
+      "data_cid": "5861105945718388367",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761cacc01003ed%3A0x5156d4cddd79768f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761cacc01003ed%3A0x5156d4cddd79768f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5152151,
+        "longitude": -0.0864948
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ7QMQwKwcdkgRj3Z53c3UVlE",
+      "provider_id": "/g/1pzsxyq3j",
+      "rating": 4.8,
+      "reviews": 361,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Livery company",
+        "Wedding venue"
+      ],
+      "address": "Throgmorton Ave, London, EC2N 2DQ, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 7588 5001",
+      "website": "https://thedrapers.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlQKpsNvcf_tDHpVe6jrDa-MuEKGVtfAgk2jmu6n0OwiTHEeRXA9aPoGiE6I0yjjevcQcnXgx9vC2pO3g6Sy9qxT4_xekkZ3rjgnQnL88pkacp2r3OgOWh0zcSEqptHJc9IHLrYw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MimyanicHcRLDoIwFADAEyEVDBETFyhEVBRR429jyLMWW2hrWz56Q4_gbUycxXw_hTFSj2y7LNweEYKUuNZYgeAGc9MDUdlE5VpboO0gmLAquZXZUup1A_erCWN5wB5VYW6t6mg5O5h7QJhDq9rjKG0f-zjC21Pg5xsxe0TeHL0oxQ1kwE-k85upI1OXeLuX_-z2g2uHGbu4ihKe8WQ4lCwH6Sg3JemxQG_YRU9p4gX48zhR53bc9hFCVvEfLP4Drr5HRA"
+    },
+    {
+      "position": 13,
+      "title": "The Brewery",
+      "place_id": "ChIJI9w2m6kcdkgRRA428yRQYLg",
+      "data_id": "0x48761ca99b36dc23:0xb8605024f3360e44",
+      "data_cid": "13285707020372414020",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ca99b36dc23%3A0xb8605024f3360e44&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ca99b36dc23%3A0xb8605024f3360e44&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5206763,
+        "longitude": -0.0916051
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI9w2m6kcdkgRRA428yRQYLg",
+      "provider_id": "/g/1q6jf9r9j",
+      "rating": 4.5,
+      "reviews": 1764,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Auditorium",
+        "Banquet hall",
+        "Conference center",
+        "Convention center",
+        "Event planner",
+        "Exhibition and trade center",
+        "Party planner",
+        "Wedding planner",
+        "Wedding venue"
+      ],
+      "address": "52 Chiswell St, London, EC1Y 4SD, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 1 AM",
+      "hours": "Open · Closes 1 AM",
+      "operating_hours": {
+        "wednesday": "7 AM–1 AM",
+        "thursday": "7 AM–1 AM",
+        "friday": "7 AM–1 AM",
+        "saturday": "9 AM–1 AM",
+        "sunday": "9 AM–12 AM",
+        "monday": "7 AM–1 AM",
+        "tuesday": "7 AM–1 AM"
+      },
+      "phone": "+44 20 7638 8811",
+      "website": "https://thebrewery.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "description": "Events venue in an 18th-century brewery. Elegant, 18th-century brewery recast as an events venue staging exhibitions, dinners and parties.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLehdApn5maDqFeWl-i9uNaCbhtzYGPCOh9J0P8b26e8g_V8DbaHEf6EBxSC6jgo07jrxFp4kbAqew7v3_hMUOFDHwlSb9hRV0wrWh30zb2mhy4-UMeq_7XKooitn5HBrpaBSsIb=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/5ZaQhHicHcRbcoIwFADQFUVSkVdn-sGztEp1ZID6xSSY5qqQQBKLdYOuobvpTM_H-X2AMaN-tqwe7AWXkvfsqpnqpDBMmEUnB4srojXqtBWG0WXYMDiGo3AGkkwZa3p0Cq4fJKZg7ofXXbyF4B3vfLp0mc_b2k8oydMvN41uZeyeucTeWd2ycXWh4cRm79tuoai2WZLPfUkD2Nd4Vg3Y-E6XA_ysUFWwqfU-11KejHDySI0kKvUbfZmfMMYI_u-Q-AN6V0T1"
+    },
+    {
+      "position": 14,
+      "title": "Landing Forty Two",
+      "place_id": "ChIJp2z8nlIDdkgRB3KP70ResIc",
+      "data_id": "0x487603529efc6ca7:0x87b05e44ef8f7207",
+      "data_cid": "9777418441191289351",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487603529efc6ca7%3A0x87b05e44ef8f7207&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487603529efc6ca7%3A0x87b05e44ef8f7207&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.513642,
+        "longitude": -0.08222779999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp2z8nlIDdkgRB3KP70ResIc",
+      "provider_id": "/g/11c1xj8qcp",
+      "rating": 4.6,
+      "reviews": 181,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "122 Leadenhall St, London, EC3V 4AB, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 1 AM",
+      "hours": "Open · Closes 1 AM",
+      "operating_hours": {
+        "wednesday": "6 AM–1 AM",
+        "thursday": "6 AM–1 AM",
+        "friday": "6 AM–1 AM",
+        "saturday": "6 AM–1 AM",
+        "sunday": "6 AM–1 AM",
+        "monday": "6 AM–1 AM",
+        "tuesday": "6 AM–1 AM"
+      },
+      "phone": "+44 20 8498 4930",
+      "website": "http://landingfortytwo.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNtsVL5WbNtUdGemEZK6j6vNC845DfLBwk87oMBv46CxZyFSaFgeKvr5W_da1dVrVjITGDQ1CkR_J5kNQrYJoepNopoXesrhgh1CtsKoAcazMXDBhXngA_unnE6xK3yaQU1Y_54=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/cnHr9XicHcRRboIwGADgEyE0UjQmPkARomgTtonoC6mlthHoT9qKugvuDLvNkn0P3--Pcm60K9_v1XwmAWQvHlYYDtoJ7WYcBl8aZq3HrR-TaewH6my1x6crdcc2F8PmUkT3aKJkGeL0tk-e3XIBh2QKI_K6vLNPlklRTAafmpahtjLVffuVpyUi3Uezwx0tzXkHYqQwQi2sUVIh4mwBMWffhzpNVK1l3Dy03kSvYv5m5RGdGxyunygIAk_9zz39B8JdRak"
+    },
+    {
+      "position": 15,
+      "title": "8 Northumberland Avenue",
+      "place_id": "ChIJYW_iAc8EdkgRzDqMzg1RZKE",
+      "data_id": "0x487604cf01e26f61:0xa164510dce8c3acc",
+      "data_cid": "11629509257519184588",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604cf01e26f61%3A0xa164510dce8c3acc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604cf01e26f61%3A0xa164510dce8c3acc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.506935,
+        "longitude": -0.12601199999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYW_iAc8EdkgRzDqMzg1RZKE",
+      "provider_id": "/g/1q2wb912r",
+      "rating": 4.6,
+      "reviews": 297,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Event planner"
+      ],
+      "address": "8 Northumberland Ave, London, WC2N 5BY, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "9 AM–5 PM",
+        "sunday": "9 AM–5 PM",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 3263 1011",
+      "website": "https://www.8northumberland.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL7rpxWwm5tIfriDOwxhF2jbATuBgMsAj-gRoLWbIZwNtiYSZb3_vjklkoZJaBBQX7-TioDruzj2QYeZd7m9TGPQHdWF_tfNHDyFcbX0cFiF1-rpmBpLFGdmFkr7onknV4movH2A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/hIFgPHicHcRRboIwGADgE1UQt5At8aENKWDQDSWivBgpUKC0P2mL6G64I3gbE7-H7_nfWjuab8cZ2tWCA_ChnkytGShbK7tgIB2ur8YgZhyMiZBJk_h6vOez_LRxo7vgZ7631OtLnE2Ebw3uEd9DkpdxMe9sdz4U5epy68UgoNhcCUlPPso6CPT013vpuS4qX35l4W8aVTm92GYXBQ_KypPLaEeXSI-SjAkNK0mF9kEJdfyQcIs8vJ6Xruui9j1D6gXLtUcm"
+    },
+    {
+      "position": 16,
+      "title": "Canvas Events | Expert Venue Finding",
+      "place_id": "ChIJ91Bhkh0bdkgR2ZJFwgrAZxA",
+      "data_id": "0x48761b1d926150f7:0x1067c00ac24592d9",
+      "data_cid": "1182124579649589977",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761b1d926150f7%3A0x1067c00ac24592d9&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761b1d926150f7%3A0x1067c00ac24592d9&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5180012,
+        "longitude": -0.11749649999999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ91Bhkh0bdkgR2ZJFwgrAZxA",
+      "provider_id": "/g/1hm3gz5h5",
+      "rating": 4.8,
+      "reviews": 204,
+      "type": "Event planner",
+      "types": [
+        "Event planner",
+        "Event technology service",
+        "Event venue",
+        "Meeting planning service",
+        "Party planner"
+      ],
+      "address": "81-87 High Holborn, London, WC1V 6DF, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "7:30 AM–8 PM",
+        "thursday": "7:30 AM–8 PM",
+        "friday": "7:30 AM–8 PM",
+        "saturday": "7:30 AM–8 PM",
+        "sunday": "7:30 AM–8 PM",
+        "monday": "7:30 AM–8 PM",
+        "tuesday": "7:30 AM–8 PM"
+      },
+      "website": "http://www.canvas-events.co.uk/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqJ3S5APtOIRQSHbBqURy1e4dTVF1ESl04nSvwPyZ-y63FszIQ1eDLE_W1ecsh80Fk3TrS2niUufHTBiGvdQmvhuWd3F9CwzOpwrws78Jg-ln2oPaZ0BAiu8-wHtfKH2tBkd0AyVoi18XO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XatUfXicHcRLjoIwAADQE1Va6ihOMot2FPGTABZ14sY4pVICtEoLDV7Stbcx8S3e6ymtvZlvz6slHhVaF7XojGi5VlYoO-K68Yr2YgzgxiOEVs2W39eYfZHExqtdyqJ_et_vBiTGeXYI0YLVcKxY75LhBIYJDs1jlSIx3y7ORyS4kQEMK5y1zFflvrtGGS2XfZ42veyOOQ5nv-4R31zrzDRYF6BWvk4uJ0hJ2QXARfa6iXxLqxyS4aBLFPzFPw5BCIH8zIF6A392Rww"
+    },
+    {
+      "position": 17,
+      "title": "The Pelligon",
+      "place_id": "ChIJrwA4hrACdkgRoBP4KDUtiuM",
+      "data_id": "0x487602b0863800af:0xe38a2d3528f813a0",
+      "data_cid": "16395967099739575200",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487602b0863800af%3A0xe38a2d3528f813a0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487602b0863800af%3A0xe38a2d3528f813a0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5024948,
+        "longitude": -0.0187597
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrwA4hrACdkgRoBP4KDUtiuM",
+      "provider_id": "/g/1td4p4_x",
+      "rating": 4.5,
+      "reviews": 381,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Catering"
+      ],
+      "address": "43 Bank St, Canary Wharf Estate, London, E14 5NX, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5:30 PM",
+      "hours": "Open · Closes 5:30 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5:30 PM",
+        "thursday": "9 AM–5:30 PM",
+        "friday": "9 AM–5:30 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5:30 PM",
+        "tuesday": "9 AM–5:30 PM"
+      },
+      "phone": "+44 20 3834 3400",
+      "website": "https://thepelligon.com/",
+      "description": "Striking, arched, glass events venue. Imposing, 27m-high, arched, glass building with marble floors, hosting events programme.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLqP0Y_exKYCZ2C2Ya_XJ2VKCW5t0qn5LUXUJ6957tOIdb15CzKvXPk_LVbuZa1ohv8-CObZ2pkCk4C8ifYFjw_9b-YVYkiE5QS6CtpEP5sxytMe6X82uyurhYk40jt_1bfgiF=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/70Tsu3icHcTdboIwGADQJ6qUzjI02QU2migssiwi5aahWChWKdIPf_aCewbfxsRzcZ7_GqB3c8876Y9JY21zUqNTQ2U7UB1MKnv2mqF0DlXOi6KFOSd1ckkxF-oec1YQRngp8g3JYrangC8dTXb5bhPM6Cds1wfpU_YXX_PUiCSTY1H6Vl9DxLayIL1hZsrCtuar403MJOIZN-2S_vwGDPplSt39Ad8qyEMyPsZBczPFRxC-rJt29XXzMcZIv69Q9wIDOkQN"
+    },
+    {
+      "position": 18,
+      "title": "One Marylebone",
+      "place_id": "ChIJY6UDn9cadkgRPzbQoThQgCA",
+      "data_id": "0x48761ad79f03a563:0x20805038a1d0363f",
+      "data_cid": "2341960010395825727",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x48761ad79f03a563%3A0x20805038a1d0363f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x48761ad79f03a563%3A0x20805038a1d0363f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5242654,
+        "longitude": -0.1437627
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY6UDn9cadkgRPzbQoThQgCA",
+      "provider_id": "/g/1td4trzg",
+      "rating": 4.4,
+      "reviews": 276,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Wedding venue"
+      ],
+      "address": "1 Marylebone Rd, London, NW1 4AQ, United Kingdom",
+      "country": "United Kingdom",
+      "phone": "+44 20 7380 1663",
+      "website": "http://www.one-events.co.uk/",
+      "description": "Unique venue spaces & landscaped garden. Landmark former church designed by Sir John Soane, with smart spaces for events including weddings.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfDmISTKcO46RxxcXMV9AsEwBaFW75pjiP_D0xSqm8S_M89c7bE2_6C6sTzMY1ocgzFtKPNufbT4yFGZVC5GENSbDogEesT19ZMz0krJUvtekcxoXXs0xembLJBAvza2WJWHQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XQaQ_HicHcRbcoIwFADQFSHBB0pn_AABK4pVQUF_GLiNwWKI5UaMLNA9uJvO9Hyc96uU8oYfun4tBz0mBLvSO9IGRC1pLXsguM6aHFED1G3bqfjq--zyRRQv4Wto7pSCNDxYNnoPJ_eT8ej2c9lkLlHRL59EWTixYFx4_cycmRh34dEQwDpfLjfr-7mIh09_fjrMRnNvHRWuYB7F2LBOYUeqJti3klagRJoiUZQXq8Cx2y7vJ0HyuZ0-DEKIVv4PWv0HF2FEhA"
+    },
+    {
+      "position": 19,
+      "title": "Saddlers' Hall",
+      "place_id": "ChIJu9NKyqoEdkgRB99QNCRr0u4",
+      "data_id": "0x487604aaca4ad3bb:0xeed26b243450df07",
+      "data_cid": "17208934929376796423",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604aaca4ad3bb%3A0xeed26b243450df07&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604aaca4ad3bb%3A0xeed26b243450df07&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.5149566,
+        "longitude": -0.0956361
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu9NKyqoEdkgRB99QNCRr0u4",
+      "provider_id": "/g/1tc_8434",
+      "rating": 4.7,
+      "reviews": 106,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Banquet hall",
+        "Livery company",
+        "Wedding venue"
+      ],
+      "address": "40 Gutter Ln, London, EC2V 6BR, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5:30 PM",
+      "hours": "Open · Closes 5:30 PM",
+      "operating_hours": {
+        "wednesday": "8:30 AM–5:30 PM",
+        "thursday": "8:30 AM–5:30 PM",
+        "friday": "8:30 AM–5:30 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "8:30 AM–5:30 PM",
+        "tuesday": "8:30 AM–5:30 PM"
+      },
+      "phone": "+44 20 7517 3500",
+      "website": "http://www.saddlershall.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8-3TDhrLl_ti5wFcAQb_bN-2ZcVXGi-Qu7fxEXSTuaMMpuJ18bH4qo3Oj8gu74Qs-7SyRkgQ-JfGdHz_OjfokbZ5FS58rcAFur8jOxEfJiZNxQAjmYJUt1MxqZSI5KrnEeN6RjA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bTUPLHicHcRJDoIwAADAF1VARBoTDzWCigKpqFEuRCoUylLtEtEf-gR_Y-Ic5vuplLrLmWG0lT2inNO20LIQhPeq6NWI8M6g4iolINJAaNF0uxsE9mFZiV2bqdp5-gThPMsjME7J6byqAdZuOXjn5KCvYXjXgQXz9eTB7ZhBqt0JlsBNXvuGYhCUq9v6ncWs5E2eOn7iQEGQrwVk8eCVQZ1GA0asuwRHZYXDI002zlb0XhFN9wzNn5ZpmqD6T0D_A-OTRUA"
+    },
+    {
+      "position": 20,
+      "title": "Venue Finder",
+      "place_id": "ChIJL9s3tq8EdkgRFZPo5yOMEPU",
+      "data_id": "0x487604afb637db2f:0xf5108c23e7e89315",
+      "data_cid": "17658768224762237717",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x487604afb637db2f%3A0xf5108c23e7e89315&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x487604afb637db2f%3A0xf5108c23e7e89315&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 51.526193299999996,
+        "longitude": -0.0788466
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL9s3tq8EdkgRFZPo5yOMEPU",
+      "provider_id": "/g/11b8tx1k18",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Castle",
+        "Conference center",
+        "Wedding venue"
+      ],
+      "address": "81 Rivington St, London, EC2A 3AY, United Kingdom",
+      "country": "United Kingdom",
+      "open_state": "Open · Closes 5 PM",
+      "hours": "Open · Closes 5 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–5 PM",
+        "thursday": "9 AM–5 PM",
+        "friday": "9 AM–5 PM",
+        "saturday": "Closed",
+        "sunday": "Closed",
+        "monday": "9 AM–5 PM",
+        "tuesday": "9 AM–5 PM"
+      },
+      "phone": "+44 20 3011 5305",
+      "website": "http://www.venuefinder.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSlyXyKiV-73h5Sp8aRwmHJHbS35NfCTV_pHvN9fHAFedqvSh41zpoTKdn3YK_5H3p8BkHyP39-SMMHtyQF4rXqWs8bE674ECSq31TFs_9fpklMA2MGaHyv4Stb-BGv5vA12JPj7yxQ3Hp=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mUAY6XicHcTbboIwGADgJ6qAhQFLvChG_CPD6EqcuyKcu3FooV1dfcld-zYm-y6-xx9TSshXyxoYXnWcd0PzI5ul4pNqJrWq-Gh1SyElqqRFSNSPbzUdzNUkXxfkY-ZRERTvtxEOUFLsHdttdskF6GPYAombetaUuc5d8CypJ_yZ5B5gEUQ9mBMOEU1TUOYcu8t1_pBBuXvx3d2WztjJYpmHreiHlKzTfQFGu1SVKNprTxNnfTh9--b3jEFsbo5t24j9X6HpCVv0Rek"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4051.5055334%2C-0.0914069%2C14z&q=event+venue&start=20&type=search"
+  }
+}

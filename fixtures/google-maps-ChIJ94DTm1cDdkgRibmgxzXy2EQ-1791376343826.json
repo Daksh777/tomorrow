@@ -1,0 +1,1475 @@
+{
+  "search_metadata": {
+    "id": "6ac63bd777e3d9959831816d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/g9J03dk-sHa53C4s__SUKf7PWjCtb0HxAuGzalSM6GE/6ac63bd777e3d9959831816d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/g9J03dk-sHa53C4s__SUKf7PWjCtb0HxAuGzalSM6GE/6ac63bd777e3d9959831816d.md",
+    "created_at": "2026-10-07 12:32:23 UTC",
+    "processed_at": "2026-10-07 12:32:23 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0x487603579bd380f7:0x44d8f235c7a0b989!8m2!3d0!4d0!16s?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/g9J03dk-sHa53C4s__SUKf7PWjCtb0HxAuGzalSM6GE/6ac63bd777e3d9959831816d.html",
+    "prettify_html_file": "https://serpapi.com/searches/g9J03dk-sHa53C4s__SUKf7PWjCtb0HxAuGzalSM6GE/6ac63bd777e3d9959831816d.prettify",
+    "total_time_taken": 0.58
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJ94DTm1cDdkgRibmgxzXy2EQ",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "place_results": {
+    "title": "Monmouth Coffee Company",
+    "place_id": "ChIJ94DTm1cDdkgRibmgxzXy2EQ",
+    "data_id": "0x487603579bd380f7:0x44d8f235c7a0b989",
+    "data_cid": "4960981302344989065",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x487603579bd380f7%3A0x44d8f235c7a0b989&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x487603579bd380f7%3A0x44d8f235c7a0b989&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 51.5055334,
+      "longitude": -0.0914069
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ94DTm1cDdkgRibmgxzXy2EQ",
+    "provider_id": "/g/1tncscgd",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-cwABRJULqYCRaKR0Xb3l-rWez3uX6_oNor-DzF1kQB2nCJ4xsSvw0UbnQesEgEZvcphOJY8i-gSt_vZqnTbxrm4cLgJ6acQb2dlqYuyU9i9OCZ_jsvfdPNXt5w2y25nnAVs=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/mFgDd3icHcRBjoIwFADQE1UqiNFJZgGoCyQ64KDAhsC3FhVa6S-gHtA7eBsT3-K9X5XWN_wxjLqyRlxKXrMOmQIpNBN6BLIxuCoQCaDhOO61CYDA4LiRHwdt6kXFOqJJadVEHdjT6pJpLjdSkcVzNb6Grik8f3LHXT_QuBQhwyVfZj3cqq2fzs6E73TeZ634L--qmUDA_WkBYWke6zbtHvH8PN96WX7B_nT82yTaHsyHaQvh7PF3GFNKSfUdiPgAdURFyw",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 108
+      },
+      {
+        "stars": 2,
+        "amount": 63
+      },
+      {
+        "stars": 3,
+        "amount": 161
+      },
+      {
+        "stars": 4,
+        "amount": 549
+      },
+      {
+        "stars": 5,
+        "amount": 2147
+      }
+    ],
+    "rating": 4.5,
+    "reviews": 3028,
+    "price": "£1–10",
+    "price_details": {
+      "distribution": [
+        {
+          "price": "£1–10",
+          "percentage": 64.34782608695652,
+          "reported_count": 74
+        },
+        {
+          "price": "£10–20",
+          "percentage": 20.869565217391305,
+          "reported_count": 24
+        },
+        {
+          "price": "£20–30",
+          "percentage": 4.3478260869565215,
+          "reported_count": 5
+        },
+        {
+          "price": "£30–40",
+          "percentage": 5.217391304347826,
+          "reported_count": 6
+        }
+      ],
+      "total_reported": 115
+    },
+    "type": [
+      "Coffee shop",
+      "Cafe"
+    ],
+    "type_ids": [
+      "coffee_shop",
+      "cafe"
+    ],
+    "description": "Fair-trade coffee & gourmet treats in the cafe & whole or freshly ground beans bagged to take home.",
+    "menu": {
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcB2QF4RZ5KFk5MqY1vO9BtnRcnYpI_Iu-lKVkilGcsFZWPcLXC2n3GYUCkfKhPkOIX51nxy42isPXWASUaQpjSlZfO9PY_ZrJFE44jQqIDmwpKejp_vsZIA_C9l4nMRvUlLQddIRooYmrI=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcB2QF4RZ5KFk5MqY1vO9BtnRcnYpI_Iu-lKVkilGcsFZWPcLXC2n3GYUCkfKhPkOIX51nxy42isPXWASUaQpjSlZfO9PY_ZrJFE44jQqIDmwpKejp_vsZIA_C9l4nMRvUlLQddIRooYmrI=w3000-h4000-k-no",
+          "date": "18-6-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDjFtoxq4Q9UaDUrhum5K_i&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh9G28_ctSv_SYfBnXMlw5w_fcQHBS0NikjSFlfsYUQxAgZ3Yd2pWsrye4PtfD-S5NorQbCcKq9Qq_eL-4FbPBTdMm4aoLnl3SQhfo7AyGuQH_nS9Afo3odZnt6nlKMXlQmNFz9uikx1np=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdh9G28_ctSv_SYfBnXMlw5w_fcQHBS0NikjSFlfsYUQxAgZ3Yd2pWsrye4PtfD-S5NorQbCcKq9Qq_eL-4FbPBTdMm4aoLnl3SQhfo7AyGuQH_nS9Afo3odZnt6nlKMXlQmNFz9uikx1np=w3000-h4000-k-no",
+          "date": "18-6-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDZd7eBCRY7WaBOQ50SJe6I&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdN0x7QNOwqR23bAoC26os_CUg89m-Fh5bUW-Wna4QaEBOZhtE13LWZDjzp2uZXe9jnQLsZt5jYd-t2mMxAeZTRfo_obV9BansQFCyuqY_IDUJ7VmpcmZ_CxMh-cjkhoMRjU1MEahBKTumi=w195-h156-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdN0x7QNOwqR23bAoC26os_CUg89m-Fh5bUW-Wna4QaEBOZhtE13LWZDjzp2uZXe9jnQLsZt5jYd-t2mMxAeZTRfo_obV9BansQFCyuqY_IDUJ7VmpcmZ_CxMh-cjkhoMRjU1MEahBKTumi=w1865-h1492-k-no",
+          "date": "24-4-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhC-r36Wj472SQwpXRYxCO9_&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0fchgQKFiRufsXY4Q6WwLYErt0imPX_497RLj6By65B2B6xzyc-ERvtVpLUnigRxaPX5eGd9o0t-1WHvqBv3jvECDkD9XZhSBUq91xyT26poigy4YQtf-0id0-QNdkjH_VL1Rk3pzuzO8=w195-h146-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0fchgQKFiRufsXY4Q6WwLYErt0imPX_497RLj6By65B2B6xzyc-ERvtVpLUnigRxaPX5eGd9o0t-1WHvqBv3jvECDkD9XZhSBUq91xyT26poigy4YQtf-0id0-QNdkjH_VL1Rk3pzuzO8=w4032-h3024-k-no",
+          "date": "31-12-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDjeNVFg_N0C-BDKWVdPsxx&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnb9XZCiEIyfCdVqJzvcSLPijjlkty_4xQCQAete4U_2_CGf9B5UCvqEDDmb7EUNgAfB59ZqMP_XatIPlaOWNxblq8OtPWtxMbJgesOKC3ePrJf0u-IkA9sW5O-32m6Rw5kQiYo2BO4OY=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnb9XZCiEIyfCdVqJzvcSLPijjlkty_4xQCQAete4U_2_CGf9B5UCvqEDDmb7EUNgAfB59ZqMP_XatIPlaOWNxblq8OtPWtxMbJgesOKC3ePrJf0u-IkA9sW5O-32m6Rw5kQiYo2BO4OY=w3000-h4000-k-no",
+          "date": "27-9-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAfUI7saAipuUmEjCFWViHp&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSmorJkHg9m3h6DIV1IR7njnscGZPiQxnx7O0Z54qkJ-VmU_LPh7wYxVTVpM4OBCiscOanHoH0FarI9pykYVCdSI_86kFy9laWVfTZji6ocWncGDLgRLbvRwXQcehPKJ8cFueSg2yQ8xrc=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfSmorJkHg9m3h6DIV1IR7njnscGZPiQxnx7O0Z54qkJ-VmU_LPh7wYxVTVpM4OBCiscOanHoH0FarI9pykYVCdSI_86kFy9laWVfTZji6ocWncGDLgRLbvRwXQcehPKJ8cFueSg2yQ8xrc=w3024-h4032-k-no",
+          "date": "31-7-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAzMp3T0tPAXNGG-R3buk7G&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcasuDEuPlXAcTHZS7JDENI5Nx1QiGDk3IvBXYgSzNg_9KIpXFAukcW6TLRWQKH_B6LvaMlPGRHX8HzTvyVs5Fu86gIo6X55pJqMsrfvPV2_xCkiig0Pbm8NgEHPqARjU91WdamqkkoYIY-=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcasuDEuPlXAcTHZS7JDENI5Nx1QiGDk3IvBXYgSzNg_9KIpXFAukcW6TLRWQKH_B6LvaMlPGRHX8HzTvyVs5Fu86gIo6X55pJqMsrfvPV2_xCkiig0Pbm8NgEHPqARjU91WdamqkkoYIY-=w3072-h4096-k-no",
+          "date": "28-2-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhCMExvqhLzrM8FjdcukHLN9&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeurv4AdYD8VBnwiZoNsUjVSEbvjfq2_cvw3paiecOw3WeNnGXSxyexIrfsB5i_6T-x1789Hi8xRSb0bwQp19CLQ8cFcpAdfOezbE_Ja737Y-pQ7daHYRmqneGjn1MGfznQoKQ-LCp6UPFQ=w195-h146-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeurv4AdYD8VBnwiZoNsUjVSEbvjfq2_cvw3paiecOw3WeNnGXSxyexIrfsB5i_6T-x1789Hi8xRSb0bwQp19CLQ8cFcpAdfOezbE_Ja737Y-pQ7daHYRmqneGjn1MGfznQoKQ-LCp6UPFQ=w4032-h3024-k-no",
+          "date": "14-5-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAjX3K9o0ex2DOWcPVFRFTB&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLetH81DWeOf47SFQkzqYyJ_PHnLMrtNAi5FuCZ7EpThADYKrKzJfXtbF1dxdCQNw8PACL-FLOd25Bu_oJZeOuPtqM-NANeGKTi4v-DY9rAAe1k1HGbSLEWeyu_gJiJRvDlYgEI_Lc9QiFpA=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLetH81DWeOf47SFQkzqYyJ_PHnLMrtNAi5FuCZ7EpThADYKrKzJfXtbF1dxdCQNw8PACL-FLOd25Bu_oJZeOuPtqM-NANeGKTi4v-DY9rAAe1k1HGbSLEWeyu_gJiJRvDlYgEI_Lc9QiFpA=w3072-h4096-k-no",
+          "date": "28-2-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhCKbMpxMbr4hWdKWoPsTO8y&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgGbyFLN566V_a89wtRocGyLG8si0nOLPqIHVYBVJKlYd0ID9RaErxDee2ud9_eZhBYafhAA4Tkmz5NOYl6vSxgzcrXc3o7BWkC_5ZaZUtZFSN4xGuElN2mmbTE1frrhvlrAd4MkrYeYI=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgGbyFLN566V_a89wtRocGyLG8si0nOLPqIHVYBVJKlYd0ID9RaErxDee2ud9_eZhBYafhAA4Tkmz5NOYl6vSxgzcrXc3o7BWkC_5ZaZUtZFSN4xGuElN2mmbTE1frrhvlrAd4MkrYeYI=w3072-h4080-k-no",
+          "date": "19-6-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAqY4RA18UKtPrBxllUon0W&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm91TUc9SHYJzKzog9cRkG4O9wJE6K_w-H8NlEk9ioHTQA-aNX39atUJnmHJJE7TRbq_MWlQ9JVrUNhPvIMtL3PXr5aQHkmVFz5oh9d94kb7HbSeW2kODClpxLIwI7NTFPsnBNgZO2AtVz=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfm91TUc9SHYJzKzog9cRkG4O9wJE6K_w-H8NlEk9ioHTQA-aNX39atUJnmHJJE7TRbq_MWlQ9JVrUNhPvIMtL3PXr5aQHkmVFz5oh9d94kb7HbSeW2kODClpxLIwI7NTFPsnBNgZO2AtVz=w3024-h4032-k-no",
+          "date": "31-7-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhBvHW6utsdvuhJWuUrJEjKb&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3CD-tRwujnKQFqq67UgRi9YmtfGbcr34KdxoI9uZWZYphERixP0fR4_uYsrp6IwbG2HuHwE72kl0svp1D0MEYGQ4AWLVdEGYFL-1GXAEt45jCe-wbjqvk5Jap2Fk0Ctlakf5NbTfqRQXg=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3CD-tRwujnKQFqq67UgRi9YmtfGbcr34KdxoI9uZWZYphERixP0fR4_uYsrp6IwbG2HuHwE72kl0svp1D0MEYGQ4AWLVdEGYFL-1GXAEt45jCe-wbjqvk5Jap2Fk0Ctlakf5NbTfqRQXg=w3072-h4080-k-no",
+          "date": "19-6-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhA7Yed7eGWZHjQXiynog3w5&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-8mHgeHWAxTVkDv5zyJejsNB8gdUb0R4C4nuT7OhRjizWjhxw-e4ITdmw-VlEilNWxVyh3J71-WSJmy3ttGCsl-RWU02pesWje0mZrIxBNHuZshOgMxiCMhQu8O-J3GmY2T0=w195-h125-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-8mHgeHWAxTVkDv5zyJejsNB8gdUb0R4C4nuT7OhRjizWjhxw-e4ITdmw-VlEilNWxVyh3J71-WSJmy3ttGCsl-RWU02pesWje0mZrIxBNHuZshOgMxiCMhQu8O-J3GmY2T0=w2268-h1459-k-no",
+          "date": "17-5-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKENiVj9GghsylRA&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPbQS4Txu8WncB_Ski4_f_3SQQDBDDMq5u7b5W8iS_0esTtnSgGUM1jmFDciDKEBsmAZRfN9LF4W911N9Vo29EChs9TwvYX6L979BZmV244oDTSie5e962_LvsnBHFv5D_CSK7fDzj3Pfe=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPbQS4Txu8WncB_Ski4_f_3SQQDBDDMq5u7b5W8iS_0esTtnSgGUM1jmFDciDKEBsmAZRfN9LF4W911N9Vo29EChs9TwvYX6L979BZmV244oDTSie5e962_LvsnBHFv5D_CSK7fDzj3Pfe=w3072-h4080-k-no",
+          "date": "19-6-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhCWapc01Hagzf_boCw893fQ&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_-wOEYQA5MMQBL6-e24Iec7B5yhmqmnmADDc0D3AC_1KWJ75MDRo2E3D9F5-DgqjZlITq-5-quEj_ltHa5esvm5UsJCjaamuSW1G8_HlltUsa-I2NzZRrbjHumPAkGMccCUhQ-Sk-nOwH=w195-h158-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_-wOEYQA5MMQBL6-e24Iec7B5yhmqmnmADDc0D3AC_1KWJ75MDRo2E3D9F5-DgqjZlITq-5-quEj_ltHa5esvm5UsJCjaamuSW1G8_HlltUsa-I2NzZRrbjHumPAkGMccCUhQ-Sk-nOwH=w1416-h1151-k-no",
+          "date": "11-8-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAvBbsVrvUFn7U9hau7hIkv&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwHfCWuN5Lc0R9j_bxq3mop_WFiTXFZuGMVQVLcV8EYPLM_2nv9BMvnFATnDKRAuSQ2s-iDiDxlr_b0L_-16jGl06uiHNj9Wkjggn0duo7KFSyQ7lYDvOPm0grWRpFqFg5_2ucgUz5iRQs=w195-h109-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfwHfCWuN5Lc0R9j_bxq3mop_WFiTXFZuGMVQVLcV8EYPLM_2nv9BMvnFATnDKRAuSQ2s-iDiDxlr_b0L_-16jGl06uiHNj9Wkjggn0duo7KFSyQ7lYDvOPm0grWRpFqFg5_2ucgUz5iRQs=w4032-h2268-k-no",
+          "date": "17-8-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAqrsyn1TgIxRtCQgd1IjJH&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIWllG8GeImFGPhDxcvqOjCIPW9lXLLZqYi2iISxIdO5g_He-zge7WW0_pQTTM0YITGq9AJ89jXsnpJ86JQJv9ax-TRlYRzmynj0FYyLoDufG4R8HKIws54B-8nsFm4BXAjCBTQCpAT_9j=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdIWllG8GeImFGPhDxcvqOjCIPW9lXLLZqYi2iISxIdO5g_He-zge7WW0_pQTTM0YITGq9AJ89jXsnpJ86JQJv9ax-TRlYRzmynj0FYyLoDufG4R8HKIws54B-8nsFm4BXAjCBTQCpAT_9j=w3000-h4000-k-no",
+          "date": "6-3-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhC65SpPtDLi98nTMEDoBt4L&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrFNExGCQku5dwD4QzMdAoHyFHvU37qNLcYFvxYKqbI95CKficCEgXE2aYMjBJ-ayNIilG_K5_afBMHYG0waH0MGBxpgzsIA2LDsii0EuVOcn_xorWLk0XF7lL2QdjK0gQkKxapty3fcP6=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrFNExGCQku5dwD4QzMdAoHyFHvU37qNLcYFvxYKqbI95CKficCEgXE2aYMjBJ-ayNIilG_K5_afBMHYG0waH0MGBxpgzsIA2LDsii0EuVOcn_xorWLk0XF7lL2QdjK0gQkKxapty3fcP6=w3024-h4032-k-no",
+          "date": "31-7-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhAO-Hfh2Ct9WeH0glajPrp9&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLceQ3ypl923qIg4UZXnEH2jKy7pjOxWNEJuHZzKXHbgWeMSmw9mveSlLcEvN66mXiGfpAvbfHajG638dJD8BB0Qwl-QnBwiw7SmqkiusP7kLX4NfvyP2_OGCWcKKEpoScQtZ-imS-gGLxrF=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLceQ3ypl923qIg4UZXnEH2jKy7pjOxWNEJuHZzKXHbgWeMSmw9mveSlLcEvN66mXiGfpAvbfHajG638dJD8BB0Qwl-QnBwiw7SmqkiusP7kLX4NfvyP2_OGCWcKKEpoScQtZ-imS-gGLxrF=w3024-h4032-k-no",
+          "date": "9-9-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhCtDSISJBx4_kyKtadO3N_N&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLft0lWWFhtEKAZ9_JttSPe7NFGE75StenAfT7Ci2E7LmKoz613MCotpsBAWxhmarDi48s8wT4ciqzT7hYC32Ph6T8hX0qmx4Sp0t_r5eZIJmXv7DKUylFy2c0-bb98xWAXGYeCx=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLft0lWWFhtEKAZ9_JttSPe7NFGE75StenAfT7Ci2E7LmKoz613MCotpsBAWxhmarDi48s8wT4ciqzT7hYC32Ph6T8hX0qmx4Sp0t_r5eZIJmXv7DKUylFy2c0-bb98xWAXGYeCx=w3024-h4032-k-no",
+          "date": "6-2-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgMDAqNGExwE&engine=google_maps_photo_meta"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Flat White with Latte Art",
+          "kgmid": "/g/11h56j4sqw",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxrIeALa0p5lh0cqNnFcfs9UNR6V_wpz9BfgBmYhrCkc0E7bEK4IYQdj_t-a1WcDatJzCm1CQwijCg5VbTCaXwOarcsE2raMbFN-svPxWpf8q6jhsCqNYqRlFmgy-cw1gx6Sko7w=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxrIeALa0p5lh0cqNnFcfs9UNR6V_wpz9BfgBmYhrCkc0E7bEK4IYQdj_t-a1WcDatJzCm1CQwijCg5VbTCaXwOarcsE2raMbFN-svPxWpf8q6jhsCqNYqRlFmgy-cw1gx6Sko7w=w3024-h4032-n-k-no",
+          "date": "13-9-2019",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICMjuvoygE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Macchiato",
+          "kgmid": "/g/11hzb99pg2",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6Tfmu4xGr8016vI0m_EJ991JBFWAm5oSQkBk7rEnEWMH8K4AT0tLiMCWaNmN3eaN7dcQqkuArw2KGhhQCRcwR2I53Y0gV2yXxdVMhhVCLc4hQttukNAMSJj4cNq49NuNfscvJsw=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6Tfmu4xGr8016vI0m_EJ991JBFWAm5oSQkBk7rEnEWMH8K4AT0tLiMCWaNmN3eaN7dcQqkuArw2KGhhQCRcwR2I53Y0gV2yXxdVMhhVCLc4hQttukNAMSJj4cNq49NuNfscvJsw=w4032-h2268-n-k-no",
+          "date": "20-11-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDG7JHz4gE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Ice Latte",
+          "kgmid": "/g/11k9t4g8tl",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdodEuJV-lW6ck7s_1DE1l5pGF7uifAGER6NYHN5ar5Ta9vpN1N8__1m_hT_Ba277Ji_dPTfm0EZUbg8JPbic2E_PuWyA-ei2zPXFRenlSNZ2T2y8rKFS4o5vWhITLNdDPs4pSSsA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdodEuJV-lW6ck7s_1DE1l5pGF7uifAGER6NYHN5ar5Ta9vpN1N8__1m_hT_Ba277Ji_dPTfm0EZUbg8JPbic2E_PuWyA-ei2zPXFRenlSNZ2T2y8rKFS4o5vWhITLNdDPs4pSSsA=w3024-h4032-n-k-no",
+          "date": "6-2-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIChlO-YxwE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Monmouth Coffee Company",
+          "kgmid": "/g/11y8k6v7vs",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAOwC4edfXO3Eudldt1s04a-HSku0mHHsyreZ1LIbB7fnAbYF8N3KjLtVTdV_9Lt7pFJMKTQDneHn9rSwfcGJF3lPp3-JsJ16ewuBwMfsCVjUNPqVLYzyXmSspUNFOp4gLzoMk=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAOwC4edfXO3Eudldt1s04a-HSku0mHHsyreZ1LIbB7fnAbYF8N3KjLtVTdV_9Lt7pFJMKTQDneHn9rSwfcGJF3lPp3-JsJ16ewuBwMfsCVjUNPqVLYzyXmSspUNFOp4gLzoMk=w3213-h5712-n-k-no",
+          "date": "18-4-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICj7LyhRw&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Filtered Coffee",
+          "kgmid": "/g/11tj1h3ln0",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrciQ57HuIvt7fSxt7UHOMl5sK8R9FUGv329s0hZGq8aPCJ4CtmGnbkQSgyH-llT_KVcBbfbndWBXqlnoRFrVggjMGmM1P_vhvW452xoqi16S1jfxISE4Rpkc6M2P1gcClvn7tfA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcrciQ57HuIvt7fSxt7UHOMl5sK8R9FUGv329s0hZGq8aPCJ4CtmGnbkQSgyH-llT_KVcBbfbndWBXqlnoRFrVggjMGmM1P_vhvW452xoqi16S1jfxISE4Rpkc6M2P1gcClvn7tfA=w3264-h2448-n-k-no",
+          "date": "23-3-2017",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDEzLC17QE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Coffee Beans",
+          "kgmid": "/g/11j4sg3yqs",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHVpRzLpHuHO8meSGe_dTt-xdYV8srRxpfGd6h8C_NPZ7mX1LbAI6Awdu2W16jp7Q78PGnH2yLtjEGuhw676g79UZfi5uN_JxH6-K0d3olFb0MqamK3iHwvp3_cBQ75gB5_PF_=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdHVpRzLpHuHO8meSGe_dTt-xdYV8srRxpfGd6h8C_NPZ7mX1LbAI6Awdu2W16jp7Q78PGnH2yLtjEGuhw676g79UZfi5uN_JxH6-K0d3olFb0MqamK3iHwvp3_cBQ75gB5_PF_=w3024-h4032-n-k-no",
+          "date": "7-10-2019",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIC0vcqQhwE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Pastries",
+          "kgmid": "/g/11sznp_mcs",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMwL-IA5mcD7OCiwNCjzvu8vTzjW-0-vkIZBSdwVidEJbFq9GWu8e-Y9mvJv3SyEYOWo7BEdn_0uwAKOtiVoarb6Ei7l-oXmmR6BHQaID1rFPA-hKtffORWJoE2jEX2hxI3RHlE1hFCZN_=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfMwL-IA5mcD7OCiwNCjzvu8vTzjW-0-vkIZBSdwVidEJbFq9GWu8e-Y9mvJv3SyEYOWo7BEdn_0uwAKOtiVoarb6Ei7l-oXmmR6BHQaID1rFPA-hKtffORWJoE2jEX2hxI3RHlE1hFCZN_=w1169-h877-n-k-no",
+          "date": "23-10-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDfzzT8Ww79dzH-gx8Gg6Hv&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Almond Croissant",
+          "kgmid": "/g/11yn604pxd",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPc7j381QPcL6Pgffol2yTzn2y0wInKCp0C62-j2lpsVtr2-O7gsCbAwgj14XXcWoqbEFEmkaytb_VT-7qTULgicqr9kHdJaDGtAOHnCl323DLcIwnt3hkuiKGInnI9p8UUrkM=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPc7j381QPcL6Pgffol2yTzn2y0wInKCp0C62-j2lpsVtr2-O7gsCbAwgj14XXcWoqbEFEmkaytb_VT-7qTULgicqr9kHdJaDGtAOHnCl323DLcIwnt3hkuiKGInnI9p8UUrkM=w3024-h4032-n-k-no",
+          "date": "7-2-2020",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICsmZPuIw&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Cortado",
+          "kgmid": "/g/11n526wrx6",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnCnFkcFBsshKFKP2V5XD2YMwZqH7U-_Yg4waA0NVB0dHIpV-JO0WFME0InR0-mOjWP4KeqN3lf5W9fdjY2FtQkmVfqp_TcqPIQpjWYD7QZpwqKH6B3CXLeCIney61RNeAa8nc=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnCnFkcFBsshKFKP2V5XD2YMwZqH7U-_Yg4waA0NVB0dHIpV-JO0WFME0InR0-mOjWP4KeqN3lf5W9fdjY2FtQkmVfqp_TcqPIQpjWYD7QZpwqKH6B3CXLeCIney61RNeAa8nc=w3024-h4032-n-k-no",
+          "date": "23-6-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICJ_PCuRA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Iced Coffee",
+          "kgmid": "/g/11z1s3btc4",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_-gN2GmP5-IFMdyjfn2EnwgmCzXHR-08eAlXaFsHFNhkjngQ4mFRotiY7O0E4Jd5vo2DrFYvyjI5s33CKbPvQjeTpscSYwjzJXNoW81chTDExniAiHutB5Y1XHkIomhOKiE8=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_-gN2GmP5-IFMdyjfn2EnwgmCzXHR-08eAlXaFsHFNhkjngQ4mFRotiY7O0E4Jd5vo2DrFYvyjI5s33CKbPvQjeTpscSYwjzJXNoW81chTDExniAiHutB5Y1XHkIomhOKiE8=w1536-h2048-n-k-no",
+          "date": "29-6-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDOnLzlXA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Pour over Coffee",
+          "kgmid": "/g/11j21l79_1",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_S3byLNxlAIIgHn6NdZpkFo6oXVWvr6h6TftXuSoIXkIEg2wHk-yRHgC1RZaLL6Z6QAsZzng61Ny0fa0gG4-O9e0ALwGRCqHiAGoc3aAFN73_75iB8f-f8QiBOc7VTmDikAl1=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLc_S3byLNxlAIIgHn6NdZpkFo6oXVWvr6h6TftXuSoIXkIEg2wHk-yRHgC1RZaLL6Z6QAsZzng61Ny0fa0gG4-O9e0ALwGRCqHiAGoc3aAFN73_75iB8f-f8QiBOc7VTmDikAl1=w4032-h3024-n-k-no",
+          "date": "28-11-2019",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICctI-QYQ&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Long Black",
+          "kgmid": "/g/11jyxx806k",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2hnsvLtyKcqDTBrAl31iae5t_7xiIoJMbvvSWWGrYAh02mGH3m0WYIEqQqk7aSEFTIeJF0715OUM4h_nG2z6G3CoKv4MwPFH7ueOVsuOavpnsG_uL-BzuQ17x0v09d8Nm3r0R=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2hnsvLtyKcqDTBrAl31iae5t_7xiIoJMbvvSWWGrYAh02mGH3m0WYIEqQqk7aSEFTIeJF0715OUM4h_nG2z6G3CoKv4MwPFH7ueOVsuOavpnsG_uL-BzuQ17x0v09d8Nm3r0R=w3024-h4032-n-k-no",
+          "date": "20-10-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDem9ecYQ&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Canelé",
+          "kgmid": "/g/11wx50sy80",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLew-Usz5LMCA1gofyLobu9cpvSo7RpkbbuuZODR-te1L4k-tjIn5M4bMSqg0UwkLOmTV7O4gP7V2W_VBqgLCz-pI80wYAr65UitfAkxEmogx1WS66P1vx-t2KwX8UrF-ZQParo1=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLew-Usz5LMCA1gofyLobu9cpvSo7RpkbbuuZODR-te1L4k-tjIn5M4bMSqg0UwkLOmTV7O4gP7V2W_VBqgLCz-pI80wYAr65UitfAkxEmogx1WS66P1vx-t2KwX8UrF-ZQParo1=w3000-h4000-n-k-no",
+          "date": "10-12-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICv2qKEWQ&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Americano & Florentine",
+          "kgmid": "/g/11lnr8q2bj",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGYQtarVuScaCJkbJDSPlPr0_w6PRNawGaq-Ce-OI75-jy1gM5ZrVwRpJ6HrtQcVx9m0_KzvH1FeiHysk5UcGXk_Da4-h9pFl4SiBF8rj7YIDyr4KEHk45PYzz_yv7vsWdEqL2Mw=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGYQtarVuScaCJkbJDSPlPr0_w6PRNawGaq-Ce-OI75-jy1gM5ZrVwRpJ6HrtQcVx9m0_KzvH1FeiHysk5UcGXk_Da4-h9pFl4SiBF8rj7YIDyr4KEHk45PYzz_yv7vsWdEqL2Mw=w4032-h2268-n-k-no",
+          "date": "19-8-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDuxqWb8QE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Oyster",
+          "kgmid": "/g/11z1sg04ts",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8EGnlhwO8wNqhpQIrTjl2B8J3tCX3cM7aDPiHPik94aC4zzMqgdXFtqs3BIZbyxFjSNf9QFluOvu0GsyWS2s_3ax6p1GZOLGTnMLqsR7oK_f3FWUWAYHOmanJ_sgD869-0xyvuQ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8EGnlhwO8wNqhpQIrTjl2B8J3tCX3cM7aDPiHPik94aC4zzMqgdXFtqs3BIZbyxFjSNf9QFluOvu0GsyWS2s_3ax6p1GZOLGTnMLqsR7oK_f3FWUWAYHOmanJ_sgD869-0xyvuQ=w3000-h4000-n-k-no",
+          "date": "19-9-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDHo8OfnQE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Cappuccino & Expresso",
+          "kgmid": "/g/11rsr8m9n9",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9s5nlmgU-cvRqLNXsq7b3CqpNYfnKUvQcbni4I7O3Z5wmYKPfYuK_xCtfhgUyxXm6EoBUfdH5Dz_Xdyre6HrsJygEszOJKWxIaIGsHSmOAtxiPY_gu6SvMoh4_8ooiFrRaKWi=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLd9s5nlmgU-cvRqLNXsq7b3CqpNYfnKUvQcbni4I7O3Z5wmYKPfYuK_xCtfhgUyxXm6EoBUfdH5Dz_Xdyre6HrsJygEszOJKWxIaIGsHSmOAtxiPY_gu6SvMoh4_8ooiFrRaKWi=w4080-h3072-n-k-no",
+          "date": "16-8-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDp-MP4dw&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Double Espresso",
+          "kgmid": "/g/11j7fmcq_y",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrYN8kUNBYU0mw1UB8FXosbDhzrvvVmIZa7ksj3JecUW_UvsWP-KN1ROwW2Fml1bH3j17Hv_mGN764YTYxhbFDsolWtOGE7SFsUIdYYMrrB-GI4OCOVllPDdwRbfUlrA0U_n5W=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdrYN8kUNBYU0mw1UB8FXosbDhzrvvVmIZa7ksj3JecUW_UvsWP-KN1ROwW2Fml1bH3j17Hv_mGN764YTYxhbFDsolWtOGE7SFsUIdYYMrrB-GI4OCOVllPDdwRbfUlrA0U_n5W=w3024-h4032-n-k-no",
+          "date": "19-11-2019",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICc6uvtEg&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Iced Espresso",
+          "kgmid": "/g/11mdx_419q",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRoWJKc_Gg9nrjPaRBtJ7KVrcZ_qeJVNjgR8wRSm8G_HbAL4wX7TQGMQiLtOMteq8dKpTImKqwa89JG9OAhGRy0Cy9lH5QFLyKogJjxhA55w6ubqVZN4qB66Y7y91nJofKdog-kVZj8C1w=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRoWJKc_Gg9nrjPaRBtJ7KVrcZ_qeJVNjgR8wRSm8G_HbAL4wX7TQGMQiLtOMteq8dKpTImKqwa89JG9OAhGRy0Cy9lH5QFLyKogJjxhA55w6ubqVZN4qB66Y7y91nJofKdog-kVZj8C1w=w4032-h2268-n-k-no",
+          "date": "7-8-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhBbyl2S78hAvPBWGlwJoRND&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Chocolate Brownie",
+          "kgmid": "/g/11yn5n_kkc",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC5m_iYcVeN5kP_CgttyyD9zehStSGRAkNEQrE1zY-AGgTmKp0iFdR4jjlbZbYusYMdraVfPzwq8YiZnqBu_auuF9_8WeUa6NRct2T5nBaW6pbpbkaB8ii7E3lUcQQLsfmGXZ2=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC5m_iYcVeN5kP_CgttyyD9zehStSGRAkNEQrE1zY-AGgTmKp0iFdR4jjlbZbYusYMdraVfPzwq8YiZnqBu_auuF9_8WeUa6NRct2T5nBaW6pbpbkaB8ii7E3lUcQQLsfmGXZ2=w3072-h4080-n-k-no",
+          "date": "13-7-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDJ4ortvgE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Flat White and Filter Coffee",
+          "kgmid": "/g/11t7_n8pdn",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDyalnOp2wGI596wAwiOiM3uA71wKbDa8Ef1KSsHIzfl8avTfSwY7S2x7-PIXgtPRfC7KS6UKoWxrS41DSZ42pdID1Y99HGXDx0Pn3ZAyl-sj7ML1sG87hK8SyJguqgwr4FN8=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDyalnOp2wGI596wAwiOiM3uA71wKbDa8Ef1KSsHIzfl8avTfSwY7S2x7-PIXgtPRfC7KS6UKoWxrS41DSZ42pdID1Y99HGXDx0Pn3ZAyl-sj7ML1sG87hK8SyJguqgwr4FN8=w2048-h1536-n-k-no",
+          "date": "16-4-2016",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICkmN2NBg&engine=google_maps_photo_meta"
+        }
+      ]
+    },
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "highlights": [
+          "Great coffee",
+          "Great dessert"
+        ]
+      },
+      {
+        "popular_for": [
+          "Breakfast",
+          "Solo dining"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Coffee",
+          "Quick bite",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Breakfast",
+          "Dessert"
+        ]
+      },
+      {
+        "amenities": [
+          "Bar onsite"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Trendy"
+        ]
+      },
+      {
+        "crowd": [
+          "Tourists"
+        ]
+      },
+      {
+        "planning": [
+          "Usually a wait"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "parking": [
+          "Paid street parking",
+          "Usually difficult to find a space"
+        ]
+      },
+      {
+        "pets": [
+          "Dogs allowed"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "dining_options": [
+          "Table service"
+        ]
+      },
+      {
+        "planning": [
+          "Accepts reservations"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true
+    },
+    "address": "2 Park St, London SE1 9AB, United Kingdom",
+    "country": "United Kingdom",
+    "located_in": "Borough Market",
+    "website": "http://www.monmouthcoffee.co.uk/",
+    "phone": "+44 20 7232 3010",
+    "open_state": "Open · Closes 6 PM",
+    "plus_code": "GW45+6C London, United Kingdom",
+    "hours": [
+      {
+        "wednesday": "7:30 AM–6 PM"
+      },
+      {
+        "thursday": "7:30 AM–6 PM"
+      },
+      {
+        "friday": "7:30 AM–6 PM"
+      },
+      {
+        "saturday": "7:30 AM–6 PM"
+      },
+      {
+        "sunday": "Closed"
+      },
+      {
+        "monday": "7:30 AM–6 PM"
+      },
+      {
+        "tuesday": "7:30 AM–6 PM"
+      }
+    ],
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmKJdeXPfKAS8UMXmcFJujECaQmZX_bz6Cxt8c_l_GQ12JRW2wUa6PAT6XrqIpE3Eqdc6YevAyqHI6azjXvMxZtG0hAAwFgNUfHuOliqwTCWSaSA7js2NAO6Fz1vgjTyDxmz9M=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/SUQUhXicHcRJDoIwAADAFyFbUpfEQ4MgYlCUEioXgrUWCWWxZX2gf_A3Js5hvp9cykZsVLXMzQWra1bSTtA3qStJK7kgNVdZIxQiFKFC9xqgmB-9B8XB8wjDVeRjThyvK2wru_AEp_cZWKNckbRM9xfd8K6xMUQZCCAC-N0eGtu02wcBN9rDqXUPIJsL3PtjIvdaDuHgsFP0dLtz-WoHZMVhFsJlIYwTPANn1ntWoGk38nntbwdd0zQl_0-U6gcwa0Tg"
+      },
+      {
+        "title": "Latest",
+        "last_updated": "9 days ago",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnE-tmSv7UOW6EtCL-3oKbrNuhTKxVcReX9zV4JhHxPTCcUEOjIb-AiGRIZVnH79n3pFC68FnB-zS9N70MxOMCka-5cxJDXacA-I5x_L_XLfD9achXhnRG5r0slh_jCVBsthEOjq-az5gRD=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/pTxMfXicHcxBboJAFADQE32ZhiKlSRc4oKAoZkQk3RD8ofxanKHM2E64ZNfepk03b_nuP2TMoJ8dpyd31inV9e1NtyMqaVppZqiuTjdoQA3aCROxL04yBnM9fPnH_DSPDc_AVZvzuLtRsbElirYKpvJxTYndFxyPcX5JzxC-r0T6WsrED6Q7LPn8aSkXMB2Cnc-2Nt_yjwY8tOuoajCE1LN1VlfZWxQ0SBVJsfJGpnuqL7xcaEN_6Sc0k9eJ6OX7gTEG9C-C_AUTf0X7"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKDX0kxiXglt18r4QSzbtOML54eF034sFf19YXktGbbCHRKMAJki2CfMar7RMRCOLbSgb0nU4NGgcH7cXVeec0wxv_ckO98MF0J7KfTm9LxLiHOpnveGbUUHxRfLcUXCkjnZdO5Q=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jtoRpHicHcRRboIwGADgEyFlYpAlezAYaKRdZ5Wt-mLWf6WwYiG0U-INPcJuY-L38P3fG-8H9xqGXTOf6b7XnfpzaoTeemX9DPpzqAcXgAtcuML8Y__VlWuBzNQK3floOcbb3U16RskiVjmaxy6vo_QgjC-kzDAv6Wpj2pespt9jwinPGJE7LZGt4vdCA05AfCoF6DpdTmBYuqQ52iRlvT-nZCItZoO9qEJWFZ54TaASmfm1xx-22L5dI4RQ0DyHwD4Ai6NElg"
+      },
+      {
+        "title": "Menu",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVuG8P2ZCeeM56LyanezUB9RBC-Rcva9YjN9iS1olQNYltMrKFEDqpPznCUxg12ZLsRd48b9bTmrkfIaCqfBQB7AYyWXwjfQhE3QsljJT3hK5rW6c_ov4AWuznDHhHxjReN7jH3yagVx_b=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/n86B1XicHcRLcoIwAADQE0VA_NGZLgA_tCoDEaW4cSCGpGlIkAQFLuna2zjTt3ivJ9W6Vh-Gwak9IlISjluFGySFxkKPkKwMUiuAFFCGG8AoSatTu1lE47OP8X462_W5wMPRc6DnA4juuZOx0Pk9WJLHYcb1vtmuV8tbHQ3CP3bEGp93Cl4ni8Ipkqr5K79y_1Z6sTd3sz79ebAypis7Vpx9JzbdTpt0hi7yPnHTdhDLgAYdgzics8Duc3LqLsXnwzJNE9D_ERBvoMBH9Q"
+      },
+      {
+        "title": "Food & drink",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5efFdBV50F7BbDJuQbNh2xXHXU2dnCuRfJD43mK7SM1zoivpUmHWMaPy9a7bCrm3D9IQ-w10cgb8tWJgPjQvGikoS3JLxDr3XlAAA30GD0ICyFee-QOWoEcijtN-h-00FIEJRhkd35l0=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/oh3gonicHczLcoIwFADQL4pcjQzaGRdIRIhVAR-wlRAT5BGGBKv9SPf9mzpuzvL8vaQxnf6yrFrikVBK1HzQvGeqNbw1I6YaS3QaMY205QZJdEwrm1_9Ynm2wXeWOaFDnO_k5JEF2WlStN6QXCmZ4mbjHLbjX1Xeu1MTpNtL9JxfnNzrG0zmYYx-xsBEPjMpFdEtvq_LSh0w_X6QHme167oY1gRC7-lzjuJ9qlasvJkdkgjAD1c0kVWB7RoW7wcAyY8Mtf-ksESV"
+      },
+      {
+        "title": "Vibe",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmoPu1B2r-K17mLflVWGd--GRhg13yIce0l-t739KW8JzCIdukBXN-vCQpUm-ux6KWnAiqh-dJ9ljnAvQ43HUeXTKCNtA012oSns7Gni-HJ2Zpzq9Xpab91Jdcc6ex_wlqhElQzpQu4EiU=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/-pbPzXicHcTbboIwGADgJ_qhBSNjiRdIDKfFiIqQ3SxaOspW2mJbDzyk976Nid_F93wwY5T-dF3OfKeTsuPUanomUhgqjEPk4HZKA9Gg3Sjdbvb1IDcWL70zFDgYvn75oU5agGTLOuzfM0IRBxP4YVF_5FOctfZ_2azhEpeqGsDe5kUton5k0OYh_xPRpZz5aUWbfRGvTYSwJ3dCB4noIc29bzWNYaOOpxDnLSFzevu58pGteDmp0s5WfbW4YoQQsPcExAuso0YA"
+      },
+      {
+        "title": "Brown sugar",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOe1l1kTgdLHyQYcdGKuYJrE9eUUlU1eVDjWEytomsf24bJcHLF9F9uy6efYxFqBCPx_U-rZaTI6Fzh2jhBy-RHjY2X6HqQNVJ3kviKDUwQlv884FKe3mTmmaLaerdTPWHy1OzA6_q4347=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/gpZZ8HicHcTBboIwAADQL6pQIEyW7KDTrgMywbQiXgwrlQ5bKhTU-pOe9zdL9g7v9ynG8WJeHUcKf9Zo3Ug-GT4w3Y28G2dMK6e5GMAMMM4CbzNSdBsOJTyTpk6xzUtWfyRTGQ_riFMqKeS7VVus7aiVOXnBd8xwiiIUTTbkp_KO-uV7dj9SMBwq8hmih_BasbRgi9vS24e4z792sX--_iQresvldT4PUMJ9RZSq0ooPNckKbOHmsQiPfeAHL2836LouEP8z0P0Bs3ZG_g"
+      },
+      {
+        "title": "Cappuccino",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNjk6K-F2D4Zf3o9RZjox9hMI_yYpY6Hxscxukiaq11JczN75DDqajdJLnxO7iiNGUB9NDbvBmtxMObOGYq-yxH65srerG1CkOcKpbnpfB-FzQ1TaiWTDHcdAT8RxuxlYha7Hg=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/yhJ_8nicHcRJDoIwAADAF1WoC4iJB7GRuoESjMGLgYqUrS20aPWDvsHfmDiH-X6oUkLODKOmo0HOeV5nvcw6wpnKmBoQ3hi5kIBIII0FDg_RufHLytqC1RCNL_cRd8JLybVD9-vrKxaxhbUkuq-KpIVwQ96-PUGoTcrbZsd0YBeF751cx0fpw22U3gdp4MUteGlsTWSXdR5cVgHZipSJuwtW7yOMkuIcIUxui2ga6l7XMU1snM-f0DRNQP8TwH575UVE"
+      },
+      {
+        "title": "Rochester Walk",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFIEUZAYI-C_3TJptyZeVWzmDeJZq4DeUnVHlgTt0_0jSV9orMCKQs9Qzj0LL1XCKM53KO1CjVcnrLyspfBrksCjX4Lrfajg5T1Oh4ajK68_LRFvwLIHbpTuaHGPUxV8gp2dRAPw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/IV5SwHicHcRRboIwAADQE1XKQKNL9sGqDqRGxFKVH8JqLanYdm0d0xt6hN1myd7H-3123hv3GgR9F42E1qLnN8ct08pz5UdMXwNhHGAOuCBJy4Ls-2W2qOrkmAHURGRl_L3mdP-4zvmq_ornvFI07QXxsIFyR2farlG-dbPtQ0KMwwPK1-Mo34RIUqYsvjtzfrcXh-QhxvbcSjEm4aaLW5lPpg0ul98DztJPQ25t-lFUP3QqzMupTIrhbQghhKD7nwH1B8mpRRc"
+      },
+      {
+        "title": "Coffee",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmPxXWm_XWRz3b_zjeXtv9GUXdXWAJfqhm5StgAhlmaiz6z-DcBvE9DRTP9hAfv_n67EURAwthytvlgN-_ZYTKkp5WbxxWnrcPSYJs-o8HR7r3Z0s9WSQ5YfggQqDxQob2eEnSlDw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/-11_bHicHcRdboIwAADgE1VwBBSTPXSBzGhioGBaeCFSS7utP0hrYdxwR9htlux7-H5_hHOjPQSBFNGGG8Mle1o2UaMd025DjQr4aAG1wAbwiIoaq2IhWHUEozXqu_WTEefT9yu5EwxPw0OouHIcCqluH2uygoy--TzNUF2kAg6-08kuvyI4O_HtvOQX0LVNff4aY9wvC9YTLarmZIHZH9FuitrQprgq42bgvHxkS2n6F5brSmbz67wNwxCI_ynQf6ytRyM"
+      },
+      {
+        "title": "Croissant",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm_Z5RFHO2i_U6BrEAjARuIrGlNNfgQXAQv8Dx-gqnqlw0w8P9o68gCjGq76rTz1Z0t6DYXyCmKrlQBrYWCPViwmXaRiNjsLX3cl5PXKlrHhQQRwpgUkxe_VRLY-VyJ6Zn2RVpLQg8hH1k=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/U-MvTHicHcTBboIwAADQL6oUjZUt2QFxE5Uw2igWLmRpWAuWFtq66j7Su3-zZO_wng_h3Ghfg0CKxYxrzWV7ta1hWrlWuRnTQ8BHC5gFNohTUhzPQ1MvyUf6Oe-aE1qb97iPyXVntjLPvzmmMf6JNjfAJzVJD31UvGgU8aTfTitkjr9hDR3aVPSeDAcj8dpU56QoOz_QL9Llvc3ogsllQQ_SpAJj4kd-utzapiRZBcr7HtVqTsoxwzwSaXh58yGEEIj_GVB_VdBHUg"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQ9vm_tNUr4prbntyIUVHuitHJ_-mdy6QMfG0BT2LBgouYahe4PbFBXeMUv3j6ccR5B1joxJkHni3vn3h1jJGqeSaMY-rFwuPwMSZaBpyHazccdgdsYki58qqB_yDQoywmilbuAQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/sH2ueHicHcRRboIwAADQE1VAlGwmftgYqWQsoDLFHwKltiC0QFuw3tAjeBuTvY_3fjGlOrmyrIa5MyoEbYiWZMCCK8LVDIvWop0EWAJpbdAhOp15_D22mfpNhkU3FFyZffKHdKVQkIG2NF4c3nwbnuY_kAqd5owsomIHLyRMRrf2MD4soVOLR3BHvHJH7jKnDvyeHPMwBcNu0tEUHq857AzKnxiXtJTpvVp-9T3MzDYWZmqrptCbeD05tm0D9j8G_AOML0eq"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7_-5VEsMsvPhfJH27HNZcA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=177.57433&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/zgkCiXicHc1BCsIwEADA3-TWpE1bokIQD0IRFE8evJQY0yaQNou7pvodf-VvBOcD8_14IsCNEEgP5ygHt0B4uYgFGD6mNEZnICC3aRK5EuSf0202IW7BzCncteqL9rLHI-azHw6dVN3panfM3nobg5tJTwawx8zJWArR8RGQLVrKhnkt1yv2NouulOKtauqaQSDrdcn-z5CyrsryB7_COZY"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"They do serve a small selection of baked goods, like brioche, cookies, brownies.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWhYS-FndUqYTOGpom2sPb_TMrnyu0iLgXS_IukdXylJGVEUw8eRA=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"They offer filter coffee and standard coffee menu (such as latte, etc).\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLx811TsEHPi39xS8XUMnmaFQ-lbA1MigyxVI6LKciMk5ohOw=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Best restaurant ever Too clean and the food is tasty Friendly staff\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJrjoxc_wNL76VtVPtA30mjyOeR3-zyEPy9GhePtC0z1loKGg=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Paul Leong",
+          "rating": 5,
+          "contributor_id": "116953743522090862283",
+          "user_review_count": 1402,
+          "user_photo_count": 2534,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW6WWGyrBtv3Q_ar3EazYaFhTkjoE52YjQKqXhqf_c1pucQLBQ=s120-c-rp-mo-ba12-br100",
+          "description": "Monmouth Coffee absolutely delivered on its reputation. I went for a latte, and it was excellent—rich, smooth, beautifully balanced, and clearly made with great beans by people who genuinely understand coffee. In a city overflowing with specialty coffee shops, Monmouth still managed to stand out, and it was one of the more memorable coffees I had during my London trip.\n\nWhat made the visit even better, however, was the team behind the counter. Despite being busy, the guys took the time to chat, share some coffee banter, and engage rather than simply process another order. Those small interactions make such a difference, particularly somewhere as popular and fast-moving as Monmouth. Excellent coffee is one thing; excellent coffee served by people who clearly enjoy what they do is even better. A genuinely enjoyable stop and somewhere I would happily return to.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2twV1NGVm5iMFYwVjJ0Vk1IcEtXamhsY0dwbFMyYxAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOkpWSFVnb0V0V2tVMHpKWjhlcGplS2c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPcqH93-55PwhFfMcXl_SwFss1gFUWDRClXXET0drQFGgyONCR8hp-4GL-SIuxBhhnH0Gxv0XPEvt3rbE8bV3v-IFs24DOjuDk95deIvLBiwurM0g-tXbwhQ8keyBqzYHtlQbD1MnRVpXyg=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMfffEmMPfn2S9XMhuPcHp_JsSFbjEoUvUPE-FybNC7EhaBKxeog-_CAsA-VV9VBGD-y7VPLidHFDSioZjO1kiEK31o1GNpY-u1lODCWO7F4i45glIsqVOuO_mCT8GQSy-CjKAvVEFNR2Q=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN2OvRRgwM7xHuHH2SDzq8w85XtV3smqXqBg7E0Tx3QnRxy4f9fydLB9ojCN7phZZ8YkjbLG0cT-4d9UPpgLmqnpTBWu1R00JQ8PIKggRwrhS1gkhoBLWq1PmFCF1bEyuFdK5YBtecElq3F=k-no"
+            }
+          ],
+          "date": "a month ago",
+          "date_iso8601": "2026-08-14T01:08:48+00:00"
+        },
+        {
+          "username": "Jess L",
+          "rating": 5,
+          "contributor_id": "117069743848951887596",
+          "user_review_count": 12,
+          "user_photo_count": 21,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW0oy0wZ2v2F42lCCVHOabxM7Buji8e_JosJAM7mvkyGP6eRfo=s120-c-rp-mo-ba12-br100",
+          "description": "Great coffee and friendly service. It gets very busy, but the queue moves surprisingly fast. Best for takeaway, as seating is limited and it’s usually packed with tourists.\n\nOne thing to note: all Monmouth shops use a £5 reusable takeaway cup deposit. Return the used cup and you’ll get your £5 back, no need to rejoin the order queue; just hand it to a staff member near the coffee bean counter. No paper cups here.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoRlZsaFBWMnRvZDJSWGEzSnNibTR4UVV4bVUwRRAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOlhFVlhPV2tod2RXa3Jsbm4xQUxmU0E%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPhQUT80T0CxDCsw6z3OVK68oFu0jV4QWVQ8Zc-ArMW7eT2Z3kV18n4ErMGyqZGhECAfM0aC3a_8H-2BQIPrt5fMZ2SEHH-7q7VXZUH3QHg2cBcY3sxAb16U0TFg1l1wXokKJlbrfeFK3lV=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOoy_Ho24nqbgJPWGb5ADmNpQTFHpHruW_3PYU7NGN1WxxFJbqWrxzRgvKty7l_C7LD7YSZ7VZqbyFt5XVdOt4bt-cAg_BUr7tokyQ9xZ3Cl-TcFFG_pes8aqN3kY9zGHRit41GjeO1ERZx=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNsJbCPkyMrktqqT7UlUk7tijgV9oVKg948PkKWU3zAZiFCnAIlZnH7B3hn9jXgLYZv50hDx3NvbPhccPO_rxwypwNj23sdstUxH7gd9Xh9yLRARDLxwBjzWhujhcUUkTZyPFE3z1Kg0A2S=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOkRclWcmOKdQrSvlJDpywGBzxYJV0xWG81OZzVMP6t4OsB_iDzGaK7sy322Q08x6MENz4NIfF1CBg3aQyhCpD_whNOv29ULaSq06pV-W6D6rSFYxUWs1YlIN_Jw4sOsKrKeDT1u9WfDqc=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM_t3X3Eno6xzNNDNljzQrd35--55qTu3ZZe73eLE9l2LFFnucmSYygoUIT9_feZUljYmT1dcWJE2xF0zOgREikC8pDgsEABJJJrq0sKledK7ld4gBax022Rf9vL09M1TXdTj-SEYQkaBwd=k-no"
+            }
+          ],
+          "date": "3 months ago",
+          "date_iso8601": "2026-06-10T09:45:36+00:00"
+        },
+        {
+          "username": "Nera Leiya Maisuri",
+          "rating": 5,
+          "contributor_id": "102831322439500729529",
+          "user_review_count": 100,
+          "user_photo_count": 661,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXtvuN4vBhl8gIAFX7noezRVNtdgIsbFmWuP-7OWTTY69ZkMEQ=s120-c-rp-mo-ba12-br100",
+          "description": "Stopped by Monmouth Coffee while exploring Borough Market and totally understand why so many people recommend it.\n\nThe coffee was really good, and the whole place had that classic cozy London cafe feel. It was quite busy, but the atmosphere still felt warm and nice. A perfect little coffee break in the middle of the market :)",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25VelZWWmlibU4yVUZjNGFYcHhZV2xDTUZNdFowRRAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOnUzVVZibmN2UFc4aXpxYWlCMFMtZ0E%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPUhPnfnFBsoflY72lDgIil-plOMG6uPzZipYtvOKW7AYIMtEA1vibdkJNdB2lOeTQ6Kg2HOc3bXmfCOWga5Am49Ds_OOL36_Rys4ce2dNWjegAfPuX4ziEZaGNI8pOot45Cz2erOn1sMko=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMHPdmOGhYXZrDRvrV-bMTKZO91ix2j8jF-dPLdVBrqLCSWuD3ZHOEcX_L9xjTplRgX7Rm7JUdN2wAkH2vBQzCkkujXwwoezH8SkO7UW76AEVcjkJGCs1oxQx69vbOLmDTHyGrLyg-2NEg=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPTC0QKUgIi8VAibadCFn_xuz3WI9UTY49x9GL2WVT66T6Nwyc6w7toF0Ucp9A8rjM5macxx668mWyCEfHfxXel61EFUcHKIL8fRZLMSpVkFMnIdFa1kgd5S_lew8fp1_Q4Ha87ldHKMPw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMQVhmXOSm1AsKwJEaDMnIKUm6vDhpSjvaUsMcbAZGVW5FoBXk11EtEGFv2MA5zVGiQO9Xyhe-hFZfzx6ohsjK4Od-DhpVJ2D5jUClreM_T44hKS5FUOOOLn_E3UCuJybyrzLO_Ib-JX0g=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPlifloHPWIfITzue8dy8OE8sr5XhHNMKTbp8QsMc8S-gw9ZMAlZuNuDt8olUV8iKWZ6oRls0TN8W-AHHoPhvcfyjBBlQjvr1DhHlbYtS527ZKTGxMBTbbHXt6yAk0Yp8aumPyq5PW4QNd4=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPj4PxhtJre1zA-xGEF6iqv_ypnmcPvg9TbUqLnRSp2o7Fz3NXz3Y292o0SpbBjmv3wSWPRUAr3eL0-VHL4qZrhejY48HtvhFA1NxOlMmdodbZHr7N9Fuu0HtnjN49EDq3nGgOngl1B22JH=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-18T11:32:53+00:00"
+        },
+        {
+          "username": "mbaskahya",
+          "rating": 5,
+          "contributor_id": "111154991642138424613",
+          "user_review_count": 223,
+          "user_photo_count": 540,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJIbbiN7ElpCzij0ZT1Am3R82PSeFumzjBSQiBV-4q_40sW5g=s120-c-rp-mo-ba12-br100",
+          "description": "A proper coffee stop in London. Monmouth at Borough Market is one of those places that reminds you how good simple things can be. Watching the filter coffee being brewed right in front of you adds something special slow, intentional, full of aroma, and clearly made with care.\n\nI also loved their reusable cup idea, paying around £5 for a proper reusable cup that you can use and return is such a thoughtful touch, especially in a city trying to reduce waste.\n\nThe coffee itself was excellent: clean, balanced, and memorable. Yes, there’s usually a queue, but now I completely understand why.\n\nOne small tip for visitors, don’t make the same mistake we did and forget they’re closed on Sundays! Absolutely worth a visit if you’re around Borough Market.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kcVpsRlpNek5EWmsxcFNVUm1OMFozYzFKelNHYxAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOmdqZlFZMzNDZk1pSURmN0Z3c1JzSGc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNFHow8ahO3Jtw3Iem1dzLxyW7NycVpV9CuKz-jOPP-1hcgoo-D3JXQdLFn19eG64-0EC5aKAJu2TKmMtkaYFkd4-igEXV_tgdX_UYBnCUSyoTljJ-c5inPx9j7GO9jR42TlY_5Kfk1GYHR=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN6oei26plnsDvBaGfMREBicLvk2N0WG-_077V6sHhvTA3K7cyODFFjwdJgQlZuJuCE8_IOL7JCWq0lkCXpckmViITXwHnrVe3MZ_2ekvNd2DM_1x7KbF8w8DZioyPbR1Q9Fh9PGMJqxs4O=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPhsOH0lC9hzC4Ei1avvs3_BUipyquq5WkZ3OsWH7c3edt5eZV14NW8Rf4pMTb5oqsBB-18tufEdg6SAFKofCmTtdVd1TKhPKqRtdAnbGq5KepYCyL15x9xYlkqBO8k5_dGa6vyJFFKu2ou=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMaZfwlo5BWaVOAKrfSFL6Z5JcIwpju1nGkBoV42ZSg_YXQmPpzbMNbWfrFQ_GjIj3ajjSUfWFSBOxOjI2nV4shxs3koErSBrf-SfqgBi0nSyaFDEd6et8l718hJSzT3sxDRkT6dKAwNAF7=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNxXsoQSD-JJqnPofujWAR7_848B-Aj_DXaV6Yv-m3r5ll4hei00YT-cPoBfWKg69kPxrT4nhIWKCnXuwZaRU3CxDjLvT8X42ENekyw8V81FypEDoG_-Bp-I-x3KNxHR9F8UJHU9n8DEH5U=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-18T15:30:24+00:00"
+        },
+        {
+          "username": "D J",
+          "rating": 5,
+          "contributor_id": "105422126029427075856",
+          "user_review_count": 246,
+          "user_photo_count": 724,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVLY6IkimUsJMPBW6BmuoDPc_GvWOOZe2qD7gm7u7_T2KRxhqPg=s120-c-rp-mo-ba12-br100",
+          "description": "Fabulous coffee shop next door to Borough Market.\n\nCame before 10 and was pleasantly surprised there was no queue. Even better managed to find a quiet free corner to stand and enjoy my coffee.\n\nThe £4.20 , 172 THB latte was superb and would have been worth braving the usual queue.\n\nStaff were really friendly too adding to a really enjoyable start to the day.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5RVJtaE9iVTl6ZUhKZldtNUhSbXR0YXpkdldGRRAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOl9ERmhObU9zeHJfWm5HRmttazdvWFE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOk5C2QEwfjlJg84Ek7qTkwhw6XhpDo20JunYkikjPUH7MzPqiX84ua6i-Am8tGK7TV9gak-XutYPiuqfDB4S8wL0x6aWvTK8MMbYe8c8NDjbFCrLU7MGovY2vzgMkxmg1jIxsCxqA2ljc=k-no"
+            }
+          ],
+          "date": "5 months ago",
+          "date_iso8601": "2026-04-09T11:06:52+00:00"
+        },
+        {
+          "username": "Danny Chen",
+          "rating": 5,
+          "contributor_id": "112975363767881055078",
+          "user_review_count": 354,
+          "user_photo_count": 4138,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIzDth_XGLk0NIuu1QEqBhRRoEDkyJ_iBuUolawFKTR7jWqZg=s120-c-rp-mo-ba12-br100",
+          "description": "Mammoth Coffee at Borough Market tastes great; I order Flat White with nice coffee latte art.   First time to visit Borough Market which is very interesting market with many varieties of foods and crowded with visitors, even at weekday.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tscFVHMWFSazB4YUZSWGRVdHFia3hhZFZZNWJsRRAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOklpUG1aRk0xaFRXdUtqbkxadVY5blE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM1_v7hJcbKVyEInRyw7BqUlIR_U23j-jhu5mmQlHYN_nX1GrZQ1qsgbDr-1oBgsQxnUVnjB4ciJ9Homc0hmwZI8NJDmLNDcn3NhiV9mJs7ngBHHQ9OVwFA09bkw47vYzLV88ZB72gIsqw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNcfe3Wa-_cm0g63JNYdKSLyI429yPr_0E6afLQEWk9aO2AP1UUALPZ0d2oS2Mjl1M-ILdaesMtgP4K9Ab-l63CxHZYT56keNQNcmq8Sw_GCyYOVg8ELpgT1XGIMMJKKEV_awaGtbgdGfty=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNlEA0Dg0Kwkh_dukVe7pJEkWIU70Hcs1GPfnwctbf55WXDrpDDFK3IlJg09hA1BnCc6Vl-zYaoT29YwbAszhF1c4-b4qUpU5UuyeDLVrDzml62oBNq3uUC3OvpiVsfFApNRTahJuuoM_jw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOomaE_MB7-3bC9AJmtMbGrIzHKvALYfqOuDuFGGuSpfLLnkoK4tjR0IaEgQP8KJDH9SOb6X_aZfFXxrdbnFdqwrO4JtG9QwrgMqZv3B9a1CDsI6hBOxd3-uxkjP1tXWd9LOvPrn8Y-VcFF=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNPAgTsEHzurfo-3N1bWBIaJBbeqHsWwER8y4GI_F8W2EL05HBt2JTo4CT3siJff_8lOETPzcQxAsAnKpGWwJFExACEZ83ShjDkXSIvnfjoaBOKGmK4TsKGOarA8JPYXfQZSX7BX_NrM7GL=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMTOfwGZRAY5v6rtcOxF0GPl45CSVsvzNyCv3oKmKQyM_TMvL0wLO_zXfJ31YK-VR9rNE1tQhRu46e4A4rr7fCc2YvYi_UuWbJETZZ2gbCAqEjSA4Z0AiX5yOk51N67FKhNA7EP9LIbWwfu=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMI6mv8dCuEZBJSH1ccJqGd-PWo6h5tmM4uorkZ3kwaThkEOZxH51xY5jowrxhcn3z5diP8ywxp9r5pc3wbD6DFx_o-M0APLN-MKcquU47uNcXxYcxqXpAWNPKjzDqCgPo8q5Zv2IaAHsZF=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMHjoA7BoJRSLPA9pFz00t3hI82SLQKbrAvnoye9CpeQjjQV0X0usWEG5l56aofCeRAyOT9ce5_azisJFeSBtWin3MNGXIb-r9o3XAWS7AwfqOvskeqBxgWQk-DYqzi9M3F07UNHeYmi9Pf=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNMfSVe1NFjKnSVllRms8BiAfCBY-a2uyolRpCh0mBzbn1r-bPjs-W606DwIpDido-ujZVGfkIoCOomE9UX2xgArJPd-ABbJglwmQX4dEXeru5WEhRZ7genZJSSY9Cm8ZYhuPrznCMH0a4H=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOQWr1-xVU5kCaaxzfmEf1uVHLU3ZbTzcfhzqPvRDiZJIsbNhKTPAzu_D4wg-p7Lh5G241cizB4S7qOxQ1wMi2TWRoMdGrOgbvjShkORxhJ49DAoxc_XsNcBVRCYSfc9M7IVjT9UzwWhNeB=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-14T16:06:27+00:00"
+        },
+        {
+          "username": "The London Guru",
+          "rating": 4,
+          "contributor_id": "113540983106840936081",
+          "user_review_count": 676,
+          "user_photo_count": 2182,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWQkEMVX9uFuKkY2Z12thSOLS-hhSDgdtjdSAMYWVx51mmfK9Y=s120-c-rp-mo-ba12-br100",
+          "description": "Great coffee. The beans are top quality and drinks are  perfectly made: rich, flavourful and well worth it.\nThey don’t offer takeaway which is a shame if you’re in a rush. Service is often quite slow and the place gets very crowded, making it tricky to find a seat or even stand comfortably inside.\nStill, if you have time and don’t mind waiting, the coffee itself makes it worth a visit. A proper London coffee institution.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCVVdXNHhOa1ZOWm5WcmJtVXdhRlJhTTNSNFNYYxAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOlBUWW4xNkVNZnVrbmUwaFRaM3R4SXc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPbVLrnwOGTJQUQcd1CoIGPEO-rv96r0ii_X3qn9ekAuf3DgKxZGUbPcM2HWpq2jUid11a4ZeBndmkiYCOuEk-Dr827lP8uvOGQaSpiMdp7beDJqqoOr3mWngl1ny3YOvCfCeWSMV6NnBQE=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP4iFHMRvQoVZh6Fo4PsH9jwYjg-R87MCPBaMbuXfurNLkk3NLwsYkS8V4e4kqexlE3DaaZpQldCxX5lAy5UdtSpPsj0uWuEsMAAn1L4TGUkIIOF2-Q7dAFL8DDXSdHiJfa2yEOXZR-4YE=k-no"
+            }
+          ],
+          "date": "5 months ago",
+          "date_iso8601": "2026-05-03T20:38:04+00:00"
+        },
+        {
+          "username": "swati pareek",
+          "rating": 5,
+          "contributor_id": "106234819333848131165",
+          "user_review_count": 208,
+          "user_photo_count": 1303,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWNpKHcJ95iQGqs6AzK-UkDGadc7Y-B8GUJPxZK8jr2aFWCcmra4w=s120-c-rp-mo-ba12-br100",
+          "description": "After reading so many good reviews we went there to have their famous COFFEE. As a Coffee lover, I must say their coffee is really good. Highly recommend to everyone who loves coffee.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xRFFsZFBVQzFNWkZOZlpsOVNRM2R0ZFcxeWVHYxAB!2m1!1s0x0:0x44d8f235c7a0b989!3m1!1s2@1:CAIQACodChtycF9oOm1DQldPUC1MZFNfZl9SQ3dtdW1yeGc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPCqepOy3kSAbHtOkYsF5Zm-U4ZR_BQho_7GQhfnGF0CZGdGdYU_XWqYJeiSExGtHuveR_25v7YIxkVqDd0-37JYwPiLrEvzB4Wmkr4LBVKxOwJmsEzDr33viv1nc3t_M2Igzt3kdf_p4Yz=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMamoMYKY9TDv8IQ-S5MPPQpfR24vecfPVsz7aduy2LW4nHc7OuRkG3EEUjKQKjF_f89nSefLS8QsD-geSgl4hxC6dZLs4MuBkigtTABUggFp0y-np3MAwd3MSIzCOr61qJeevpPzuVCyOH=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPBIT0EJ0wV586MR2LVvEuMdX4MOYqvqpl0LbwCXd1c5X7Pn7LOlUQ7UPUTc_uOlVkvYKPg_lYKVgllzVlwdJnGHuZ2Zb2PVgmHUoQ5Ayi4ky7yL0VpLSdLYCfBz5QWWWMa8jMRtFXtqWRF=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPsIkLnUQvD759ZTsGxdbni0W7ailP8oiXLvn34dd-U8vxzJ4WpOrqbwStziqkoZzzbvHYCwbRE8HQ1UN_9CPEekHA59N_RDH0nv8YN9ujpa_KeRGRT61zqQSJHpMtW0powivcBK-OmT1TF=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMRV2e5l1_LK-oiBLkK0tHvjbGfifjFVEa0-ESBDfOjO_Rl6HKy91QB-oE2NWUXz6AnlacgbpaJTP_qsOWe1wMJBHG_8XXgcZQooLOllke-bchIM8DahkNIhHBBfcbOZghzdE-mM20s9bEH=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPtYFt8BtIeiN2dGks10EHjlKIOfG1e9FeScRM7ECkuhYf0DYPID_bMeGIpeny_1l99aUZ-_0uVKFe-Q1Rzd_6xoWY4p9GBmmjXwYN2kt-QtCCdhCUxWNdCQybbeUpAmw4iR8YfMKQ00ODE=k-no"
+            }
+          ],
+          "date": "7 months ago",
+          "date_iso8601": "2026-03-06T13:06:54+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Roasting Plant Coffee",
+            "data_id": "0x0:0x57728417cfc5f8c0",
+            "data_cid": "6301244066449717440",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x57728417cfc5f8c0&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x57728417cfc5f8c0&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 51.506381399999995,
+              "longitude": -0.08851860000000002
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x57728417cfc5f8c0%218m2%213d51.506381399999995%214d-0.08851860000000002&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.5,
+            "reviews": 1528,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOkv3g2fsT4knNKWYELvQTizHAIjIN6ue5zwYGD-L-cV3LhtlYGPlU_yR3IC4uBVh8LAlWS8_5_6ADREk7VijLQ_5J0Yh_vQ8D6lbDy0xRC-xkJIX_cB2QzFvSzMZxU5Di-PM=w140-h195-k-no",
+            "type": [
+              "Coffee shop",
+              "Breakfast",
+              "Coffee roastery",
+              "Lunch"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "The Colombian Coffee Company",
+            "data_id": "0x0:0xde212fc694da2218",
+            "data_cid": "16006127080598807064",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xde212fc694da2218&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xde212fc694da2218&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 51.5057609,
+              "longitude": -0.0899932
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xde212fc694da2218%218m2%213d51.5057609%214d-0.0899932&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.1,
+            "reviews": 177,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoP6QeoxD3Zxi7EB4kYZ2HBoZtgpZpt-WcK5nsnWgX58PP7VEbvEmWCwae5khZIICopSArYFiDbwuZLb_Wer1pd5foNBef8SV9CA3SlmZROyGpFBk-tUNDd8YComJfCT7VLXc=w195-h146-k-no",
+            "type": [
+              "Coffee shop",
+              "Cafe",
+              "Coffee store"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Birds Hill Coffee Southwark",
+            "data_id": "0x0:0x961ae66b8bff596f",
+            "data_cid": "10816210804668324207",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x961ae66b8bff596f&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x961ae66b8bff596f&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 51.5064508,
+              "longitude": -0.1021956
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x961ae66b8bff596f%218m2%213d51.5064508%214d-0.1021956&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.7,
+            "reviews": 288,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLda3PcHYqz54CaKFTgmUbU2zG1ZvPd3zFJUrcU902FDLsRv5btul6wtj6D4EvcCAEGGjw55VjiUTjmBNmXI-hn8SZuHhqEeJCQDTNicXw8CVhS3AiE7dQdxBBGfxUxZ7Xd3smEr=w146-h195-k-no",
+            "type": [
+              "Coffee shop",
+              "Cafe",
+              "Coffee machine supplier",
+              "Coffee roastery",
+              "Coffee store"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Black Sheep Coffee",
+            "data_id": "0x0:0xbcb18ebf98344734",
+            "data_cid": "13596805703551698740",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xbcb18ebf98344734&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xbcb18ebf98344734&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 51.5054099,
+              "longitude": -0.09950859999999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xbcb18ebf98344734%218m2%213d51.5054099%214d-0.09950859999999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.5,
+            "reviews": 935,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdcZgjXmu6asIdxxEYZNW5D0FvTxM_lTD6N2QIDDqgXo0UgCf06adZUUdgScfdA-eFwZ-12ojzyQYWK4cWZAia_DxWvNJqDX6QgFd_Pc_-CHXeNh62yOkcZnU8rICG_vdML10Q=w156-h156-n-k-no",
+            "type": [
+              "Coffee shop",
+              "Açaí shop",
+              "Bagel shop",
+              "Bakery",
+              "Breakfast",
+              "Cafe",
+              "Coffee store",
+              "Restaurant",
+              "Wholesale food store"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "The Gentlemen Baristas",
+            "data_id": "0x0:0x7e68200403f0453e",
+            "data_cid": "9108565447974864190",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x7e68200403f0453e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x7e68200403f0453e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 51.5052138,
+              "longitude": -0.09185770000000001
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x7e68200403f0453e%218m2%213d51.5052138%214d-0.09185770000000001&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.6,
+            "reviews": 389,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe0ccsPSEVXtVsKE5mIeFC1wQUVOhZODoKH4X8HNUVFZXpzJlA7fFFYoWa38Z33__UBDCSt-lkKMm7exw6f0EXUYl1b0S_6Sh8n-Yy9Wm0A-XEOWmKXPA7_KVmdr_Kh4anG6U0=w156-h156-n-k-no",
+            "type": [
+              "Coffee shop",
+              "Cafe"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "current_day": "wednesday",
+      "live_hash": {
+        "info": "A little busy",
+        "time_spent": "People typically spend 10 min to 1 hr here"
+      },
+      "graph_results": {
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 6
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 10
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not busy",
+            "busyness_score": 15
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 21
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 33
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 22
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 15
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 11
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 21
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 7
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 10
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53,
+            "live_busyness_score": 65,
+            "current": true
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 27
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 7
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 13
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 11
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 55
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 9
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 15
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 80
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 96
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 92
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 73
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "6 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ]
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OjQKMiIuTW9ubW91dGggQ29mZmVlIENvbXBhbnkgTG9uZG9uLCBVbml0ZWQgS2luZ2RvbSgC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COjQKMiIuTW9ubW91dGggQ29mZmVlIENvbXBhbnkgTG9uZG9uLCBVbml0ZWQgS2luZ2RvbSgC&q=local+guide+program"
+  }
+}

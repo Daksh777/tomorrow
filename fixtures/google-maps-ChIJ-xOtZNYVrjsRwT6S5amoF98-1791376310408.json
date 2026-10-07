@@ -1,0 +1,1466 @@
+{
+  "search_metadata": {
+    "id": "6ac63bb522abf7f27777af1d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TL_Wx14uyInRUCQoTbHsNYEm91-fX-jkpnxUiQKe1uE/6ac63bb522abf7f27777af1d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TL_Wx14uyInRUCQoTbHsNYEm91-fX-jkpnxUiQKe1uE/6ac63bb522abf7f27777af1d.md",
+    "created_at": "2026-10-07 12:31:49 UTC",
+    "processed_at": "2026-10-07 12:31:49 UTC",
+    "google_maps_url": "https://www.google.com/maps/place///data=!4m6!3m5!1s0x3bae15d664ad13ff:0xdf17a8a9e5923ec1!8m2!3d0!4d0!16s?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/TL_Wx14uyInRUCQoTbHsNYEm91-fX-jkpnxUiQKe1uE/6ac63bb522abf7f27777af1d.html",
+    "prettify_html_file": "https://serpapi.com/searches/TL_Wx14uyInRUCQoTbHsNYEm91-fX-jkpnxUiQKe1uE/6ac63bb522abf7f27777af1d.prettify",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "place_id": "ChIJ_xOtZNYVrjsRwT6S5amoF98",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "place_results": {
+    "title": "Blue Tokai Coffee Roasters | Indiranagar, Domlur",
+    "place_id": "ChIJ_xOtZNYVrjsRwT6S5amoF98",
+    "data_id": "0x3bae15d664ad13ff:0xdf17a8a9e5923ec1",
+    "data_cid": "16075502842576780993",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d664ad13ff%3A0xdf17a8a9e5923ec1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d664ad13ff%3A0xdf17a8a9e5923ec1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 12.9672485,
+      "longitude": 77.6367305
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_xOtZNYVrjsRwT6S5amoF98",
+    "provider_id": "/g/11sv1d5jsv",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdP0HRnk9-6UPqsCQ0FMenStmoEUA9WV_IbWATEdqaZxGHflAVzwKCtcrJ2oitUQ19jNigUIpeCJMoQM0ZNn_ESPY-0KMHNnpPfgkWm7qJGpT65RB8167CxaR-xp7U7vgKY_vP0yXM01Gns=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/XGo1BnicHcTBboIwAADQL6oUl4Es8VAJA2ElBa1ML4TVWhRoC-2U7Sd33t8s2Tu835_WWm1eHKdvnxZCKdHzT8MnpqTl0i6YGhwxNcYAZhyENt3wdiYwKWUXAI-S0YQFfMVc7uygIoqC6lBvPyq0j85jc5rj5NKjw_cjCy2b0qW6Wlq4wS2_CrrVPEyxKjA85bKOduQIYIaTXGpyEV01-GMa6733XG5WrueHc1OCWfvUv4vsWN8J_HrH0I2lWT9cCCFo_2dA_gGPh0aj",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 34
+      },
+      {
+        "stars": 2,
+        "amount": 9
+      },
+      {
+        "stars": 3,
+        "amount": 19
+      },
+      {
+        "stars": 4,
+        "amount": 47
+      },
+      {
+        "stars": 5,
+        "amount": 207
+      }
+    ],
+    "rating": 4.2,
+    "reviews": 316,
+    "price": "₹200–400",
+    "price_details": {
+      "distribution": [
+        {
+          "price": "₹1–200",
+          "percentage": 0.9259259259259258,
+          "reported_count": 1
+        },
+        {
+          "price": "₹200–400",
+          "percentage": 44.44444444444444,
+          "reported_count": 48
+        },
+        {
+          "price": "₹400–600",
+          "percentage": 32.407407407407405,
+          "reported_count": 35
+        },
+        {
+          "price": "₹600–800",
+          "percentage": 12.037037037037036,
+          "reported_count": 13
+        }
+      ],
+      "total_reported": 108
+    },
+    "type": [
+      "Coffee shop",
+      "Cafe",
+      "Coffee roastery"
+    ],
+    "type_ids": [
+      "coffee_shop",
+      "cafe",
+      "coffee_roasters"
+    ],
+    "reservation": {
+      "link": "https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-domlur-bangalore?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+      "source": "zomato.com"
+    },
+    "menu": {
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvYNnC4eYuXtyJ7rpEN8GAt4_nnL6Jp1lsA6ZeYSsPyTXE6O1mYSejF2PZd-m9gvKj8zE9sOwt-lsDJXOtziB0NRBEjWcdzRLELnye5Xfr-Le83-K-NXf2Y1XUhXiHuEA7-MTNzuUPAT1g=w195-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvYNnC4eYuXtyJ7rpEN8GAt4_nnL6Jp1lsA6ZeYSsPyTXE6O1mYSejF2PZd-m9gvKj8zE9sOwt-lsDJXOtziB0NRBEjWcdzRLELnye5Xfr-Le83-K-NXf2Y1XUhXiHuEA7-MTNzuUPAT1g=w1600-h1600-k-no",
+          "date": "25-8-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhBag3ECBhApgxq7rVW-Sd0c&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2y1QoASTi57c8wPpiZrmWHWY2CnXCRwknypfQMR31TGZ5vwaSSxKqvJV_SArY5fmsRl54E7GqMHEuW64xB5k9GmMOhHI45-ixIHuz6dmNiwT6DJ8JBJXLvb_h_x1DjdMj-TO-net8PZpPqfidef64sLQcX4d1KLQCnmqyZ2ner-YpomnHQI4Yp=w195-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2y1QoASTi57c8wPpiZrmWHWY2CnXCRwknypfQMR31TGZ5vwaSSxKqvJV_SArY5fmsRl54E7GqMHEuW64xB5k9GmMOhHI45-ixIHuz6dmNiwT6DJ8JBJXLvb_h_x1DjdMj-TO-net8PZpPqfidef64sLQcX4d1KLQCnmqyZ2ner-YpomnHQI4Yp=w600-h600-k-no",
+          "date": "17-9-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQavx63JEsomEPuICbp1PUKt_MoXQzu2TtBRZdy0urL1jTsF2jN&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeK2H8zBRc25N2KvcxUXpXOHAkNRzb_Kiq4MZq-TX5sCbd14Vz9jkE7-nuIXhO7TrO3PeuAoKDLBPlUvbGpyksTISH8ssE7wdtOevi9BPuu_eOIVmtNrd6H8NrdAzdARJ3sIu-9aVJwsij=w109-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfeK2H8zBRc25N2KvcxUXpXOHAkNRzb_Kiq4MZq-TX5sCbd14Vz9jkE7-nuIXhO7TrO3PeuAoKDLBPlUvbGpyksTISH8ssE7wdtOevi9BPuu_eOIVmtNrd6H8NrdAzdARJ3sIu-9aVJwsij=w2304-h4096-k-no",
+          "date": "9-8-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhCq7HFJSUftqBjdCVxam91y&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW21fjk92TajbFn3BsiIb7-EA6tXeod_Zdxv9CxDSxQLaDm0gVL6hT-OzcoU9GibzckHv-zeTMVBJZaUu3DRE8IqF_dm0gzwGuuLLty02WSXGk7fKYs1tyqTBGDYe4U30Sbdve-15jIVlci4Y3J2njNm7oB0i2YGdpEHWV7q9NNRlm4ltusAK13F=w195-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW21fjk92TajbFn3BsiIb7-EA6tXeod_Zdxv9CxDSxQLaDm0gVL6hT-OzcoU9GibzckHv-zeTMVBJZaUu3DRE8IqF_dm0gzwGuuLLty02WSXGk7fKYs1tyqTBGDYe4U30Sbdve-15jIVlci4Y3J2njNm7oB0i2YGdpEHWV7q9NNRlm4ltusAK13F=w600-h600-k-no",
+          "date": "13-9-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcS-ViHBSXOiMZl9Ya3JwuEcXL2jm7M2LdIapUMhTl-l4hLNjwhL&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLef31Xgfl_dL7kwVyWBllVWN3uy_rc9dtX6CnzB0k9_AYmcTYllWjPInioL9kthXrwZcbLM-1TKrVxHZ-zWZFDPmfi5JhnOawB9uVEbpGMlwU7VOZ-phJY_wcQsQUVkWv5eFIzM4x7NeJfl=w129-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLef31Xgfl_dL7kwVyWBllVWN3uy_rc9dtX6CnzB0k9_AYmcTYllWjPInioL9kthXrwZcbLM-1TKrVxHZ-zWZFDPmfi5JhnOawB9uVEbpGMlwU7VOZ-phJY_wcQsQUVkWv5eFIzM4x7NeJfl=w1170-h1760-k-no",
+          "date": "10-9-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDIcFV2I90zif4R_3BZJ3Dz&engine=google_maps_photo_meta"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Mushroom Cream Cheese Croisstata",
+          "kgmid": "/g/11nqb9sdl3",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNtlFCp64V3raMGdFIBLaDLW7M7dTuatLloSxx3aDjgvjj_lFr2z3-H6H4dceJpGtOPHIxfdgUoSbIWJHbAE2SFP6h9v1YZYKwH7cKI1HTTygNGQz4aPX4j_uJ0JsM6WIbtHuHaLQ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNtlFCp64V3raMGdFIBLaDLW7M7dTuatLloSxx3aDjgvjj_lFr2z3-H6H4dceJpGtOPHIxfdgUoSbIWJHbAE2SFP6h9v1YZYKwH7cKI1HTTygNGQz4aPX4j_uJ0JsM6WIbtHuHaLQ=w600-h600-n-k-no",
+          "date": "1-5-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDjyuCNswE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Guacamole on Toast",
+          "kgmid": "/g/11wgdjp6wb",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNeEf90DVgze8SeonaIsw11eltL6WTn4aSOkdaplU86MhkU6QclXOLaQ2KSr5gGKQ0aSYR311gQXFyHGUTyMDRQl1JK2RhObYQNvk6p3N4Jw9w-Ct8XXuyu3U39ZiwnX8BGr3A=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNeEf90DVgze8SeonaIsw11eltL6WTn4aSOkdaplU86MhkU6QclXOLaQ2KSr5gGKQ0aSYR311gQXFyHGUTyMDRQl1JK2RhObYQNvk6p3N4Jw9w-Ct8XXuyu3U39ZiwnX8BGr3A=w6144-h8160-n-k-no",
+          "date": "12-10-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICX0KTMOQ&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Hot Chocolate",
+          "kgmid": "/g/11zwp5xbbv",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOf4eRZRdvwgDHLAo8V5471Dcdf19c_4YisJnulrVO3GaXP6ZuVUA_pElXJjniZEXOH1RppBjNlqkb3T_bLCzCGSMrbloCvqWr_dgZkcgiM-_zpXR3xLotn_G5-81X5rLMfDAp9Pw=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmOf4eRZRdvwgDHLAo8V5471Dcdf19c_4YisJnulrVO3GaXP6ZuVUA_pElXJjniZEXOH1RppBjNlqkb3T_bLCzCGSMrbloCvqWr_dgZkcgiM-_zpXR3xLotn_G5-81X5rLMfDAp9Pw=w2268-h4032-n-k-no",
+          "date": "14-6-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICL6LPerwE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Classic Chocolate Cake",
+          "kgmid": "/g/11zx9cjsb5",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMKtwnyJ6nSWZBsfu-yvDXF68i6swSxoUor3GzNV7oOhkJlaZZWZJBw0ZDjH1mDj0XQkQqMOhkyr9lEx0WwRyeo5LWR627RML9sxSJDFVSC4D03o5fThkvO2vOtjZTkT-n0d9uccJNF6Fk=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmMKtwnyJ6nSWZBsfu-yvDXF68i6swSxoUor3GzNV7oOhkJlaZZWZJBw0ZDjH1mDj0XQkQqMOhkyr9lEx0WwRyeo5LWR627RML9sxSJDFVSC4D03o5fThkvO2vOtjZTkT-n0d9uccJNF6Fk=w4592-h8160-n-k-no",
+          "date": "26-8-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhCl54N6R-b2PIuhcwWuU2Na&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Traditional Butter Croissant",
+          "kgmid": "/g/11njqlhf2b",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPqRWBGY4_h170vKoMCmepN79TyDqbxFdVlBEWKERc5jZ8IIkXuZkXr3XuNeaJFwFsWIAcR2oBrEkgUlQC10regGIPzTPydmvdv7k0rPTRMaWcVwSld-jpQbH269rzlKsiPKqOI=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmPqRWBGY4_h170vKoMCmepN79TyDqbxFdVlBEWKERc5jZ8IIkXuZkXr3XuNeaJFwFsWIAcR2oBrEkgUlQC10regGIPzTPydmvdv7k0rPTRMaWcVwSld-jpQbH269rzlKsiPKqOI=w600-h600-n-k-no",
+          "date": "1-5-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDjytzjQA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Latte",
+          "kgmid": "/g/11ltg795tn",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNA1HtI0p4hwXrHIJKhGr8CqCHbMu1XYUt32bpTw9AITuBMPybrg6lxNMUEDSlqr-7K7SaH9A395Tsll2DtD5pRrndEbKU_8ujX8zB7avY_lDqVaqki6lCfCufEFBneZEz4jhmPyQ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNA1HtI0p4hwXrHIJKhGr8CqCHbMu1XYUt32bpTw9AITuBMPybrg6lxNMUEDSlqr-7K7SaH9A395Tsll2DtD5pRrndEbKU_8ujX8zB7avY_lDqVaqki6lCfCufEFBneZEz4jhmPyQ=w3000-h4000-n-k-no",
+          "date": "19-9-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDHs5PpmQE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Blue Tokai Coffee Pancakes",
+          "kgmid": "/g/11y1n68w8f",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM6pWlS-yf8Sn-8Db6iSuDk4mhkSVFESVb-1EODBjX6Wu5dh-LY0i6LFbb7EQz08T3-DfPNo81FhS_ETbEINUlfZLxgJtQ1zTIEXBdeEbWZcxqGqqC_ZVl8Wc60PA99xAhdrQqviA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmM6pWlS-yf8Sn-8Db6iSuDk4mhkSVFESVb-1EODBjX6Wu5dh-LY0i6LFbb7EQz08T3-DfPNo81FhS_ETbEINUlfZLxgJtQ1zTIEXBdeEbWZcxqGqqC_ZVl8Wc60PA99xAhdrQqviA=w3024-h3780-n-k-no",
+          "date": "1-4-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICD46HKggE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Peri Peri Fries",
+          "kgmid": "/g/11nk8jnlgt",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMxsozdqc7qfYMbC8mREI-kHKTlVNAe3sEcQs-6iLB31Ji0M7tuA3HOdNCCz2UJ9g0D_VjPAnfGh46r9GA0iKHohBA9qJu_61nyEDl_42sKcLGBbiy_7Tkr6xqoxBvlHzqQL7kCRApqUxW8=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmMxsozdqc7qfYMbC8mREI-kHKTlVNAe3sEcQs-6iLB31Ji0M7tuA3HOdNCCz2UJ9g0D_VjPAnfGh46r9GA0iKHohBA9qJu_61nyEDl_42sKcLGBbiy_7Tkr6xqoxBvlHzqQL7kCRApqUxW8=w2258-h2258-n-k-no",
+          "date": "23-4-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDwI7TYS4Qb9USC3zW5UeQW&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Flat White Coffee",
+          "kgmid": "/g/11vk8vhz7v",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNXNkEhM2IGXSZ0w2L5DLduD9hw40cCGxsj-vKDYQ1e-p6cOckiI0gpd9MJZUJsOwGr4GQTsDr0p6XlSNNsNLqh-E4JwbPBkMk2OpkcZpI9sJmjhUs3AbyhEUPRosCJPaMsf677Ij95pI5C=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNXNkEhM2IGXSZ0w2L5DLduD9hw40cCGxsj-vKDYQ1e-p6cOckiI0gpd9MJZUJsOwGr4GQTsDr0p6XlSNNsNLqh-E4JwbPBkMk2OpkcZpI9sJmjhUs3AbyhEUPRosCJPaMsf677Ij95pI5C=w2268-h4032-n-k-no",
+          "date": "28-11-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhC0RyQ8_Rdhe__nak4SCkfD&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Cortado",
+          "kgmid": "/g/11wgdk2jnx",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNbyqTQ7yO4ZSdzd-yeHzNJZzKjNFb-gFmvfgFRYfk8JedNXXMOJRdXbfQlc2WIL0WeUFQFP60L4FUNujb3_1StjLxWroHAfNIkQ3TrZrKCZ7g3MJcwo6Stpnh41SgkD4omcx3sYQ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNbyqTQ7yO4ZSdzd-yeHzNJZzKjNFb-gFmvfgFRYfk8JedNXXMOJRdXbfQlc2WIL0WeUFQFP60L4FUNujb3_1StjLxWroHAfNIkQ3TrZrKCZ7g3MJcwo6Stpnh41SgkD4omcx3sYQ=w6144-h8160-n-k-no",
+          "date": "12-10-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICX0KSo_wE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Everything Bagel",
+          "kgmid": "/g/11yv3hk2_s",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMoYct1pASkK13EDPLwIMkDM1QN478iccg6uapSSoOdK9RF7MQ1G0_-V7shIn8k1x6VedprDpkZoBtPQpARCG9YxOBfaBRumlWtE_PVGg2rXkvdW_XTVfUOf44mt1-vYfSiWmgPljtKXVdv=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmMoYct1pASkK13EDPLwIMkDM1QN478iccg6uapSSoOdK9RF7MQ1G0_-V7shIn8k1x6VedprDpkZoBtPQpARCG9YxOBfaBRumlWtE_PVGg2rXkvdW_XTVfUOf44mt1-vYfSiWmgPljtKXVdv=w2992-h2992-n-k-no",
+          "date": "28-12-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhC8V2ncxEEw3P9qZnZyvTyK&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Smoked Chicken Scrambled Eggs on Sourdough",
+          "kgmid": "/g/11zdrlld5f",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN8PjaETbCS7JwrkwVzDPHDq_amHobj-OHATOHRWvn6isFnsdLG_V79zUgBpiltruwHEwTtfSvsvtOKFR4D3KoDnH7VwsEeFcrPUid_6gzKPg4j1Dd9nuBZUMBK4IFsE14kuv4N1b5ZYfFA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmN8PjaETbCS7JwrkwVzDPHDq_amHobj-OHATOHRWvn6isFnsdLG_V79zUgBpiltruwHEwTtfSvsvtOKFR4D3KoDnH7VwsEeFcrPUid_6gzKPg4j1Dd9nuBZUMBK4IFsE14kuv4N1b5ZYfFA=w4010-h3008-n-k-no",
+          "date": "17-7-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhBXPbzyD6Zy9x0hqJ5bbneO&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Mix Berry Juice",
+          "kgmid": "/g/11nw1cx6w5",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNUUxnl5kRKJ1TneZhqXaLx390F-zTgX8b5uUPl4lN-VRvKC9D5XunMXKCTb9m_d1V-_G5EzmaTpZz1jw_Enwej0gvlC_RIxo70RL6GYNLuBev94yKhFu591PmUPMTydHpVnD7JTKJ6LW6c=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNUUxnl5kRKJ1TneZhqXaLx390F-zTgX8b5uUPl4lN-VRvKC9D5XunMXKCTb9m_d1V-_G5EzmaTpZz1jw_Enwej0gvlC_RIxo70RL6GYNLuBev94yKhFu591PmUPMTydHpVnD7JTKJ6LW6c=w3241-h3241-n-k-no",
+          "date": "18-6-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDsfaHpUzP2RPTEODYKc4s3&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Mushroom Scrambled Eggs on Sourdough",
+          "kgmid": "/g/11nqp6bxzq",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMpp28lXfYjOr-ABJ4n02WS-3uiJR-ZqrqUeAtQul8PgUFO0S3JNJWP27DG3OhA1auflasIiPYZxqpUiLmaeHOF3Ts9D6xkLJUNGTVWeON4n_TR5tAN1fbOdsno41Di_e9ibMXnng=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmMpp28lXfYjOr-ABJ4n02WS-3uiJR-ZqrqUeAtQul8PgUFO0S3JNJWP27DG3OhA1auflasIiPYZxqpUiLmaeHOF3Ts9D6xkLJUNGTVWeON4n_TR5tAN1fbOdsno41Di_e9ibMXnng=w600-h600-n-k-no",
+          "date": "1-5-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDjqqKN4QE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Mango Matcha",
+          "kgmid": "/g/11z7hzrllp",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMJiEXs7iNZRqwU_1EQaIZvWjenlFBH7EijTAVeA9KnEuHEjKhXEZCz7RHuuHIBDPPRdVpEB2kYN74x9R8HuYpzmOG2SxVccHG-N5Syis2klnAozMo9HShIpCrncdYJglsP4fo=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmMJiEXs7iNZRqwU_1EQaIZvWjenlFBH7EijTAVeA9KnEuHEjKhXEZCz7RHuuHIBDPPRdVpEB2kYN74x9R8HuYpzmOG2SxVccHG-N5Syis2klnAozMo9HShIpCrncdYJglsP4fo=w3024-h4032-n-k-no",
+          "date": "24-5-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKELCima6MurK0CA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Cookie Croissant and Vietnamese Iced Coffee",
+          "kgmid": "/g/11y6rmfbvt",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOM4EezF0viHIwuUtwh3UCQ0JqjVY_z4fiktxuIcz2fvol1HKrkCrkpThkO3qh2mGGeXpMUwzP4Re1jAkggo0b4jJi7nIjUpw-BbfjQrST6vHN-A1eOYM_uskaOS_jMBzki17RZ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmOM4EezF0viHIwuUtwh3UCQ0JqjVY_z4fiktxuIcz2fvol1HKrkCrkpThkO3qh2mGGeXpMUwzP4Re1jAkggo0b4jJi7nIjUpw-BbfjQrST6vHN-A1eOYM_uskaOS_jMBzki17RZ=w4096-h3072-n-k-no",
+          "date": "14-9-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDHiv7XOA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Chicken Sandwich and Flat White Coffee",
+          "kgmid": "/g/11yshkywlf",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNKRwha_a6SFVtjBrBYzYO4dttgIYa4cnwB1fGxSl-Uh1rlNSn8oMm3wM1xUHHpFr1erOHqJKJg9qPg-FtQ4xU05U3pFvKFB7RYCBjuzFoHPmCJPcxnd1HZxY4sM2dNJEdItpAkdn4DSlE=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNKRwha_a6SFVtjBrBYzYO4dttgIYa4cnwB1fGxSl-Uh1rlNSn8oMm3wM1xUHHpFr1erOHqJKJg9qPg-FtQ4xU05U3pFvKFB7RYCBjuzFoHPmCJPcxnd1HZxY4sM2dNJEdItpAkdn4DSlE=w2268-h4032-n-k-no",
+          "date": "28-11-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhDpGmEw0xc8MCbur3fR3Bip&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Slices of Toasted Bread",
+          "kgmid": "/g/11nw198md2",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmModpWMZS9z-ea3TRw8W35yp4I8lm9zg16forgCVbpeiQcSjIPLeHKnOVJ5Lcs3ODx9akfTvyD5xeksFNxdqDv5Vb-VPX50UdupbRPEBlGNajf_Fwm1vBh-ab5Ck8T3HAVYcJePa3EPL_4=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmModpWMZS9z-ea3TRw8W35yp4I8lm9zg16forgCVbpeiQcSjIPLeHKnOVJ5Lcs3ODx9akfTvyD5xeksFNxdqDv5Vb-VPX50UdupbRPEBlGNajf_Fwm1vBh-ab5Ck8T3HAVYcJePa3EPL_4=w3024-h4032-n-k-no",
+          "date": "10-9-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhD3zqrEqfPyUPtITKiF6c7z&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Artisan Sourdough Bread Loaf",
+          "kgmid": "/g/11zysc8b39",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNAEa-Ei5uuALTqmaYF8NRlspgd0BM8YuONKsvti8y7Z7ulQ93g60gdKNSkG4ObInvVJhPaSi5GH4LyD3-t7-YPxHyBqRY199-WDgxsnEzBtWwAmImICB9jL5ZrPptq-hAVQ6DdxknetxJZ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/ACvplmNAEa-Ei5uuALTqmaYF8NRlspgd0BM8YuONKsvti8y7Z7ulQ93g60gdKNSkG4ObInvVJhPaSi5GH4LyD3-t7-YPxHyBqRY199-WDgxsnEzBtWwAmImICB9jL5ZrPptq-hAVQ6DdxknetxJZ=w1170-h1910-n-k-no",
+          "date": "10-9-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhC4aN627pPkxd_ernLxA3Qu&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW34WoCjBWl2iyvNCh7BNlaINcCsIDCOIgeqGipMUqpqEeNVVPW3ZfXs_esORM-4W35WzxW26Iu7PidHh0oxSmIaItm_izTF2Aue5WlT0Vdd8FtwGftISqPB5kbWJrGrMcSV3JT_JWGDnpOldAtujvsolsEV8dpSf325CWTIr2SiqALDUiInq_c=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW34WoCjBWl2iyvNCh7BNlaINcCsIDCOIgeqGipMUqpqEeNVVPW3ZfXs_esORM-4W35WzxW26Iu7PidHh0oxSmIaItm_izTF2Aue5WlT0Vdd8FtwGftISqPB5kbWJrGrMcSV3JT_JWGDnpOldAtujvsolsEV8dpSf325CWTIr2SiqALDUiInq_c=w1200-h960-n-k-no",
+          "date": "27-9-2025",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=http%3A%2F%2Ft1.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcT2zpgrYZwUzQsa9aUwEV5u8JXF7po-S5GaIjc44GvwY7pDgtI6&engine=google_maps_photo_meta"
+        }
+      ]
+    },
+    "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/YRwbhA-7GbY?source=pa&opi=79508299&hl=en-US&gei=tTvGasbmJverqtsPlLL7QA&ahbb=1&sourceurl=https://www.google.com/maps/preview/place?pb%3D!1m20!1s0x3bae15d664ad13ff:0xdf17a8a9e5923ec1!3m12!1m3!1d0!2d0!3d0!2m3!1f0!2f0!3f0!3m2!1i1032!2i1080!4f13.1!4m2!3d0!4d0!5e0!9e0!11s!12m4!2m3!1i360!2i120!4i8!13m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!14m6!1sYVMV0b_a2GxfkbL6WupSH1Y:349!2s1i:0,t:6986,p:YVMV0b_a2GxfkbL6WupSH1Y:349!7e81!12e15!17sYVMV0b_a2GxfkbL6WupSH1Y:354!18e3!15m108!1m31!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m20!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!30b1!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!21m0!22m1!1e81!29m0!30m6!3b1!6m1!2b1!7m1!2b1!9b1!34m5!7b1!10b1!14b1!15m1!1b0!37i760%26hl%3Den",
+    "order_online_link": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFzdjFkNWpzdhgAOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=tTvGasbmJverqtsPlLL7QA&ei=tTvGasbmJverqtsPlLL7QA&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "service_options": [
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "highlights": [
+          "Great coffee",
+          "Great dessert",
+          "Great tea selection"
+        ]
+      },
+      {
+        "popular_for": [
+          "Breakfast",
+          "Solo dining",
+          "Good for working on laptop"
+        ]
+      },
+      {
+        "offerings": [
+          "Coffee",
+          "Quick bite",
+          "Small plates",
+          "Vegan options",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Breakfast",
+          "Brunch",
+          "Dessert",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Quiet",
+          "Trendy",
+          "Upscale"
+        ]
+      },
+      {
+        "crowd": [
+          "College students",
+          "Groups"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "delivery": true
+    },
+    "address": "24, 1st Main, 3rd Cross Road Defence Colony, Indiranagar, Domlur, Bengaluru, Karnataka 560071, India",
+    "country": "India",
+    "booking_link": "https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-domlur-bangalore?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+    "website": "https://stores.bluetokaicoffee.com/blue-tokai-coffee-roasters-indiranagar-domlur-cafe-indiranagar-bengaluru-436797/Home?utm_source=locator&utm_medium=googleplaces",
+    "phone": "+91 98101 57426",
+    "open_state": "Open · Closes 11 PM",
+    "plus_code": "XJ8P+VM Bengaluru, Karnataka, India",
+    "hours": [
+      {
+        "wednesday": "7 AM–11 PM"
+      },
+      {
+        "thursday": "7 AM–11 PM"
+      },
+      {
+        "friday": "7 AM–11 PM"
+      },
+      {
+        "saturday": "7 AM–11 PM"
+      },
+      {
+        "sunday": "7 AM–11 PM"
+      },
+      {
+        "monday": "7 AM–11 PM"
+      },
+      {
+        "tuesday": "7 AM–11 PM"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x3bae15d664ad13ff%3A0xdf17a8a9e5923ec1&engine=google_maps_posts",
+    "posts": [
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipN5cvPaxMrPIN1oeyYt6f8kfvwKcvC6SGDfYLgQ=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKELaerdvs44Xv-wE&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "Pujo is a time for good food, good company, and a little extra reason to celebrate. We’re bringing something new to the table this season. 😌✨\n\nGondhoraj Spritzer, Iced Jaggery Latte, Peri Peri Tofu Bites, Peri Peri Chicken Bites, Pesto Meatballs on Toast, and Mishti Doi Tart — crafted especially for Kolkata, now serving this Pujo. 💙\n\n#bluetokaiinkolkata #pujoseason #kolkatamenulaunch #bluetokaibrews #durgapujavibes",
+        "date": "13 hours ago"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOwvgmeAFFQX7-PHlVhOk2Pm476W0Xylhteb1st=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEKSesZ7slaT2jAE&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "This October, we’re reading about sisterhood in all its forms — bonds that weather change, and women finding strength, comfort, and courage in one another.\n\nOur friends at Bahrisons in Delhi and Hyderabad, Atta Galatta in Bengaluru, and Pagdandi in Pune are sharing their picks for the month.\n\nReading along? Tell us in the comments about a book that made you think of the women in your life, or tag us in your current read with #BTBookClub.",
+        "date": "3 days ago"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMJVFDbs2e-n8_hP1iKllCYnr5uBwL-GQhyKJ0B=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEOfkipqemrCKPw&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "Specialty coffee can sometimes feel like it comes with a few too many rules. \n\nWe’ve always wanted to make it more inviting, leave plenty of room to experiment, and help you find what tastes good to you. \n\nThis International Coffee Day, leave the rules behind and have some fun with your coffee. ☕\n\n#internationalcoffeeday #bluetokaicoffeeroasters #specialtycoffee #losetherecipe #havefunwithcoffee",
+        "date": "4 days ago"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipOlkRMoPUKtvNsKrZn9Jag2iDgmfh2IY8jCwzqL=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEMChl6vL6OqLRQ&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "The city’s getting ready, and so are we. ✨\n\nKolkata, come by and savour flavours inspired by a city in celebration. We’ve put together a few special treats just for Pujo, and can’t wait to share them with you and your loved ones.\n\nSee you around the table!\n\n#bluetokaiinkolkata #kolkatacoffee #prepujovibes #calcuttacoffeeculture #festiveseasonvibes",
+        "date": "4 days ago"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipP-lM99jv-WryJxcRCGTWLfm91xCem8M5LB77ab=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEOC_lI6S7du7Pw&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "October is bringing eight more stories, questions, and rabbit holes to Grounds for Thought.\n\nWe’ll get into parenting in the age of AI, why we buy what we buy, the story of India’s Constitution, what the body of a goddess can tell us about touch — and four more conversations waiting to be unpacked.\n\nEight lectures. Two cities. One more month of asking better questions.\n\nDelhi & Bangalore. Registration link in bio. ☕",
+        "date": "7 days ago"
+      },
+      {
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKENe6q4OVl5rqOg&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "Wherever the day takes you, take good coffee with you. 🕺\n\n#bluetokaieasypour #specialtycoffee #coffeeonthego",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipMN2uLenF3Yor5DxX-_SJX_4voQhL2PtokQf5k4=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEJKm7OzB5YTIEw&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "Swipe to peel back the layers and see what it takes to get to the heart of your cup. ☕\n\n#bluetokaicoffeeeducation #coffeecherryanatomy #coffeecherry #specialtycoffee #allaboutcoffee",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPMukL6aS0tT1b7OzrimqGAbSUZmRv0KfIV3_cQ=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEMeC2Z6dwYb9OQ&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "You know that one brewing tip you’ve heard a hundred times but still swear by? 👀\n\nDrop yours below. ☕\n\n#bluetokaibrews #brewingtips #peopleofbluetokai #coffeecommunity",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipN7SQmz172oAvlyHiODmc7Qeeijhq5Gi_n1jP6Q=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEM3xxOziqfPl3AE&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "Little things happening around our cafés that make us stop and notice. 🪄\n\n#peopleofbluetokai #bluetokaimoments #littlethingsinlife #momentsaroundcoffee #trial",
+        "date": "Sep 23, 2026"
+      },
+      {
+        "media": "https://lh3.googleusercontent.com/geougc/AF1QipPytp_MRQd0R6l-8q1WRzEUOpxGlhXTuT7ckIY_=h400-no",
+        "post_link": "https://search.google.com/local/posts?q=Blue+Tokai+Coffee+Roasters+%7C+Indiranagar,+Domlur&ludocid=16075502842576780993&lpsid=CIHM0ogKEMC-6sSc0vTdpAE&source=sh/x/loc/post&lsig=AB86z5XUYWzAQUk_vbfoPPmmWhWi",
+        "description": "Little things happening around our cafés that make us stop and notice. 🪄\n\n#peopleofbluetokai #bluetokaimoments #littlethingsinlife #momentsaroundcoffee #bluetokaicommunity",
+        "date": "Sep 22, 2026"
+      }
+    ],
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-LYvLnqj8A33QZPvPfSE7y4p-y4lGNlXWLvmIfwxphWh0eO3uqBEW6jT-2ScfEUVgcMcoCu4qme1COdNbQXt9mOIK1-QvZroVkFnrlmjGBHbkQrE6Lo73ujlj1VU2sgiIN3dislyAsCbB=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/gFkaqXicHcRLcoIwAADQE0XAMNh2xgUwVJlSPlVAXRJCYswHSEA5Zdfexhnf4j3_qTG9_rIsTuGKKEU4njQekZIGS7NCSlik1wBpoC1__5cfawmS85zIgX34EBaXfM67Q7RZ3B4sLt-l_FQns4i7-6OnNbVxBqchiGqPHcH6gLqorAj6RSqc3EFgJ8zatClO5lNk8Y8Divkyqur2LUcu2C7YN7dijLxEbeDEOHOqcq3JNU5he9V88XXYBNu7Y9s2oO8RkC-2Xkfl"
+      },
+      {
+        "title": "Latest",
+        "last_updated": "5 days ago",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngIK7b76hIrYwKCK7JfdfofTcU-Dg_UCNe_gK_78Zc9MVjDjhd7p-CudiH_W-FUreNCRzZuyME_jfjbZYgeiTny3q-6NnjgFbZvoQ-O_tCS3rsavmFwSu7vMg5wgPTgmhObVg1lpFWqIaw=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/FvuB_3icHcTRboIwFADQL7qCIbPbkj0sdURGQKcgkZdGSrm1gRZpoXE_uef9zZKdh_P7I50b7WsQ9DJaoTHYi9mKiRvthHYrboYARwvcgg3ed8dDUWlMUtKQjUymi09pSj67tjNdwUvYIitpLhimjDzX_CU7q62SLRmBzu1txyqIy0nk9Phdz4_sg6lONfUFxa3Qj-gOm1wrjJt6MV-wZ46eoslelyH2p5ksGT55PBQ4yH1zxnU_xtU9ufo3vw7DEOT_HPQf3DNI6g"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZJqeXfwucMksr99TX6phuYHqchnVyHwI8vs1FxMoafQgBsbYoJN3hQorE7m6MKsG2feVKum-iMtqwt4m3ZBOYSQ3c5DDpBJC6aVYtUiXmVvsE50Bt6V5x2qmzqEMBPWXQLnmi3QIZ1rE=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/jFUVInicHcRBcoIwFADQE0XACNbOdGEqLWLTGqsR2NlMIExNQvhB1EN239t0pm_xfn-U9x08BsFZ4UljbXOWA8heWOOl8RNhddB0gAQgCJbZbrs_6ip3sqjHQdBv6BeLfZF0aigzJ5Tht2xcP1wgerlSe6pZQ-CrtPk7Vsz26VwndAOv01ryzaBRS70b_UzjinyUnwyLeLXqSP6cnHjpD22h-QXSOCQ-4fF16vTdpZRsjwV7M7rFbF1Fffo0RmEYIvW_QOYPCuxICw"
+      },
+      {
+        "title": "Menu",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxWGOgVHJwJSUBa4yVIJuhs6z66AAT2qRg67SNcH5LBeGIayHJawyEoQ3gIoeBAEn5Ou3jKP3ihfyYqSPzgcAHXCbQnFUredjmVwbbBBo6-M0Ekc7yt2BfnikSahO6UKjsFlhBg4--oM6G=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/rEEXo3icHcTNDoIgAADgJ0Iti7a2DtBMtB8t0-qohJAZVOCMXrJzb9PWd_i-H2HMXU9dtxW-w5XiLes0e1IlDZPGoerm8rsGVAPtIrJL9wf5OoQJL0jcx1mOy5EtorgTGr4hRGg_fOw4nGQbSsYrzMKotCQuexuorc8jxTAK5Djp_GaZ-hdR29MjS9-cInKcV1u5yJ_s3NyKvqowVhCsveBKJ9YMcS0v16wUCcyXjV60AvMRAGoNw1k_8DwPiP8UyB-FL0b8"
+      },
+      {
+        "title": "Food & drink",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9RL6rW7antDx4-3ND-jhofpcwuizKeHAIsIBMVgpiqaXjvseMXXvsJtrNNd1vh7Pu6NnCUh1zI0kmbTBCVhgHFYRA41byyhDnUHDJnCQ96INDaRvc0MFIcg0tMiOsINvvd2hXF9xjI8z5=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/UpZeyXicHcTLcoIwFADQL4qEqlg60wWSYYgtqWV80CXGmAtqQrkhKj_Zdf-mMz2L8_sDznX4EgQXmE60tfqiBlS9tMYp4ybSXgPdIZFIMEjycr3Zn-PyPer3i9o4dp-RqWCkBXvq5G1oxjeVJxz5stjprvmuq9ajKqrK48r1QhxDD4v1EAmTbiEcOT1fD5tlugOdZ19lMgsPjwcws83ZyqSfccQFq0svaZFxqakrmg_kwvvjE1RZfG_58zh_vYWUUgL_S2L-APJPR9c"
+      },
+      {
+        "title": "Vibe",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrUkJ3PVjx9WoZgslHbGWzIpBN_cxWSRYt5SlP16D1gcyNnKpeGc7n0b7SYbJccmb8B6M0maeo070U_WpGIMmawPCx1ouOhR-6vbDeGwrDqMlxiFLE653LNzXa8emVLR8LjeS8Tu4XBE0u=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/kM-IzHicHcTdboIwGADQJ6qUMIGZeDGGQx0gAbW6G0O_NGXaP2kZzJfc9d5myc7F-f3pnDN24XmiC2Zcay7YYFkPWjmm3Ay09LixCCyy3su6rvbk1h9u26A6Xqdnoj-4FWuakcfGJOUFJtLUZzdvROWHqc_hu1TvhmUQKUyj5ky3AJLGSVhg2TKNI3y4EJNtCtmO1evk62HX1Sj8oinLxj69F2L6fMtX4TzIy8epjZk85nWcX1kT74enU7LCw3L0Mcao-x-Q-gPIwEcl"
+      },
+      {
+        "title": "Iced coffee",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkFyOXwc5tynAoKFXXmEHN95dsKVT2AavOUJO5NzEIf-1H51ePK_UJP63d5wJ9FVUzIOcqFFb739whgsnvZYqMSNjl43DVg_hM8W1bYM8VdnirEMtrJArajTS5hDfHFCWLsV3DFerWfTGf=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/PkwGlHicHcTNboIwAADgJ6qAtVNMdiCDDmH8ZEJBL0ZLaXXQattJ9CV33tss2Xf4fn-EtVezdpxBwBlXig_s2zBNlbRM2hlVo8OvBlADjBPEn2XVjF_4UbQTRfYhA5Xith2jOPdRZ1JSzYPjvaiTAuXPaNMDL0YeK9NDnZQvsENT4mNSPzcFvWF8WkJ_EtzI-353y7b5ZVjAkPCDyFaNd9plK9LJs44yq5NAHy_VFomwj_Fb82EIDDHTTV-996-T57ouEP9TIP8AS8xGdg"
+      },
+      {
+        "title": "Cappuccino",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJ_XZ3PtABBIPT1qhdWsfJS2nITlnmZ5uLEU_Xdq8t8aiWqiegD_bcrn5LZx48wNuDZqqh7doPkOoq8tIjTppWn0m2ilU5LCxisLk0hdkOql6K0qrxaIHaFG6_fQZrTpdmUkM=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/F5h1A3icHcpJDoIwAADAFyF1QYmJB3dRVNQSSC8EW6RIV1oiL_QP_kbjZU7zeVNrlZm6LqPDXillyYrWFA2WwhbC9rDkbqmMg41j3PnuGsGE77MUDSM7XyyCCPY1JYl57G8DEUAmOPLacB1nKdG-9fMq0VVRrrI7boQXom7kv07tCmlNJ0RG9Vn-VvCESiUC8EHFYi9cdpUJa0BJfdZsfAC66fJgl2-24-xxQQ1UhMf1cfbqAwAc-hc74guUGUYi"
+      },
+      {
+        "title": "Cookie",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-uA6wEIfKIqFCvC4NycrmpjvougJ70ZQw3TRVfEp3rWTfGNNB-0jtxcqeFLY-fwOxZ077Yk3xx8Neoa0a-s6ovXXBufDadiiddJ40Bk_cJll-5-RIuD-YEh36W0aHV4cNvb88re8oUy5W=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/_c2EXnicHcTRboIwFADQL7pylyIQEx9EUWFL3QgT8cVgaUFFirQF_Mo9-zdLPA_n9Vdp3aqZZdUVmZRSljU3indMNpo3esLk3SpbBUyBshbb-DtJGzALZwhC8Rk-1st-adMn6-7ttZemjFw8_gwkifciaEmXJmJDqQ941SN78PVXBmLYjUd03exGxtGjXOaYg3Jkfzj4Rqzy4nIpishG_3ZiUV3DFOLQrCALKuKkmG_3NqP92fM67snf5zSdDx-ICNV7Bs0_nINGtA"
+      },
+      {
+        "title": "Coffee",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnURssS49IM00GOOjYYZdNt7BZ6P6cXxkNwz0UXjkTVUXN1Pex4plBoRXAiYMG_M-kg1Z4Khtp3Bcxw-QVRfjnuiLFdZq_pu3PWLTS5r0cjKHOFfyYo1gxZ6_EHjjo2kMbip6XIMxpzx5y2=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/41v-_3icHcTRroIgAADQLyIxzVbbfcitshVqpoW8uEWGogE3cFI_eZ_v37R1Hs7_X2OM0kvH6RtvwqRkfT3o-kmlMLUwEyofDlMaUA20s4qyNL-IItP65C92CMJtkvCyJLfYzEMSpAHFtovHNyww7_JzgWM3ra2v-lBmeNWWaFsh0DGX-PvGKC-kdgTHc3bnYmgPmxv5rdTgpZdDfpo9IeX7KNncX6V0mSVBtY44l9MOXVsV4B2y6m1nr-nP6EIIQfOdAvEBlrNH2g"
+      },
+      {
+        "title": "Croissant",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHOcVRci96RFNZYfOzDr_hqFwRzJ8_t2N7myOUJ_YsZkO8_JCDOsMUp-XrOw0iazwC0yYLwg4n4vzGJnr0fkrxzC2Tia5kjxLhnVSHepIbE6Vme2b2aVhiNebhuSGFPSaDRBkacLKfFVA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/OIEuaHicHcTBboIwAADQL6pUps4t2cHBEBmjpmgnXkhpCmVIYW1dtR_pfX9j4ju8_5swZtSvnncST5NmGJoTP2uu2CANl2bCht5rRg2YBtpbxXi7--5jxAhm7csCR9mxqJELVSl-I4tdsiyNnz33V7RPykIfO7QskyBE-ms_goNCFrbU2QBei9Q2Mzn7c-tEKlh36uICf9fSefdzSYUkeczHTfWxID33K58S0Wa8Eud8HW1zGuL3jrL0s47I6s1OIYRAPGZA3gHOH0hK"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmSFnSF6-voUc3QNDUAQn0WCdtTJx1H3Aqge5GzgM45737AnTD3C6gBxlnmD3SDP45wTfdM13xmLWULFnzAH3wIGvVBOk_gCLh7PtmolsU2kPVzOzVk_6QGbkUJU15m_maXKsvEiRoLezb0=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/5_Gg23icHcTBboIwAADQL6oUK5CYeKggMIcThMJuRGtXFmirawXSn_Ts35jsHd7r2Rlz02vHGTq04ErxgT00-6NKGibNgirh8JsGVAPt4PSUV40oY1nGPhgVoaj4igguJGzCq6n2s5sifOfMSyw_rLwABVhWEQp9vp0HKSJURvnKm6qf68FFs8gaksXS4hRNH8lYb499y8OsC3Ij1KDJss9re7R13_pFcunJnrieaMX5-1OPu9-Typi9wM3kQghB9z8F8g33qkZx"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L5SfyfCIbGku6Wa_Z_Qy2A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=318.08786&pitch=0&thumbfov=100",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/Z4DIGXicHc1NCgIhGADQ27hLHfuzQCJaRNAmWgRtxDFn_MgZJb9xmut0q24T9C7wvh-PmPKWsYwv57CAGxO8XcizZGgbYxucSZCpjR0rFUM_dHVvIOyS6SM81Hl5babmcKqPz2F1M_quL5PYE1trG8D1qDqTss6ForEIwdE2ZTIqIRbEK7GRZDKjmleScrmWK5IArVec_J8mFlVx_gPvsDoi"
+      }
+    ],
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Service is good here so cafe lovers can surely check this place out.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVcv9CVOyqVDURNr69sey6gWmqYNatmYeATAPclv-daoHLFnV2sXQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Quality coffee, serene atmosphere, polite and friendly staff.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUpYYUqiOT0b8MKQU9w3_4p3opg2ls5RoGTLT9jsF3JEGwRSGBFfQ=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"They were really soft and the filling inside tasted good.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWmNIu96Lipd9ifLrIIo9v3vus9aiYWBtFA0igKnlM81gg9pUSDSA=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Jijo George Varghese",
+          "rating": 5,
+          "contributor_id": "104808452483212840414",
+          "user_review_count": 106,
+          "user_photo_count": 453,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXr2Hz0azifmjcF-j2U5xAw8x1T5DaTbzbbYx49fkfNM_6CwiY=s120-c-rp-mo-ba12-br100",
+          "description": "We ordered Vietnamese Iced Coffee which has been always good. Then we ordered Classic Chocolate Cake which was okay.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aSlJWSkdhamM1V0Robk5HUnJVa1kzWkZoNGIzYxAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOmZJRVJGajc5WDhnNGRrUkY3ZFh4b3c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO6evTybHVhc8-WSLXMuAjaQkdBs0bY23WnM2fgzrtMd-onjsIi_Ky7vMR2Ol62C491mE6Zakihm3kkCzfBHeK70vkw_REEGpXhKT-xfCWvMYKk1veh0n9gvPaGrVEk0ShnfkccmzSsvtU_=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMKtwnyJ6nSWZBsfu-yvDXF68i6swSxoUor3GzNV7oOhkJlaZZWZJBw0ZDjH1mDj0XQkQqMOhkyr9lEx0WwRyeo5LWR627RML9sxSJDFVSC4D03o5fThkvO2vOtjZTkT-n0d9uccJNF6Fk=k-no"
+            }
+          ],
+          "date": "a month ago",
+          "date_iso8601": "2026-08-26T09:43:29+00:00"
+        },
+        {
+          "username": "Pavan Chand Nahar",
+          "rating": 3,
+          "contributor_id": "105190802099235086671",
+          "user_review_count": 539,
+          "user_photo_count": 683,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKmDAkF7vSs1laY3NZC7p9G0SiKiNJfFoCQrFxuC9CGLnkbEw=s120-c-rp-mo-ba12-br100",
+          "description": "The food served tasted very old, the Bagel seemed at least 12 to 14 days old, so did the marble cake also seemed older. Dry and the smell of old bread. The servers seemed cold and not very responsive.  They need to improve in both customer relations and food quality. Name made will help them if don't maintain the good service and product.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwc1dVRjVSSE4wWjBka1dXMXBlbkJDWTB0NWQzYxAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOlpsWUF5RHN0Z0dkWW1penBCY0t5d3c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPo7Pd0QM1A8tTsicYmbZDc1myL9w5w6wOFZnE8q4GcycXCFIctyPhtaRkgNSZKolUy6fBauQGHhakGT3HyqNfrPmIXIlrK2SPGzMH9yQd-toGwpZXhso8PrvMv-qkykwtzdsImMQ5TXrvH=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMoYct1pASkK13EDPLwIMkDM1QN478iccg6uapSSoOdK9RF7MQ1G0_-V7shIn8k1x6VedprDpkZoBtPQpARCG9YxOBfaBRumlWtE_PVGg2rXkvdW_XTVfUOf44mt1-vYfSiWmgPljtKXVdv=k-no"
+            }
+          ],
+          "date": "9 months ago",
+          "date_iso8601": "2025-12-28T11:18:44+00:00"
+        },
+        {
+          "username": "Akhilesh Challa",
+          "rating": 5,
+          "contributor_id": "110026971696406149384",
+          "user_review_count": 56,
+          "user_photo_count": 35,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV_kv3YS6x_EIWib6G0eL28c-fIVAhwb3oYvyIPGoQKiYDsR8tVEQ=s120-c-rp-mo-ba12-br100",
+          "description": "⭐️⭐️⭐️⭐️⭐️\n\nHave visited Blue Tokai multiple times, and their Vietnamese Iced Coffee is absolutely awesome! The taste is consistently rich, smooth, and perfectly balanced every single time.\n\nGreat place to relax with a refreshing coffee. Highly recommended for all coffee lovers! ☕️👌",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5eVh6TkVVM3BtYzBsT1R6TkxSV2RPTkY5UlVYYxAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOk9yXzNEU3pmc0lOTzNLRWdONF9RUXc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMZdjfoDUk9z7wcYEwiCm00mYL-2IsO92t152H_r7tmeFNb68j06--8ONHVOE7yyYM_TEoajQkSPLtnzAUweueHCgDnzDkhT0D_ZAO4CM96_7_7s6VnACYTtbpjIWnezXQQ-L0IH4HM-vnR=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN54-nME3wqZx8lAIMheSW365mw91K4CPtY4y7pKerZw3VsKlabZ-WCxu4JAgFQ0ghfjscTMXV8WhsQhJISA8JctVlFGpYkR5m1R95KB1oZVtKYM7DsWSXFfaZhnBmA8iq1up43UlgmR4o=k-no"
+            }
+          ],
+          "date": "7 months ago",
+          "date_iso8601": "2026-02-20T14:38:31+00:00"
+        },
+        {
+          "username": "Tabish Ali",
+          "rating": 5,
+          "contributor_id": "100961606857247611465",
+          "user_review_count": 11,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXj1leCnha-s59QeypEKkq1bQ33nBCmchd2kLZ-eLn2WnOQmC8-iQ=s120-c-rp-mo-br100",
+          "description": "Special thanks to Miss Hoorya and I ordered a cappuccino, and it was absolutely perfect. Smooth, rich, and at the ideal temperature. You can tell they actually care about the quality of their beans. Very welcoming atmosphere",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxTFJ5MHdiRkppZHpCeE5YRjBjRXc0YTBOdWJVRRAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOi1LRy0wbFJidzBxNXF0cEw4a0NubUE%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOMGrYGVkhc08Bb_5NOMnpGhgeAN6-_wGhmdnHJ_pebZ8Ab3FB_1joNGwjX4nsjFz-TJfUnNCy4HOKlVAXJKy1qa7WJ-9JlqmzGMIF24W4Q39Z1hpkaUrPrGddlGtZ6XqR9t3JaNWvw5QDh=k-no"
+            }
+          ],
+          "date": "2 months ago",
+          "date_iso8601": "2026-07-09T11:34:26+00:00"
+        },
+        {
+          "username": "Priyanka Ramesh",
+          "rating": 1,
+          "contributor_id": "102228592856949442472",
+          "user_review_count": 30,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLpqhX9qGXu6YMu5HLy_lPww1yVS88HfPQpoVxfBUooqRDf1g=s120-c-rp-mo-ba12-br100",
+          "description": "I placed an order for country sourdough at 8:30 pm on 3rd August. Received a loaf that expires on 4th August. Asked Vasudev from blue tokai to replace it with a fresher batch and his response is to simply use it past expiry by keeping in fridge. Else i have to visit store to exchange with fresh loaf because they don’t have any delivery person",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21kR2RqRmZPRzEyU3padGNVTnJSMkZDZWxCTVoxRRAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOmdGdjFfOG12SzZtcUNrR2FCelBMZ1E%7C%7C?hl=en-US",
+          "date": "a month ago",
+          "date_iso8601": "2026-09-03T15:52:28+00:00"
+        },
+        {
+          "username": "Prithvi Vinay",
+          "rating": 3,
+          "contributor_id": "115739947213590019497",
+          "user_review_count": 19,
+          "user_photo_count": 0,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVxQiJVD0gfiGVVNJdA1tkNfY-nmr5aYnZ8MnOOSV25zauvM5Usnw=s120-c-rp-mo-ba12-br100",
+          "description": "This place used to be my favorite. Great peaceful ambience good service good food as well.\nHowever offlate with the surge of online order the service to folks who come to the cafe are not priortised at all. In cafe orders take a minimum of 20 mins , neglect towards minor aspects like tissues or cutlery or glasses etc. I dont blame the staff cause they have too much to manage with online and cafe orders\nHence to the management do request to look into the matter if you would still like customers to drop by your cafe or should we also place online orders.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KZmNFcHBkekZCTjNWWFJEbHlSalJMYURrMFlXYxAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOmJfcEppdzFBN3VXRDlyRjRLaDk0YWc%7C%7C?hl=en-US",
+          "date": "3 months ago",
+          "date_iso8601": "2026-07-06T04:08:38+00:00"
+        },
+        {
+          "username": "Kumar Thilagam",
+          "rating": 5,
+          "contributor_id": "101096917246990264614",
+          "user_review_count": 2,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLAQOd349PtM1JBhzX7fjvO7kgTcazumU7z9H2q6YVaBclUSw=s120-c-rp-mo-br100",
+          "description": "Had Good and delicious vanilla bean hot  latte. good place for family and friends chill out .\nGood amphibians and friendly and helpfull staffs at indiranagar Blue tokai highly recommended.🥳",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsdk9Ea3dWREUyTjNoSlpWTXdlak5xVFhSUVRtYxAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOllvODkwVDE2N3hJZVMwejNqTXRQTmc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPODrKyHvdnhtvs2k7WBuIyNzqg-ZGozVDuG4lMWc3E6qty0QKjwAi2k0zE3HDe1vOMukfS_FRC_nZKVrjM5ciI1Ri257YPkIiP-r8c_s8l0CCvxMA-sgzUZ2ZcHTnLLVOM7_CJxMFY6kWL=k-no"
+            }
+          ],
+          "date": "6 months ago",
+          "date_iso8601": "2026-03-11T08:10:35+00:00"
+        },
+        {
+          "username": "vandana rao",
+          "rating": 1,
+          "contributor_id": "108395449482067175875",
+          "user_review_count": 18,
+          "user_photo_count": 10,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLgdQFaKJo0dZrqaJDBrYzneL964tFd3VeSLWEXugm9cPbjCA=s120-c-rp-mo-ba12-br100",
+          "description": "They serve you the Avocado Feta Sando with practically no Feta and the barest trace  elements of Avocado. You're essentially paying for cucumber tomatoes lettuce and milk bread.\nHome made sandwiches would score higher than what I got.\nThe iced Latte with date syrup was fine.\nWill not be going back though...sorry!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wUE9YUm5YM3B0VW1GWGMwMWlTbmxRV1RKMmFtYxAB!2m1!1s0x0:0xdf17a8a9e5923ec1!3m1!1s2@1:CAIQACodChtycF9oOnpPOXRnX3ptUmFXc01iSnlQWTJ2amc%7C%7C?hl=en-US",
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-25T13:07:38+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Third Wave Coffee",
+            "data_id": "0x0:0x8f551eb1dc8d5f05",
+            "data_cid": "10328195069702397701",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x8f551eb1dc8d5f05&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x8f551eb1dc8d5f05&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9702038,
+              "longitude": 77.6386734
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x8f551eb1dc8d5f05%218m2%213d12.9702038%214d77.6386734&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 2597,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPnAEr3ZYvc08B6EikezMWP__LFZULyIarCUACasiEupxes-NLTHeZtdrssgh-IRWwc30_m2KzA1sGX7tg8Xvi_sT5apwkHMOhXS2xo3movQqXU5g5zWRrIOK10joM3so4Ek4BNxyL3wn8=w146-h195-k-no",
+            "type": [
+              "Cafe",
+              "Coffee roastery",
+              "Coffee shop",
+              "Coffee store"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Blue Tokai Coffee Roasters - RR Nagar",
+            "data_id": "0x0:0x4ca3506d8b191d",
+            "data_cid": "21571664060553501",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x4ca3506d8b191d&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x4ca3506d8b191d&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9147616,
+              "longitude": 77.5211417
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x4ca3506d8b191d%218m2%213d12.9147616%214d77.5211417&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 303,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMVnQ7qLa_opUoqQM_bxWZTcRkvgHRitC3m3vxTGDm_61uNecEKuD5I3SK-3oqLtWvw2uI6qU0yhEx6V9gRFfUPXZpYWAMEKTn1vT_nH6PCFB1G3l57CgUF25T11SWiV7f2aNVDjg=w146-h195-k-no",
+            "type": [
+              "Cafe"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "tribal brew daily | Indiranagar",
+            "data_id": "0x0:0x6b40788efdd2d4f6",
+            "data_cid": "7728309516106913014",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x6b40788efdd2d4f6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x6b40788efdd2d4f6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9806136,
+              "longitude": 77.6409761
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x6b40788efdd2d4f6%218m2%213d12.9806136%214d77.6409761&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.8,
+            "reviews": 695,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMITvfmQv8L1Z4yABBSTe8gOBxqLG4TH-igdvvtnHp5NdOesmLDIYjr-2a5mBPjZku2X2e1iJ0gbj0I0UxX5wyp6zDyZ-6kwRhPCR6beaEXCGzSvGNtgiiHmJWC_4HLtt9skAYUNtU3rBG8=w156-h156-n-k-no",
+            "type": [
+              "Coffee shop",
+              "Bakery",
+              "Breakfast",
+              "Espresso bar",
+              "Health Food",
+              "Takeout Restaurant",
+              "Sandwich",
+              "Snack bar"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Blue tokai coffe",
+            "data_id": "0x0:0xf42db227fc26ecd7",
+            "data_cid": "17594915204010274007",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xf42db227fc26ecd7&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xf42db227fc26ecd7&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.888422199999999,
+              "longitude": 77.5855832
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xf42db227fc26ecd7%218m2%213d12.888422199999999%214d77.5855832&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 3,
+            "reviews": 2,
+            "thumbnail": "https://www.google.com/maps/vt/data=8LIrljpDKEp5EipzpVef0qeksv36b98sQlo6-67lrK_EjaAN8PyiHeolkKBs43jfeAZ9r7wlMGI24y9Ru-JX7xeH72HzyKNae_RPYKrWCSe4ajlY4G_88Uhq-ycRs_Ibh9Rbfs7H5WC-0Jy0Hp2thCMQ55MhG9k_",
+            "type": [
+              "Coffee shop"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Starbucks - Indiranagar",
+            "data_id": "0x0:0x5ea273c914eac556",
+            "data_cid": "6819140093268903254",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x5ea273c914eac556&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x5ea273c914eac556&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.970201,
+              "longitude": 77.63989400000001
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x5ea273c914eac556%218m2%213d12.970201%214d77.63989400000001&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.3,
+            "reviews": 6728,
+            "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMtZruxx9dvWlsTlI5e0Xv0ZyDqb9yztPzuM6zHBdV99lq0izr54DW01Gd7ReZUuCiJd87pzfbTNOyvRjx-X78CM8xUtT8ZDb_gItX7ri5OfmYsM8JLVVb2vJtKORlzPTZjSyFoha70_Cs=w156-h156-n-k-no",
+            "type": [
+              "Coffee shop",
+              "Cafe",
+              "Coffee store",
+              "Restaurant",
+              "Snack bar",
+              "Vegetarian cafe and deli"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "current_day": "wednesday",
+      "live_hash": {
+        "info": "A little busy",
+        "time_spent": "People typically spend 45 min to 4 hr here"
+      },
+      "graph_results": {
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 13
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 21
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 72
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 86
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 97
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 94
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 86
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 76
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 13
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 14
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 27
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 21
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 27
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 13
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 19
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54,
+            "live_busyness_score": 65,
+            "current": true
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 67
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 9
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 14
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 22
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 94
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 87
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 79
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 87
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 13
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 21
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 47
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 73
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 86
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 91
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 97
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 92
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 97
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ]
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OlIKUCJMQmx1ZSBUb2thaSBDb2ZmZWUgUm9hc3RlcnMgfCBJbmRpcmFuYWdhciwgRG9tbHVyIEJlbmdhbHVydSwgS2FybmF0YWthLCBJbmRpYSgC&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COlIKUCJMQmx1ZSBUb2thaSBDb2ZmZWUgUm9hc3RlcnMgfCBJbmRpcmFuYWdhciwgRG9tbHVyIEJlbmdhbHVydSwgS2FybmF0YWthLCBJbmRpYSgC&q=local+guide+program"
+  }
+}

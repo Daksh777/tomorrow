@@ -1,0 +1,618 @@
+{
+  "search_metadata": {
+    "id": "6ac63b19b917c7c59c66183d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/q1DRrIsRTZ_4LsjxS1sJ8ePBAfde6-_50WiX-R32e1Q/6ac63b19b917c7c59c66183d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/q1DRrIsRTZ_4LsjxS1sJ8ePBAfde6-_50WiX-R32e1Q/6ac63b19b917c7c59c66183d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/q1DRrIsRTZ_4LsjxS1sJ8ePBAfde6-_50WiX-R32e1Q/6ac63b19b917c7c59c66183d.json_with_pixel_position",
+    "created_at": "2026-10-07 12:29:13 UTC",
+    "processed_at": "2026-10-07 12:29:13 UTC",
+    "google_url": "https://www.google.com/search?q=events+this+week&oq=events+this+week&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/q1DRrIsRTZ_4LsjxS1sJ8ePBAfde6-_50WiX-R32e1Q/6ac63b19b917c7c59c66183d.html",
+    "total_time_taken": 8.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "events this week",
+    "location_requested": "Bengaluru,Karnataka,India",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "events this week",
+    "total_results": 535000,
+    "time_taken_displayed": 0.68,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "events_results": [
+    {
+      "title": "'MICS' Music Marathon",
+      "type": "World music concert",
+      "date": "Oct 10",
+      "time": "3:00 PM",
+      "address": [
+        "Samarthanam Auditorium- Managed by Theatrenama",
+        "HSR Layout"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6ac63b19b917c7c59c66183d/images/ErwmFPOztlvrdksro-Pjdn6bBRahn2nJgxp8X5_c_Bg.jpeg"
+    },
+    {
+      "title": "Rajesh Krishnan Live in Concert",
+      "type": "Kannada playback music",
+      "date": "Oct 10",
+      "time": "6:30 PM",
+      "address": [
+        "Phoenix Mall Of Asia",
+        "Bengaluru, India"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6ac63b19b917c7c59c66183d/images/hB8wv0bTAH_130hI0kSqHgwgomK6dB5yI8oP4eg6bP4.jpeg"
+    },
+    {
+      "title": "Enter the Blue Dimension Futuristic Blue Night",
+      "type": "Futuristic themed party",
+      "date": "Oct 9",
+      "time": "9:30 PM",
+      "address": [
+        "BudBee Restobar 104",
+        "Koramangala"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6ac63b19b917c7c59c66183d/images/PKOfdyHDQw0AlbXJPwtVT4aNiK79rGnQXT8wDr9LBw4.jpeg"
+    },
+    {
+      "title": "Bangalore Open Air",
+      "type": "Heavy metal festival",
+      "date": "Oct 10",
+      "time": "1:00 PM",
+      "address": [
+        "Open Air Event Venue Bangalore",
+        "Kannuru, India"
+      ],
+      "thumbnail": "https://serpapi.com/searches/6ac63b19b917c7c59c66183d/images/gh9VK7wWtUmgi6oom_0HzfE3S9fJr3Ait2UwflwCSZs.jpeg"
+    },
+    {
+      "title": "Kampai",
+      "type": "Underground club music",
+      "date": "Oct 10",
+      "time": "8:00 PM",
+      "address": [
+        "THE HUMMING TREE",
+        "Bengaluru, India"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlHsnF02IBTdc97uEii5rskm_FtFnAuX2W2Vs_JcnhDjc17OOTmkDA2uOTvIwMTwt7oDsW6bhMNyd8kpU"
+    },
+    {
+      "title": "Bollywood Melodies With The High Octave",
+      "type": "Bollywood music performance",
+      "date": "Oct 10",
+      "time": "6:00 PM",
+      "address": [
+        "Bloom Creative Zone - Akshayanagar",
+        "Bengaluru, India"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZL-qn2aZKWm-rRUDPXSx6-n4YXHEspmM7B9Fn2AViE3s6l-quwZH9Ep0ZGP5YOs0bGZvieok0O53-EVE"
+    },
+    {
+      "title": "DJ Kamra",
+      "type": "Telugu club night",
+      "date": "Oct 9",
+      "time": "7:30 PM",
+      "address": [
+        "BudBee Restobar 104",
+        "Koramangala"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJte_bF4i1lpQ35Ae_kU5PWzmlfK9jOgtn77b5FtIPDwirm0ruTZHiUpJdOH4QEbC1APVWAjOEzhmoLfI"
+    },
+    {
+      "title": "Blackstratblues",
+      "type": "Hamilton",
+      "date": "Oct 9",
+      "time": "8:00 PM",
+      "address": [
+        "Hamilton",
+        "Mahadevapura"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT66Uce8vmINlJL6Dky7Y3M4241ClemAZXDNLYIhBQCeYxINrbUbRfFCAWvEy2Ul2vgVmLH82tgsBYDtA0"
+    },
+    {
+      "title": "R.Haribabu",
+      "type": "Soul Staje - Creative Venue and Studio Space",
+      "date": "Oct 9",
+      "time": "5:00 PM",
+      "address": [
+        "Soul Staje - Creative Venue and Studio Space",
+        "HSR Layout"
+      ],
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrsy5zdjjyry7y3EDT788O36S47ZaJIriubuQvVOWS-LrlZbzi9-nYi7xI6NraE6uZX6tCABL8Z4Uu0Qg"
+    },
+    {
+      "title": "Derek & The Cats",
+      "type": "Jazz-funk and hip-hop concert",
+      "date": "Oct 8",
+      "time": "8:00 PM",
+      "address": [
+        "THE HUMMING TREE",
+        "Bengaluru, India"
+      ],
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmUNqiemT-pIMWLa8z11DHUPtc9dYPS9BevpFZ4MLoDnzuH49P5HSYgNxqhv664CImZqbWfs2jeOn-fwE"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What events are happening in Bangalore this weekend?",
+      "type": "ai_overview",
+      "page_token": "TvyvAXicHZBNjtowAEY1l5nlEAeYFiRUycUhWHWYeOI48aZy7ICDnR9BSkJ2c4U5w5yqpynq4ts-vfd9fLmqsX-fPk3fd9f1bDYMw8upbU-ufFFtPZPXe6NmSjpXSGXXr99ewY-j2qCbgj8vCsas69It9RKEgbR7rwzjuUDimFt8LUM6Me44bVKgfCoTm45pQ1tmV-_xJLD0CNDW-GQuSDapO0_wTW2DuvDFlW3hqFwQ60ZDnUFOPGAif9wzpt_kDkRiCpa5E5bVYxU7TDNvsVQ2ukgEIsVNf2DfxzJdLXUTtOKM7om_2mneWxKYG2G9KazOYxDt8-y0eLgcCrasolQMhK12JHUDATAhD9ZjlbSUl2f4JwPm_RBGDTIa01CEeYYzybRX8K77xXWsE8pIGMAItlXM6KTOrmYpWhBrMgkwlmhk2sct4QIyi0fRoEmgR1P8fFS3zfz5_9eb38e6X3eX9vQPkuCNIg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TvyvAXicHZBNjtowAEY1l5nlEAeYFiRUycUhWHWYeOI48aZy7ICDnR9BSkJ2c4U5w5yqpynq4ts-vfd9fLmqsX-fPk3fd9f1bDYMw8upbU-ufFFtPZPXe6NmSjpXSGXXr99ewY-j2qCbgj8vCsas69It9RKEgbR7rwzjuUDimFt8LUM6Me44bVKgfCoTm45pQ1tmV-_xJLD0CNDW-GQuSDapO0_wTW2DuvDFlW3hqFwQ60ZDnUFOPGAif9wzpt_kDkRiCpa5E5bVYxU7TDNvsVQ2ukgEIsVNf2DfxzJdLXUTtOKM7om_2mneWxKYG2G9KazOYxDt8-y0eLgcCrasolQMhK12JHUDATAhD9ZjlbSUl2f4JwPm_RBGDTIa01CEeYYzybRX8K77xXWsE8pIGMAItlXM6KTOrmYpWhBrMgkwlmhk2sct4QIyi0fRoEmgR1P8fFS3zfz5_9eb38e6X3eX9vQPkuCNIg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoYXQgZXZlbnRzIGFyZSBoYXBwZW5pbmcgaW4gQmFuZ2Fsb3JlIHRoaXMgd2Vla2VuZD8iLCJsayI6IkdoMWlZVzVuWVd4dmNtVWdaWFpsYm5SeklIUm9hWE1nZDJWbGEyVnVaQSIsImJzIjoiYzVXUHZRN0NNQXlFeFpxSnVSTGdBWGdBZnVZS05pYkd6bTVqSlJiVXFXamF3TnZUdEJWQ1NFZ3ctdnlkZmFjeXRjc3NlcUNXeE5lQU53S0xWVVhDWW9BRmppZ0dyNjZUdmVVYUF0R0ZSS2ViUlRMTFg2dlJfRTZvczFyMWh6bnFCRUozRHptYmdZWENsZkZCVTZXYmRiSU1QNERxb09hWjVjS09pNGc3alk4WThpU2FzYzhVdmhBY0NWV09aYkh3M0xKbkdnb2JGMTg0NlFiWGlJYnlzLXctMlliX2ZkUEpFdyIsImlkIjoiZmNfSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTRfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoYXQgZXZlbnRzIGFyZSBoYXBwZW5pbmcgaW4gQmFuZ2Fsb3JlIHRoaXMgd2Vla2VuZD8iLCJsayI6IkdoMWlZVzVuWVd4dmNtVWdaWFpsYm5SeklIUm9hWE1nZDJWbGEyVnVaQSIsImJzIjoiYzVXUHZRN0NNQXlFeFpxSnVSTGdBWGdBZnVZS05pYkd6bTVqSlJiVXFXamF3TnZUdEJWQ1NFZ3ctdnlkZmFjeXRjc3NlcUNXeE5lQU53S0xWVVhDWW9BRmppZ0dyNjZUdmVVYUF0R0ZSS2ViUlRMTFg2dlJfRTZvczFyMWh6bnFCRUozRHptYmdZWENsZkZCVTZXYmRiSU1QNERxb09hWjVjS09pNGc3alk4WThpU2FzYzhVdmhBY0NWV09aYkh3M0xKbkdnb2JGMTg0NlFiWGlJYnlzLXctMlliX2ZkUEpFdyIsImlkIjoiZmNfSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTRfNSJ9"
+    },
+    {
+      "question": "What is the next big event coming up?",
+      "type": "ai_overview",
+      "page_token": "G3vKBnicHdBbbqMwFABQzWb62RAomSFSVJUEkzKJI9_Y18BPBebV2MS0oU3J3-xlVtXVjDRnCefPX_N61t8_PrtxHC7L2ex6vd631ramvle2nxWX6axmqjCmLJReLn4u5o-NWkUfz-H67TlkYhhwA85xzvwCja2jkSmN-0Pc6UOk3DruKMTBes_JbyCdcyDggqY564NB6JHmJ1xwGdidNLvSQ1ds4SKEP9IbHPMUm4obL70xJ4_hvT63U6kvD6WwLjXIDlFnIfYbEV0nvqls6eAXRsbPZZAJL3MqRASHvsE86YFkUx2bI9fBSDkmmXnyxQlBSva1S_M1prTjGzzjpkJOEi_qqgS2-TZLk7QQlVPKYdjJilUcxH5LQhraVybgpk6mF07wsb_liSTtVETDdDQQKkEIul2GOhESfz0wdteoz5V39_9z9dL043J4t-0_s1CCmA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=G3vKBnicHdBbbqMwFABQzWb62RAomSFSVJUEkzKJI9_Y18BPBebV2MS0oU3J3-xlVtXVjDRnCefPX_N61t8_PrtxHC7L2ex6vd631ramvle2nxWX6axmqjCmLJReLn4u5o-NWkUfz-H67TlkYhhwA85xzvwCja2jkSmN-0Pc6UOk3DruKMTBes_JbyCdcyDggqY564NB6JHmJ1xwGdidNLvSQ1ds4SKEP9IbHPMUm4obL70xJ4_hvT63U6kvD6WwLjXIDlFnIfYbEV0nvqls6eAXRsbPZZAJL3MqRASHvsE86YFkUx2bI9fBSDkmmXnyxQlBSva1S_M1prTjGzzjpkJOEi_qqgS2-TZLk7QQlVPKYdjJilUcxH5LQhraVybgpk6mF07wsb_liSTtVETDdDQQKkEIul2GOhESfz0wdteoz5V39_9z9dL043J4t-0_s1CCmA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5leHQgYmlnIGV2ZW50IGNvbWluZyB1cD8iLCJsayI6IkdpUjNhR0YwSUdseklIUm9aU0J1WlhoMElHSnBaeUJsZG1WdWRDQmpiMjFwYm1jZ2RYQSIsImJzIjoiYzVXUHZRN0NNQXlFeFpxSnVSTGdBWGdBZnVZS05pYkd6bTVqSlJiVXFXamF3TnZUdEJWQ1NFZ3ctdnlkZmFjeXRjc3NlcUNXeE5lQU53S0xWVVhDWW9BRmppZ0dyNjZUdmVVYUF0R0ZSS2ViUlRMTFg2dlJfRTZvczFyMWh6bnFCRUozRHptYmdZWENsZkZCVTZXYmRiSU1QNERxb09hWjVjS09pNGc3alk4WThpU2FzYzhVdmhBY0NWV09aYkh3M0xKbkdnb2JGMTg0NlFiWGlJYnlzLXctMlliX2ZkUEpFdyIsImlkIjoiZmNfSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTRfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG5leHQgYmlnIGV2ZW50IGNvbWluZyB1cD8iLCJsayI6IkdpUjNhR0YwSUdseklIUm9aU0J1WlhoMElHSnBaeUJsZG1WdWRDQmpiMjFwYm1jZ2RYQSIsImJzIjoiYzVXUHZRN0NNQXlFeFpxSnVSTGdBWGdBZnVZS05pYkd6bTVqSlJiVXFXamF3TnZUdEJWQ1NFZ3ctdnlkZmFjeXRjc3NlcUNXeE5lQU53S0xWVVhDWW9BRmppZ0dyNjZUdmVVYUF0R0ZSS2ViUlRMTFg2dlJfRTZvczFyMWh6bnFCRUozRHptYmdZWENsZkZCVTZXYmRiSU1QNERxb09hWjVjS09pNGc3alk4WThpU2FzYzhVdmhBY0NWV09aYkh3M0xKbkdnb2JGMTg0NlFiWGlJYnlzLXctMlliX2ZkUEpFdyIsImlkIjoiZmNfSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTRfNSJ9"
+    },
+    {
+      "question": "Which event is today in India?",
+      "type": "ai_overview",
+      "page_token": "GP6pcXicHdDPboIwAIDx7GU8DirqgolZZLZFMnAWCtjLQlv8MwpURavc9i57qj3NzO7f4Zfv-0cdmur3Kd93nT5PLcsY87xr250qn0VbW8X53ghLFErxQlTTycsEvG7FDJ6N99Yab021ThfEjoGbSxDY3JYNx-4HU6rnzvxeIvea2O6S-XtYUom5EwIGx_WGuob30Vfoiy5Johtv9IYo1idDjdM8XWT4FlDMlhylhmcaCmxG2YI5EWqdFAJnk8tjAhgpcOeEafAe1ugiGzQOM_3ovCKuWE6VzHgWHEMl-nUmR5sK-SsMHraUhf08RraCspJ7oaQmDumKuuoY8ECE1kZQaOND4BE_uq8yloTY9HLonmRC2pJGF-LDPgZIFQt6ozk7JDAgg624zpzB_7HZ57bupvrU7v4ABbJ4sg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GP6pcXicHdDPboIwAIDx7GU8DirqgolZZLZFMnAWCtjLQlv8MwpURavc9i57qj3NzO7f4Zfv-0cdmur3Kd93nT5PLcsY87xr250qn0VbW8X53ghLFErxQlTTycsEvG7FDJ6N99Yab021ThfEjoGbSxDY3JYNx-4HU6rnzvxeIvea2O6S-XtYUom5EwIGx_WGuob30Vfoiy5Johtv9IYo1idDjdM8XWT4FlDMlhylhmcaCmxG2YI5EWqdFAJnk8tjAhgpcOeEafAe1ugiGzQOM_3ovCKuWE6VzHgWHEMl-nUmR5sK-SsMHraUhf08RraCspJ7oaQmDumKuuoY8ECE1kZQaOND4BE_uq8yloTY9HLonmRC2pJGF-LDPgZIFQt6ozk7JDAgg624zpzB_7HZ57bupvrU7v4ABbJ4sg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoaWNoIGV2ZW50IGlzIHRvZGF5IGluIEluZGlhPyIsImxrIjoiR2gxM2FHbGphQ0JsZG1WdWRDQnBjeUIwYjJSaGVTQnBiaUJwYm1ScFlRIiwiYnMiOiJjNVdQdlE3Q01BeUV4WnFKdVJMZ0FYZ0FmdVlLTmliR3ptNWpKUmJVcVdqYXdOdlR0QlZDU0Vndy12eWRmYWN5dGNzc2VxQ1d4TmVBTndLTFZVWENZb0FGamlnR3I2NlR2ZVVhQXRHRlJLZWJSVExMWDZ2Ul9FNm9zMXIxaHpucUJFSjNEem1iZ1lYQ2xmRkJVNldiZGJJTVA0RHFvT2FaNWNLT2k0ZzdqWThZOGlTYXNjOFV2aEFjQ1ZXT1piSHczTEpuR2dvYkYxODQ2UWJYaUlieXMtdy0yWWJfZmRQSkV3IiwiaWQiOiJmY19JRHZHYXJXaUd0bWppLWdQdTRUMHFBNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoaWNoIGV2ZW50IGlzIHRvZGF5IGluIEluZGlhPyIsImxrIjoiR2gxM2FHbGphQ0JsZG1WdWRDQnBjeUIwYjJSaGVTQnBiaUJwYm1ScFlRIiwiYnMiOiJjNVdQdlE3Q01BeUV4WnFKdVJMZ0FYZ0FmdVlLTmliR3ptNWpKUmJVcVdqYXdOdlR0QlZDU0Vndy12eWRmYWN5dGNzc2VxQ1d4TmVBTndLTFZVWENZb0FGamlnR3I2NlR2ZVVhQXRHRlJLZWJSVExMWDZ2Ul9FNm9zMXIxaHpucUJFSjNEem1iZ1lYQ2xmRkJVNldiZGJJTVA0RHFvT2FaNWNLT2k0ZzdqWThZOGlTYXNjOFV2aEFjQ1ZXT1piSHczTEpuR2dvYkYxODQ2UWJYaUlieXMtdy0yWWJfZmRQSkV3IiwiaWQiOiJmY19JRHZHYXJXaUd0bWppLWdQdTRUMHFBNF81In0%3D"
+    },
+    {
+      "question": "What activities are going on around me this weekend?",
+      "type": "ai_overview",
+      "page_token": "7UctT3icHdBdbtowAABg7TJ9LHFCOoGEqoXYpNAaxfFP7JfJ2ASaONiCjABvu8LOsFPtNJt2ge_h-_nbfZ66P19-HYchXOaTyTiOzwfvD27_bHw_0Zf7yUyMdm6nTTd_-foCXhuzgFeTLc8mK1kIPCdRxRjQAvzQK9vIxLpdq6ToQ02AARTOrjvnNjJWHhdmrIp1ainiCnLGoLxtWdjg_LjBcEgs5YBEvCp5JiV7S7ZMaYO6dE8REqshlQm_q7wcRZ9S2kVT0h4S0auzjexSQfRQNVmafjhrioGAtytZOYIhmOIYnGpA7jh3d5WEnCE-te5jqCLwTum3G0czTjjJSZHFshtalWSFEOtGdj6uommqAW5VN7tUhSXwaNekUIWs17VmNtqJEN6FLS0l7KNAGc78Z8nIw7SuZxHq__kPCoLfc56rgsc4V2-VcKctdx1pubfjU2Oui-Tp__Xie9MP83D2h7_JLYr_",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7UctT3icHdBdbtowAABg7TJ9LHFCOoGEqoXYpNAaxfFP7JfJ2ASaONiCjABvu8LOsFPtNJt2ge_h-_nbfZ66P19-HYchXOaTyTiOzwfvD27_bHw_0Zf7yUyMdm6nTTd_-foCXhuzgFeTLc8mK1kIPCdRxRjQAvzQK9vIxLpdq6ToQ02AARTOrjvnNjJWHhdmrIp1ainiCnLGoLxtWdjg_LjBcEgs5YBEvCp5JiV7S7ZMaYO6dE8REqshlQm_q7wcRZ9S2kVT0h4S0auzjexSQfRQNVmafjhrioGAtytZOYIhmOIYnGpA7jh3d5WEnCE-te5jqCLwTum3G0czTjjJSZHFshtalWSFEOtGdj6uommqAW5VN7tUhSXwaNekUIWs17VmNtqJEN6FLS0l7KNAGc78Z8nIw7SuZxHq__kPCoLfc56rgsc4V2-VcKctdx1pubfjU2Oui-Tp__Xie9MP83D2h7_JLYr_",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoYXQgYWN0aXZpdGllcyBhcmUgZ29pbmcgb24gYXJvdW5kIG1lIHRoaXMgd2Vla2VuZD8iLCJsayI6IkdqTjNhR0YwSUdGamRHbDJhWFJwWlhNZ1lYSmxJR2R2YVc1bklHOXVJR0Z5YjNWdVpDQnRaU0IwYUdseklIZGxaV3RsYm1RIiwiYnMiOiJjNVdQdlE3Q01BeUV4WnFKdVJMZ0FYZ0FmdVlLTmliR3ptNWpKUmJVcVdqYXdOdlR0QlZDU0Vndy12eWRmYWN5dGNzc2VxQ1d4TmVBTndLTFZVWENZb0FGamlnR3I2NlR2ZVVhQXRHRlJLZWJSVExMWDZ2Ul9FNm9zMXIxaHpucUJFSjNEem1iZ1lYQ2xmRkJVNldiZGJJTVA0RHFvT2FaNWNLT2k0ZzdqWThZOGlTYXNjOFV2aEFjQ1ZXT1piSHczTEpuR2dvYkYxODQ2UWJYaUlieXMtdy0yWWJfZmRQSkV3IiwiaWQiOiJmY19JRHZHYXJXaUd0bWppLWdQdTRUMHFBNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUycEJURmRQVlRNd1VHcENTVUpMWDB0M05uQmZlV1pVT0dOT1JrVXRjazVqVkRST1IwZG5abGR2TVcwM1NIcEhhbVJmTkdoTmFqa3haVlJVZVROaFdtdExYMHRhVkRGWFNpMVdkWEZKYlhWa1kyMHpVVWx6TW1Wclp4SVhTVVIyUjJGeVYybEhkRzFxYVMxblVIVTBWREJ4UVRRYUlrRkVjM0k1WmxSclYwVm9Sek5OY0ZkNU5WYzFiV2htWDJkeWJWcFhXbHAxZVVFIiwiZmN2IjoiMyIsImVpIjoiSUR2R2FyV2lHdG1qaS1nUHU0VDBxQTQiLCJxYyI6IkNoQmxkbVZ1ZEhNZ2RHaHBjeUIzWldWckVBQjlnUlljUHciLCJxdWVzdGlvbiI6IldoYXQgYWN0aXZpdGllcyBhcmUgZ29pbmcgb24gYXJvdW5kIG1lIHRoaXMgd2Vla2VuZD8iLCJsayI6IkdqTjNhR0YwSUdGamRHbDJhWFJwWlhNZ1lYSmxJR2R2YVc1bklHOXVJR0Z5YjNWdVpDQnRaU0IwYUdseklIZGxaV3RsYm1RIiwiYnMiOiJjNVdQdlE3Q01BeUV4WnFKdVJMZ0FYZ0FmdVlLTmliR3ptNWpKUmJVcVdqYXdOdlR0QlZDU0Vndy12eWRmYWN5dGNzc2VxQ1d4TmVBTndLTFZVWENZb0FGamlnR3I2NlR2ZVVhQXRHRlJLZWJSVExMWDZ2Ul9FNm9zMXIxaHpucUJFSjNEem1iZ1lYQ2xmRkJVNldiZGJJTVA0RHFvT2FaNWNLT2k0ZzdqWThZOGlTYXNjOFV2aEFjQ1ZXT1piSHczTEpuR2dvYkYxODQ2UWJYaUlieXMtdy0yWWJfZmRQSkV3IiwiaWQiOiJmY19JRHZHYXJXaUd0bWppLWdQdTRUMHFBNF81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "kVskEHiczVZZkqJIGD7AnKN5qVIWtUorgujIBLTArRAt1BcDgUoQEBUU9a3vMveYe8xpJk1csFyqux86JiPI9c9_y__z88ffvjv1_v3rHyeOZ9ELTSdJkkdhiHw7b4YBbUSbqUl_hH60MJ3vy6Vv88mDAGRVFuShGrwvh1w1svoK25BixwxKjlWrLgbaWhkHndlApRyft6cU8vllRG1WfIEyI56hbJeXxVXNWOhuLQ4mbg69LYtdZg6KFDHIj8ZGZE-wP-tJRI9o3HnfCiJe5KO8Pc1vSnVXF4DR-xjkOYYr5Nu0EWAB8Acb0gCQ8CghgG4KYQH5Z5TtFHWIrmODh5vqcatJJLGsQC6A8LZziNxypb1uII5qb80WnhipgHDPG-80FQBM7UOIiCpB-KmAshpIf4xMuiOrXtuE6VA_7WTf-aY64nBWSU9EMAHC4cK5LXzufPZjl26AYFmcgK4j9e74vXuqugxKHlClqzFkW1WTZsl-3hR1HAFtIVy8DD1e4IGlXdMxyWQR7Wpa6FaY8PVtnWvlBjKTg72WMpcLTu7DLfaR4QSANsdYzg8Ny7ZGzoj5TtYsx5aYSuG5_EjAZEZHNEVZNIWR1qlt-29hbOYbecgeoCQcU_upVCS8vl4DCKbCV-Eg7HJ0mRu5k5FIb8Kd-hrZz2jqtVFaCIfUwWecPlg9c-3gCLiE0qlO1JO4dCwroX409yle1FSPV6SzcjMvolEudjASmwe7adnuy1K6sCRIkDh9MJacnSKSlx4eMZQkEVTVnQYRndQIQEGydnqZ1FW4K04Hw3a_2De47zNQctEeAxONhBIqgGiT99IqOrwPwL_-Wd_U68AFA_zp9_B-r8EvgbQL8YCZTxA4g05haJQGc1S24hpajfWwIXJ1j1GsZQyuQyUMxr_APOb_C0wpLwl7XroNJmL1KzDhDl3hJXKmHrsjL9XTk_ltMEWkVva8JGV4yQaf5S_B5J3ApImkPiC6wUu_DibpDpjUO2CqXweTdwtMKS9lwNRruOe8lH3YEy-dwPQbvAR_k5cItux0OCep5QTdJKsqG7KCENeDcGiPS5Lojd35ujCviJL-NVl9BPFLYFj-48i1XiCnxBvrcYQ3whfboua8vbKncfQQO270kNi2RwX-IuQZ43n1NJzDRn2IJFaGq6Znd4f6a2k85TpWS9jmjC333kdct98Hr-2u72y35bfZNGbaSyWsBy12U4sT09IczVNKxf6wpjWQnlvHRqXDaov3Aah15z3srusoWlBmY1bXysx6wmhbp-ttrMCevlZQtWQCzuJek56PiF8RL7VbOjbSnoqAwkFENs9SwcLkcQUVEWipQEeYR4QBUHElqkKIvwR_T_iPBOTwE1CRaYzsaMWXLbvyXBxb1lOpaFuVChWgeDPjiwUqmi549j9mv1T_",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kVskEHiczVZZkqJIGD7AnKN5qVIWtUorgujIBLTArRAt1BcDgUoQEBUU9a3vMveYe8xpJk1csFyqux86JiPI9c9_y__z88ffvjv1_v3rHyeOZ9ELTSdJkkdhiHw7b4YBbUSbqUl_hH60MJ3vy6Vv88mDAGRVFuShGrwvh1w1svoK25BixwxKjlWrLgbaWhkHndlApRyft6cU8vllRG1WfIEyI56hbJeXxVXNWOhuLQ4mbg69LYtdZg6KFDHIj8ZGZE-wP-tJRI9o3HnfCiJe5KO8Pc1vSnVXF4DR-xjkOYYr5Nu0EWAB8Acb0gCQ8CghgG4KYQH5Z5TtFHWIrmODh5vqcatJJLGsQC6A8LZziNxypb1uII5qb80WnhipgHDPG-80FQBM7UOIiCpB-KmAshpIf4xMuiOrXtuE6VA_7WTf-aY64nBWSU9EMAHC4cK5LXzufPZjl26AYFmcgK4j9e74vXuqugxKHlClqzFkW1WTZsl-3hR1HAFtIVy8DD1e4IGlXdMxyWQR7Wpa6FaY8PVtnWvlBjKTg72WMpcLTu7DLfaR4QSANsdYzg8Ny7ZGzoj5TtYsx5aYSuG5_EjAZEZHNEVZNIWR1qlt-29hbOYbecgeoCQcU_upVCS8vl4DCKbCV-Eg7HJ0mRu5k5FIb8Kd-hrZz2jqtVFaCIfUwWecPlg9c-3gCLiE0qlO1JO4dCwroX409yle1FSPV6SzcjMvolEudjASmwe7adnuy1K6sCRIkDh9MJacnSKSlx4eMZQkEVTVnQYRndQIQEGydnqZ1FW4K04Hw3a_2De47zNQctEeAxONhBIqgGiT99IqOrwPwL_-Wd_U68AFA_zp9_B-r8EvgbQL8YCZTxA4g05haJQGc1S24hpajfWwIXJ1j1GsZQyuQyUMxr_APOb_C0wpLwl7XroNJmL1KzDhDl3hJXKmHrsjL9XTk_ltMEWkVva8JGV4yQaf5S_B5J3ApImkPiC6wUu_DibpDpjUO2CqXweTdwtMKS9lwNRruOe8lH3YEy-dwPQbvAR_k5cItux0OCep5QTdJKsqG7KCENeDcGiPS5Lojd35ujCviJL-NVl9BPFLYFj-48i1XiCnxBvrcYQ3whfboua8vbKncfQQO270kNi2RwX-IuQZ43n1NJzDRn2IJFaGq6Znd4f6a2k85TpWS9jmjC333kdct98Hr-2u72y35bfZNGbaSyWsBy12U4sT09IczVNKxf6wpjWQnlvHRqXDaov3Aah15z3srusoWlBmY1bXysx6wmhbp-ttrMCevlZQtWQCzuJek56PiF8RL7VbOjbSnoqAwkFENs9SwcLkcQUVEWipQEeYR4QBUHElqkKIvwR_T_iPBOTwE1CRaYzsaMWXLbvyXBxb1lOpaFuVChWgeDPjiwUqmi549j9mv1T_"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Events for week of March 30, 2026",
+      "link": "https://muddybottomsatv.com/events/week/2026-04-01/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVBg7rV9bSdd4gI_r0MTb2g0mIU6I91wLVWzj7Q-FROC05uWUn9iYQt8-ORnw9JmTmgWLI0zmKTpKsQDlsjw0PxUKjek5MRmrmF7AR7gzJWXZrRZ551yC4MQpmNkxKXmtBxHj9X9V4qIlx&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://muddybottomsatv.com › events › week",
+      "favicon": "https://serpapi.com/images/i/UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoQAA0AAsBMJZgCdAYpHqy4k0debNiAAP76rR8RbNAX1-C6l72uy1VXFRoMFK1mWqNQIz7VtOoavXmqOVEN_wZYM2USSsgzDc9Bu2E1I8Cd4BZjagX6RQBdxeQ1-e0D27J7PQE2AofWW2eyopLiIkiKS2Y17CAA.webp",
+      "date": "Apr 1, 2026",
+      "snippet": "Week of Events · Monday, March 30, 2026 · Tuesday, March 31, 2026 · Wednesday, April 1, 2026 · Thursday, April 2, 2026 · Friday, April 3, 2026.",
+      "snippet_highlighted_words": [
+        "Monday, March 30, 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Week of Events · Monday, March 30, 2026 · Tuesday, March 31, 2026 · Wednesday, April 1, 2026 · Thursday, April 2, 2026 · Friday, April 3, 2026.",
+          "source_info_link": "https://muddybottomsatv.com/events/week/2026-04-01/",
+          "icon": "https://serpapi.com/images/i/UklGRogAAABXRUJQVlA4IHwAAABwAgCdASoQAA0AAsBMJZgCdAYpHqy4k0debNiAAP76rR8RbNAX1-C6l72uy1VXFRoMFK1mWqNQIz7VtOoavXmqOVEN_wZYM2USSsgzDc9Bu2E1I8Cd4BZjagX6RQBdxeQ1-e0D27J7PQE2AofWW2eyopLiIkiKS2Y17CAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkJnN3JWOWJTZGQ0Z0lfcjBNVGIyZzBtSVU2STkxd0xWV3pqN1EtRlJPQzA1dVdVbjlpWVF0OC1PUm53OUptVG1nV0xJMHptS1RwS3NRRGxzancwUHhVS2plazVNUm1ybUY3QVI3Z3pKV1haclJaNTUxeUM0TVFwbU5reEtYbXRCeEhqOVg5VjRxSWx4EgQaAggAGp8FEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPsECAAQABgAIAAqIAoGZXZlbnRzFTLZxEAaCmFjdGl2aXRpZXMaBWV2ZW50KgsKBHRoaXMVAAAAACqpAQoEd2VlaxVhbJpAGgZ3ZWVrJ3MaB3dlZWtlbmQaBndlZWtseRoFd2Vla3MaEGdtO2RhdGU7MjAyNjEwMDQaEGdtO2RhdGU7MjAyNjEwMDUaEGdtO2RhdGU7MjAyNjEwMDYaEGdtO2RhdGU7MjAyNjEwMDcaEGdtO2RhdGU7MjAyNjEwMDgaEGdtO2RhdGU7MjAyNjEwMDkaEGdtO2RhdGU7MjAyNjEwMTAyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWQmc3clY5YlNkZDRnSV9yME1UYjJnMG1JVTZJOTF3TFZXemo3US1GUk9DMDV1V1VuOWlZUXQ4LU9Sbnc5Sm1UbWdXTEkwem1LVHBLc1FEbHNqdzBQeFVLamVrNU1SbXJtRjdBUjdnekpXWFpyUlo1NTF5QzRNUXBtTmt4S1htdEJ4SGo5WDlWNHFJbHg6LzxiPkV2ZW50czwvYj4gZm9yIDxiPndlZWs8L2I-IG9mIE1hcmNoIDMwLCAyMDI2QrkBV2VlayBvZiBFdmVudHMgJm1pZGRvdDsgPGI-TW9uZGF5LCBNYXJjaCAzMCwgMjAyNjwvYj4gJm1pZGRvdDsgVHVlc2RheSwgTWFyY2ggMzEsIDIwMjYgJm1pZGRvdDsgV2VkbmVzZGF5LCBBcHJpbCAxLCAyMDI2ICZtaWRkb3Q7IFRodXJzZGF5LCBBcHJpbCAyLCAyMDI2ICZtaWRkb3Q7IEZyaWRheSwgQXByaWwgMywgMjAyNi5KBHRoaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkJnN3JWOWJTZGQ0Z0lfcjBNVGIyZzBtSVU2STkxd0xWV3pqN1EtRlJPQzA1dVdVbjlpWVF0OC1PUm53OUptVG1nV0xJMHptS1RwS3NRRGxzancwUHhVS2plazVNUm1ybUY3QVI3Z3pKV1haclJaNTUxeUM0TVFwbU5reEtYbXRCeEhqOVg5VjRxSWx4EgQaAggAGp8FEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPsECAAQABgAIAAqIAoGZXZlbnRzFTLZxEAaCmFjdGl2aXRpZXMaBWV2ZW50KgsKBHRoaXMVAAAAACqpAQoEd2VlaxVhbJpAGgZ3ZWVrJ3MaB3dlZWtlbmQaBndlZWtseRoFd2Vla3MaEGdtO2RhdGU7MjAyNjEwMDQaEGdtO2RhdGU7MjAyNjEwMDUaEGdtO2RhdGU7MjAyNjEwMDYaEGdtO2RhdGU7MjAyNjEwMDcaEGdtO2RhdGU7MjAyNjEwMDgaEGdtO2RhdGU7MjAyNjEwMDkaEGdtO2RhdGU7MjAyNjEwMTAyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWQmc3clY5YlNkZDRnSV9yME1UYjJnMG1JVTZJOTF3TFZXemo3US1GUk9DMDV1V1VuOWlZUXQ4LU9Sbnc5Sm1UbWdXTEkwem1LVHBLc1FEbHNqdzBQeFVLamVrNU1SbXJtRjdBUjdnekpXWFpyUlo1NTF5QzRNUXBtTmt4S1htdEJ4SGo5WDlWNHFJbHg6LzxiPkV2ZW50czwvYj4gZm9yIDxiPndlZWs8L2I-IG9mIE1hcmNoIDMwLCAyMDI2QrkBV2VlayBvZiBFdmVudHMgJm1pZGRvdDsgPGI-TW9uZGF5LCBNYXJjaCAzMCwgMjAyNjwvYj4gJm1pZGRvdDsgVHVlc2RheSwgTWFyY2ggMzEsIDIwMjYgJm1pZGRvdDsgV2VkbmVzZGF5LCBBcHJpbCAxLCAyMDI2ICZtaWRkb3Q7IFRodXJzZGF5LCBBcHJpbCAyLCAyMDI2ICZtaWRkb3Q7IEZyaWRheSwgQXByaWwgMywgMjAyNi5KBHRoaXMiAhABSABYAGgA",
+      "source": "Muddy Bottoms ATV & Recreation Park",
+      "read_more_link": "https://muddybottomsatv.com/events/week/2026-04-01/#:~:text=Mon%2030&text=Subscribe%20to%20calendar&text=Subscribe%20to%20calendar&text=Subscribe%20to%20calendar&text=Subscribe%20to%20calendar&text=Subscribe%20to%20calendar"
+    },
+    {
+      "position": 2,
+      "title": "THIS WEEK AT SYCAMORE & OAK 🌳✨ There's always ...",
+      "link": "https://www.facebook.com/sycamoreandoak/posts/this-week-at-sycamore-oak-theres-always-something-happening-at-sycamore-oak-and-/984765737925224/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESywEB6zswFTnrCRGPZtU8W5zn3BAOe1jMR2m8ae8oz0nc3pI7SZpvQv_ztiQm0V2RvG-QOduQHqxxO6AaPF1tJOpfpvp5n4oN5k_oMTKdrPLfdwMi3elrpPe1erwRdPSoYLjBISpDLGV2_E-wTCR-DvNfLoNzJ-PkU3IJdY-OoK7Oo1mEzd9cWkJP0mFLVjpW8A4-MDZfCawO0GrFkAk2FG4tVpfI2CB_bhAZvr0YF3nba0SBoPqBgvaCw_rn_RpkWOpBNRE93pETUI3z7g&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECEMQAQ&uoh=1",
+      "displayed_link": "10+ reactions · 1 month ago",
+      "thumbnail": "https://serpapi.com/searches/6ac63b19b917c7c59c66183d/images/mYHAgwQxATxP-nKWP2_AiWAXeQRS-pPed__XpqW1xDU.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Don't miss these events happening this week: ‍♂️Tuesday, September 10th: Yoga on the Green - Level One Experience with Beth with local yoga ...",
+      "snippet_highlighted_words": [
+        "events",
+        "week"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Don't miss these events happening this week: ‍♂️Tuesday, September 10th: Yoga on the Green - Level One Experience with Beth with local yoga ...",
+          "source_info_link": "https://www.facebook.com/sycamoreandoak/posts/this-week-at-sycamore-oak-theres-always-something-happening-at-sycamore-oak-and-/984765737925224/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZUbnJDUkdQWnRVOFc1em4zQkFPZTFqTVIybThhZThvejBuYzNwSTdTWnB2UXZfenRpUW0wVjJSdkctUU9kdVFIcXh4TzZBYVBGMXRKT3BmcHZwNW40b041a19vTVRLZHJQTGZkd01pM2VscnBQZTFlcndSZFBTb1lMakJJU3BETEdWMl9FLXdUQ1ItRHZOZkxvTnpKLVBrVTNJSmRZLU9vSzdPbzFtRXpkOWNXa0pQMG1GTFZqcFc4QTQtTURaZkNhd08wR3JGa0FrMkZHNHRWcGZJMkNCX2JoQVp2cjBZRjNuYmEwU0JvUHFCZ3ZhQ3dfcm5fUnBrV09wQk5SRTkzcEVUVUkzejdnEgQaAggAGqoGEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAhAYIABAAGAAgACogCgZldmVudHMVsX0BQBoKYWN0aXZpdGllcxoFZXZlbnQqCwoEdGhpcxUAAAAAKqkBCgR3ZWVrFbpReEAaBndlZWsncxoHd2Vla2VuZBoGd2Vla2x5GgV3ZWVrcxoQZ207ZGF0ZTsyMDI2MTAwNBoQZ207ZGF0ZTsyMDI2MTAwNRoQZ207ZGF0ZTsyMDI2MTAwNhoQZ207ZGF0ZTsyMDI2MTAwNxoQZ207ZGF0ZTsyMDI2MTAwOBoQZ207ZGF0ZTsyMDI2MTAwORoQZ207ZGF0ZTsyMDI2MTAxMDKgAi9nb3RvP3VybD1DQUVTeXdFQjZ6c3dGVG5yQ1JHUFp0VThXNXpuM0JBT2Uxak1SMm04YWU4b3owbmMzcEk3U1pwdlF2X3p0aVFtMFYyUnZHLVFPZHVRSHF4eE82QWFQRjF0Sk9wZnB2cDVuNG9ONWtfb01US2RyUExmZHdNaTNlbHJwUGUxZXJ3UmRQU29ZTGpCSVNwRExHVjJfRS13VENSLUR2TmZMb056Si1Qa1UzSUpkWS1Pb0s3T28xbUV6ZDljV2tKUDBtRkxWanBXOEE0LU1EWmZDYXdPMEdyRmtBazJGRzR0VnBmSTJDQl9iaEFadnIwWUYzbmJhMFNCb1BxQmd2YUN3X3JuX1Jwa1dPcEJOUkU5M3BFVFVJM3o3ZzpHVEhJUyA8Yj5XRUVLPC9iPiBBVCBTWUNBTU9SRSAmYW1wOyBPQUsgVGhlcmUmIzM5O3MgYWx3YXlzIHNvbWV0aGluZyAuLi5CrAFEb24mIzM5O3QgbWlzcyB0aGVzZSA8Yj5ldmVudHM8L2I-IGhhcHBlbmluZyB0aGlzIDxiPndlZWs8L2I-OiDigI3imYLvuI9UdWVzZGF5LCBTZXB0ZW1iZXIgMTB0aDogWW9nYSBvbiB0aGUgR3JlZW4gLSBMZXZlbCBPbmUgRXhwZXJpZW5jZSB3aXRoIEJldGggd2l0aCBsb2NhbCB5b2dhJm5ic3A7Li4uSgR0aGlzIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqACL2dvdG8_dXJsPUNBRVN5d0VCNnpzd0ZUbnJDUkdQWnRVOFc1em4zQkFPZTFqTVIybThhZThvejBuYzNwSTdTWnB2UXZfenRpUW0wVjJSdkctUU9kdVFIcXh4TzZBYVBGMXRKT3BmcHZwNW40b041a19vTVRLZHJQTGZkd01pM2VscnBQZTFlcndSZFBTb1lMakJJU3BETEdWMl9FLXdUQ1ItRHZOZkxvTnpKLVBrVTNJSmRZLU9vSzdPbzFtRXpkOWNXa0pQMG1GTFZqcFc4QTQtTURaZkNhd08wR3JGa0FrMkZHNHRWcGZJMkNCX2JoQVp2cjBZRjNuYmEwU0JvUHFCZ3ZhQ3dfcm5fUnBrV09wQk5SRTkzcEVUVUkzejdnEgQaAggAGqoGEgAaAggBIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAhAYIABAAGAAgACogCgZldmVudHMVsX0BQBoKYWN0aXZpdGllcxoFZXZlbnQqCwoEdGhpcxUAAAAAKqkBCgR3ZWVrFbpReEAaBndlZWsncxoHd2Vla2VuZBoGd2Vla2x5GgV3ZWVrcxoQZ207ZGF0ZTsyMDI2MTAwNBoQZ207ZGF0ZTsyMDI2MTAwNRoQZ207ZGF0ZTsyMDI2MTAwNhoQZ207ZGF0ZTsyMDI2MTAwNxoQZ207ZGF0ZTsyMDI2MTAwOBoQZ207ZGF0ZTsyMDI2MTAwORoQZ207ZGF0ZTsyMDI2MTAxMDKgAi9nb3RvP3VybD1DQUVTeXdFQjZ6c3dGVG5yQ1JHUFp0VThXNXpuM0JBT2Uxak1SMm04YWU4b3owbmMzcEk3U1pwdlF2X3p0aVFtMFYyUnZHLVFPZHVRSHF4eE82QWFQRjF0Sk9wZnB2cDVuNG9ONWtfb01US2RyUExmZHdNaTNlbHJwUGUxZXJ3UmRQU29ZTGpCSVNwRExHVjJfRS13VENSLUR2TmZMb056Si1Qa1UzSUpkWS1Pb0s3T28xbUV6ZDljV2tKUDBtRkxWanBXOEE0LU1EWmZDYXdPMEdyRmtBazJGRzR0VnBmSTJDQl9iaEFadnIwWUYzbmJhMFNCb1BxQmd2YUN3X3JuX1Jwa1dPcEJOUkU5M3BFVFVJM3o3ZzpHVEhJUyA8Yj5XRUVLPC9iPiBBVCBTWUNBTU9SRSAmYW1wOyBPQUsgVGhlcmUmIzM5O3MgYWx3YXlzIHNvbWV0aGluZyAuLi5CrAFEb24mIzM5O3QgbWlzcyB0aGVzZSA8Yj5ldmVudHM8L2I-IGhhcHBlbmluZyB0aGlzIDxiPndlZWs8L2I-OiDigI3imYLvuI9UdWVzZGF5LCBTZXB0ZW1iZXIgMTB0aDogWW9nYSBvbiB0aGUgR3JlZW4gLSBMZXZlbCBPbmUgRXhwZXJpZW5jZSB3aXRoIEJldGggd2l0aCBsb2NhbCB5b2dhJm5ic3A7Li4uSgR0aGlzIgIQAUgAWABoAA",
+      "source": "Facebook · Sycamore & Oak",
+      "read_more_link": "https://www.facebook.com/sycamoreandoak/posts/this-week-at-sycamore-oak-theres-always-something-happening-at-sycamore-oak-and-/984765737925224/#:~:text=Don't%20miss%20these%20events%20happening,%26%20Body%20Wellness%20from%206%3A00%2D7%3A00pm!"
+    },
+    {
+      "position": 3,
+      "title": "Week Calendar",
+      "link": "https://samuelslibrary.librarymarket.com/events/week/2027/08/17",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVC34noQqF4xJvMAQpqM_lVoh-na7xUC7z-UyjqIpK_VqYri-u-8MD5znctKzFpYAc7UrI1z0u_fVT7JdJ8ZioYGtwIBXk2LwxRW0t-iGFRZHeg_fXPoN-CHdiMycLV6LkG5r6tmjtkmEaacJMJn7DCRNZl_na&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://samuelslibrary.librarymarket.com › 2027/08/17",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglAFSTQZ3xYBhgmVxf6l0nSp_9bDU8Eg8piKSciqk48AAD-9gmt721UoJJx0bVHcxwicyx1XuIO9rZ8yd4n5quW8fxcvTBTgrPA13Kfcxp50GlCRea5ONcMhhseGG7zn-dA2Nba9dmP_IrT76nh97Y8WMwXC-o11P4RSnewuaw_p5Tng0iHKwfsa9ofOotA7jI6knqy263HmMZp8Mr6vOKilnHOSnQzI8TsfaLMMCbAj5xTwzE4zt3RgRQJhMMiUq2kgOOlyM7A1BE1WE8zc9S4pHTTOtahZ3d-_4LCOcggAAAA.webp",
+      "date": "Aug 17, 2027",
+      "snippet": "Events Calendar for Samuels Public Library. ... You can side-scroll within this table to view events and reservations for the whole week.",
+      "snippet_highlighted_words": [
+        "Events Calendar for Samuels Public Library"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Events Calendar for Samuels Public Library. ... You can side-scroll within this table to view events and reservations for the whole week.",
+          "source_info_link": "https://samuelslibrary.librarymarket.com/events/week/2027/08/17",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBQCdASocABwAPtEutFooIagoGAEAGglAFSTQZ3xYBhgmVxf6l0nSp_9bDU8Eg8piKSciqk48AAD-9gmt721UoJJx0bVHcxwicyx1XuIO9rZ8yd4n5quW8fxcvTBTgrPA13Kfcxp50GlCRea5ONcMhhseGG7zn-dA2Nba9dmP_IrT76nh97Y8WMwXC-o11P4RSnewuaw_p5Tng0iHKwfsa9ofOotA7jI6knqy263HmMZp8Mr6vOKilnHOSnQzI8TsfaLMMCbAj5xTwzE4zt3RgRQJhMMiUq2kgOOlyM7A1BE1WE8zc9S4pHTTOtahZ3d-_4LCOcggAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkMzNG5vUXFGNHhKdk1BUXBxTV9sVm9oLW5hN3hVQzd6LVV5anFJcEtfVnFZcmktdS04TUQ1em5jdEt6RnBZQWM3VXJJMXowdV9mVlQ3SmRKOFppb1lHdHdJQlhrMkx3eFJXMHQtaUdGUlpIZWdfZlhQb04tQ0hkaU15Y0xWNkxrRzVyNnRtanRrbUVhYWNKTUpuN0RDUk5abF9uYRIEGgIIABqEBRIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDgBAgAEAAYACAAKiAKBmV2ZW50cxVQ5tI_GgphY3Rpdml0aWVzGgVldmVudCoLCgR0aGlzFQAAAAAqqQEKBHdlZWsVY4KCQBoGd2VlaydzGgd3ZWVrZW5kGgZ3ZWVrbHkaBXdlZWtzGhBnbTtkYXRlOzIwMjYxMDA0GhBnbTtkYXRlOzIwMjYxMDA1GhBnbTtkYXRlOzIwMjYxMDA2GhBnbTtkYXRlOzIwMjYxMDA3GhBnbTtkYXRlOzIwMjYxMDA4GhBnbTtkYXRlOzIwMjYxMDA5GhBnbTtkYXRlOzIwMjYxMDEwMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkMzNG5vUXFGNHhKdk1BUXBxTV9sVm9oLW5hN3hVQzd6LVV5anFJcEtfVnFZcmktdS04TUQ1em5jdEt6RnBZQWM3VXJJMXowdV9mVlQ3SmRKOFppb1lHdHdJQlhrMkx3eFJXMHQtaUdGUlpIZWdfZlhQb04tQ0hkaU15Y0xWNkxrRzVyNnRtanRrbUVhYWNKTUpuN0RDUk5abF9uYTotPGI-V2VlazwvYj4gQ2FsZW5kYXIgLSBTYW11ZWxzIFB1YmxpYyBMaWJyYXJ5QpABPGI-RXZlbnRzIENhbGVuZGFyIGZvciBTYW11ZWxzIFB1YmxpYyBMaWJyYXJ5PC9iPi4gLi4uIFlvdSBjYW4gc2lkZS1zY3JvbGwgd2l0aGluIHRoaXMgdGFibGUgdG8gdmlldyBldmVudHMgYW5kIHJlc2VydmF0aW9ucyBmb3IgdGhlIHdob2xlIHdlZWsuSgR0aGlzIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkMzNG5vUXFGNHhKdk1BUXBxTV9sVm9oLW5hN3hVQzd6LVV5anFJcEtfVnFZcmktdS04TUQ1em5jdEt6RnBZQWM3VXJJMXowdV9mVlQ3SmRKOFppb1lHdHdJQlhrMkx3eFJXMHQtaUdGUlpIZWdfZlhQb04tQ0hkaU15Y0xWNkxrRzVyNnRtanRrbUVhYWNKTUpuN0RDUk5abF9uYRIEGgIIABqEBRIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDgBAgAEAAYACAAKiAKBmV2ZW50cxVQ5tI_GgphY3Rpdml0aWVzGgVldmVudCoLCgR0aGlzFQAAAAAqqQEKBHdlZWsVY4KCQBoGd2VlaydzGgd3ZWVrZW5kGgZ3ZWVrbHkaBXdlZWtzGhBnbTtkYXRlOzIwMjYxMDA0GhBnbTtkYXRlOzIwMjYxMDA1GhBnbTtkYXRlOzIwMjYxMDA2GhBnbTtkYXRlOzIwMjYxMDA3GhBnbTtkYXRlOzIwMjYxMDA4GhBnbTtkYXRlOzIwMjYxMDA5GhBnbTtkYXRlOzIwMjYxMDEwMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkMzNG5vUXFGNHhKdk1BUXBxTV9sVm9oLW5hN3hVQzd6LVV5anFJcEtfVnFZcmktdS04TUQ1em5jdEt6RnBZQWM3VXJJMXowdV9mVlQ3SmRKOFppb1lHdHdJQlhrMkx3eFJXMHQtaUdGUlpIZWdfZlhQb04tQ0hkaU15Y0xWNkxrRzVyNnRtanRrbUVhYWNKTUpuN0RDUk5abF9uYTotPGI-V2VlazwvYj4gQ2FsZW5kYXIgLSBTYW11ZWxzIFB1YmxpYyBMaWJyYXJ5QpABPGI-RXZlbnRzIENhbGVuZGFyIGZvciBTYW11ZWxzIFB1YmxpYyBMaWJyYXJ5PC9iPi4gLi4uIFlvdSBjYW4gc2lkZS1zY3JvbGwgd2l0aGluIHRoaXMgdGFibGUgdG8gdmlldyBldmVudHMgYW5kIHJlc2VydmF0aW9ucyBmb3IgdGhlIHdob2xlIHdlZWsuSgR0aGlzIgIQAUgAWABoAA",
+      "source": "Library Market",
+      "read_more_link": "https://samuelslibrary.librarymarket.com/events/week/2027/08/17#:~:text=You%20can%20side%2Dscroll%20within%20this,reservations%20for%20the%20whole%20week."
+    },
+    {
+      "position": 4,
+      "title": "Full week of events this week at Courage ...",
+      "link": "https://www.instagram.com/p/Dcd7SnSRXmg/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVkvBKxXq0FPuICPxB2kUL9aGqNwAkAA3QXyEhMz-qMTA3sHlQmHHfDzIAKPFLsgLwVvDlalSlMLlmuYqVKyNrbyNAJ68Q5f_Y9HEuPNmFMuCh5HufoRedBp4afNYflg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECEAQAQ&uoh=1",
+      "displayed_link": "50+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+      "snippet": ";Full week of events this week at Courage! @local.water art show Saturday night followed by Orquesta Taino ,September 26th ⏰ 3:30 PM – CLOSE 🔞 ...",
+      "snippet_highlighted_words": [
+        "local.water art show Saturday night"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": ";Full week of events this week at Courage! @local.water art show Saturday night followed by Orquesta Taino ,September 26th ⏰ 3:30 PM – CLOSE 🔞 ...",
+          "source_info_link": "https://www.instagram.com/p/Dcd7SnSRXmg/",
+          "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmt2Qkt4WHEwRlB1SUNQeEIya1VMOWFHcU53QWtBQTNRWHlFaE16LXFNVEEzc0hsUW1ISGZEeklBS1BGTHNnTHdWdkRsYWxTbE1MbG11WXFWS3lOcmJ5TkFKNjhRNWZfWTlIRXVQTm1GTXVDaDVIdWZvUmVkQnA0YWZOWWZsZxIEGgIIABqPBRIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQOkECAAQABgAIAAqIAoGZXZlbnRzFV2VV0AaCmFjdGl2aXRpZXMaBWV2ZW50KgsKBHRoaXMVAAAAACqpAQoEd2VlaxWq5GtAGgZ3ZWVrJ3MaB3dlZWtlbmQaBndlZWtseRoFd2Vla3MaEGdtO2RhdGU7MjAyNjEwMDQaEGdtO2RhdGU7MjAyNjEwMDUaEGdtO2RhdGU7MjAyNjEwMDYaEGdtO2RhdGU7MjAyNjEwMDcaEGdtO2RhdGU7MjAyNjEwMDgaEGdtO2RhdGU7MjAyNjEwMDkaEGdtO2RhdGU7MjAyNjEwMTAylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWa3ZCS3hYcTBGUHVJQ1B4QjJrVUw5YUdxTndBa0FBM1FYeUVoTXotcU1UQTNzSGxRbUhIZkR6SUFLUEZMc2dMd1Z2RGxhbFNsTUxsbXVZcVZLeU5yYnlOQUo2OFE1Zl9ZOUhFdVBObUZNdUNoNUh1Zm9SZWRCcDRhZk5ZZmxnOj9GdWxsIHdlZWsgb2YgPGI-ZXZlbnRzIHRoaXMgd2VlazwvYj4gYXQgQ291cmFnZSAuLi4gLSBJbnN0YWdyYW1CpQE7RnVsbCB3ZWVrIG9mIGV2ZW50cyB0aGlzIHdlZWsgYXQgQ291cmFnZSEgQDxiPmxvY2FsLndhdGVyIGFydCBzaG93IFNhdHVyZGF5IG5pZ2h0PC9iPiBmb2xsb3dlZCBieSBPcnF1ZXN0YSBUYWlubyAsU2VwdGVtYmVyIDI2dGgg4o-wIDM6MzAgUE0g4oCTIENMT1NFIPCflJ4mbmJzcDsuLi5KBHRoaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmt2Qkt4WHEwRlB1SUNQeEIya1VMOWFHcU53QWtBQTNRWHlFaE16LXFNVEEzc0hsUW1ISGZEeklBS1BGTHNnTHdWdkRsYWxTbE1MbG11WXFWS3lOcmJ5TkFKNjhRNWZfWTlIRXVQTm1GTXVDaDVIdWZvUmVkQnA0YWZOWWZsZxIEGgIIABqPBRIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQOkECAAQABgAIAAqIAoGZXZlbnRzFV2VV0AaCmFjdGl2aXRpZXMaBWV2ZW50KgsKBHRoaXMVAAAAACqpAQoEd2VlaxWq5GtAGgZ3ZWVrJ3MaB3dlZWtlbmQaBndlZWtseRoFd2Vla3MaEGdtO2RhdGU7MjAyNjEwMDQaEGdtO2RhdGU7MjAyNjEwMDUaEGdtO2RhdGU7MjAyNjEwMDYaEGdtO2RhdGU7MjAyNjEwMDcaEGdtO2RhdGU7MjAyNjEwMDgaEGdtO2RhdGU7MjAyNjEwMDkaEGdtO2RhdGU7MjAyNjEwMTAylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWa3ZCS3hYcTBGUHVJQ1B4QjJrVUw5YUdxTndBa0FBM1FYeUVoTXotcU1UQTNzSGxRbUhIZkR6SUFLUEZMc2dMd1Z2RGxhbFNsTUxsbXVZcVZLeU5yYnlOQUo2OFE1Zl9ZOUhFdVBObUZNdUNoNUh1Zm9SZWRCcDRhZk5ZZmxnOj9GdWxsIHdlZWsgb2YgPGI-ZXZlbnRzIHRoaXMgd2VlazwvYj4gYXQgQ291cmFnZSAuLi4gLSBJbnN0YWdyYW1CpQE7RnVsbCB3ZWVrIG9mIGV2ZW50cyB0aGlzIHdlZWsgYXQgQ291cmFnZSEgQDxiPmxvY2FsLndhdGVyIGFydCBzaG93IFNhdHVyZGF5IG5pZ2h0PC9iPiBmb2xsb3dlZCBieSBPcnF1ZXN0YSBUYWlubyAsU2VwdGVtYmVyIDI2dGgg4o-wIDM6MzAgUE0g4oCTIENMT1NFIPCflJ4mbmJzcDsuLi5KBHRoaXMiAhABSABYAGgA",
+      "source": "Instagram · courageanyone"
+    },
+    {
+      "position": 5,
+      "title": "Events for week of September 14, 2026",
+      "link": "https://leatherbackbrewing.com/events/week/?shortcode=42cf1b8c",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVQRZLhQPbv6qCiYTb_5p_yDs48-NTuf1dOfRcOLxjcL8tSEM22sGdTJXogFP1f_STcuh_JDEB7fxNIPs3G1ZJqww2KVaIg4kBIHkwxOIl-TE1RwZ_9m9oozce-Dqhd33r2kZadlcrkZIGqafw1_kMd8KOFXQ&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECGgQAQ&uoh=1",
+      "displayed_link": "https://leatherbackbrewing.com › events › week",
+      "favicon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAACQBgCdASocABwAPtEutFooIagoGAEAGgloALDxsVxgVM_UEGF_jIEVSXMaG4YwrSbsHes5GrHxNzTXH_4AAP72E6a9B7sCBG3InJ_jyA6EygGuuMiSy6QancalJcWx7gZtBSGIzVDofHUVSkHFRX8Mq-WyBsYLYUByEn8sEfSWHUQZbJQUtdtSZqnUFwaHcB0C-s5K262jtvYUSYnaCyLULIBBxPyIP98ydihUb_tMNkMacg7B1_7syTAwX7_bNR-9IGeBj67ZAVb_xj33wbEukcBgvLJvH79OQOPehuhK40VqeRcTc_PZ2rTWL403eO_VP6Mi9wrfX_OjZocmDpZ1TekfmlaYIKkWxW3FCRsB509cj2XxmeiF4sesu0Ru06zwFNRT1uuY2PwcERmJeuTDJZ8x9lV3hjQeHrBvFt6dlgBXJ48fr1u1bKARx3HkFPQPBbZzmgwJb7QJVPOSeFmUd-LMrmW0Ts5_wTzYKmAAAA.webp",
+      "snippet": "This Week 9/2026 September ・ events scheduled for September 19, 2026. Next Week of Events Mon 14 ・ 8:00 pm 9 with $5 Flagship Beers and $10 Wings! Sunday, ...",
+      "snippet_highlighted_words": [
+        "events scheduled for September 19, 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This Week 9/2026 September ・ events scheduled for September 19, 2026. Next Week of Events Mon 14 ・ 8:00 pm 9 with $5 Flagship Beers and $10 Wings! Sunday, ...",
+          "source_info_link": "https://leatherbackbrewing.com/events/week/?shortcode=42cf1b8c",
+          "icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAACQBgCdASocABwAPtEutFooIagoGAEAGgloALDxsVxgVM_UEGF_jIEVSXMaG4YwrSbsHes5GrHxNzTXH_4AAP72E6a9B7sCBG3InJ_jyA6EygGuuMiSy6QancalJcWx7gZtBSGIzVDofHUVSkHFRX8Mq-WyBsYLYUByEn8sEfSWHUQZbJQUtdtSZqnUFwaHcB0C-s5K262jtvYUSYnaCyLULIBBxPyIP98ydihUb_tMNkMacg7B1_7syTAwX7_bNR-9IGeBj67ZAVb_xj33wbEukcBgvLJvH79OQOPehuhK40VqeRcTc_PZ2rTWL403eO_VP6Mi9wrfX_OjZocmDpZ1TekfmlaYIKkWxW3FCRsB509cj2XxmeiF4sesu0Ru06zwFNRT1uuY2PwcERmJeuTDJZ8x9lV3hjQeHrBvFt6dlgBXJ48fr1u1bKARx3HkFPQPBbZzmgwJb7QJVPOSeFmUd-LMrmW0Ts5_wTzYKmAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlFSWkxoUVBidjZxQ2lZVGJfNXBfeURzNDgtTlR1ZjFkT2ZSY09MeGpjTDh0U0VNMjJzR2RUSlhvZ0ZQMWZfU1RjdWhfSkRFQjdmeE5JUHMzRzFaSnF3dzJLVmFJZzRrQklIa3d4T0lsLVRFMVJ3Wl85bTlvb3pjZS1EcWhkMzNyMmtaYWRsY3JrWklHcWFmdzFfa01kOEtPRlhREgQaAggAGr0FEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJkFCAAQABgAIAAqIAoGZXZlbnRzFYhrrUAaCmFjdGl2aXRpZXMaBWV2ZW50KgsKBHRoaXMVAAAAACqpAQoEd2VlaxUAkZdAGgZ3ZWVrJ3MaB3dlZWtlbmQaBndlZWtseRoFd2Vla3MaEGdtO2RhdGU7MjAyNjEwMDQaEGdtO2RhdGU7MjAyNjEwMDUaEGdtO2RhdGU7MjAyNjEwMDYaEGdtO2RhdGU7MjAyNjEwMDcaEGdtO2RhdGU7MjAyNjEwMDgaEGdtO2RhdGU7MjAyNjEwMDkaEGdtO2RhdGU7MjAyNjEwMTAysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWUVJaTGhRUGJ2NnFDaVlUYl81cF95RHM0OC1OVHVmMWRPZlJjT0x4amNMOHRTRU0yMnNHZFRKWG9nRlAxZl9TVGN1aF9KREVCN2Z4TklQczNHMVpKcXd3MktWYUlnNGtCSUhrd3hPSWwtVEUxUndaXzltOW9vemNlLURxaGQzM3Iya1phZGxjcmtaSUdxYWZ3MV9rTWQ4S09GWFE6STxiPkV2ZW50czwvYj4gZm9yIDxiPndlZWs8L2I-IG9mIFNlcHRlbWJlciAxNCwgMjAyNiAtIExlYXRoZXJiYWNrIEJyZXdpbmdCrgFUaGlzIFdlZWsgOS8yMDI2IFNlcHRlbWJlciDjg7sgPGI-ZXZlbnRzIHNjaGVkdWxlZCBmb3IgU2VwdGVtYmVyIDE5LCAyMDI2PC9iPi4gTmV4dCBXZWVrIG9mIEV2ZW50cyBNb24gMTQg44O7IDg6MDAgcG0gOSB3aXRoICQ1IEZsYWdzaGlwIEJlZXJzIGFuZCAkMTAgV2luZ3MhIFN1bmRheSwmbmJzcDsuLi5KBHRoaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlFSWkxoUVBidjZxQ2lZVGJfNXBfeURzNDgtTlR1ZjFkT2ZSY09MeGpjTDh0U0VNMjJzR2RUSlhvZ0ZQMWZfU1RjdWhfSkRFQjdmeE5JUHMzRzFaSnF3dzJLVmFJZzRrQklIa3d4T0lsLVRFMVJ3Wl85bTlvb3pjZS1EcWhkMzNyMmtaYWRsY3JrWklHcWFmdzFfa01kOEtPRlhREgQaAggAGr0FEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJkFCAAQABgAIAAqIAoGZXZlbnRzFYhrrUAaCmFjdGl2aXRpZXMaBWV2ZW50KgsKBHRoaXMVAAAAACqpAQoEd2VlaxUAkZdAGgZ3ZWVrJ3MaB3dlZWtlbmQaBndlZWtseRoFd2Vla3MaEGdtO2RhdGU7MjAyNjEwMDQaEGdtO2RhdGU7MjAyNjEwMDUaEGdtO2RhdGU7MjAyNjEwMDYaEGdtO2RhdGU7MjAyNjEwMDcaEGdtO2RhdGU7MjAyNjEwMDgaEGdtO2RhdGU7MjAyNjEwMDkaEGdtO2RhdGU7MjAyNjEwMTAysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWUVJaTGhRUGJ2NnFDaVlUYl81cF95RHM0OC1OVHVmMWRPZlJjT0x4amNMOHRTRU0yMnNHZFRKWG9nRlAxZl9TVGN1aF9KREVCN2Z4TklQczNHMVpKcXd3MktWYUlnNGtCSUhrd3hPSWwtVEUxUndaXzltOW9vemNlLURxaGQzM3Iya1phZGxjcmtaSUdxYWZ3MV9rTWQ4S09GWFE6STxiPkV2ZW50czwvYj4gZm9yIDxiPndlZWs8L2I-IG9mIFNlcHRlbWJlciAxNCwgMjAyNiAtIExlYXRoZXJiYWNrIEJyZXdpbmdCrgFUaGlzIFdlZWsgOS8yMDI2IFNlcHRlbWJlciDjg7sgPGI-ZXZlbnRzIHNjaGVkdWxlZCBmb3IgU2VwdGVtYmVyIDE5LCAyMDI2PC9iPi4gTmV4dCBXZWVrIG9mIEV2ZW50cyBNb24gMTQg44O7IDg6MDAgcG0gOSB3aXRoICQ1IEZsYWdzaGlwIEJlZXJzIGFuZCAkMTAgV2luZ3MhIFN1bmRheSwmbmJzcDsuLi5KBHRoaXMiAhABSABYAGgA",
+      "source": "Leatherback Brewing"
+    },
+    {
+      "position": 6,
+      "title": "Upcoming Events, Week of August 24",
+      "link": "https://asharangappa.substack.com/p/upcoming-events-week-of-august-24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFUBNCUfdIMmouiIraGAfjIrGoZWOwXo1TWWzgLONP5D7qgSGmhnRTAFFmmGuvXsmLlq2li2a8GTGZocz8Gr1hAE6Wl6PfhC_YLu_RFQ-lOWtF1DMmaKGBJX1WLKNbODeYeB432_UwtUMXRjwrc_atJCefd9G3XYrso6tzA&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECEIQAQ&uoh=1",
+      "displayed_link": "40+ likes · 1 month ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlqAFTk0AuwDeMws2f_qg22V-BE26lcQQefc-EjpfgA_v7Cw1l3V99Er_RhUErw_7B1fuf483y9iaASHLXsFokciGngrMDmq3S8y057ybMaN1wnvbrV1CmIGxXQj7CPHV82wXfV7qnCdcdbPFB170KmufbLizNL3CNxVpNLshuaqFiRH2vO6SJ6IXwtUtEPS8pbmgNTVeL-Z4AWqCP6o46W-YgAAA.webp",
+      "snippet": "Upcoming Events, Week of August 24. Scroll down to see the guest speakers, book club authors, and happy hour guests coming up!",
+      "snippet_highlighted_words": [
+        "Upcoming Events, Week of August 24"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Upcoming Events, Week of August 24. Scroll down to see the guest speakers, book club authors, and happy hour guests coming up!",
+          "source_info_link": "https://asharangappa.substack.com/p/upcoming-events-week-of-august-24",
+          "icon": "https://serpapi.com/images/i/UklGRsgAAABXRUJQVlA4ILwAAACwBQCdASocABwAPrkurlcnIacnG_DgFwlqAFTk0AuwDeMws2f_qg22V-BE26lcQQefc-EjpfgA_v7Cw1l3V99Er_RhUErw_7B1fuf483y9iaASHLXsFokciGngrMDmq3S8y057ybMaN1wnvbrV1CmIGxXQj7CPHV82wXfV7qnCdcdbPFB170KmufbLizNL3CNxVpNLshuaqFiRH2vO6SJ6IXwtUtEPS8pbmgNTVeL-Z4AWqCP6o46W-YgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZVQk5DVWZkSU1tb3VpSXJhR0FmaklyR29aV093WG8xVFdXemdMT05QNUQ3cWdTR21oblJUQUZGbW1HdXZYc21MbHEybGkyYThHVEdab2N6OEdyMWhBRTZXbDZQZmhDX1lMdV9SRlEtbE9XdEYxRE1tYUtHQkpYMVdMS05iT0RlWWVCNDMyX1V3dFVNWFJqd3JjX2F0SkNlZmQ5RzNYWXJzbzZ0ekESBBoCCAAaiAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDiBAgAEAAYACAAKiAKBmV2ZW50cxWgRIZAGgphY3Rpdml0aWVzGgVldmVudCoLCgR0aGlzFQAAAAAqqQEKBHdlZWsV6iqOQBoGd2VlaydzGgd3ZWVrZW5kGgZ3ZWVrbHkaBXdlZWtzGhBnbTtkYXRlOzIwMjYxMDA0GhBnbTtkYXRlOzIwMjYxMDA1GhBnbTtkYXRlOzIwMjYxMDA2GhBnbTtkYXRlOzIwMjYxMDA3GhBnbTtkYXRlOzIwMjYxMDA4GhBnbTtkYXRlOzIwMjYxMDA5GhBnbTtkYXRlOzIwMjYxMDEwMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZVQk5DVWZkSU1tb3VpSXJhR0FmaklyR29aV093WG8xVFdXemdMT05QNUQ3cWdTR21oblJUQUZGbW1HdXZYc21MbHEybGkyYThHVEdab2N6OEdyMWhBRTZXbDZQZmhDX1lMdV9SRlEtbE9XdEYxRE1tYUtHQkpYMVdMS05iT0RlWWVCNDMyX1V3dFVNWFJqd3JjX2F0SkNlZmQ5RzNYWXJzbzZ0ekE6MFVwY29taW5nIDxiPkV2ZW50czwvYj4sIDxiPldlZWs8L2I-IG9mIEF1Z3VzdCAyNEKFATxiPlVwY29taW5nIEV2ZW50cywgV2VlayBvZiBBdWd1c3QgMjQ8L2I-LiBTY3JvbGwgZG93biB0byBzZWUgdGhlIGd1ZXN0IHNwZWFrZXJzLCBib29rIGNsdWIgYXV0aG9ycywgYW5kIGhhcHB5IGhvdXIgZ3Vlc3RzIGNvbWluZyB1cCFKBHRoaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZVQk5DVWZkSU1tb3VpSXJhR0FmaklyR29aV093WG8xVFdXemdMT05QNUQ3cWdTR21oblJUQUZGbW1HdXZYc21MbHEybGkyYThHVEdab2N6OEdyMWhBRTZXbDZQZmhDX1lMdV9SRlEtbE9XdEYxRE1tYUtHQkpYMVdMS05iT0RlWWVCNDMyX1V3dFVNWFJqd3JjX2F0SkNlZmQ5RzNYWXJzbzZ0ekESBBoCCAAaiAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDiBAgAEAAYACAAKiAKBmV2ZW50cxWgRIZAGgphY3Rpdml0aWVzGgVldmVudCoLCgR0aGlzFQAAAAAqqQEKBHdlZWsV6iqOQBoGd2VlaydzGgd3ZWVrZW5kGgZ3ZWVrbHkaBXdlZWtzGhBnbTtkYXRlOzIwMjYxMDA0GhBnbTtkYXRlOzIwMjYxMDA1GhBnbTtkYXRlOzIwMjYxMDA2GhBnbTtkYXRlOzIwMjYxMDA3GhBnbTtkYXRlOzIwMjYxMDA4GhBnbTtkYXRlOzIwMjYxMDA5GhBnbTtkYXRlOzIwMjYxMDEwMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZVQk5DVWZkSU1tb3VpSXJhR0FmaklyR29aV093WG8xVFdXemdMT05QNUQ3cWdTR21oblJUQUZGbW1HdXZYc21MbHEybGkyYThHVEdab2N6OEdyMWhBRTZXbDZQZmhDX1lMdV9SRlEtbE9XdEYxRE1tYUtHQkpYMVdMS05iT0RlWWVCNDMyX1V3dFVNWFJqd3JjX2F0SkNlZmQ5RzNYWXJzbzZ0ekE6MFVwY29taW5nIDxiPkV2ZW50czwvYj4sIDxiPldlZWs8L2I-IG9mIEF1Z3VzdCAyNEKFATxiPlVwY29taW5nIEV2ZW50cywgV2VlayBvZiBBdWd1c3QgMjQ8L2I-LiBTY3JvbGwgZG93biB0byBzZWUgdGhlIGd1ZXN0IHNwZWFrZXJzLCBib29rIGNsdWIgYXV0aG9ycywgYW5kIGhhcHB5IGhvdXIgZ3Vlc3RzIGNvbWluZyB1cCFKBHRoaXMiAhABSABYAGgA",
+      "source": "Substack · The Freedom Academy with Asha Rangappa"
+    },
+    {
+      "position": 7,
+      "title": "Mental Health Awareness Week • Events - ELLIOT SCHOOL",
+      "link": "https://www.moed.bm/EP/Events/2470-Mental-Health-Awareness-Week.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVkGX0WG_BGe4mNeJuQchmPyPKtpvWxJaMvyyEivstmjIkk7nu1pZlrlRoMQz6R3m5agNL1Xv3OQwWJa3pQqDUzWzvK6ytv_rlkMmrZq3QB_m7naT7CIjf7ZKi1RJnyR65UZU5274obf1deiEnnmtonfz7kdoHMWQKhpA&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.moed.bm › Events › 2470-Mental-Health-...",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsALUJBbABvJP_uR4IQDlD84aaSMyrIUN07Uikyg1QX4JOly-b552qAAD-9gJbPLYu9OU-BL82ZkQbXosItnmRoOJp0cjEuJMOMEE2C49ENxPz-0n9vcz4t3JECddgmcGtzEXFGX3VvVqMme0y6qC91T4UOxewA2njeX5wu4cfr2a1M8WkG7Fp7Qn9BeP1FsffxAw15y16uiQngYfRDb3yfUmVw8kLTe_y3u55TZ86q5Q__0Axv7H7-KU8-KbovJR_g0eA8Fr-DT11b7xhKaPq_uyplxKyd8UupA4PGjaGZl5Rjin53bswKU5DXmSnrxu-ZFOABe_X_8NMRaT_DNLRLDkUu_2H_5UVUnelWh3FnGwCfZeCsut40AA.webp",
+      "snippet": "Events » Mental Health Awareness Week ; Date. Sun, Oct 06, 2019 ; Time. All Day ; Organizer. Lisa R. Trott ...",
+      "snippet_highlighted_words": [
+        "Events » Mental Health Awareness Week"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Events » Mental Health Awareness Week ; Date. Sun, Oct 06, 2019 ; Time. All Day ; Organizer. Lisa R. Trott ...",
+          "source_info_link": "https://www.moed.bm/EP/Events/2470-Mental-Health-Awareness-Week.html",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsALUJBbABvJP_uR4IQDlD84aaSMyrIUN07Uikyg1QX4JOly-b552qAAD-9gJbPLYu9OU-BL82ZkQbXosItnmRoOJp0cjEuJMOMEE2C49ENxPz-0n9vcz4t3JECddgmcGtzEXFGX3VvVqMme0y6qC91T4UOxewA2njeX5wu4cfr2a1M8WkG7Fp7Qn9BeP1FsffxAw15y16uiQngYfRDb3yfUmVw8kLTe_y3u55TZ86q5Q__0Axv7H7-KU8-KbovJR_g0eA8Fr-DT11b7xhKaPq_uyplxKyd8UupA4PGjaGZl5Rjin53bswKU5DXmSnrxu-ZFOABe_X_8NMRaT_DNLRLDkUu_2H_5UVUnelWh3FnGwCfZeCsut40AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmtHWDBXR19CR2U0bU5lSnVRY2htUHlQS3Rwdld4SmFNdnl5RWl2c3RtaklrazdudTFwWmxybFJvTVF6NlIzbTVhZ05MMVh2M09Rd1dKYTNwUXFEVXpXenZLNnl0dl9ybGtNbXJacTNRQl9tN25hVDdDSWpmN1pLaTFSSm55UjY1VVpVNTI3NG9iZjFkZWlFbm5tdG9uZno3a2RvSE1XUUtocEESBBoCCAAajQUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QQIABAAGAAgACogCgZldmVudHMV02iBQBoKYWN0aXZpdGllcxoFZXZlbnQqCwoEdGhpcxUAAAAAKqkBCgR3ZWVrFbASokAaBndlZWsncxoHd2Vla2VuZBoGd2Vla2x5GgV3ZWVrcxoQZ207ZGF0ZTsyMDI2MTAwNBoQZ207ZGF0ZTsyMDI2MTAwNRoQZ207ZGF0ZTsyMDI2MTAwNhoQZ207ZGF0ZTsyMDI2MTAwNxoQZ207ZGF0ZTsyMDI2MTAwOBoQZ207ZGF0ZTsyMDI2MTAwORoQZ207ZGF0ZTsyMDI2MTAxMDK5AS9nb3RvP3VybD1DQUVTZndIck96QVZrR1gwV0dfQkdlNG1OZUp1UWNobVB5UEt0cHZXeEphTXZ5eUVpdnN0bWpJa2s3bnUxcFpscmxSb01RejZSM201YWdOTDFYdjNPUXdXSmEzcFFxRFV6V3p2SzZ5dHZfcmxrTW1yWnEzUUJfbTduYVQ3Q0lqZjdaS2kxUkpueVI2NVVaVTUyNzRvYmYxZGVpRW5ubXRvbmZ6N2tkb0hNV1FLaHBBOkVNZW50YWwgSGVhbHRoIEF3YXJlbmVzcyA8Yj5XZWVrPC9iPiDigKIgPGI-RXZlbnRzPC9iPiAtIEVMTElPVCBTQ0hPT0xCezxiPkV2ZW50cyDCuyBNZW50YWwgSGVhbHRoIEF3YXJlbmVzcyBXZWVrPC9iPiA7IERhdGUuIFN1biwgT2N0IDA2LCAyMDE5IDsgVGltZS4gQWxsIERheSA7IE9yZ2FuaXplci4gTGlzYSBSLiBUcm90dCZuYnNwOy4uLkoEdGhpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmtHWDBXR19CR2U0bU5lSnVRY2htUHlQS3Rwdld4SmFNdnl5RWl2c3RtaklrazdudTFwWmxybFJvTVF6NlIzbTVhZ05MMVh2M09Rd1dKYTNwUXFEVXpXenZLNnl0dl9ybGtNbXJacTNRQl9tN25hVDdDSWpmN1pLaTFSSm55UjY1VVpVNTI3NG9iZjFkZWlFbm5tdG9uZno3a2RvSE1XUUtocEESBBoCCAAajQUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA6QQIABAAGAAgACogCgZldmVudHMV02iBQBoKYWN0aXZpdGllcxoFZXZlbnQqCwoEdGhpcxUAAAAAKqkBCgR3ZWVrFbASokAaBndlZWsncxoHd2Vla2VuZBoGd2Vla2x5GgV3ZWVrcxoQZ207ZGF0ZTsyMDI2MTAwNBoQZ207ZGF0ZTsyMDI2MTAwNRoQZ207ZGF0ZTsyMDI2MTAwNhoQZ207ZGF0ZTsyMDI2MTAwNxoQZ207ZGF0ZTsyMDI2MTAwOBoQZ207ZGF0ZTsyMDI2MTAwORoQZ207ZGF0ZTsyMDI2MTAxMDK5AS9nb3RvP3VybD1DQUVTZndIck96QVZrR1gwV0dfQkdlNG1OZUp1UWNobVB5UEt0cHZXeEphTXZ5eUVpdnN0bWpJa2s3bnUxcFpscmxSb01RejZSM201YWdOTDFYdjNPUXdXSmEzcFFxRFV6V3p2SzZ5dHZfcmxrTW1yWnEzUUJfbTduYVQ3Q0lqZjdaS2kxUkpueVI2NVVaVTUyNzRvYmYxZGVpRW5ubXRvbmZ6N2tkb0hNV1FLaHBBOkVNZW50YWwgSGVhbHRoIEF3YXJlbmVzcyA8Yj5XZWVrPC9iPiDigKIgPGI-RXZlbnRzPC9iPiAtIEVMTElPVCBTQ0hPT0xCezxiPkV2ZW50cyDCuyBNZW50YWwgSGVhbHRoIEF3YXJlbmVzcyBXZWVrPC9iPiA7IERhdGUuIFN1biwgT2N0IDA2LCAyMDE5IDsgVGltZS4gQWxsIERheSA7IE9yZ2FuaXplci4gTGlzYSBSLiBUcm90dCZuYnNwOy4uLkoEdGhpcyICEAFIAFgAaAA",
+      "source": "moed.bm",
+      "read_more_link": "https://www.moed.bm/EP/Events/2470-Mental-Health-Awareness-Week.html#:~:text=Events%20%C2%BB%20Mental%20Health%20Awareness,Week&text=Date,Sun%2C%20Oct%2006%2C%202019&text=Time,All%20Day&text=Organizer,Lisa%20R.%20Trott"
+    },
+    {
+      "position": 8,
+      "title": "Free Events and Things to do in Kutztown, PA this weekend",
+      "link": "https://www.eventbrite.com/d/pa--kutztown/free--events--this-weekend/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFXqW9_nhQ6TmOFnJqQiUKqc6UZZWxwt5KeNun2B1vTELl712p7xQuco-1BD_OEF7kwBTDPxGNJ_QyrlJVF6uvAuBgJtvWFL9KMA8ZGyFtO0KiO8Muh8xP0rGODWLNxdtzF3aAdBcCsUjQneX7GpWGFlgjx1wKPWC6HpqSA&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://www.eventbrite.com › pa--kutztown › free--eve...",
+      "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADwBgCdASocABwAPtE-tFooIigoFAEAGglsALEbd_nPCGakhCveQivA9wzx0KILzWkxu3YGfUKpWshTuLrmyolgAP72E6eJlkGPyZwW9QtGk-k5Rr4eTwBs7YpQlNV92tXRnuTGOF4BsTFRcHtw5f2ifKWO_8hNaliaSdFLiAo4_KgXD4bt6Bz4rkrS11odZytobiOYsela2lqT0zUkPb09Mr0ImLl_EDE72afX_L7mtUukbSLDrmEkOXxJwBg0i6swq6leXWGtiqUY2fXWsuQlAVRj18DJqFxVhLYg9uz_bs7mAx1k3JE56GvBr0nmIvDY9u6A0pbhT8-nAp-AAA.webp",
+      "snippet": "Discover free events happening this weekend in Kutztown, PA. Explore diverse activities and experiences without any cost on Eventbrite.",
+      "snippet_highlighted_words": [
+        "free events happening this weekend in Kutztown, PA"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover free events happening this weekend in Kutztown, PA. Explore diverse activities and experiences without any cost on Eventbrite.",
+          "source_info_link": "https://www.eventbrite.com/d/pa--kutztown/free--events--this-weekend/",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAADwBgCdASocABwAPtE-tFooIigoFAEAGglsALEbd_nPCGakhCveQivA9wzx0KILzWkxu3YGfUKpWshTuLrmyolgAP72E6eJlkGPyZwW9QtGk-k5Rr4eTwBs7YpQlNV92tXRnuTGOF4BsTFRcHtw5f2ifKWO_8hNaliaSdFLiAo4_KgXD4bt6Bz4rkrS11odZytobiOYsela2lqT0zUkPb09Mr0ImLl_EDE72afX_L7mtUukbSLDrmEkOXxJwBg0i6swq6leXWGtiqUY2fXWsuQlAVRj18DJqFxVhLYg9uz_bs7mAx1k3JE56GvBr0nmIvDY9u6A0pbhT8-nAp-AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYcVc5X25oUTZUbU9GbkpxUWlVS3FjNlVaWld4d3Q1S2VOdW4yQjF2VEVMbDcxMnA3eFF1Y28tMUJEX09FRjdrd0JURFB4R05KX1F5cmxKVkY2dXZBdUJnSnR2V0ZMOUtNQThaR3lGdE8wS2lPOE11aDh4UDByR09EV0xOeGR0ekYzYUFkQmNDc1VqUW5lWDdHcFdHRmxnangxd0tQV0M2SHBxU0ESBBoCCAAapgUSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAggUIABAAGAAgACogCgZldmVudHMVGHGzQBoKYWN0aXZpdGllcxoFZXZlbnQqCwoEdGhpcxUAAAAAKqkBCgR3ZWVrFWaIVj8aBndlZWsncxoHd2Vla2VuZBoGd2Vla2x5GgV3ZWVrcxoQZ207ZGF0ZTsyMDI2MTAwNBoQZ207ZGF0ZTsyMDI2MTAwNRoQZ207ZGF0ZTsyMDI2MTAwNhoQZ207ZGF0ZTsyMDI2MTAwNxoQZ207ZGF0ZTsyMDI2MTAwOBoQZ207ZGF0ZTsyMDI2MTAwORoQZ207ZGF0ZTsyMDI2MTAxMDK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGWHFXOV9uaFE2VG1PRm5KcVFpVUtxYzZVWlpXeHd0NUtlTnVuMkIxdlRFTGw3MTJwN3hRdWNvLTFCRF9PRUY3a3dCVERQeEdOSl9ReXJsSlZGNnV2QXVCZ0p0dldGTDlLTUE4Wkd5RnRPMEtpTzhNdWg4eFAwckdPRFdMTnhkdHpGM2FBZEJjQ3NValFuZVg3R3BXR0ZsZ2p4MXdLUFdDNkhwcVNBOkdGcmVlIDxiPkV2ZW50czwvYj4gYW5kIFRoaW5ncyB0byBkbyBpbiBLdXR6dG93biwgUEEgdGhpcyA8Yj53ZWVrZW5kPC9iPkKOAURpc2NvdmVyIDxiPmZyZWUgZXZlbnRzIGhhcHBlbmluZyB0aGlzIHdlZWtlbmQgaW4gS3V0enRvd24sIFBBPC9iPi4gRXhwbG9yZSBkaXZlcnNlIGFjdGl2aXRpZXMgYW5kIGV4cGVyaWVuY2VzIHdpdGhvdXQgYW55IGNvc3Qgb24gRXZlbnRicml0ZS5KBHRoaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYcVc5X25oUTZUbU9GbkpxUWlVS3FjNlVaWld4d3Q1S2VOdW4yQjF2VEVMbDcxMnA3eFF1Y28tMUJEX09FRjdrd0JURFB4R05KX1F5cmxKVkY2dXZBdUJnSnR2V0ZMOUtNQThaR3lGdE8wS2lPOE11aDh4UDByR09EV0xOeGR0ekYzYUFkQmNDc1VqUW5lWDdHcFdHRmxnangxd0tQV0M2SHBxU0ESBBoCCAAapgUSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAggUIABAAGAAgACogCgZldmVudHMVGHGzQBoKYWN0aXZpdGllcxoFZXZlbnQqCwoEdGhpcxUAAAAAKqkBCgR3ZWVrFWaIVj8aBndlZWsncxoHd2Vla2VuZBoGd2Vla2x5GgV3ZWVrcxoQZ207ZGF0ZTsyMDI2MTAwNBoQZ207ZGF0ZTsyMDI2MTAwNRoQZ207ZGF0ZTsyMDI2MTAwNhoQZ207ZGF0ZTsyMDI2MTAwNxoQZ207ZGF0ZTsyMDI2MTAwOBoQZ207ZGF0ZTsyMDI2MTAwORoQZ207ZGF0ZTsyMDI2MTAxMDK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGWHFXOV9uaFE2VG1PRm5KcVFpVUtxYzZVWlpXeHd0NUtlTnVuMkIxdlRFTGw3MTJwN3hRdWNvLTFCRF9PRUY3a3dCVERQeEdOSl9ReXJsSlZGNnV2QXVCZ0p0dldGTDlLTUE4Wkd5RnRPMEtpTzhNdWg4eFAwckdPRFdMTnhkdHpGM2FBZEJjQ3NValFuZVg3R3BXR0ZsZ2p4MXdLUFdDNkhwcVNBOkdGcmVlIDxiPkV2ZW50czwvYj4gYW5kIFRoaW5ncyB0byBkbyBpbiBLdXR6dG93biwgUEEgdGhpcyA8Yj53ZWVrZW5kPC9iPkKOAURpc2NvdmVyIDxiPmZyZWUgZXZlbnRzIGhhcHBlbmluZyB0aGlzIHdlZWtlbmQgaW4gS3V0enRvd24sIFBBPC9iPi4gRXhwbG9yZSBkaXZlcnNlIGFjdGl2aXRpZXMgYW5kIGV4cGVyaWVuY2VzIHdpdGhvdXQgYW55IGNvc3Qgb24gRXZlbnRicml0ZS5KBHRoaXMiAhABSABYAGgA",
+      "source": "Eventbrite"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Denver EDM Fam",
+      "source": "Facebook",
+      "extensions": [
+        "3 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVpfkfuu40GGrX4ec468pslgdXzD584yrKVOJHCWW1cBcwOjxoYsEuKfR-w&usqp=CAI&s"
+      ],
+      "title": "Pic of my pup so I don’t get lost lol. Does anyone know of anything going on tomorrow or Sunday that’s free or cheap? I just got fired and may as well have some fun while I have an open weekend for once.🤷🏻‍♀️",
+      "link": "https://www.facebook.com/groups/denveredmfam/posts/1958502814816905/",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "Eyes On Durham",
+      "source": "Facebook",
+      "duration": "6:05",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjz_mDODOTRWbp75iJnefxhT6SFe3oCp8lcAnHJtxyj_DkeNYhf4xAZ4fhA&usqp=CAI&s"
+      ],
+      "title": "I had promised a compilation of all the great events that were happening this week, because honestly there are so many!!! I now promise a static calendar image later on this evening, because I am going to take the opportunity to go door knock now because its",
+      "link": "https://www.facebook.com/groups/eyesondurham/posts/2486793818488080/",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "Lake of The Ozarks Lifestyle",
+      "source": "YouTube",
+      "duration": "2:31",
+      "extensions": [
+        "8 views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/KoqLAOWdt_Q/hqdefault.jpg"
+      ],
+      "title": "Lake of the Ozarks Events | Week of October 5",
+      "link": "https://www.youtube.com/shorts/KoqLAOWdt_Q",
+      "date": "22 hours ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRYs_o2qghwAd1yCOOsN0Jn4QRmtbPrgjI_HA"
+    },
+    {
+      "author": "themontclairgirl",
+      "source": "Instagram",
+      "extensions": [
+        "40+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4_ppbb1RibFdC5Simqre7XCFbEtQi4xYWgKVEvOz0FpxyKKyk76CvyJl7Q&usqp=CAI&s"
+      ],
+      "title": "COMMENT “EVENTS” for the full calendar of things to do this weekend + beyond 🎃 We’re fully into October! There are so many fun events to partake in this weekend + beyond in the Montclair + North Jersey area!! From yard sales to book festivals, fashion shows, comedy tapings, a peruvian food festival, and concerts, this spooky season is off to an amazing start p.s. we have a FREE events calendar you can add your events to anytime 24/7 Comment “EVENTS” or visit the link in bio to browse all the fun things to do this weekend 🥳",
+      "link": "https://www.instagram.com/p/DeMOIbiptyH/",
+      "date": "1 hour ago"
+    },
+    {
+      "author": "thebrowardscene",
+      "source": "Instagram",
+      "extensions": [
+        "1.3K+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNOuYq5jUTw7HX_dvA4TweBb2rv2ktFdIKII-Z3VYuV14Fp2xWn1o2d95tZQ&usqp=CAI&s"
+      ],
+      "title": "Happening This Week in Broward County! Best Events & Things to Do - October 5th - October 11th 🍁 I made the ultimate Broward County Fall Bucket List, it’s free to download in my newsletter link in bio 🎃 🗓 October 8th Billy Currington 📍 Seminole Hard Rock Hotel, Hollywood 🗓 October 8th Fortune Feimster 📍 The Parker, Fort Lauderdale 🗓 October 9th Aziz Ansari 📍 Seminole Hard Rock Hotel, Hollywood 🗓 October 9th & 10th Natasha Leggero 📍 FTL Improv, Dania Beach 🗓 October 10th Deerfield Beach Fall Festival 📍 Pioneer Park, Deerfield Beach 🗓 October 10th Dania Beach’s Oktoberfest 📍 100 W Dania Beach Blvd, Dania Beach ✔️CityOfDaniaBeachPartner 🗓 October 10th Supercar Saturdays Car Show 📍 Seminole Hard Rock Hotel, Hollywood 🗓 October 10th Big Toy & Truck Extravaganza 📍 Snyder Park, Fort Lauderdale 🗓 October 10th Florida Panthers Home Opener 📍 Amerant Bank Arena, Sunrise 🗓 October 10th NAMIWalks 📍 Nova Southeastern University, Davie 🗓 October 10th Coconut Creek’s ArtsFest 📍 1100 Lyons",
+      "link": "https://www.instagram.com/p/DeIObQ0m5MX/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Janet Pruett Knight",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQDKzHmapfvlP7qPAMenyzyqiUt9Qe8pNKSIdFb9xXND4rOmhUXiOaZAcJsQ&usqp=CAI&s"
+      ],
+      "title": "What events are going on in Delaware this weekend? Which ones are you attending?",
+      "link": "https://www.facebook.com/groups/684371670154821/posts/1565289912062988/",
+      "date": "4 days ago"
+    },
+    {
+      "author": "travelrealizations",
+      "source": "Instagram",
+      "extensions": [
+        "210+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9QvDh8U5crj1A9oga41faLmo5H146kC-MmfHk5nV5H2Eq27SrcUWC-ixGRg&usqp=CAI&s"
+      ],
+      "title": "Twelve Bay Area events this weekend, and 10 of them are completely free. September 25–27, save this for the weekend: 🤖 Maker Faire: 20th anniversary on Mare Island, Vallejo, Fri–Sun (ticketed) 🇰🇷 Chuseok Festival: Korean food + traditional games at the Presidio, Sat 🏮 Mid-Autumn Festival: lanterns, Hanfu + crafts in Golden Gate Park, Sun 🌙 Sunset Night Market: food + live music on Irving St, Fri evening 🥨 SF German Day: music + folk dancing at the Golden Gate Park Bandshell, Sun 🐶 Corgi Con: a whole day of corgis in Pleasanton, Sat (ticketed, kids 6 & under free) 🎪 Circus on the Square: circus fun + free popcorn in SF, Sat 🪁 Off the Grid Treasure Island: free kites + free ferry rides (RSVP), Sat 🏴‍☠️ Shipwreck Cove: new pirate playground opening at Sunset Dunes, Sat afternoon 🍺 Walnut Creek Oktoberfest: free entry + kids zone, Fri & Sat 🎺 Hayward Mariachi Festival: six hours of mariachi + lucha libre, Sat 🎲 Game Market West: play 35+ new indie board games in San Jose, Sun",
+      "link": "https://www.instagram.com/p/DduokuJPt-Q/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Twin Cities Geeks",
+      "source": "Facebook",
+      "extensions": [
+        "150+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJQxc5B2NieWxISh4maqS5bcBk8Hk-1sRHFtYPyNLXVDVU32C96k5VFK9Qw&usqp=CAI&s"
+      ],
+      "title": "Some events this weekend if you're looking for something to do!",
+      "link": "https://www.facebook.com/groups/TwinCitiesGeeks/posts/29151332224469460/",
+      "date": "4 weeks ago"
+    },
+    {
+      "author": "thebakersfieldguy",
+      "source": "Instagram",
+      "extensions": [
+        "450+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-BYRR91tnyCgh4sw62WlRFurA-6vfU0jteUxsEd3h0z7vCbxswXRpxy2Lw&usqp=CAI&s"
+      ],
+      "title": "Bakersfield is PACKED this weekend 😭 Greek food, Disney On Ice, Cruizin’ Shine, local fashion, live music, family festivals, collectibles, dancing and more. I somehow still had to leave some great events out too 😂 Save this post so you have your weekend plans ready, and send it to somebody who’s always saying there’s nothing to do in Bakersfield. Want the FULL Bakersfield events list delivered to your email every week? Comment “LINK” and I’ll message you the website 👇 You can also DM me your email or subscribe free at thebakersfieldguy.com And if I missed a great event this weekend, drop it in the comments so everyone can find it!",
+      "link": "https://www.instagram.com/p/DeKUnAhGJNH/",
+      "date": "11 hours ago"
+    },
+    {
+      "author": "aroundalbany",
+      "source": "Facebook",
+      "extensions": [
+        "10+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-Q91327Vs9O6fZe_vYXX-JQGTgQ_-1KL8paSTbxWVsLZWn6A-DEaIEzwgQ&usqp=CAI&s"
+      ],
+      "title": "Swipe for some things to do this week around Albany 👀 Did we miss an event? Drop it in the comments below ⤵️ The Week Ahead is driven by CDTA who is #HereToGetYouThere 🚎💨 #aroundalbany #albanyny #upstateny",
+      "link": "https://www.facebook.com/aroundalbany/posts/swipe-for-some-things-to-do-this-week-around-albany-did-we-miss-an-event-drop-it/1038628945453971/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "ocparentguide",
+      "source": "Instagram",
+      "extensions": [
+        "460+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKdhcu-Uv6F_tHQ_77Rsc2T4xtI2N3uGuAXGLcb4_Ex9CgrLY0DwCJCpPtsA&usqp=CAI&s"
+      ],
+      "title": "🎃 Looking for things to do with the kids in Orange County this week without spending a fortune? I’ve done all the research for you - here are 5 featured events this week I’m most excited about! ➡️ Save this post so you can come back to it when you’re trying to figure out what to do this week. And if you’re tired of spending hours searching for family events, there’s an easier way. 👇 🎟️ The OC Parent Guide Calendar has 1,500+ FREE & affordable family events throughout Orange County — all organized in one place with links to organizer websites, search filters, and an option to save events directly to your calendar. Plus, subscribers get: ✨ Exclusive local discounts 🎉 Subscriber-only events 📬 A weekly family-friendly newsletter It’s just $4/month + you can start with a 7-day FREE trial! 💬 Comment “Subscribe” and I’ll send you the link to sign up! ⚠️ Please always double check event details with official sources before heading out!",
+      "link": "https://www.instagram.com/p/DeFrIwvgboH/",
+      "date": "2 days ago"
+    },
+    {
+      "author": "What’s Happening in Wilmington NC ( and surrounding areas)",
+      "source": "Facebook",
+      "extensions": [
+        "2 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRis1r-hFtACn7yTUXqElkCrBhSkgIgevASPlXt8XBtSnsLkJJhEebT_oX3BQ&usqp=CAI&s"
+      ],
+      "title": "Any events, parties, or activities happening tonight? We’re bored at the house 😪",
+      "link": "https://www.facebook.com/groups/854581802803879/posts/1604937564434962/",
+      "date": "2 days ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "events this week near bengaluru, karnataka",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&q=events+this+week+near+bengaluru,+karnataka&sa=X&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week+near+bengaluru%2C+karnataka"
+    },
+    {
+      "block_position": 1,
+      "query": "events this week near whitefield, bengaluru",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&q=events+this+week+near+whitefield,+bengaluru&sa=X&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week+near+whitefield%2C+bengaluru"
+    },
+    {
+      "block_position": 1,
+      "query": "Outdoor events this week",
+      "link": "https://www.google.com/search?sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&q=Outdoor+events+this+week&sa=X&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=Outdoor+events+this+week"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=10&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8NMDegQIWRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=10&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAE",
+      "3": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=20&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAG",
+      "4": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=30&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAI",
+      "5": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=40&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAK",
+      "6": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=50&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAM",
+      "7": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=60&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAO",
+      "8": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=70&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAQ",
+      "9": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=80&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAS",
+      "10": "https://www.google.com/search?q=events+this+week&sca_esv=8de974bdd654ed99&hl=en&gl=us&sxsrf=APpeQntkSOqc5A6baMPBf9MJKongn_PdQg:1791376160464&ei=IDvGarWiGtmji-gPu4T0qA4&start=90&sa=N&sstk=AS6-VmJWhlEszw_dQH5Lmrz1FU08EUE9yo8pStDAARIaZ_jx4ZatSyznqIUl2KN_3jmqJxkZzabELxGFlYHDYKes5HastbFhOAcFtg&ved=2ahUKEwi1ss6d9KeXAxXZ0QIHHTsCHeUQ8tMDegQIWRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Bengaluru%2CKarnataka%2CIndia&q=events+this+week&start=90"
+    }
+  }
+}

@@ -1,0 +1,1567 @@
+{
+  "search_metadata": {
+    "id": "6ac63af7e9639b5d4501a5fa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/q_IXtJE67b5NJNwDPojo3PXeI1x4Qx4vrBkd8_2H4Rg/6ac63af7e9639b5d4501a5fa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/q_IXtJE67b5NJNwDPojo3PXeI1x4Qx4vrBkd8_2H4Rg/6ac63af7e9639b5d4501a5fa.md",
+    "created_at": "2026-10-07 12:28:39 UTC",
+    "processed_at": "2026-10-07 12:28:39 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/Third+Wave+Coffee+MG+Road+Bengaluru//data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/q_IXtJE67b5NJNwDPojo3PXeI1x4Qx4vrBkd8_2H4Rg/6ac63af7e9639b5d4501a5fa.html",
+    "prettify_html_file": "https://serpapi.com/searches/q_IXtJE67b5NJNwDPojo3PXeI1x4Qx4vrBkd8_2H4Rg/6ac63af7e9639b5d4501a5fa.prettify",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "Third Wave Coffee MG Road Bengaluru",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+    "query_displayed": "Third Wave Coffee MG Road Bengaluru"
+  },
+  "place_results": {
+    "title": "Third Wave Coffee",
+    "place_id": "ChIJoVIBOaUXrjsRbF451NgeXrA",
+    "data_id": "0x3bae17a5390152a1:0xb05e1ed8d4395e6c",
+    "data_cid": "12708629115108417132",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17a5390152a1%3A0xb05e1ed8d4395e6c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17a5390152a1%3A0xb05e1ed8d4395e6c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 12.974658999999999,
+      "longitude": 77.6067528
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoVIBOaUXrjsRbF451NgeXrA",
+    "provider_id": "/g/11qnzjvq0k",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8iZnbiNMkuUNfNGaVrAEi34MdLdN2N4o9wTJGYq0GzQDf7Bc1LGOGCiGk0Zhp3jTP4FNmaeYDahrFw8HeU2_ulI-ENrHTsdF4-k-6VQnS9ANv-Sh55Ps0kf8UY-1BOSQclwui-fHmf90=w1000-h1000-c-n",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/3vY-NnicHcTRToMwFADQL7qjDKZg4gNzo2i2uxFghr0YLC2tQIsUJPqRe_dvTDwP5_cmp2mwD47TSW_VGNN0fLZ8ZEZPXE8rZnqnGSwwC9aJ8FV9h1mgrvpd4bGdCxRIq8sY7ZXnH-tDjWv0TbjkL7T8JPQn3Yn7LXMP9ESfFG3JVQ7eR372Y-wrXu4qOcZLkPBi_TZ3z7DHMcltHfvQwt0l1VkY4RdkcrM5W9KKoCjB3Z6ylHXLrEAkvQjJ4-ISQkD-z0D_AdkKRRA",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 65
+      },
+      {
+        "stars": 2,
+        "amount": 22
+      },
+      {
+        "stars": 3,
+        "amount": 60
+      },
+      {
+        "stars": 4,
+        "amount": 228
+      },
+      {
+        "stars": 5,
+        "amount": 760
+      }
+    ],
+    "rating": 4.4,
+    "reviews": 1135,
+    "price": "₹200–400",
+    "price_details": {
+      "distribution": [
+        {
+          "price": "₹1–200",
+          "percentage": 7.4074074074074066,
+          "reported_count": 4
+        },
+        {
+          "price": "₹200–400",
+          "percentage": 46.2962962962963,
+          "reported_count": 25
+        },
+        {
+          "price": "₹400–600",
+          "percentage": 27.77777777777778,
+          "reported_count": 15
+        },
+        {
+          "price": "₹600–800",
+          "percentage": 7.4074074074074066,
+          "reported_count": 4
+        },
+        {
+          "price": "₹800–1,000",
+          "percentage": 9.25925925925926,
+          "reported_count": 5
+        }
+      ],
+      "total_reported": 54
+    },
+    "type": [
+      "Cafe",
+      "Coffee roastery",
+      "Coffee shop",
+      "Coffee store"
+    ],
+    "type_ids": [
+      "cafe",
+      "coffee_roasters",
+      "coffee_shop",
+      "coffee_store"
+    ],
+    "reservation": {
+      "link": "https://www.zomato.com/bangalore/third-wave-coffee-church-street-bangalore?utm_source=rwg&dineIn-st={availability_slot_start_seconds}&ctx_covers={resources_party_size}",
+      "source": "zomato.com"
+    },
+    "menu": {
+      "link": "http://stores.thirdwavecoffeeroasters.com/wp-content/uploads/2024/12/Regular.pdf",
+      "source": "stores.thirdwavecoffeeroasters.com",
+      "images": [
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ss17-C-bQGVvrsXrjnOTDYZT15YJNoymimB4bsqmQw0p19NJyRvmvx4KUhz_qti0VYnwtmH4MwWVGJLxrGNTe-1LNtINf5mR7nDllQDVpgZ4kJhF-NkhAM7tvYugIa80Usl7I=w160-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ss17-C-bQGVvrsXrjnOTDYZT15YJNoymimB4bsqmQw0p19NJyRvmvx4KUhz_qti0VYnwtmH4MwWVGJLxrGNTe-1LNtINf5mR7nDllQDVpgZ4kJhF-NkhAM7tvYugIa80Usl7I=w1512-h1836-k-no",
+          "date": "22-12-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDvzYXiXg&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxrZpzNcpk5_ToM3q3CP1KUqM6vcC2Ofi4bdn2rDIaQBYAxPUhdP7t-X9qr6-Zx9uKf1WsUoISx-FXYeAbjFriiqHxggj1VDLC7jdd0qvmZRXQq-hiDn9zEjQbi2Mzz0hcB4UuHA=w160-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxrZpzNcpk5_ToM3q3CP1KUqM6vcC2Ofi4bdn2rDIaQBYAxPUhdP7t-X9qr6-Zx9uKf1WsUoISx-FXYeAbjFriiqHxggj1VDLC7jdd0qvmZRXQq-hiDn9zEjQbi2Mzz0hcB4UuHA=w1512-h1836-k-no",
+          "date": "22-12-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDvzYXizgE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TknMliyeZ5nMz0KGnPR9jZu7EzZxLjhsVHg32EypcOsWTgKU82XoyIQgHJBTusXtWhScq5apKqZDX6dswuas7sYvtK2lypmtTFNuaxtckoLWjV5jdx5NTb6YezXABwV9_xLSbL=w160-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TknMliyeZ5nMz0KGnPR9jZu7EzZxLjhsVHg32EypcOsWTgKU82XoyIQgHJBTusXtWhScq5apKqZDX6dswuas7sYvtK2lypmtTFNuaxtckoLWjV5jdx5NTb6YezXABwV9_xLSbL=w1512-h1836-k-no",
+          "date": "22-12-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDvzYWiwgE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3NN6PE3daEFEO1kXC-Z7qdyPvqd2bNyjgfIVnYUnLUZhTwpzEikzGg7A7_WOeBa1ZLvAoK1zuBrHHYwp2S4C9GnozgiQkAlz-XCtd03PJDibxqPb44Zotjx5P_354J07Uc6o=w160-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3NN6PE3daEFEO1kXC-Z7qdyPvqd2bNyjgfIVnYUnLUZhTwpzEikzGg7A7_WOeBa1ZLvAoK1zuBrHHYwp2S4C9GnozgiQkAlz-XCtd03PJDibxqPb44Zotjx5P_354J07Uc6o=w1512-h1836-k-no",
+          "date": "22-12-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDvzYWcCg&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7koDyr--OPMppTCEN9-_nQMDVHeI2UN5fw04RNB-O5Jx4IQSIYjwWwS_Ansgj_eeWK69r_J6qznRHMd7XeC-0uKqwjGN68UwZlSxRpLx5CmQK21bsBYazMwRqjTSu1g_foZWaTg=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7koDyr--OPMppTCEN9-_nQMDVHeI2UN5fw04RNB-O5Jx4IQSIYjwWwS_Ansgj_eeWK69r_J6qznRHMd7XeC-0uKqwjGN68UwZlSxRpLx5CmQK21bsBYazMwRqjTSu1g_foZWaTg=w3024-h4032-k-no",
+          "date": "13-10-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICXxP7JnQE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcwP3kOYE1rGc7XT2SGkPGgLGq6lVPS4_4u3w3nEXiRbYr3QT55Ic9899ulhzSjqK_V-PtCIfsLXcK6Bh3xtzAzL46XbNiWOl2-6vX59Mg_5AGRT1cmsopK8dVzknzb9CTvTJS=w195-h146-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QcwP3kOYE1rGc7XT2SGkPGgLGq6lVPS4_4u3w3nEXiRbYr3QT55Ic9899ulhzSjqK_V-PtCIfsLXcK6Bh3xtzAzL46XbNiWOl2-6vX59Mg_5AGRT1cmsopK8dVzknzb9CTvTJS=w4000-h3000-k-no",
+          "date": "8-10-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDe2rHW6gE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sh2sNROf0pX0SbuO6VRbH3KmL01GXHjPvO__eSeqdW8RtYQ5igYzl-HNaYbYAOeUZUIHfrdaclE0JYBqeZxhWDmBtwNSF1fUNZY-n1B6ioqBmvHazGCktAISYzvJbyeBtIkBrXpw=w195-h109-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sh2sNROf0pX0SbuO6VRbH3KmL01GXHjPvO__eSeqdW8RtYQ5igYzl-HNaYbYAOeUZUIHfrdaclE0JYBqeZxhWDmBtwNSF1fUNZY-n1B6ioqBmvHazGCktAISYzvJbyeBtIkBrXpw=w4032-h2268-k-no",
+          "date": "1-8-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICp6rrOtwE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvV2rtNARh10II_QEpCrfF0ozKoNhZ2nk1Cu4Nz5Po1SXdF54dXHpXB7ttxLfn_juBcdnIQga0HWZvjysxU8zytngfJ-mbfb2DOiUCUqUwd_0Ik2zyyHq1Oa-QOOQI3-wGHmTjVA=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvV2rtNARh10II_QEpCrfF0ozKoNhZ2nk1Cu4Nz5Po1SXdF54dXHpXB7ttxLfn_juBcdnIQga0HWZvjysxU8zytngfJ-mbfb2DOiUCUqUwd_0Ik2zyyHq1Oa-QOOQI3-wGHmTjVA=w3000-h4000-k-no",
+          "date": "9-9-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICZxpH_mgE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAyT4vfTxtxlOEEGCoGgvVQIytXaO2euVdETuHgURYQqqpcqUQJdl8QmSCOJwGT9j1b3KVARkhlCT2BTGOXZScTvrTd3tRK69fDujulJ-aUQdf_T_PZFiQ6mhiJUcA1bxNykb3=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RAyT4vfTxtxlOEEGCoGgvVQIytXaO2euVdETuHgURYQqqpcqUQJdl8QmSCOJwGT9j1b3KVARkhlCT2BTGOXZScTvrTd3tRK69fDujulJ-aUQdf_T_PZFiQ6mhiJUcA1bxNykb3=w3024-h4032-k-no",
+          "date": "13-10-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICXxP7JHQ&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RLLFZMBnST5h01XrswugAg9ZPBlzY6Do9Bmu7LJQbnNFilRnxlOwp5ELPLs6bZWM6KIXTWREDno6Tyarw1Ze0clx85ZadChGYmK1kyMrrvc3ks69Wmh3zXSA9zr8JUt24qHniC=w195-h97-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RLLFZMBnST5h01XrswugAg9ZPBlzY6Do9Bmu7LJQbnNFilRnxlOwp5ELPLs6bZWM6KIXTWREDno6Tyarw1Ze0clx85ZadChGYmK1kyMrrvc3ks69Wmh3zXSA9zr8JUt24qHniC=w4000-h2000-k-no",
+          "date": "3-4-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDWk--56wE&engine=google_maps_photo_meta"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZdc9O6pXl5g1KIBXu7F_18tcW3RmYrJQPpQiDpwPgqwisQt8jaaU7ed0CVaskQwrLAjWZ61zeTnrmSTEFcy76zgNuq-fTD5Wt2Ysoclf0bETdP7chV5cnrUPw-PstDBCjX4XU=w146-h195-k-no",
+          "image": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZdc9O6pXl5g1KIBXu7F_18tcW3RmYrJQPpQiDpwPgqwisQt8jaaU7ed0CVaskQwrLAjWZ61zeTnrmSTEFcy76zgNuq-fTD5Wt2Ysoclf0bETdP7chV5cnrUPw-PstDBCjX4XU=w6000-h8000-k-no",
+          "date": "15-10-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgID6r9OI0gE&engine=google_maps_photo_meta"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Hot Chocolate",
+          "kgmid": "/g/11n00vrf69",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFar8QkcRIYvSweJjYhgc-Sat-0BFGEPfWv6QKSugxndGsxvm-qo2bMMeG9QJr1N5sssALA7xeqoW3fqZr5bR_unMOrhYPcCt9zo_TLaHSW4uQISYEMmeoEBavPiGJmUVANWmD=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeFar8QkcRIYvSweJjYhgc-Sat-0BFGEPfWv6QKSugxndGsxvm-qo2bMMeG9QJr1N5sssALA7xeqoW3fqZr5bR_unMOrhYPcCt9zo_TLaHSW4uQISYEMmeoEBavPiGJmUVANWmD=w3024-h4032-n-k-no",
+          "date": "17-5-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgID2kcLSNw&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Cinnamon Roll",
+          "kgmid": "/g/11r_m7gj_f",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4YcLPtO_AvKAL8UZnAYu7F-iuoBiQSSEUmQqABT8clWkO7IcNju9xtwSXDmP7rmb48Y_6VLCAnsBHG-dEh3XCg_xLSMcoOaRq2YxkdXU1jKNUEgE33NO650xd5ae_63H9PFiMNg=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLe4YcLPtO_AvKAL8UZnAYu7F-iuoBiQSSEUmQqABT8clWkO7IcNju9xtwSXDmP7rmb48Y_6VLCAnsBHG-dEh3XCg_xLSMcoOaRq2YxkdXU1jKNUEgE33NO650xd5ae_63H9PFiMNg=w3456-h4608-n-k-no",
+          "date": "26-7-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICawoLqtgE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Mocha Chocochip Frappe",
+          "kgmid": "/g/11sxygk71k",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeUJwMcA-4FJ6UkzMh_6YIx7o-LtvhJ8NblV7PPLxi-QyB2hIkXmGQzSE3ADu2cSf6i3G3mGjxs-oQ3r-V9ZO76XOH0m_Qz5jLuZ0fNT0FfXUJ-1mt-JVd-45eWg7eKMF8MIJNtQ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeUJwMcA-4FJ6UkzMh_6YIx7o-LtvhJ8NblV7PPLxi-QyB2hIkXmGQzSE3ADu2cSf6i3G3mGjxs-oQ3r-V9ZO76XOH0m_Qz5jLuZ0fNT0FfXUJ-1mt-JVd-45eWg7eKMF8MIJNtQ=w3072-h4080-n-k-no",
+          "date": "31-7-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICpgsPz-wE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Pour over Coffee",
+          "kgmid": "/g/11svmtm7hn",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQEl9XNvPdjNqgpI4lxhC8rR5t0O8w3LUzvUSqlPDTrtH52-nWAWLcdmu8nJvglmZxucTZuzzmhbVfCSOxE6eLGK6j4A__NQL77kaWbJYmwfIDj4ddDo_Gp4BEkkHlH8Czorg=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQEl9XNvPdjNqgpI4lxhC8rR5t0O8w3LUzvUSqlPDTrtH52-nWAWLcdmu8nJvglmZxucTZuzzmhbVfCSOxE6eLGK6j4A__NQL77kaWbJYmwfIDj4ddDo_Gp4BEkkHlH8Czorg=w3024-h4032-n-k-no",
+          "date": "11-6-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDx6cqKRA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Almond Croissant",
+          "kgmid": "/g/11tx4w016x",
+          "popular": true,
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY_or-50zuOe_OikWHPrQpmHIlcAWNMMfuwDTCI2UGOG_zGx2rrncot8Mv80ONxKdYIvk1uqV7EXBirInEBwbW4I00MTR8ikmjkXgVD4OT7hFPcc-bnSvNpWRWNgnPuS0CcOc=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeY_or-50zuOe_OikWHPrQpmHIlcAWNMMfuwDTCI2UGOG_zGx2rrncot8Mv80ONxKdYIvk1uqV7EXBirInEBwbW4I00MTR8ikmjkXgVD4OT7hFPcc-bnSvNpWRWNgnPuS0CcOc=w4032-h3024-n-k-no",
+          "date": "2-8-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICa0afhPA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Sea Salt Mocha",
+          "kgmid": "/g/11w2l1_1b8",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLezOcXBkue_1ne2Jgcycn_TvlEocbtY0caJrcxII35UtCF9GFbwfRTafh7yT0x4vvToF2e42v8ALI7jz2W-f86uZiygs7EgoX5C9P9hK-VTKClXs_A3Zn0KVm6wOkQRNFKYf1V6=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLezOcXBkue_1ne2Jgcycn_TvlEocbtY0caJrcxII35UtCF9GFbwfRTafh7yT0x4vvToF2e42v8ALI7jz2W-f86uZiygs7EgoX5C9P9hK-VTKClXs_A3Zn0KVm6wOkQRNFKYf1V6=w3464-h4618-n-k-no",
+          "date": "3-10-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgID68ZSjowE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Vietnamese Iced Coffee",
+          "kgmid": "/g/11qb3w_nss",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwc_BfXIfDMpkzpG4m6jFfwBFLiE-iTJ-8Q3D5Ch1NKCVFnYV55AyvQGTJi6uCmA9CEshPTRULJ_7qpQqwHenXZbFB-mUJwE7iWKZoopzgE2UlUbxqpIHxTpZP2KaDsE0XwcUh=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwc_BfXIfDMpkzpG4m6jFfwBFLiE-iTJ-8Q3D5Ch1NKCVFnYV55AyvQGTJi6uCmA9CEshPTRULJ_7qpQqwHenXZbFB-mUJwE7iWKZoopzgE2UlUbxqpIHxTpZP2KaDsE0XwcUh=w768-h1024-n-k-no",
+          "date": "6-4-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDW14zA5QE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Hummus and Pita Platter",
+          "kgmid": "/g/11n52fz5cb",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBx3boNBNPopUPaAqLZ4AG6Buk7JVFBwX2YaZ78QfHbALXcNtwTR0Yfhmw-v_HmaUKOZYCk0WHBu-dSLy4ERxZpyWt5gTVYwWOwzjWknIE2IrMuVOuLJeA6rJeyhAV8KZ-zFJyhA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBx3boNBNPopUPaAqLZ4AG6Buk7JVFBwX2YaZ78QfHbALXcNtwTR0Yfhmw-v_HmaUKOZYCk0WHBu-dSLy4ERxZpyWt5gTVYwWOwzjWknIE2IrMuVOuLJeA6rJeyhAV8KZ-zFJyhA=w1512-h2688-n-k-no",
+          "date": "22-11-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgID-5JeVmwE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Hazelnut Cappuccino",
+          "kgmid": "/g/11vlbvs5r0",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO6ofxFNmLxMEPXEF7CR4o3lFSqd4CFMxT8fs-ckADREDinQnHC-pWUD1LK21IRdgzWAbxpt_k9CDbIhDTlaQ2qDvM8mlHstSF4x6Zvuo0l_eLRpCeDivzNN0ygNwqa3Jj3wJEPA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO6ofxFNmLxMEPXEF7CR4o3lFSqd4CFMxT8fs-ckADREDinQnHC-pWUD1LK21IRdgzWAbxpt_k9CDbIhDTlaQ2qDvM8mlHstSF4x6Zvuo0l_eLRpCeDivzNN0ygNwqa3Jj3wJEPA=w2268-h4032-n-k-no",
+          "date": "13-11-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIClmOPt3wE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Cakes",
+          "kgmid": "/g/11vljw1vms",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeazwH1MKFNFm89n4Qbs8StwVAzvH3iZazVm_AyEl5ufVqwifCD_z3UY_HY3rUJgA3KlzRLKtowlPkyMOo_EzGOfmaLkBkfKSQeXLNbdXVBnfrERON7tWCt9_JJ3Ryu9kr5C8dQQ=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdeazwH1MKFNFm89n4Qbs8StwVAzvH3iZazVm_AyEl5ufVqwifCD_z3UY_HY3rUJgA3KlzRLKtowlPkyMOo_EzGOfmaLkBkfKSQeXLNbdXVBnfrERON7tWCt9_JJ3Ryu9kr5C8dQQ=w4032-h3024-n-k-no",
+          "date": "5-11-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDFqu6EwQE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Affogato",
+          "kgmid": "/g/11yb93j7t5",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLevzTD9fquc6YJIPbQwoxoh-3ZIcl6uM3j9zYWG1GdHbCYtyM1z2F2Z9zI3IcPgMrr2LbBQ8sN-oVtxJyNgh7MuoDy5Jwrm5Wt7OadYmozYIL6lgUphv4UCF0yBPtTk--lTdOPw8Q=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLevzTD9fquc6YJIPbQwoxoh-3ZIcl6uM3j9zYWG1GdHbCYtyM1z2F2Z9zI3IcPgMrr2LbBQ8sN-oVtxJyNgh7MuoDy5Jwrm5Wt7OadYmozYIL6lgUphv4UCF0yBPtTk--lTdOPw8Q=w2252-h4000-n-k-no",
+          "date": "16-12-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDv4NbP_wE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Classic Cold Coffee",
+          "kgmid": "/g/11x7yl1m34",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLel6gjlrd76ciMsthQjSWhBwM5HmBR8bj56NGkPUKYWtNHqvqurROWqDCcRXoP9sx1T52Vc1Qsmh4r4ilHvFoJYxNnznxY1O9uX6g-XK5vlhTsd8Vug08-If1S6s72t30xevVFy=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLel6gjlrd76ciMsthQjSWhBwM5HmBR8bj56NGkPUKYWtNHqvqurROWqDCcRXoP9sx1T52Vc1Qsmh4r4ilHvFoJYxNnznxY1O9uX6g-XK5vlhTsd8Vug08-If1S6s72t30xevVFy=w1844-h2458-n-k-no",
+          "date": "14-3-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDy5d-rnQE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Chocolate Croissant",
+          "kgmid": "/g/11l5jv2ndk",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLffIqFiZYMm5lf8MvoI-PhrMVI3jshZe2CPUE3Dg13Ve83rOD4RcfSPUXXMJBOxkLdX40AlzhWjJ_brSJSvTJGzhrHGjsYNJfufl9YqFU2qp67rrzVmP_jX7Zu4OIhviIOpW67L=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLffIqFiZYMm5lf8MvoI-PhrMVI3jshZe2CPUE3Dg13Ve83rOD4RcfSPUXXMJBOxkLdX40AlzhWjJ_brSJSvTJGzhrHGjsYNJfufl9YqFU2qp67rrzVmP_jX7Zu4OIhviIOpW67L=w6000-h8000-n-k-no",
+          "date": "28-2-2021",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDyvL30wQE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "European Ham & Cheese Bagel",
+          "kgmid": "/g/11wnp_2j26",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjStGJek_CpMg28tcNr24BdWjiqHFrzLVXoP9ccL9JaPTN4HBlevYBlPjotlpeDMy3kLk_bjSs3WaqsKBwxBG8-jYw8lcUzhcz0LR2-b8WhPHKCTVHPJn-UiynGBuo2eof0bs=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcjStGJek_CpMg28tcNr24BdWjiqHFrzLVXoP9ccL9JaPTN4HBlevYBlPjotlpeDMy3kLk_bjSs3WaqsKBwxBG8-jYw8lcUzhcz0LR2-b8WhPHKCTVHPJn-UiynGBuo2eof0bs=w3072-h4096-n-k-no",
+          "date": "23-11-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICP2qq8Zw&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Death by Chocolate Cookie",
+          "kgmid": "/g/11sddzg72g",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT9g2Lg2eZ4qxQPWDBmdISJ5WpcllIdNGN5533Lo-cGhl5wOhNfUuSsfx8u1ZqeFBFsZew7f-Yig8qZaoIrNWhTw2YKSh5_usHKf4HtDQPbz_I3V9aZkpcJDdNJVGfc2TgVTE=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdT9g2Lg2eZ4qxQPWDBmdISJ5WpcllIdNGN5533Lo-cGhl5wOhNfUuSsfx8u1ZqeFBFsZew7f-Yig8qZaoIrNWhTw2YKSh5_usHKf4HtDQPbz_I3V9aZkpcJDdNJVGfc2TgVTE=w4032-h3024-n-k-no",
+          "date": "19-12-2022",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICBrPDRPA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Paneer Tikka Sandwich",
+          "kgmid": "/g/11ldr5wkmy",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeL6Fy65SBdDikDYvsGaBtZ6yYr5WmY3mDrk_IpJ1pAddjaOODOZjC2WCpShXMOGq-j5GY5JQa1tXhn7viS__xVWDFsAsmk2kGiksnKIDYDVniTdn9VVSCvdDjGC7d5y6jaAAzbEg=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLeL6Fy65SBdDikDYvsGaBtZ6yYr5WmY3mDrk_IpJ1pAddjaOODOZjC2WCpShXMOGq-j5GY5JQa1tXhn7viS__xVWDFsAsmk2kGiksnKIDYDVniTdn9VVSCvdDjGC7d5y6jaAAzbEg=w1756-h4000-n-k-no",
+          "date": "25-2-2024",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgIDdxbDFnQE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Choco Hazelnut Large",
+          "kgmid": "/g/11l29l8q40",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLccZtahRKZvMKgQjY_KXH-mcDivSKCzvSJKR4nQv9A54lwpFUA-xVaNIi4iHfrjy8ejW4ffJy_8xADNsQZmIbNXjhUTfDvx4vz1hLvLvie2s4jJC6WIcLF9IZffhYVaQL45LkD_xA=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLccZtahRKZvMKgQjY_KXH-mcDivSKCzvSJKR4nQv9A54lwpFUA-xVaNIi4iHfrjy8ejW4ffJy_8xADNsQZmIbNXjhUTfDvx4vz1hLvLvie2s4jJC6WIcLF9IZffhYVaQL45LkD_xA=w1242-h2208-n-k-no",
+          "date": "2-9-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICZ8InjhAE&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Spiced Potato Sandwich",
+          "kgmid": "/g/11y4_k5gj3",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGW0UNtrFr8RjOA16eeijHhdjjKLHxPEdiA_lfoI08NVgkbXG71rRLqUAYomqnrnhIDSz48q0ORPysX4MxzcdxwQ6zYFlDQGlE8OFFFxYDSDHBPKfPF_Y-1wlSSX1ZyCnwxeht=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGW0UNtrFr8RjOA16eeijHhdjjKLHxPEdiA_lfoI08NVgkbXG71rRLqUAYomqnrnhIDSz48q0ORPysX4MxzcdxwQ6zYFlDQGlE8OFFFxYDSDHBPKfPF_Y-1wlSSX1ZyCnwxeht=w4624-h2080-n-k-no",
+          "date": "30-10-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICF9ePbPA&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Citrus Iced Tea",
+          "kgmid": "/g/11z7p5pfvc",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKRKsHRMPJ3yszEm4wyDlFPx8leza5RCyGExlU9whYs5RIHTy8i7B3Zfino3NNHe4JOyjQ_wj9vM_6o60NUdzCOXT2ulmpq31n7dYO4km-2e8HHXjpoHG7bez8RPVvrKoUTLPpviPvXovx=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKRKsHRMPJ3yszEm4wyDlFPx8leza5RCyGExlU9whYs5RIHTy8i7B3Zfino3NNHe4JOyjQ_wj9vM_6o60NUdzCOXT2ulmpq31n7dYO4km-2e8HHXjpoHG7bez8RPVvrKoUTLPpviPvXovx=w3000-h4000-n-k-no",
+          "date": "9-5-2026",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIABIhBNi23_aqftd3X4Xc_NeTiR&engine=google_maps_photo_meta"
+        },
+        {
+          "title": "Chicken Sandwich",
+          "kgmid": "/g/11tsmgby0y",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLRlDF8bcO1vbd8SHnNJgxPTkeMuUYixhcXpIfxWCiKzMgy1IrMgYvS2rnbeUG-0UVm_NbPBcyHYntC6BxF4ByJOxm5aPcmHpmwHep5EhOLyzL0QhYYwXE_wf0gjtccfajntVfbg=w640-h640-n-k-no",
+          "image": "https://lh3.googleusercontent.com/grass-cs/AABkmLdLRlDF8bcO1vbd8SHnNJgxPTkeMuUYixhcXpIfxWCiKzMgy1IrMgYvS2rnbeUG-0UVm_NbPBcyHYntC6BxF4ByJOxm5aPcmHpmwHep5EhOLyzL0QhYYwXE_wf0gjtccfajntVfbg=w4624-h3472-n-k-no",
+          "date": "11-2-2023",
+          "photo_meta_serpapi_link": "https://serpapi.com/search.json?data_id=CIHM0ogKEICAgICh-v6pmQE&engine=google_maps_photo_meta"
+        }
+      ]
+    },
+    "order_online_link": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFxbnpqdnEwaxgBOgMI8A0%3D&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=9zrGaoTBPKr9i-gPh9uioA8&ei=9zrGaoTBPKr9i-gPh9uioA8&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp",
+    "extensions": [
+      {
+        "service_options": [
+          "Outdoor seating",
+          "Delivery",
+          "Onsite services",
+          "Takeout",
+          "Dine-in"
+        ]
+      },
+      {
+        "highlights": [
+          "Great coffee",
+          "Great dessert",
+          "Great tea selection"
+        ]
+      },
+      {
+        "popular_for": [
+          "Solo dining",
+          "Good for working on laptop"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "offerings": [
+          "Coffee",
+          "Late-night food",
+          "Prepared foods",
+          "Quick bite",
+          "Small plates",
+          "Vegetarian options"
+        ]
+      },
+      {
+        "dining_options": [
+          "Breakfast",
+          "Brunch",
+          "Lunch",
+          "Dinner",
+          "Catering",
+          "Dessert",
+          "Seating",
+          "Table service"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom",
+          "Wi-Fi",
+          "Free Wi-Fi"
+        ]
+      },
+      {
+        "atmosphere": [
+          "Casual",
+          "Cozy",
+          "Trendy"
+        ]
+      },
+      {
+        "crowd": [
+          "College students",
+          "Family-friendly",
+          "Groups",
+          "LGBTQ+ friendly",
+          "Tourists"
+        ]
+      },
+      {
+        "planning": [
+          "Accepts reservations"
+        ]
+      },
+      {
+        "payments": [
+          "Credit cards",
+          "Debit cards",
+          "Google Pay",
+          "NFC mobile payments"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "Paid parking lot",
+          "Paid street parking",
+          "Usually difficult to find a space"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible seating"
+        ]
+      }
+    ],
+    "service_options": {
+      "dine_in": true,
+      "takeout": true,
+      "delivery": true
+    },
+    "address": "Shop 52/2, Sujaya Pride Building, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+    "country": "India",
+    "website": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-church-street-bengaluru/",
+    "phone": "+91 77950 57563",
+    "open_state": "Open · Closes 12 AM",
+    "plus_code": "XJF4+VP Bengaluru, Karnataka, India",
+    "hours": [
+      {
+        "wednesday": "8 AM–12 AM"
+      },
+      {
+        "thursday": "8 AM–12 AM"
+      },
+      {
+        "friday": "8 AM–12 AM"
+      },
+      {
+        "saturday": "8 AM–12 AM"
+      },
+      {
+        "sunday": "8 AM–12 AM"
+      },
+      {
+        "monday": "8 AM–12 AM"
+      },
+      {
+        "tuesday": "8 AM–12 AM"
+      }
+    ],
+    "serpapi_posts_link": "https://serpapi.com/search.json?data_id=0x3bae17a5390152a1%3A0xb05e1ed8d4395e6c&engine=google_maps_posts",
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8iZnbiNMkuUNfNGaVrAEi34MdLdN2N4o9wTJGYq0GzQDf7Bc1LGOGCiGk0Zhp3jTP4FNmaeYDahrFw8HeU2_ulI-ENrHTsdF4-k-6VQnS9ANv-Sh55Ps0kf8UY-1BOSQclwui-fHmf90=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/3vY-NnicHcTRToMwFADQL7qjDKZg4gNzo2i2uxFghr0YLC2tQIsUJPqRe_dvTDwP5_cmp2mwD47TSW_VGNN0fLZ8ZEZPXE8rZnqnGSwwC9aJ8FV9h1mgrvpd4bGdCxRIq8sY7ZXnH-tDjWv0TbjkL7T8JPQn3Yn7LXMP9ESfFG3JVQ7eR372Y-wrXu4qOcZLkPBi_TZ3z7DHMcltHfvQwt0l1VkY4RdkcrM5W9KKoCjB3Z6ylHXLrEAkvQjJ4-ISQkD-z0D_AdkKRRA"
+      },
+      {
+        "title": "Latest",
+        "last_updated": "22 days ago",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGb0OzHNFe5LiiCe4o7NIS7oM0dvC3jahjbkUf8IGKjBu2IPRPFaa0GihkTy9EHKhKrU8PvxkkiRGK80O4nT3YLx8rLwrw8Sf3exyXHU7FbdK21noh5x09gwkWyfPkbPz3bu9CDB8oc2gILMCGF6TKtHaGwTrgi8wUUu4oNvZj5NwmV88lJpfYD1A=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/OHjrZnicHcTJUoMwAADQL2oJmwRnPLQgAUMp04JabywhYSlhwhLon_ZXPDnjO7znL5umYXxVlI7pe8o57cg8ElHwfiL9tC_4XaHDuBsEXzflEJaGy1AOzg8_8ogZ1rVDDG5FwdXiJ1Aujt5krMnbtIIBws1x1oL4EntZBlDN2mSz333MsEhhvKxtW18QhuBs9Il-C1coQikkvFY6WbdvP7W8vMSa2nNmrsCmsv3aqrjN44eez7bjHiEvNBqEJwd5Lwme_AzJRNAayjSdDR4tP40ZyfsnhN3HUN1c9fAmVQDAjv1f7Po_Jl9VuQ"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TvREWQxmRLXf2BYoDk3vG_un-_G8X7L7C6U4iVIQNO7brJyM3PtRz9BROPjsUFuL2SGAi_RtzeHQFnN8IuQdgQFmn-UnGlrxji-najEKLqVgc8ILkgJYlSEpQ86cmRitWorwEr3g=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/UPsLwHicHcRLEoIgAADQE5GWjVozLfqoWWRBmbZyigwxBQPsd8OO0G2a6S3e91No3aihYVSF1aFC0CpvVS6J4DrnukNEbdBGAaKAMsZRwl6D3R17CXrWGKaX3uQgZlfrHmQtB1ngpg50pnbcZ_sQRWvnJBevlbXR-D2Y4PWmVLHfwt42GLMM63c-Rz6P3LBFZ4r8moOYB5V8lgzwY-kt4W1PiRvCK10cqq3XINcmNWY6EfLhSYuOHl3TNEHxnwD-A-JKRcg"
+      },
+      {
+        "title": "Menu",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ss17-C-bQGVvrsXrjnOTDYZT15YJNoymimB4bsqmQw0p19NJyRvmvx4KUhz_qti0VYnwtmH4MwWVGJLxrGNTe-1LNtINf5mR7nDllQDVpgZ4kJhF-NkhAM7tvYugIa80Usl7I=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/_vWnNHicHcTdEoFAGADQJ9raHZlkxgUaKayJRG4MTXZjf9K3Sh7QO3gbM87F-X64MRUMbVvwnsW0ZqJ4QlHnWplCGSvX0mYVoBwQ2GO6LztvC8RFU3SJg7Sp4VDf1Drxs2NC-llEdSdLOXEu8JBxiyvi0ajbNLJ5OYsdf58epsRpploj586q3adBtHzVAU0KRJbUhPTalxtX-ULEflqxo3OP-AzROx-vXNNkTxaeB3gHwg1HLcEYI_4_R-oHb2RFEA"
+      },
+      {
+        "title": "Food & drink",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tj8tEvM1vYP8OiMvLnfuNLkVOwjn1rLwxjsLCXlbokBAPbdBvv9LXw-OFVuYPspDyUKbLMzAw06o91P5X6eNXcNfgGW_r24NhwDI1tdSfEywYjN1d9Ta0MRpD8-lBViXNIXYzqpA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/JMZXQXicHcTbboIwAADQL6q0cxow2QOIW4ylEC9YnhYpd7GttLTDP9wn-Dcmnofz_G-0lmrlOH0zn9VC1H05qnJgguuS6xkTN6eWCjAFlOOTczt5x87VGxMhkyVu3EYG82ok-JrGtuNowPavU3hN-1xcAz_Ji8AYD1ML4u90zBIlw-m0y3H08C1cCg8lC7osCWWkqn_Ov8PHJ2lsuEW6OFSbyWYdQYV3vMBoL0MX9EHaUrKl2eMu_S-LIISgec8AfwFvRUYa"
+      },
+      {
+        "title": "Vibe",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNtqp7bj4dJ_teTk9o8rQGMTxee1WySYv5gbF0F0NhUtSr20hPL6VGlbnwsi7ip4lOwfu3-xTT5ya3cNWW4xJAEp6D28pG4qPN61YoY2EvYFtjd_zCakb6ng3a_wx4iMQ27rRiif3-OptF=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/zEn2oXicHcTBboIwGADgJ6oUWkGX7GA2ITGzirIRTgRqbavYVvorsJfceW-zZN_h-_1RAM6_BEGnyExaKzvx8KLn1oAwMOP2FkjnEffIBytW6mmZM7i7pL3Q06YGUVyXdtHn2bYYhQjL6Vg957JNcYqZ-oRjH2G1_4i_sq41g9eJdrTbDecHQWNRzKeGcFaWdNys1i5-jxYuo_c9i8PKVtH6WaVwOdXfb821jY0kTT2MVG_zKOkPWp8J2jlIX4cQY4zU_xyZP9U1R4c"
+      },
+      {
+        "title": "Pizza",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE5dHWbytGhI6cnQaDpM05DSYJZrezgHYNaG1qCZcmDMZCN8otHJgp6e7fSbHbmiU-L9-oBdEdUtgR4cNfp7laPJLHQo1LPBTPIAqmB9KpRq6YtuyOSh7tN7OvEduo4YsCprL28JFQB2MIPinto4ftHE9TQnQ02_vn12nlcmvMuSw5iMheSAdNn=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/LEna4HicHcRJboMwAADAFxGWsoRKPbA1hgKBkKiCSwW2sZHANmBIk5_2Jz1W6hzm55dKKdZXVR3py4FwTka8rXiBnEnM5AHySSViVcTCvx-qlyIzpJGFwGf3kCca25CVbSgyzQqrOmkW_CSgztuTPgcNnMKsCfIjlyAhwsZOX3Wgm4abkroK91GEbpJcTJj3whnbIklByfW08K9F7M2T736Iy2zXcnucK-rI3DnvEdq4Wa-BWFLjmLyXvpHFxcAkN3sJIvdaslIzvnamG2yE055t1d0aMoorD-Xs7a5rmqbQ_6HC_gCjbFVw"
+      },
+      {
+        "title": "Iced coffee",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RsKxCnIJWNF-e2nJsjmCb5JHOmgHEVzNkivEmuwTZW7-0Pkl0DaHhMD4FloJPVTgT5G-Qq58rsXeB1Q2A_MgQJyHKMlgr0nNUM1PudQ8tfvkvs2wvkbyq_KcVjoDrR3m8ZG2vlUAsoI68=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/VUb7TnicHcTdboIwGADQJ6oUHJOZ7IKJiiUwMAjGG6NdLUp_lK-UsYfc_d7GZOfi_P02xtxh7jiimU641lywHlhHtTJMmQnV0uF3QBQQOGFWX8e3LSTfC7UhdbZCzFMEbnJx9kn8KXm8rH6y9mqXsh_KQz1DOG8Fjk5xk0YvK6FJXpW89NeoePhBB3v24RZeeEx5QcY4SQXvsMp2qZv3X0VgLra14A22PY-PY0Krm4667VQGh7VnxS4EvXkN3gcXY4ya_ylST1nCRz8"
+      },
+      {
+        "title": "Cappuccino",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q0He5KQjmQah1kWEM_CdiKtS8_Mmb0DT8rP-AUuLFX4BeZGfNFLbs2bpAOrumWi_OT0JUTpiJeC3Z5EakQPYzzATp1pCw9tuUd-Pv-lbFSApURdgIOnqUROYfr5wHWkpOptUWlTjpybIZ7=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/zS-PQ3icHcTLjoIwFADQL6qUUeIjcVEZGd8FbdORDbFQAXndoUWiPzlr_8bEsziv_8wY0DPLKrPhIG2atFSdVm3c1EbVZhA3lZWCRrFG2iIHkT-mAV4pZxvcquCS2YVY7iM3ybfmNIn2lcTfbNL6iPBu5_2OFir8uR68ndRfEghtu0rkEWV4wxnkG-UOQ2d5KQL__HwSBja4_dR0PEH-HZXSOxHgxyRd0_qPH-n52jr9ShRAwXBRshs85Docz3sbY4yyzzGq34W7R-M"
+      },
+      {
+        "title": "Coffee cake",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7osAXR2NQiyzQgGcEppCU42q0KgefIzpegWdU328aTRasNel3DIauE77O_6k_9NxT4f5L3gfFrdGUPFIv4V_g4Sz9lW0kZ5UJzz18ur_dIzEciQ_6c25joga4q3j4JG2kYixQRhsec5A=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/3Mr1_3icHcTBboIwGADgJ0JqW0SWeCCKBLegoAzdpSGl_CCMVgpT-5De9zZL9h2-31c9jkq_2XZXkxlICZ2YtBi47EfRjzMuv21Q2uLa0rYf583TO7pS--cUx0nzNAmEPFBqnVF8Q-8gqsgoAXmZEbwsTmmhY9GRTVRMgevu2aJlXvw40cr5IFBthzLMDtvoh34yoEfjdTlqv5xsZ8x8OQ2sjEzAm4QtOHauEgp6I1e6C3F7aR5JWmvBHX91nyOErPp_bvV_RTZGqQ"
+      },
+      {
+        "title": "Croissant",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBoe5OjsfygC2SP38d2UcR2TRVQIQxt8vmZz6qvTpAtz48Xti9GvmRLOCZUllU5sazCBWRqjGMl_frK4iv1ISpb5uD0iGcyN6HoDV75fwDnWipulwAI_nyt--ijEzU81LDzFsv=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/5yK4yXicHcRJDoIwAADAF1UWQdHEA4Iica8ixovRylJS2mpLkX7QN_gbE-cw308pJRdjwyBlv1cwVpCsEdkLMSozKnuI1UbBBUACCMPfpLgbwSnL3G0l8q4I7MOu7z3sBEH7CE_7eP-WnqovevBUR-5L7XhniUeRquFqG1wSQhJX3HQwTeGzitbkmr-WDlZWfOB3twlNHKFuM1iw8DR08zakKeYNaf34SjsJAK5mOvGsVajnQk1ayzRNUP5HgP4AsLRFtg"
+      },
+      {
+        "title": "Cinnamon roll",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TVYaoOx2B9Jxrn3f_P7oJ-YTIITx4Zbo7g2N-PKjbEQGQyofLa9GlDovDjk_7pZQqOvyKQH27_QpvLSfCozeaE880fAwfgA2WgT5E8rd28TrqWGJ2JuJ3McA_JDKSu865IlyXO=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/gZokeXicHcRRboIwGADgE1Ww6ChL9oBCkKJiYzPUF4IdLSryIwUEL-gZdpsl-x6-33fRtrX-NIyysCYKQJV5p_NGQNXmVTsRcDdUrZHQSBvuNrmMDv8-ZhAPeOHQoaksme5soOjIw5APs9MZbIW3aBddzz4L2AhynTlB6UHvXW-pXZ_YI-7HiK2wnbK6X-_lEl555hNiSvcplYsTxec-aX4w4c0jCSimHbU2wk2pF-078jEPy_EQfz2npmmi4n-Bqj9CGkO_"
+      },
+      {
+        "title": "Cocktail",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFEiuyjdLmlsg-MCpA3qqEpPqza90KBTF9hGehHIzbfhQGpnkK_3dHDsxTq4l7AT0RH3LclG0_6sGRmPIn_vlvs59c1DrKabPEkQoV0mYNEJXSzO_Vrfih1wxaicHyFaKeliHQwCE1DXJZ6qb1kjtUDwrRj-K9v5INM5pI_j9JDXGO_TWckbOyq=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/w9msNXicHcRJboMwAADAFxGMCKmo1AMNOyQsoSntBYEhGDDYxoTtp_1Jj5U6h_n5RdNE-asoYiQfakJqXD15NUIyTNUwHSDpxZpygY5k3UTNL486Mo3mubWl32NeC5cz1WTGDBqyPVeB956YKrIqZDt78UCRRYfOy-TS1vmasCN-0RIQ27IPsQWyE7fiPnSGbMYzV1Qo6aOXF6HRReQO-q-r4aa3Pcju46NB0rLmDbQ3M_cq3NjRcjYkPXW_T6yQunb60JcxbgVPnRXnelGok7Wqq6dWkCWfsCuCjb0tEgBAQP9DYfgDVbdWkw"
+      },
+      {
+        "title": "Iced tea",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TAL63ZV3qnf5QR9t4Z6kJBrUzoNbA_A6uMHrAUmsvIXTgTreMJP_OQNeplQa2XA8ScrH0kVqWrPoAF1jKNlXhnGk_3qOBt0KMSJaFy8I9_n_LbRjFKBDe_i9KeNwpxDgkTzXE=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/h5yTFXicHcThEoEwAADgJ0ojOrnzY11CaZSo68-O3SzKVtuIHtA7eBt3vh_f91Nq3aiZadalNWBCsJo-FJVEcE25HhBxN1mjDKIMZUKUXd9OCje2VRytll8mceLocWFXgSsPvUBniKH9iFYSHu7quc5TlkoaBTu8jRFt6vg0yuF0T-QKVMc2kzsB_eEtRHVe8mWFrXbrahBG--Dkv6drB3O8OSc3P3Q9iq9OSFHXvDxWpX2-mHdDAIBR_icG_wEDfURh"
+      },
+      {
+        "title": "By owner",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxrZpzNcpk5_ToM3q3CP1KUqM6vcC2Ofi4bdn2rDIaQBYAxPUhdP7t-X9qr6-Zx9uKf1WsUoISx-FXYeAbjFriiqHxggj1VDLC7jdd0qvmZRXQq-hiDn9zEjQbi2Mzz0hcB4UuHA=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/YGSlnHicHcRdboIwAADgE1UKOAkmPiCMaBAFJxN4WUbBtqgt_cF13NAjeJsl-x6-15NoPailZd2IO8Oc41s3qk4iznTH9Azxu4UHBZACygr2Z_rr50bWw7RHw_Xt68RTV7hhZieFSBcPFDqHC503LXNktP3O11VgsoK0madB6Qu5ALXxx-Rin1XBtx8GxGXVBU0fS0rFxmDc25_RLvT6toXica-PZS4AoRHzp_c-b6iTThMkaD0vxk2w-rEhhID8jwD7AygmReE"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StpKBq1Xq3g7-7-rKHDpFY_lZ0GAJOFwxdEGpdFZPaf5lCNlDlFwvx9eJZcY9yLY-ujxB8e82N7GD2iczLEvE01q-ZQyaQ6JyyMxpSsrAS_oIEYtNvyXC24Uyzu81z9aydL4qxRQ=w1000-h1000-c-n",
+        "serpapi_thumbnail": "https://serpapi.com/images/url/QoAbpXicHcRLjoIwAADQE1UKfoBJXKB8FBlGJEZhY0ipoKm00AItN_QIcxsT3-L9v2shGP_RNFLPZxWlFcE9xx2ijcCNmCH60irGAeKAa058eSg7FeywafVrO69MYILusHOZn91IDgMn_PNHWXoBK_38WNyXZBsTl_jjIG0c5iizVZSB_ik3FraM2Axc44GmyBs8qLcgT1SRrEKlfiVLeeekN7r3MhEP6ro1Fmc19ZY-2YUqo0UrT8l61CGEoP6OQPMBxwxFWQ"
+      }
+    ],
+    "at_this_place": {
+      "type": [
+        {
+          "title": "Shopping",
+          "places": 1
+        }
+      ],
+      "places": [
+        {
+          "position": 1,
+          "title": "Bling Mobile Shop",
+          "data_id": "0x3bae17001f6fd38b:0x6789abf10e603dab",
+          "data_cid": "7460683309532593579",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17001f6fd38b%3A0x6789abf10e603dab&engine=google_maps_reviews&hl=en",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17001f6fd38b%3A0x6789abf10e603dab&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 12.9746613,
+            "longitude": 77.6067453
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x3bae17001f6fd38b%3A0x6789abf10e603dab%218m2%213d12.9746613%214d77.6067453&engine=google_maps&google_domain=google.com&hl=en&type=place",
+          "rating": 4.8,
+          "reviews": 4,
+          "type": "Cell phone store",
+          "type_id": "cell_phone_store",
+          "address": "Shop 52/2, Sujaya Pride Building, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+          "open_state": "Open · Closes 12 AM",
+          "hours": [
+            {
+              "wednesday": "10 AM–12 AM"
+            },
+            {
+              "thursday": "10 AM–12 AM"
+            },
+            {
+              "friday": "10 AM–12 AM"
+            },
+            {
+              "saturday": "10 AM–12 AM"
+            },
+            {
+              "sunday": "10 AM–12 AM"
+            },
+            {
+              "monday": "10 AM–12 AM"
+            },
+            {
+              "tuesday": "10 AM–12 AM"
+            }
+          ],
+          "thumbanil": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpjknbyKHLO6jFV637W0DkbgVlKrWVMu-H3fy-Ws3g1m0sU7Sntc80lY1tI2stcCKXKOPORwkZXKLrPDdpQA75f1tlPhTBYUbVHA8_CvS2nr73-7cMSHohBtiDjaYghpog6OSyFXsUD-Q=w86-h86-n-k-no",
+          "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpjknbyKHLO6jFV637W0DkbgVlKrWVMu-H3fy-Ws3g1m0sU7Sntc80lY1tI2stcCKXKOPORwkZXKLrPDdpQA75f1tlPhTBYUbVHA8_CvS2nr73-7cMSHohBtiDjaYghpog6OSyFXsUD-Q=w86-h86-n-k-no"
+        }
+      ]
+    },
+    "user_reviews": {
+      "summary": [
+        {
+          "snippet": "\"Good service and atmosphere good place to hangout with friends\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKjw0_K6BC0RBiFTUPLuxLVdWhm43EcQt2kHdfbBRl6qO_gHA=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"* we had ordered pizza, bread sticks, iced cold coffee and masala chai latte.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKcyfjaqrsL_0g_ndADbqIDM_DheKEL8trTbmzxBffoDmqthTU=s40-k-cc-rp-mo"
+        },
+        {
+          "snippet": "\"Good vibe, friendly staff, and tasty drinks.\"",
+          "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWn7yj5VIE2zjcQsNDYyRUxPTqjQmdhomcl27h0F2KUIYv_NpbY=s40-k-cc-rp-mo"
+        }
+      ],
+      "most_relevant": [
+        {
+          "username": "Amar Khanderia",
+          "rating": 5,
+          "contributor_id": "104230811041732627708",
+          "user_review_count": 11,
+          "user_photo_count": 1,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVmhC9T0ouuWtnup_yEZfZ6MlVWSpVS2K5bwHCVdhd-OQev5Zxx=s120-c-rp-mo-br100",
+          "description": "Great place to chill and work! I’ve been at Third Wave Coffee on Church Street, Bangalore, for a few days, and the team has been so friendly and welcoming.\n\nIrfan and Thanila did a coffee-making demonstration right at my table, explaining the process, coffee weight, filtering, and timing. The coffee was great too, and Nisha was also very helpful.\n\nOverall, a really nice experience. Would happily visit again.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WSE5VdEdUM3BzZFc1WFYwUjVOa1JvVUdsR1dYYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOnVHNUtGT3psdW5XV0R5NkRoUGlGWXc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfgw8UAdHSKnOAm1aiMH0tSLZ43PNvnQuvPM8hbra7pNnOens0oizxowGdQnYj2_zIKJjiMYoO-No9rUrBjYq7P2CD_hgoouHt9DL0w_dpIeS3-soqlRtK50FyKC6KN0KR210v99RIbE1KT=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-10T10:13:19+00:00"
+        },
+        {
+          "username": "Sambeet Mohapatra",
+          "rating": 4,
+          "contributor_id": "109491442936217270574",
+          "user_review_count": 187,
+          "user_photo_count": 582,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWrcHOZ1WWTECJ7rrX4-AQsACqF_6uzasIp2WG4wayNY-bxFtO03A=s120-c-rp-mo-ba12-br100",
+          "description": "Third Wave Coffee (Church Street) is a decent weekend pitstop if you don't mind a crowd. The matcha coffee is a standout hit, and their classic black coffee is equally well-brewed.\nService is just average, and the space gets incredibly noisy and packed on weekends—but that’s expected for the location. Great for a quick, quality caffeine fix!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21vMGJWTkpUblp0VlVSNE0yNVVhbTR4T1ZkNVgyYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOmo0bVNJTnZtVUR4M25Uam4xOVd5X2c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCzTbittsFaaKkPKG4vIeYv6Dqp7vcc7YetuQkUwjn6gaN67PuCyOof-Y2uQLlQ0KrlLhVY3Ar_CybBikivobNK4hnxn2wvkj-P88lPtxaMsefDSNwF6oMNqrU3BQZXiEVqKb6fmUGVDPj=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfiRIWgbVkrS8P0iSn2MoNLXwWv0aqmNV9RtkibcF3adQL_vxfg3fV_sHa_NilSr_luvHnzI7XqVvMK1q6ykfIU9f1dO_eGaNJJFPxWQf_TsyuAnZqmtRUxVUZRML_i5aaa98QZEhEPsH0=k-no"
+            }
+          ],
+          "date": "3 months ago",
+          "date_iso8601": "2026-06-14T16:19:00+00:00"
+        },
+        {
+          "username": "Sudarshana M S",
+          "rating": 2,
+          "contributor_id": "110128150342664823942",
+          "user_review_count": 474,
+          "user_photo_count": 1000,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVekV_2cFc4FV9kuzKK0qyN64iD5Z3XM-emntQNOl65nCHxzmZ7=s120-c-rp-mo-ba12-br100",
+          "description": "Visited this café on a Saturday night in March 2026. It wasn’t crowded, but the ordering process was quite inconvenient. You’re expected to scan a QR code, which redirects you to the Play Store to download their app. After installing, you have to sign up/login before you can place an order. Personally, I don’t find this acceptable just to order food. The alternative is to walk to the cashier and place the order manually. Once the order is placed, the staff brings it to your table.\n\nWe ordered a Veg Bonanza pizza, a Mexico sandwich, and a banana cake. The pizza had very limited veggies — the “bonanza” name feels misleading. The pizza itself was quite hard, and the base seemed like it might be outsourced rather than freshly made. The crust edges were especially hard.\n\nThe sandwich tasted good, but it wasn’t warm or hot when served. The banana cake was the highlight — it was fresh, soft, and really tasty.\n\nLastly washroom was not at all clean.\n\nOverall, the experience didn’t meet expectations, and I wouldn’t plan to visit again",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21obk1GUlFNMjVyYUVsalJVTXljbEpUYmpkVk4zYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOmhnMFRQM25raEljRUMyclJTbjdVN3c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdKmKbhk9gdzQ5OkoCqBn1TBLnOj_sBNG8bP8RFW4OtRobX5RNUwG6FX0ksgiwKkmRKFxxG18QqEHRChJIfR3YKH6Elng_gPa9bz1W3L3HODiIEzuoHGMvlp1ldWoMgA9Go43cVdfY6DxA-=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe2KEpqH2hex2NamcTQns9PV8mXLduAOkFi0TQX_GClRfdsvSBXpPcu7L0yJ3-Afetdr0pqQoNbKZtqdK4ODBt9lnco6lMDjX5u4PKbAtDB0X0KSTLWFgVymp_BbbDVhi7TZMj7GWNeju8=k-no"
+            }
+          ],
+          "date": "6 months ago",
+          "date_iso8601": "2026-03-15T10:35:05+00:00"
+        },
+        {
+          "username": "Nate David",
+          "rating": 5,
+          "contributor_id": "117721967430970914070",
+          "user_review_count": 28,
+          "user_photo_count": 15,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW3YjLdIa-mPJjA68pfxmdhTUUtIly8_fo2qou9iTg2lJqZf1dfCg=s120-c-rp-mo-ba12-br100",
+          "description": "The morning combos are exceptionally good. Especially the pancakes made by Krishna, she did an amazing job.\nThe coffee and ambiance makes you want to keep working",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205dVpUSmZMVEp0TVVWaWRtOUlaamxLVTFGWlgzYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOm9uZTJfLTJtMUVidm9IZjlKU1FZX3c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-w80ewdJvSGs0SIaLFDX94ZgalXYvxWV2BaAvc1jVo4qx0qweYgo_e4s1J7npBzMlgLBnEh5gQw5cVFqzsJfcAQ6A9qynK7o9uaBYyeEqGWD1wSgH8rIHYc4FFNDqon6QlzpkHjj1R-y-=k-no"
+            }
+          ],
+          "date": "2 months ago",
+          "date_iso8601": "2026-07-09T05:51:37+00:00"
+        },
+        {
+          "username": "P T",
+          "rating": 5,
+          "contributor_id": "108341534242782946692",
+          "user_review_count": 5,
+          "user_photo_count": 11,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKv9j8SfxUi3driBSQ6wXyoyzgTj76dRWGHLpovOrtqgxnGew=s120-c-rp-mo-br100",
+          "description": "I came in for a coffee and a snack a left with a coffee tasting experience.\n\nI was served pour over coffee by Sukumar, who explained and the entire life of the “medium light roast coffee beans” - where it came from, where it is currently being grown. He also displayed the method of making a cup of pour over coffee - the temperature of the hot water, the direction and speed at which the water should be poured, the blooming of the coffee, and finally the ready cup!\n\nLoved this experience and the coffee.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sQ05FeFRNRk4zZEdWSWJUSnhXV3RMY25KbE1HYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOmlCNExTMFN3dGVIbTJxWWtLcnJlMGc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd5U8jHEaboYcU6N9oV-jBWJJRYAidLoQVC1M3nea2Yf1B3xOcltbZHqSSjADII7Expte1j2s0gHmtpjwWOSH3DiK7yKeheeT8kjSnkILLLlmUOEl2QJdEWXmYvfIrPgMt7hG74LG5-9BL4=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-18T15:29:12+00:00"
+        },
+        {
+          "username": "Gokul Krishna",
+          "rating": 5,
+          "contributor_id": "114816656754814203623",
+          "user_review_count": 1036,
+          "user_photo_count": 6053,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVjq7nS1oo0awewg1XiqEf1MWPNqn6I6eFU555Tpf2sBieKuny0=s120-c-rp-mo-ba12-br100",
+          "description": "Good ambience. An another good franchise of third wave coffee here in church street.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGUGJHUmtTemRaVVZSdlZ5MUZjRjl1VEhGQlgyYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOlFPbGRkSzdZUVRvVy1FcF9uTHFBX2c%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcxnRps5O2Fbzz86HpKo6KrScWYXOIElEbhqbj4HpM-9gIZ1VVMiB-hR0vrvoqr-jjo3pAWCmXnqkvP5aUhQdElTXMw3bOR1G3teTBKZ4bd70h61bO0tPd4UuuuuUJsSEx-HVRhOnsn0FU=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKRKsHRMPJ3yszEm4wyDlFPx8leza5RCyGExlU9whYs5RIHTy8i7B3Zfino3NNHe4JOyjQ_wj9vM_6o60NUdzCOXT2ulmpq31n7dYO4km-2e8HHXjpoHG7bez8RPVvrKoUTLPpviPvXovx=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLctrblogWYmI9ytcIE1fR3DxTugFmOxSCa113vAp0Bccmbrn8bTSU3WEZv5IyT_KqdPo_spPwGNjPEIJeq-YAa1OA8nJoC7ueLnJqZacv43a-oI-3wU4fAFyLhLUgwDfQUKRt7UtvYwTTyh=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdoGMjh3lreqYeIlsCKixlOS1uG2XGSOROTXkP3DCYa5hoWowb_fvS80IhtEHz5knlYkcZseo-co-hTdvXckuerXvcQNLTshVHyxd0PqRcsTP2Mdb9WUSVpOkUY5io42eYrzEJ72AY437I=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfGxCU-spkQt-xcZyoccpgnzNxLVUyRNezViU7xYMBUua5XvxtUrumBtBD4Wd7irbQORGSsMw18SGAdHtfRabzxU8uDPzkLnlyEM2DlyzF3vuhvayBrYkuMOnPLpVIPipBDoiscUTFvMjs5=k-no"
+            }
+          ],
+          "date": "4 months ago",
+          "date_iso8601": "2026-05-09T18:11:02+00:00"
+        },
+        {
+          "username": "Vaishnavi Makam",
+          "rating": 1,
+          "contributor_id": "115201977030849165210",
+          "user_review_count": 14,
+          "user_photo_count": 13,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLiiX6n2URP3gP_1w9errrZBij6TjsSCiNpKekT1JNzVNaO=s120-c-rp-mo-ba12-br100",
+          "description": "The have no WiFi.\nThey didn’t fill the water jugs even after asking 4-5 times.\nWe can’t even charge the phone.. plug points are not working.\nAmong all third wave stores this place is very bad . Waste of money.\n-Bad service.\n- washroom is not maintained.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25welptNVdUbVZQZFVSNmNWRkVWalZvYzBObGFuYxAB!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CAIQACodChtycF9oOnpzZm5WTmVPdUR6cVFEVjVoc0Nlanc%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdvDFGQ8VHH6n05lCYFwlp0vs5TkgFZILxaihVYvG3U5O00LJX0xK-UnX-GOtoynHfagMp4DWoZbo795fERcRJDpeVwa-wB1YYiwAsorw7dCIiKxSg5nylarD8Ywh7DFR_SKbMqikoanURM=k-no"
+            }
+          ],
+          "date": "2 months ago",
+          "date_iso8601": "2026-07-18T14:04:29+00:00"
+        },
+        {
+          "username": "Chiranjeevi",
+          "rating": 5,
+          "contributor_id": "108445956348296576081",
+          "user_review_count": 128,
+          "user_photo_count": 372,
+          "user_thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI0YkJfAWcbKMuPCLt_YinChIMZ73EIo0njseOLCKBTkDT2GA=s120-c-rp-mo-ba12-br100",
+          "description": "This is one of the best places to work from! The atmosphere is relaxed yet vibrant, their chocolate milkshake is excellent and the staff is always welcoming. I had a great time working here it’s a perfect spot for productivity and good vibes.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VLckJ1dDJUZ2R6VmNREAE!2m1!1s0x0:0xb05e1ed8d4395e6c!3m1!1s2@1:CIHM0ogKEKrBut2TgdzVcQ%7C%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfCngu9vuSO9C-PrYtV33_bocgr3hTpwgIC8pTDHwgyqD3v2tFqJi_285QnbwDG88xp0W-CZkY9zFfGWjzqJE7mYddTDlXe0KNyQ4_eDQ6bd2I9Bif_B557dLRfG_gaIcZeklbV=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdkLaBHLxHmqqroSh6hjYPGZufMbXgBCRGoWwv-o4EuhA4rBSNihXefs_ArhMeUacL0z_Uj4Ko9K6fhbcM-L3Typ4ZCeC81x6_hX0R-OGoGtULoEeFnbBeXJeZlizd-XpodUdvqSw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe8ipqAg9MBQxCy-8FVtFxIxx1RO3tF_J_kNarrSDE9k-sLX85GdZrHfcC3zjpwlwbpy7cGkVfheUx6ekbU0zSD8cZubQDhFH7A4kydTyh03JQHL_wAqkMDcM-R_-o84YPjNnNmLw=k-no"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLc1Yzwhdq-dTOEEuzi2CRrx5u8hm-EsDoeumsd4mjm7EHFpz_Ds_tdGu016dsOmA_NC3YSIkuAElsRi36YPXdDCRa0xlUoXNfqBGcGAk5tcAtMZlI15SDNOkkXn6LNoUYTg-s8=k-no"
+            }
+          ],
+          "date": "Edited a year ago",
+          "date_iso8601": "2025-05-26T04:01:38+00:00"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Matteo Coffea",
+            "data_id": "0x0:0x9034c1241107d94",
+            "data_cid": "649446412556205460",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x9034c1241107d94&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x9034c1241107d94&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.974275800000001,
+              "longitude": 77.60702409999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x9034c1241107d94%218m2%213d12.974275800000001%214d77.60702409999999&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.3,
+            "reviews": 7198,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SjTUObHcMUQK0orkdDX_7oMpiABtcvVjdW8MWhlJosjqx7t9lFv-0YvKZT5Ky9HJ4duKYUW4IBU3OpTtih-roUXSU_vvvzRFok7XDwvT45Xc5yo7vs_UhHznPapnuYueUS-AmdNwPrtCyN=w156-h156-n-k-no",
+            "type": [
+              "Cafe",
+              "Coffee shop"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Third Wave Coffee",
+            "data_id": "0x0:0x3b9120fad40e4ffc",
+            "data_cid": "4292248181532413948",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x3b9120fad40e4ffc&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x3b9120fad40e4ffc&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.934721699999999,
+              "longitude": 77.6295729
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x3b9120fad40e4ffc%218m2%213d12.934721699999999%214d77.6295729&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.4,
+            "reviews": 5018,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R2qEVmni86q5mn6eOCcLBlpTc46zL1OiB68agLq_T4fWuG8gAjvzTw4QZtDt9ak4mR71qKh-1a6wd-qW9DjWXEVmZd5V29aLAtRC9kP9ibCuazqpGFARC8CBXsTDoBjxeGNq6rN8f8QP7g=w156-h156-n-k-no",
+            "type": [
+              "Cafe",
+              "Coffee roastery",
+              "Coffee shop",
+              "Coffee store"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Reva's Bistro",
+            "data_id": "0x0:0x365503a4c95f2fe",
+            "data_cid": "244689966084780798",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x365503a4c95f2fe&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x365503a4c95f2fe&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.974644000000001,
+              "longitude": 77.6055228
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x365503a4c95f2fe%218m2%213d12.974644000000001%214d77.6055228&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.7,
+            "reviews": 53,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TrUOC3zJFYzMYNWay9RgZvuDv6Rx6KzjoKb2Snwguof5njSbvnvsAjtw8LScwAtzp2tlEqQ9lbRPmv4z80l3TbDTFFKrESARhUNnE3e77B9r7B0NAVlY_kM2cIRe5pEiLNPyuL=w156-h156-n-k-no",
+            "type": [
+              "Coffee shop"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "tribal brew daily | Church Street",
+            "data_id": "0x0:0x916197a69904dec0",
+            "data_cid": "10475820950028082880",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x916197a69904dec0&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x916197a69904dec0&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9747995,
+              "longitude": 77.6059277
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x916197a69904dec0%218m2%213d12.9747995%214d77.6059277&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 4.7,
+            "reviews": 280,
+            "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sjvr_Ybek6KUL-6yoQAOZrByrEhk0YS-sbeNNeoeUMBtI1C_qOwrQ1n-HrBdsQ9DZNR1w8qCHJrXCwdf3cWQDucjGeRMfU_aEgK6Kil19dRio7FYHowYkrJAj9ErKp94TRHZyuNpjKvXpO=w156-h156-n-k-no",
+            "type": [
+              "Coffee shop",
+              "Bakery",
+              "Breakfast",
+              "Espresso bar",
+              "Health Food",
+              "Sandwich",
+              "Snack bar"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "A",
+            "data_id": "0x0:0xcb4f8c240be427fa",
+            "data_cid": "14650082199305725946",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xcb4f8c240be427fa&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xcb4f8c240be427fa&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 12.9473262,
+              "longitude": 77.5983437
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xcb4f8c240be427fa%218m2%213d12.9473262%214d77.5983437&engine=google_maps&google_domain=google.com&hl=en&type=place",
+            "rating": 5,
+            "reviews": 2,
+            "thumbnail": "https://www.google.com/maps/vt/data=8_76G4I2iis-dDTgEkBtWrl338odaa4-jVmP3bWrjpQk8SDgRFYZDCFWuJasmj2Eatx-3ga362CIuGIKN_IfdT3KXUbcXEG61QbqHPMiimJ4TVg80oSgeFuVg359GQkGNTa-VqQ9Tthk8Q8dCiLdvHa4LkLXhmuB",
+            "type": [
+              "Coffee shop"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "current_day": "wednesday",
+      "live_hash": {
+        "info": "Less busy than usual",
+        "time_spent": "People typically spend 1-4 hours here"
+      },
+      "graph_results": {
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 80
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 89
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 71
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 78
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 90
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 89
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 93
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          }
+        ],
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 34
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 30
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 86
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 93
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 89,
+            "live_busyness_score": 32,
+            "current": true
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 74
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 30
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 71
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 86
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 43
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 87
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 95
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 93
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 84
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 74
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 66
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 78
+          },
+          {
+            "time": "10 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 86
+          },
+          {
+            "time": "11 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          }
+        ]
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OjMKMSItVGhpcmQgV2F2ZSBDb2ZmZWUgQmVuZ2FsdXJ1LCBLYXJuYXRha2EsIEluZGlhKAI&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COjMKMSItVGhpcmQgV2F2ZSBDb2ZmZWUgQmVuZ2FsdXJ1LCBLYXJuYXRha2EsIEluZGlhKAI&q=local+guide+program"
+  }
+}

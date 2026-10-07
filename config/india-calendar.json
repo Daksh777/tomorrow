@@ -1,0 +1,100 @@
+{
+  "_note": "India festival and observance calendar, Oct 2026 to Jan 2027. Dates were cross-checked across several panchang/calendar sources on 7 Oct 2026 (Dussehra falls on 20 or 21 Oct depending on the tithi, so both days are listed). Effects are fractional starting guesses by archetype, tuned per place by the morning tap and the owner's weights. `basis`: 'reported' = a published business source describes the direction; 'assumed' = reasoned from how the festival is observed, not measured. `regions` are states; an entry with regions only fires where the place's state is listed. `hours` are local clock hours (past 24 = after midnight).",
+  "regionGroups": {
+    "north": ["Delhi", "Haryana", "Punjab", "Uttar Pradesh", "Rajasthan", "Himachal Pradesh", "Uttarakhand", "Chandigarh", "Madhya Pradesh"],
+    "east": ["West Bengal", "Assam", "Odisha", "Tripura"],
+    "purvanchal": ["Bihar", "Jharkhand", "Uttar Pradesh", "Delhi"],
+    "garba": ["Gujarat", "Maharashtra"]
+  },
+  "events": [
+    {
+      "id": "pitru_paksha", "name": "Pitru Paksha", "start": "2026-09-27", "end": "2026-10-10", "hours": [11, 23],
+      "effects": { "restaurant": -0.05, "bar": -0.05, "quick_service": -0.04, "cloud_kitchen": -0.04 },
+      "basis": "assumed",
+      "culture": "Many families avoid non-veg and eating out for these 16 days; veg-forward menus hold up best."
+    },
+    {
+      "id": "navratri", "name": "Navratri", "start": "2026-10-11", "end": "2026-10-19", "hours": [18, 24],
+      "effects": { "restaurant": 0.10, "cafe": 0.05, "quick_service": 0.05, "cloud_kitchen": 0.05, "bar": -0.20, "retail": 0.10, "salon": 0.10 },
+      "basis": "reported (evening dining); assumed (bars)",
+      "culture": "Fasting thalis without onion or garlic sell; people go out every evening for garba and pandal hopping; many avoid alcohol and non-veg."
+    },
+    {
+      "id": "garba", "name": "Garba nights", "start": "2026-10-11", "end": "2026-10-19", "hours": [19, 26], "regionGroup": "garba",
+      "effects": { "restaurant": 0.15, "cafe": 0.10, "quick_service": 0.15, "bar": -0.10 },
+      "basis": "assumed",
+      "culture": "Late-night crowds around garba grounds in Gujarat and Mumbai look for quick food after the dance."
+    },
+    {
+      "id": "durga_puja", "name": "Durga Puja", "start": "2026-10-17", "end": "2026-10-21", "hours": [17, 27], "regionGroup": "east",
+      "effects": { "restaurant": 0.35, "cafe": 0.20, "quick_service": 0.30, "bar": 0.10, "cloud_kitchen": 0.10, "retail": 0.25, "salon": 0.15 },
+      "basis": "assumed",
+      "culture": "Pandal hopping with family fills restaurants and street food until late; new clothes are bought beforehand."
+    },
+    {
+      "id": "dussehra", "name": "Dussehra", "start": "2026-10-20", "end": "2026-10-21", "hours": [12, 24], "holidayDates": ["2026-10-20"],
+      "effects": { "restaurant": 0.10, "quick_service": 0.10, "cafe": 0.05, "retail": 0.15 },
+      "basis": "assumed",
+      "culture": "A public holiday: families go out for lunch and evening fairs; offices are shut."
+    },
+    {
+      "id": "karva_chauth_evening", "name": "Karva Chauth evening", "start": "2026-10-29", "end": "2026-10-29", "hours": [19, 24], "regionGroup": "north",
+      "effects": { "restaurant": 0.15, "cafe": 0.05, "bar": 0.05 },
+      "basis": "assumed",
+      "culture": "Couples break the fast at moonrise and many go out to dinner."
+    },
+    {
+      "id": "karva_chauth_day", "name": "Karva Chauth grooming", "start": "2026-10-29", "end": "2026-10-29", "hours": [9, 18], "regionGroup": "north",
+      "effects": { "salon": 0.30, "retail": 0.10 },
+      "basis": "assumed",
+      "culture": "Salons and mehendi stalls are busiest in the hours before moonrise."
+    },
+    {
+      "id": "dhanteras", "name": "Dhanteras and Diwali shopping", "start": "2026-11-06", "end": "2026-11-07", "hours": [10, 22],
+      "effects": { "retail": 0.30, "salon": 0.15, "restaurant": 0.10, "cafe": 0.05, "quick_service": 0.05 },
+      "basis": "reported (Diwali week is the biggest revenue window); assumed (split by day)",
+      "culture": "Buying gold, utensils and gifts is auspicious; bazaars and malls are crowded into the evening."
+    },
+    {
+      "id": "diwali_night", "name": "Diwali night", "start": "2026-11-08", "end": "2026-11-08", "hours": [17, 24],
+      "effects": { "restaurant": -0.20, "cafe": -0.10, "bar": -0.10, "quick_service": -0.10, "cloud_kitchen": -0.10, "retail": -0.30, "salon": -0.20 },
+      "basis": "assumed",
+      "culture": "Families are home for Lakshmi puja; shops close early; eating out picks up again from the next day."
+    },
+    {
+      "id": "bhai_dooj", "name": "Govardhan Puja and Bhai Dooj", "start": "2026-11-09", "end": "2026-11-11", "hours": [12, 23],
+      "effects": { "restaurant": 0.15, "cafe": 0.10, "bar": 0.05, "quick_service": 0.10, "retail": 0.05 },
+      "basis": "assumed",
+      "culture": "Siblings and extended families meet; lunches and dinners out are common."
+    },
+    {
+      "id": "chhath", "name": "Chhath Puja", "start": "2026-11-13", "end": "2026-11-16", "hours": [11, 23], "regionGroup": "purvanchal",
+      "effects": { "restaurant": -0.08, "bar": -0.10 },
+      "basis": "assumed",
+      "culture": "A strict fast kept by many families from Bihar, Jharkhand and eastern UP; fewer eat out."
+    },
+    {
+      "id": "christmas_eve", "name": "Christmas Eve", "start": "2026-12-24", "end": "2026-12-24", "hours": [18, 26],
+      "effects": { "restaurant": 0.15, "bar": 0.30, "cafe": 0.10, "quick_service": 0.05 },
+      "basis": "assumed",
+      "culture": "Dinners and parties in metros, Goa, Kerala and Northeast towns."
+    },
+    {
+      "id": "christmas", "name": "Christmas", "start": "2026-12-25", "end": "2026-12-25", "hours": [12, 24], "holidayDates": ["2026-12-25"],
+      "effects": { "restaurant": 0.20, "cafe": 0.20, "bar": 0.30, "quick_service": 0.10, "retail": 0.20 },
+      "basis": "reported (some restaurants cite +30-40% on Diwali and Christmas)",
+      "culture": "Public holiday; brunch and dinner outings, gift shopping."
+    },
+    {
+      "id": "new_years_eve", "name": "New Year's Eve", "start": "2026-12-31", "end": "2026-12-31", "hours": [19, 28],
+      "effects": { "bar": 0.50, "restaurant": 0.30, "cafe": 0.10, "quick_service": 0.10, "cloud_kitchen": 0.20 },
+      "basis": "assumed",
+      "culture": "Parties and countdown dinners; bars and restaurants book out, delivery spikes after midnight."
+    }
+  ],
+  "dryDays": {
+    "_note": "National dry days only. State dry days (festivals, elections) are not in this file; they arrive through the news signal. Source: restaurantindia.in dry-day calendar. Only archetypes that serve alcohol are affected.",
+    "dates": ["2026-10-02", "2027-01-26"],
+    "effects": { "bar": -0.60, "restaurant": -0.10 }
+  }
+}

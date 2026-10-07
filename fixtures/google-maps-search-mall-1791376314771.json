@@ -1,0 +1,980 @@
+{
+  "search_metadata": {
+    "id": "6ac63bb9703f178345e58230",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vp7nf5WjTQ1Ts-V7kjoaFRtgiOWYSDqoHnv2-onwPws/6ac63bb9703f178345e58230.json",
+    "markdown_endpoint": "https://serpapi.com/searches/vp7nf5WjTQ1Ts-V7kjoaFRtgiOWYSDqoHnv2-onwPws/6ac63bb9703f178345e58230.md",
+    "created_at": "2026-10-07 12:31:53 UTC",
+    "processed_at": "2026-10-07 12:31:53 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/mall/@12.9672485,77.6367305,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/vp7nf5WjTQ1Ts-V7kjoaFRtgiOWYSDqoHnv2-onwPws/6ac63bb9703f178345e58230.html",
+    "prettify_html_file": "https://serpapi.com/searches/vp7nf5WjTQ1Ts-V7kjoaFRtgiOWYSDqoHnv2-onwPws/6ac63bb9703f178345e58230.prettify",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "mall",
+    "ll": "@12.9672485,77.6367305,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "mall"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Nexus Koramangala Mall",
+      "place_id": "ChIJuzGXhU0UrjsRCRsq7sQj5Xs",
+      "data_id": "0x3bae144d859731bb:0x7be523c4ee2a1b09",
+      "data_cid": "8927581165048175369",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae144d859731bb%3A0x7be523c4ee2a1b09&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae144d859731bb%3A0x7be523c4ee2a1b09&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.934669099999999,
+        "longitude": 77.6111143
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuzGXhU0UrjsRCRsq7sQj5Xs",
+      "provider_id": "/m/0fxtc5",
+      "rating": 4.4,
+      "reviews": 140452,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560030, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80 2206 7803",
+      "website": "https://www.nexusselecttrust.com/nexus-koramangala",
+      "description": "Vibrant retail hub with dining & theater. Contemporary mall featuring brand-name retail shops, restaurants & a movie theater & grocery store.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDDpU9RUWa_NxxaUV8zG5OCqSF8A-LB7090NMwtgKJmSfY2DjHBOLoInXaGM8Jf-GLXW6YVLk02vSHPxp33hGKpTNxnU2XGOcfSJmznXhTcRO3NjN4qERZwI_9Z8Bhd-Ga3M70=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZwnIKXicHcTbDoIgAADQLyJJumhbD5mFmWLzktZLc6SySqCgdP1g39DftHUezvfDtJZqZhg3hgaNEM2teqrqQQXXFdcDKlqjkQpQBZSx8OJdmreuKzM7zvLyRPq-zPbWG4-j5T1ZWwsQOFNoQxJ2utn6bVIfTPfiOVEgNrwocWj5NcBBkU8O--AKzVfi7XqJEMNbmZKeZ2aBI1onfvvmBUtpHCFyIaP7Kj52m5N9tBx2BrhE4RTOuyGEELD_FPAfqxhCXw"
+    },
+    {
+      "position": 2,
+      "title": "Phoenix Marketcity",
+      "place_id": "ChIJS76jBAsRrjsRQ5Yuqy0l-88",
+      "data_id": "0x3bae110b04a3be4b:0xcffb252dab2e9643",
+      "data_cid": "14986613063081170499",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae110b04a3be4b%3A0xcffb252dab2e9643&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae110b04a3be4b%3A0xcffb252dab2e9643&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.996954299999999,
+        "longitude": 77.6965542
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJS76jBAsRrjsRQ5Yuqy0l-88",
+      "provider_id": "/m/0_vbklf",
+      "rating": 4.5,
+      "reviews": 189825,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "ITPL Main Rd, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80 4962 6111",
+      "website": "https://www.phoenixmarketcity.com/bangalore",
+      "description": "Large mall with well-known retailers. Huge mall featuring a range of international brand-name stores, plus restaurants & a cinema.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnnt0m4qsnHEqteyenis6fDIc5RKj4X63KOeTdUstIR030ouWkbQfvHrpIS3rML4A0E9RmXjXMVYRG9VqLmOmZnIKXv-ItSc0P5lCVmKJUTgRf6zky96nR5B0ubd9hNTCd4_vGn0w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/U4E_H3icHcRJDoIwFADQE1W-YUgwceEUqThWRHRjYimg0l-gBaM39AjexsS3eN9PYUylB5ZVFnYvVyovRatFwxUagabHlbTyShOuibZGAdtGR0QD0qk1BrPaiJfAm_ayKeUuC-9O4tnhRkTpQRvKwAbVHh_XXdYFTUX3drNaOiOY-Uwm92QVn9jcj-ul3Mgz0jDpCDV7Dlu3nMQyXByinGXe-_HyPWTuGNpr6hfraJI6l26O8Bw--wBAiv-c4A8PE0Uv"
+    },
+    {
+      "position": 3,
+      "title": "Orion Mall",
+      "place_id": "ChIJZ0FegEs9rjsRZFR-C-hVwqQ",
+      "data_id": "0x3bae3d4b805e4167:0xa4c255e80b7e5464",
+      "data_cid": "11872146022815650916",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d4b805e4167%3A0xa4c255e80b7e5464&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d4b805e4167%3A0xa4c255e80b7e5464&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.011023,
+        "longitude": 77.55471519999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ0FegEs9rjsRZFR-C-hVwqQ",
+      "provider_id": "/m/0_s3hxr",
+      "rating": 4.5,
+      "reviews": 198328,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Dr Rajkumar Rd, Rajajinagar, Bengaluru, Karnataka 560055, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–11 PM",
+        "thursday": "10 AM–11 PM",
+        "friday": "10 AM–11 PM",
+        "saturday": "10 AM–11 PM",
+        "sunday": "10 AM–11 PM",
+        "monday": "10 AM–11 PM",
+        "tuesday": "10 AM–11 PM"
+      },
+      "phone": "+91 80672 82222",
+      "website": "https://www.orionmalls.com/orion-mall-at-brigade-gateway/contact",
+      "description": "Big shopping centre with a man-made lake. Modern, multilevel mall featuring popular chain stores, global dining & an artificial lake.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDkprlP5h0seg9R-LZugwj3Lxoc1Gj9RB5NkdXQOQCYfp1dgReMDqfLd93JteGudzvTW_p5ajkKMOiEn_-KayMSKgOwHXuROtC_uimWN7BiQIqPCFwd-4t_d-QgtlUMIHUeASShg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/krjK8nicHcTdboIwGADQJ6pAkCws2YXiDw4QKBrUG2La-hWotNp2qG-4R_BtluxcnPcvN0bpT8cR3J-AlCCY1exO5GDYYCZEXh1QGhGNtDOLcbGrxaJXd1EE3NUMQozSk4Wx89OHJN66C_E82Pb0UOZldLwojwJm2eJ2SWnofxu2tvT1s6sbFZy7Psnydjk0KDk_syqBfIwPFucmamx7rbcf87bc3IpoNVI0NQ1FJRixzzbxns2qisPX6Lmui_j_BA1_QcNGOw"
+    },
+    {
+      "position": 4,
+      "title": "Lulu Mall Bengaluru",
+      "place_id": "ChIJlb8QkIwXrjsRGUxSwTzIMhQ",
+      "data_id": "0x3bae178c9010bf95:0x1432c83cc1524c19",
+      "data_cid": "1455445792861080601",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae178c9010bf95%3A0x1432c83cc1524c19&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae178c9010bf95%3A0x1432c83cc1524c19&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9812053,
+        "longitude": 77.5634649
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlb8QkIwXrjsRGUxSwTzIMhQ",
+      "provider_id": "/g/11gns734dl",
+      "rating": 4.4,
+      "reviews": 62569,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Amusement park",
+        "Hypermarket",
+        "Outlet mall"
+      ],
+      "address": "Gopalapura, Binnipete, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–11 PM",
+        "thursday": "9 AM–11 PM",
+        "friday": "9 AM–11 PM",
+        "saturday": "9 AM–11 PM",
+        "sunday": "9 AM–11 PM",
+        "monday": "9 AM–11 PM",
+        "tuesday": "9 AM–11 PM"
+      },
+      "phone": "+91 80 4560 7788",
+      "website": "https://www.bengaluru.lulumall.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMLS1JoWS-QC7hdC5AKggS_NmmJ-8y5kNrHu8IdlClk_1igPG84zx3A3WWwI0KDHFjUYa3Facnjj6EQ29nDezDPJMVgKyu8Bs2DZYVlLL3n4HUcdjSrKxh-b2r0DfW-AvVlt4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/XP6e8nicHcTvEoEwAADwJ5pWC3HnQxpScRHt-OJY2WRtri3_HtA7eBt3fh9-3w835qaHliU46jClmChbXTZUSVNK06GqtthNA6qBtvxwnW6IXCSZHSmSgVXQ50XQ9WPGssOyriPgvbrXZRO23rwQgbge7AtLZ577fiIfEfKYwxiH02q7O6Lpkcqq6k1WzkDi8o3TaJGz-NV6Y-3g_S4XSYKkG25pUWVN_OTg5DQQnwnw77kw7uhhQwgB_0-B_AF--0K2"
+    },
+    {
+      "position": 5,
+      "title": "Brookefield Mall",
+      "place_id": "ChIJZxGsbDMSrjsRbBCEz3c7lSM",
+      "data_id": "0x3bae12336cac1167:0x23953b77cf84106c",
+      "data_cid": "2564020948626051180",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae12336cac1167%3A0x23953b77cf84106c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae12336cac1167%3A0x23953b77cf84106c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.966007399999999,
+        "longitude": 77.71812609999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZxGsbDMSrjsRbBCEz3c7lSM",
+      "provider_id": "/g/11bzypfx2l",
+      "rating": 3.9,
+      "reviews": 31966,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "No.111 &123, Sy, 2, ITPL Main Rd, Brookefield, Bengaluru, Karnataka 560037, India",
+      "country": "India",
+      "open_state": "Open now",
+      "phone": "+91 80 4118 8997",
+      "description": "Brand-name shops, movie theater & dining. Brand-name retailers, a food court, movie theater & gaming center draw crowds to this longtime mall.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmcR4u4qU96cIA46MT4UfDNJCVJwv1E7TG8xsVzo75Am_LbaI0dqKfo1zeVDzpSZutdEroodegLvrotIb1PQ8GfD73ulu478_QGs_8DuO3dhVKEWwp9IZ5pzsF_i-lF0f4zR73z=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wzKwH3icHcTdCoIwGADQJ1pOXM2CLiTN7D9Tg26k5tRA_ZbbMvaCPUNvE3QuzvdTKyXkzLKa2hlVAFXDteQ9g07xTo0YtFYlJGISSctbxcfk0rKYaPJMpxMWeWSyS0ha-vv1IlsPLzugSei-ZWaAjr02395vES6emxJswzPfiPNVqyLoAQpebV89qOhuH09uWPrU0Y0m1M1PocxdXx-cos42wWUQ0-g6FkYu8wdqlrgkJqaOmQ82xhjV_xnqfiOTRDc"
+    },
+    {
+      "position": 6,
+      "title": "VR Bengaluru",
+      "place_id": "ChIJtV2JQAsRrjsRp4HCbaob4R0",
+      "data_id": "0x3bae110b40895db5:0x1de11baa6dc281a7",
+      "data_cid": "2153032515659661735",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae110b40895db5%3A0x1de11baa6dc281a7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae110b40895db5%3A0x1de11baa6dc281a7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9962927,
+        "longitude": 77.6953702
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtV2JQAsRrjsRp4HCbaob4R0",
+      "provider_id": "/g/11cn8y24b8",
+      "rating": 4.4,
+      "reviews": 68847,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 96634 67772",
+      "website": "https://www.vrbengaluru.com/",
+      "description": "Retail hub with a mall, hotel & offices. Modern, multi-use complex featuring a multilevel shopping center, plus lodging & office space.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlqxa9j3wAFVmkhwUw4XS9RAYcvasVIRu5-82Lv-ra9dyHOejrRQ7H5jukhOgwTTEwClGrjbT81a-Q6s8D1lN1VCuJnBMjhn92ospwfaPA3Ef72ismusm7HtofnljB474hZjAjW=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/PSiJnXicHcRbcoIwFADQFUWeCnSmHxEf2GkLIoXWvxiBGENCuYmxK-wauhtnej7O3y_TeoQnxxEsmPVK9aI10E5USd1KPaNqcPoREAUEDs7KomrE950kPLB4Uw9XZj9s-HlISvxFbwTqXWnmKPZfb2giyfkny1s-lfsom3NzZXlvq2ptU7Gd-KmKPYL2C4hXnnj36tS8yOUbZzLxFYy2IwUO1l3kX2AwMESZVp0UfBlGITtyzJtn67mui9j_FMkHkNBFHg"
+    },
+    {
+      "position": 7,
+      "title": "Gopalan Signature Mall",
+      "place_id": "ChIJRwuGpIgRrjsR5AkVvuuRgdU",
+      "data_id": "0x3bae1188a4860b47:0xd58191ebbe1509e4",
+      "data_cid": "15384738243766716900",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1188a4860b47%3A0xd58191ebbe1509e4&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1188a4860b47%3A0xd58191ebbe1509e4&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.993150199999999,
+        "longitude": 77.661684
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRwuGpIgRrjsR5AkVvuuRgdU",
+      "provider_id": "/g/11g69886q8",
+      "rating": 4.1,
+      "reviews": 46152,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Bowling alley",
+        "Bowling club",
+        "Cafe",
+        "Children's store",
+        "Fashion accessories store",
+        "Food court",
+        "Movie theater",
+        "Outlet mall"
+      ],
+      "address": "Old Madras Rd, Nagavarapalya, Bennigana Halli, Bengaluru, Karnataka 560093, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10:30 PM",
+        "thursday": "10 AM–10:30 PM",
+        "friday": "10 AM–10:30 PM",
+        "saturday": "10 AM–10:30 PM",
+        "sunday": "10 AM–10:30 PM",
+        "monday": "10 AM–10:30 PM",
+        "tuesday": "10 AM–10:30 PM"
+      },
+      "phone": "+91 96060 28201",
+      "website": "https://www.gopalanmall.com/",
+      "description": "Stately venue for shopping & leisure. Elegant building with 70+ stores, a food court & entertainment options such as bowling & movies.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkv2-yGC3jue7P8Em0dEg5DRJj3VoKqWZV6a9UGVoUiHwivQYiPvAFh_OeF8DqhEzgZ_GD58kYKMNt9T9kL_08u6qlO0f-a4Cl1J1yLPAtkHkP_uhxxTSwEY_32LuATGfQH4BBA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/uknr0nicHcTvEoEwAADwJ5qW_Cl3PoxSRxiSy5edy2xZmmwrvKBn8Dbu_D78vh-u9V2NLKvkTodJyUpqFH3kstK00p1c3ix2VyBXQFko2uLkIJoueIVT52roELvBDZ4D1ve386uTykV9OKaDk7cPU7kvorZoNlmBGzTjZE1nrl_z4M2OJPT7rsgWy5X2Ek_EBLpmUJdreAGn3rS05_YrxkiLSGBi-POZ7NogI043NigJL5uoN5mgcWtDCAH_n4PqB_fqQ0A"
+    },
+    {
+      "position": 8,
+      "title": "Centro",
+      "place_id": "ChIJ5x1GX3UTrjsR4aq-6zlo958",
+      "data_id": "0x3bae13755f461de7:0x9ff76839ebbeaae1",
+      "data_cid": "11526796369255639777",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13755f461de7%3A0x9ff76839ebbeaae1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13755f461de7%3A0x9ff76839ebbeaae1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9258688,
+        "longitude": 77.6753155
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5x1GX3UTrjsR4aq-6zlo958",
+      "provider_id": "/g/126445tb9",
+      "rating": 4.1,
+      "reviews": 40113,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Soul Space Spirit Bellandur Village Varthur, Hubli, Bengaluru, Karnataka 560103, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "wednesday": "11 AM–9:30 PM",
+        "thursday": "11 AM–9:30 PM",
+        "friday": "11 AM–9:30 PM",
+        "saturday": "11 AM–9:30 PM",
+        "sunday": "11 AM–9:30 PM",
+        "monday": "11 AM–9:30 PM",
+        "tuesday": "11 AM–9:30 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWko5a4W7ucoGQWwpfrwrzy3dd-JnrcRfEMEuH3dq3AMrvqud-sRvONMJTyoCWfkfY7qRDme-5uQJ5HTYbVMEIqkEdx2f3XnykGu4ehHSk2yPjkBjCT9TgtY2HndYxIl0I0wMSR0vA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dEj7G3icHcTbboIwAADQL6p0VGK2ZA9MiYWkm9ZmyKPrBWKxhV5A9od-gn-zZOfhPB9dCIN_S5K-Q6vW2raX0UvHrQnShBW3t6QdPOAe-CTH9MBqbbPLut5EbvfHeh6Um93vgoQAlXGcqoIUESMxopy4aYwCeDp9fZKKLXZbK62azUh3NwmyeKwyzJqfb1KUoy7EPVXobBa9j2vZ4ZNOl8NVf1y37JW1oUmxEc297GEJZ3KicMrf5xcIIej-58D8AYWDRnI"
+    },
+    {
+      "position": 9,
+      "title": "Garuda Mall",
+      "place_id": "ChIJd78MuOoXrjsRZtF2_LW3vYE",
+      "data_id": "0x3bae17eab80cbf77:0x81bdb7b5fc76d166",
+      "data_cid": "9348830393743626598",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17eab80cbf77%3A0x81bdb7b5fc76d166&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17eab80cbf77%3A0x81bdb7b5fc76d166&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9701592,
+        "longitude": 77.6101329
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd78MuOoXrjsRZtF2_LW3vYE",
+      "provider_id": "/g/11n0j1t49c",
+      "rating": 4.2,
+      "reviews": 3978,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM"
+      },
+      "phone": "+91 80 4069 8857",
+      "website": "https://garudamall.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLZoE-Taka3fEdK0c8ZA0QP4liEejynJyq_Paxp7D1rYAHH7ALjlvz2pfmHF-IeKzR4BXbjDC2nrx6Vi0_7GLZugj4IUHoHoPN9fm5pCMGOxfunY-GDlxebprWzOqMmZBn7cgW5w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ez81h3icHcThEoEwAADgJ5qGEu78iNIQ4pD64zJrydqmldIbegRv48734_t-0rKUaqxpLO13qBCUkUqRAgteEl52sMg1KhXACijNQnv_EDAvEg44xI-4nzi3FcTDyII7X2d3h2Rvvnw_L37cSNPuFqGFkGl5GXu1PZnkaA4WZNXu9en5mtmzHi-awekOL6brRRXN9MURCST8zSjJDTlbu9smqXgIXJs15CqLoN0-13k05SamgVFP6i6EEKT_MeA_1JxFkw"
+    },
+    {
+      "position": 10,
+      "title": "ETA Mall",
+      "place_id": "ChIJVVVVRf49rjsRsD_35zqkOAk",
+      "data_id": "0x3bae3dfe45555555:0x938a43ae7f73fb0",
+      "data_cid": "664461517943947184",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3dfe45555555%3A0x938a43ae7f73fb0&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3dfe45555555%3A0x938a43ae7f73fb0&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9656357,
+        "longitude": 77.5618257
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVRf49rjsRsD_35zqkOAk",
+      "provider_id": "/g/11b6c66qh1",
+      "rating": 3.9,
+      "reviews": 34827,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "Tank Bund Rd, Binny Pete, Jagajeevanram Nagar, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80674 10009",
+      "website": "http://etamall.in/",
+      "description": "Movie theater, food court & retailers. Contemporary, multi-level mall with a limited selection of stores, plus a cinema & food court.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlaek9GPfCpuN3lD0x5mgjp20bdMSA8hp26AzwLZC4ZGnr-q004-FkR6aeqsR8BONPVK5U-RAzQ-yprCVNAugFcx1uSEUZst1K_bEHUE0IyHvg1PkZ1MaIqbQa6Z9c321j6bxRu0g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4Hz0FXicHcTdboIwGADQJ6p8BSVq4kXH-DEqYh0u6c0CXVciCIW2ir7hHsG3MfFcnOd_ZYzSS8dpKm8iu042wmox8K41ojUT3l0cqTTiGmmHJDT7-m4KUS_i7C9QNvWaTxhnF3lWLpS_uyOZV8r1yeO2ZcGUxe2AeoApimrqF6LXdP6xT7PTZpYjSh4HdFdDcEqJlREfsT2GOdMGb37KMMlDWN-Tq8RZzfCuWPflofDZgnsuPvvlSC3I1Q0DAKrec9S-AGlxQ6A"
+    },
+    {
+      "position": 11,
+      "title": "Total Mall",
+      "place_id": "ChIJHXjYffcTrjsR_7aVi0x5oAI",
+      "data_id": "0x3bae13f77dd8781d:0x2a0794c8b95b6ff",
+      "data_cid": "189284554015880959",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13f77dd8781d%3A0x2a0794c8b95b6ff&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13f77dd8781d%3A0x2a0794c8b95b6ff&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.959187,
+        "longitude": 77.6567589
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHXjYffcTrjsR_7aVi0x5oAI",
+      "provider_id": "/g/11h064ydvn",
+      "rating": 4,
+      "reviews": 770,
+      "unclaimed_listing": true,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "97, HAL Old Airport Rd, Ramagiri, Bengaluru, Karnataka 560017, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–10 PM",
+        "thursday": "9 AM–10 PM",
+        "friday": "9 AM–10 PM",
+        "saturday": "9 AM–10 PM",
+        "sunday": "9 AM–10 PM",
+        "monday": "9 AM–10 PM",
+        "tuesday": "9 AM–10 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMHeXXSDhN8tPOHvuL-QF5yvq4wz8oVYYk3G_uIXm6UTqUI8q1HzxTrkSbo8B5t_NF_laflv7ccV4qzLzZ6Zif-Wv3jL0GV8XBCtAFbLegZz8SCRsjqHYkmBANaEPk-MWCFbgA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Mb0XC3icHcTbDoIgAADQLyJtdmFtPahltJlZmrcXl4ywRIlAK36wb-hv2joP5_uplbrLhWGw2hpRzikjvSQPzDtFOjXCvDXoXQIsgTRsdAzjlO0QybJoVQdQhXs09D44eNP3ICZPDXmS5421Kftt1s5OsThtoRgj_YofTVRx6ExVGXglO1_YMMc4mQjt62JWXC8gHaybb24SmDmusr3KJ7TQMHKP8iZQ3rSOHZzXYQN2qetV1F4-x6Zpgvo_Bt0PjfdE2g"
+    },
+    {
+      "position": 12,
+      "title": "KLM Fashion Mall, Marathahalli",
+      "place_id": "ChIJteuAAmMTrjsR5Qk4AbHLwlk",
+      "data_id": "0x3bae13630280ebb5:0x59c2cbb1013809e5",
+      "data_cid": "6467955975947553253",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae13630280ebb5%3A0x59c2cbb1013809e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae13630280ebb5%3A0x59c2cbb1013809e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9566524,
+        "longitude": 77.7007623
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJteuAAmMTrjsR5Qk4AbHLwlk",
+      "provider_id": "/g/11fdx4l58n",
+      "rating": 3.8,
+      "reviews": 12278,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Clothing store"
+      ],
+      "address": "518, Varthur Main Rd, Subbaiah Reddy Colony, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–9 PM",
+        "thursday": "10 AM–9 PM",
+        "friday": "10 AM–9 PM",
+        "saturday": "10 AM–9:30 PM",
+        "sunday": "10 AM–9:30 PM",
+        "monday": "10 AM–9 PM",
+        "tuesday": "10 AM–9 PM"
+      },
+      "phone": "+91 80 4374 6553",
+      "website": "https://www.klmfashionmall.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4-vvbed0A6FWcOGtgExE2ka2eqx0yRhj6EGGL5uYKsDY8XF1_ohL6qGaZOqeR-vDV_7eNmo8pRUdmOk0Zu6ApozX2eWz4ua8Iu-4R2zh3eS8uEQ_a8GFiLnlpzgXjcgPQtwJf9Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/p2XupHicHcRRToMwGADgE3V0DLGa-EAyqJtERp3C9kKw-9e6QVtsyzZu6BG8jYnfw_f7I50z9jEIOrmYCa1FB97CN9fKgXIzrvtAGIu4RTZIntlmW6kIjeMnHHASZxUvqBPpNQ3PbQjDFd-YPMUppfmd373Y5Y7U2bzRMo8H2u6LARgalx_NPbz2mhj2fuiLM977ODF6qkOopsi3ZOVRxMJJLuCN-LRsWkKzr1x1ZhL1iYtN6S7r40P5dJljjJH8nyP1B9SfRXw"
+    },
+    {
+      "position": 13,
+      "title": "Sukh sagar shopping mall",
+      "place_id": "ChIJH0MFFg4WrjsRdZKqWwa5TJc",
+      "data_id": "0x3bae160e1605431f:0x974cb9065baa9275",
+      "data_cid": "10902292234915975797",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae160e1605431f%3A0x974cb9065baa9275&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae160e1605431f%3A0x974cb9065baa9275&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9767424,
+        "longitude": 77.57773809999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH0MFFg4WrjsRdZKqWwa5TJc",
+      "provider_id": "/g/11h_4rv2qn",
+      "rating": 4.1,
+      "reviews": 3146,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall"
+      ],
+      "address": "WH Hanumanthappa Rd, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmO6K5efTeENcZp1LJdXcMy9PRhlF15GQTzvSVcxsX2ZXSaxOu_etr6pU0xc8CIxmhAgyO_plrlB6KwB3wvUYE65de1RvrZGz9aoTX5nIn_Vtznjb0xH1qEKNy2_reEPwoTyMLc=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Hn8TMnicHcRNjoIwGADQEyGtBjKauFCDf6ggVodhQ_SzQ2NK22krFC7oGbzNJL7Fe7-YtcpMfJ-z0aCSsuL0aagGKSwVdgCy9itlPDCe8WfrLCXfdRLGAf0lNDpAofBue89h343TjPElDlZH0jenCziTD4v8dHXJs6RWh-qMHHwtNq5ms6pLSsU1n4dxOx-1zfknCoM7xVmji1U_vkqSB2IjyovtxeOG3Br_RfGhG5aaRmkrSbffwbTFCCGPfQZP_AO6_kYs"
+    },
+    {
+      "position": 14,
+      "title": "Plazzo Retail Mall",
+      "place_id": "ChIJmecGuokWrjsR4xQLMkrM4-0",
+      "data_id": "0x3bae1689ba06e799:0xede3cc4a320b14e3",
+      "data_cid": "17141769225741472995",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1689ba06e799%3A0xede3cc4a320b14e3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1689ba06e799%3A0xede3cc4a320b14e3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9826907,
+        "longitude": 77.60965639999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmecGuokWrjsR4xQLMkrM4-0",
+      "provider_id": "/g/11cn9mfr2h",
+      "rating": 4,
+      "reviews": 583,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Outlet mall"
+      ],
+      "address": "63, Ibrahim Sahib Street, Commercial Street, near Westside Koskii, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 97429 34777",
+      "website": "http://www.plazzomall.com/",
+      "description": "Humble shopping destination for fashions. Multi-leveled commercial site featuring shops with discounted clothing, accessories & more.",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk3BasEFWSGymcUWd3nVNZkGN-F6XM2Cn1lTwQmNTchGnfb4Fz9y2xiFImGC_6D7oTvFSK8FASjMd7vrnwgF10BbziuxvZ-KO3xVhrB5DF1Tvo2vWKneoIBBsrBItqHEOcSGgRg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ku_LO3icHcTbDsEwAADQL6rd3BMPitaybMPKxItQ07KtZe268YO-wd9InIfz_XCtH2psWQX3OkxKVmS1yioqhc6E7lBZWuyhAFVAWdPlZkXS3IMntUBpgl8l3aYXT-yiQ44jgPr70J0JpyDNuowI5Vhcz130Hr3c9ob8Es-O_flAEoOSYIimyT28DEwlGoYcG57ft7o1BxDEXrvjFezNkUOMdE0aiEz6EKoK-vq5XMQ0wWzDJo1j2zbg_ykQPzHgRGg"
+    },
+    {
+      "position": 15,
+      "title": "Forum Mall",
+      "place_id": "ChIJQ7wYf1IUrjsRBM5Cw9hBLME",
+      "data_id": "0x3bae14527f18bc43:0xc12c41d8c342ce04",
+      "data_cid": "13919572947540037124",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae14527f18bc43%3A0xc12c41d8c342ce04&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae14527f18bc43%3A0xc12c41d8c342ce04&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.934166,
+        "longitude": 77.61089799999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJQ7wYf1IUrjsRBM5Cw9hBLME",
+      "provider_id": "/g/11g3h3gqcf",
+      "rating": 4.1,
+      "reviews": 26,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "address": "Tavarekere, Chikku Lakshmaiah Layout, Adugodi, Bengaluru, Karnataka 560030, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDqK71JbHFzXIZaMt5kS-oNsLG6TVo-DE6U-jMl6wWHr9qRPiYZ1Tuy0as9MvtDokOwEPfkxB71AciCgRGmU0J-0ZP8nBoPW9NOAP_A1vg2RriILJfpscHIgZBCMmtxQ575k3N=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/dmmSFXicHcRdEoFAAADgE612mUpmPJToh7IS0YvJTrZUu2mXcEFncBszvofv-ymkbMVEUepiNKCc0zq_i7wjnMmcyQHhjUJbAYgAQjHdCMcJs29LHflnd_E-eGkWSLXaAh6KlaPFew7subYD16DW-sTtjFuEy2OK4vsLZsIIHtLm1bqf40v1tHRkknJGI6fZQR_AFI-ZxXFihGsTn0z0oMOoK72Vf2kFcT2aWrOgkc-NqqvVKJz2CEIIiv8EsB_o7EMq"
+    },
+    {
+      "position": 16,
+      "title": "Lulu Hypermarket",
+      "place_id": "ChIJi2onuMsXrjsR_dnOpKTY_aw",
+      "data_id": "0x3bae17cbb8276a8b:0xacfdd8a4a4ced9fd",
+      "data_cid": "12465357545282656765",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17cbb8276a8b%3A0xacfdd8a4a4ced9fd&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17cbb8276a8b%3A0xacfdd8a4a4ced9fd&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.98125,
+        "longitude": 77.5636111
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJi2onuMsXrjsR_dnOpKTY_aw",
+      "provider_id": "/g/11nngtb5tb",
+      "rating": 4.4,
+      "reviews": 33836,
+      "type": "Hypermarket",
+      "types": [
+        "Hypermarket"
+      ],
+      "address": "opposite Sujatha Theatre, Gopalapura, Rajajinagar, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–11 PM",
+        "thursday": "9 AM–11 PM",
+        "friday": "9 AM–12 AM",
+        "saturday": "9 AM–12 AM",
+        "sunday": "9 AM–12 AM",
+        "monday": "9 AM–11 PM",
+        "tuesday": "9 AM–11 PM"
+      },
+      "phone": "+91 89519 37940",
+      "website": "https://www.bengaluru.lulumall.in/shop/lulu-hypermarket/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVNJaa0BJIMmd595tdpNJgjZy1UhO9wvFs4dZHTMPz2lMlaiJB7_xRmn7l10lzml7Kcko0xHpQO9_vdxR18185JAZN5QdKsvfG2mDrFctUYIMD6Rjn8085RgSfH5blA4jclWrmM9y1fc9x=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/gVeU13icHcTBboIwGADgJ0JaZwddsgPGOKwpaqcz42JYC2Xsb0toh-hL7ry3WbLv8P3-tCH0_imOoX2Yaec01N--HqSzobZhJp2Jde8j6SMfZ7nYH8_2rWBVhZZsw40ilATVF0x35Q2f2h29jmu_UGV-5Pv7HDhUn2yZXCZhbAIYwd1AspVfDk15f9jRy6gmgVOcEpaVBTmorR-bl7lZDWsZTu8bvnoUnU1RSoR-bXLyAdmik3AeDKc33Eg6PV8xQihq_5eR_QN1bUay"
+    },
+    {
+      "position": 17,
+      "title": "Family Mall",
+      "place_id": "ChIJ6a5ocRoUrjsRcKZhm1lEZFI",
+      "data_id": "0x3bae141a7168aee9:0x526444599b61a670",
+      "data_cid": "5936945360430802544",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae141a7168aee9%3A0x526444599b61a670&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae141a7168aee9%3A0x526444599b61a670&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9586996,
+        "longitude": 77.6382479
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6a5ocRoUrjsRcKZhm1lEZFI",
+      "provider_id": "/g/1vkxkq2f",
+      "rating": 4,
+      "reviews": 946,
+      "type": "Supermarket",
+      "types": [
+        "Supermarket"
+      ],
+      "address": "Near-Srinidhi Sagar Deluxe, 304, 7th Cross Rd, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "7:45 AM–10 PM",
+        "thursday": "7:45 AM–10 PM",
+        "friday": "7:45 AM–10 PM",
+        "saturday": "7:45 AM–10 PM",
+        "sunday": "7:45 AM–10 PM",
+        "monday": "7:45 AM–10 PM",
+        "tuesday": "7:45 AM–10 PM"
+      },
+      "phone": "+91 88675 74884",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOfqeUMly1-JK-Henrjw3_NkzdVbLiiLHD2gTIuNwDBvTL8l8lBWFkPBsGv1LGO74U1_kHcMB4Ho6JogmYHJEYgNMDnaL7TEP3jit6a7uqQxvFOZU8-PfzaWTti7I1BxOG500yl1TC3X9l=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/_G7q63icHcTdVoIwAADgJ5psYUKd00ULZdL4sTMiu_HQmgMZm7oB6kt23dt0Tt_F9_vTOHe0j56nGn8mjZFKDFacudFOaDfjpvfk0QJugfWeyVvBqj7fn0SZqisCySsgQp8Pk7_Lutv3-xdtW0qiO8nWQzZFeGQ0VKHC1aorsI1HROM8mJdo1xGe4jkxi8TIfkuS5VZmaaRrGrBl4R9at6iD4bS5jKv8swxBsb_VFXNtsEb4ksf3EF4VYi_-x4N6mhCEEDT_c6D_AGw0Rgo"
+    },
+    {
+      "position": 18,
+      "title": "Max - Oasis Mall, Bangalore",
+      "place_id": "ChIJZSkC_0IUrjsRK1Ki3FGARvs",
+      "data_id": "0x3bae1442ff022965:0xfb468051dca2522b",
+      "data_cid": "18106300440971989547",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1442ff022965%3A0xfb468051dca2522b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1442ff022965%3A0xfb468051dca2522b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.937358,
+        "longitude": 77.6285618
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZSkC_0IUrjsRK1Ki3FGARvs",
+      "provider_id": "/g/1tdn2jjx",
+      "rating": 4,
+      "reviews": 2445,
+      "type": "Shopping mall",
+      "types": [
+        "Shopping mall",
+        "Baby clothing store",
+        "Children's clothing store",
+        "Clothing store",
+        "Handbags shop",
+        "Men's clothing store",
+        "T-shirt store",
+        "Women's clothing store",
+        "Work clothes store"
+      ],
+      "address": "Oasis Center 100 Ft Ring Road, Srinivagilu Main Rd, Bengaluru, Karnataka 560034, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "11 AM–10 PM",
+        "thursday": "11 AM–10 PM",
+        "friday": "11 AM–10 PM",
+        "saturday": "11 AM–10 PM",
+        "sunday": "11 AM–10 PM",
+        "monday": "11 AM–10 PM",
+        "tuesday": "11 AM–10 PM"
+      },
+      "phone": "+91 79750 57403",
+      "website": "https://stores.maxfashion.in/max-oasis-mall-bangalore-srinivagilu-shopping-centre-srinivagilu-bengaluru-105503/Home?utm_source=locator&utm_medium=googleplaces",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkWCO0lvumr6i1FVKE03Dp417ox6GyWSKE29Mj0VqpLHm8pVQ_TQJakO3SZJzFcjMOAeZCoVmKvrsFiI346TtFrZaumZALXVX76-h3dqLXTXxZOzrfhJivxIb78KyW3jf1YHVJCh4xCWQ0=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Uwj1unicHcTBboIwAADQL6qUlYBbsgNhMgQMY5IWezGuQwpSWtvC0I_0vr9Zsnd4vw9urTIvjjNwtGqlbIdmMo1mcrTNaFdMCqdVBjADjBMmnx8VuZCogMM8Ce13boyzDURvynMDufjvN7LPNk_Pux7iq8oTsVa4PFZleroUaE_Te8z6XRE2NJJYZLM2cbdFnl_ZWNPTJGiY17gOfMDR9zWvq3qhxV2fedrNy_YrWGc3gvqze0hwGnFviUgJX39cCCHg_zMw_gHzZkYk"
+    },
+    {
+      "position": 19,
+      "title": "Shopping mall",
+      "place_id": "ChIJc6fxoLQXrjsR1vVTxdmnNU8",
+      "data_id": "0x3bae17b4a0f1a773:0x4f35a7d9c553f5d6",
+      "data_cid": "5707652656522327510",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17b4a0f1a773%3A0x4f35a7d9c553f5d6&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17b4a0f1a773%3A0x4f35a7d9c553f5d6&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9826041,
+        "longitude": 77.6096226
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc6fxoLQXrjsR1vVTxdmnNU8",
+      "provider_id": "/g/11sgqntgdq",
+      "rating": 3,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Dress store",
+      "types": [
+        "Dress store"
+      ],
+      "address": "Plazzo Retail Mall, 63, Ibrahim Sahib St, near Plazzo Retail Mall, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "open_state": "Open · Closes 9:30 PM",
+      "hours": "Open · Closes 9:30 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–9:30 PM",
+        "thursday": "10 AM–9:30 PM",
+        "friday": "10 AM–9:30 PM",
+        "saturday": "10 AM–9:30 PM",
+        "sunday": "10 AM–9:30 PM",
+        "monday": "10 AM–9:30 PM",
+        "tuesday": "10 AM–9:30 PM"
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHZ1NtkmeI2SmRy-1HgYXfYBufusB6_c24gskqwWSHijZVjPGxktkiJ7rF-LtDnRyH_xf4s6BSOdm3zLp29IqFuZ0Mvt68a6nRJOwsRBvI3ZjopSuq96KNjL4zuOIPJQtBqF4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/rh5KiXicHcTdboIwGADQJ6r8pptLdrFmwcKYsGLm5MaYDopgW_D7KuoD7h32Nkt2Ls7vT4c4wpPnnbpooaxVp8ZBc5bWYGNwIa321AhEAgHvhYtys9W8DtY46CYNKy1uJOBq99XumGsdMLqXYaxgmOZtxY99_dmXq-uAwzF7OCckx1cjbnx_bWOgrCq-dXTPx3CZTomr_fcL0scDNSIrZhDskkZ1b8fKTUv6tu7z-O6KtMw-kE1J_DwHvu-T7n9JzB9uy0UD"
+    },
+    {
+      "position": 20,
+      "title": "GIVA Silver & Gold Jewellery | Global Lulu Mall | Lab Grown Diamonds",
+      "place_id": "ChIJ2-bfJhoXrjsRfruRSKlf7us",
+      "data_id": "0x3bae171a26dfe6db:0xebee5fa94891bb7e",
+      "data_cid": "17000630824041823102",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae171a26dfe6db%3A0xebee5fa94891bb7e&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae171a26dfe6db%3A0xebee5fa94891bb7e&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9812775,
+        "longitude": 77.5636079
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2-bfJhoXrjsRfruRSKlf7us",
+      "provider_id": "/g/11k3zs405x",
+      "rating": 4.9,
+      "reviews": 1129,
+      "type": "Jewelry store",
+      "types": [
+        "Jewelry store",
+        "Diamond dealer",
+        "Goldsmith",
+        "Jeweler",
+        "Jewelry repair service",
+        "Silversmith"
+      ],
+      "address": "G-34, Ground Floor, Global Malls, Gopalapura, Binnipete, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 83101 90604",
+      "website": "https://www.giva.co/?utm_source=Google&utm_medium=GMB",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkoBNhJQWkg6XkAKTFCZMJ429frte5dvw2_8VmJr8IVEzEgnf8yjJXzXcSM1Dt24cdCHBTnVsrZwu3KgsIUi4t1VvFN4qu-8YS3lKzJpJgMoITSEWZwIK9yaW3_VMglio5YeUAre6pWV0g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/U3lSy3icHcTdboIwGADQJ6r8G1ziBTiMlGC2gS1yQ5ZaPxRssS0SeUjvfZslOxfn_WqNGfSHZfWttwApoeej5opJYbgwCyZvFgwaMY20Fe1-vkrayXjf4m_awbLqoqzcbuoc--7qrAwPTo_JbUJywypMSTInIM7h84qruWJF7nwa12enzS4uBdGqnkYvA50eLr5xyGO79-8jCo-F12czHjDkMi2LhNZTmq2ev9RrSA79RQZHfogUXw6U2LCeHNu2Ufs_Q-IPTKlHCw"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.9672485%2C77.6367305%2C14z&q=mall&start=20&type=search"
+  }
+}

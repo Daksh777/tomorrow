@@ -1,0 +1,128 @@
+{
+  "_note": "Initial guesses, tuned per place by the morning tap and the owner's weights. Values are fractional effects (0.3 = +30%).",
+  "archetypes": {
+    "cafe": {
+      "match_tv": -0.05,
+      "match_stadium": 0.3,
+      "event": 0.2,
+      "rain": -0.15,
+      "disruption": -0.3
+    },
+    "restaurant": {
+      "match_tv": 0.1,
+      "match_stadium": 0.25,
+      "event": 0.15,
+      "rain": -0.1,
+      "disruption": -0.3
+    },
+    "bar": {
+      "match_tv": 0.4,
+      "match_stadium": 0.5,
+      "event": 0.25,
+      "rain": -0.1,
+      "disruption": -0.3
+    },
+    "quick_service": {
+      "match_tv": 0.1,
+      "match_stadium": 0.45,
+      "event": 0.3,
+      "rain": -0.15,
+      "disruption": -0.3
+    },
+    "cloud_kitchen": {
+      "match_tv": 0.35,
+      "match_stadium": 0.1,
+      "event": 0.0,
+      "rain": 0.3,
+      "disruption": -0.2
+    },
+    "retail": {
+      "match_tv": -0.25,
+      "match_stadium": 0.15,
+      "event": 0.15,
+      "rain": -0.2,
+      "disruption": -0.35
+    },
+    "salon": {
+      "match_tv": -0.25,
+      "match_stadium": 0.15,
+      "event": 0.15,
+      "rain": -0.2,
+      "disruption": -0.35
+    }
+  },
+  "holiday": {
+    "_note": "Public holiday effect depends on area type, picked at onboarding.",
+    "office": -0.3,
+    "residential": 0.15
+  },
+  "windows": {
+    "match_stadium_hours_before": 2,
+    "match_stadium_hours_after": 2,
+    "match_stadium_radius_km": 2,
+    "match_duration_hours": 4,
+    "event_radius_km": 1,
+    "event_after_hours": 1
+  },
+  "buckets": {
+    "quieter": -0.15,
+    "usual": 0.15,
+    "busier": 0.4
+  },
+  "_match_tv_note": "Recalibrated 7 Oct 2026: Swiggy reported IPL 2026 dineout bookings +41% and delivery orders +32% year on year (platform PR, so indicative). Cafes stay slightly negative, restaurants positive.",
+  "multiplier_cap": {
+    "min": 0.3,
+    "max": 2.5,
+    "_note": "Per-hour cap on the product of all signals, so stacked signals cannot produce absurd forecasts."
+  },
+  "payday": {
+    "_note": "Salaried India is paid around the 1st to 7th. No solid dining-specific study found; these are small starting guesses that taps and owner weights tune. Office areas respond more than residential. Weekends in the first 10 days are boosted.",
+    "up": {
+      "cafe": 0.06,
+      "restaurant": 0.1,
+      "bar": 0.12,
+      "quick_service": 0.03,
+      "cloud_kitchen": 0.05,
+      "retail": 0.1,
+      "salon": 0.08
+    },
+    "down": {
+      "cafe": -0.04,
+      "restaurant": -0.05,
+      "bar": -0.06,
+      "quick_service": 0.02,
+      "cloud_kitchen": 0.0,
+      "retail": -0.06,
+      "salon": -0.04
+    },
+    "area_type": {
+      "office": 1.0,
+      "residential": 0.7
+    },
+    "weekend_boost": 1.25
+  },
+  "aqi": {
+    "_note": "Delhi study (Blue Sky Analytics and Near, Oct 2019 to Mar 2020): footfall in Karol Bagh, Lodhi Gardens and Connaught Place fell up to 33% as PM2.5 rose; Connaught Place went from about 17,000 to 14,000 a day at PM2.5 336. Categories follow India's CPCB PM2.5 breakpoints. Daytime (8 am to 10 pm) mean PM2.5 in ug/m3.",
+    "poor": {
+      "min": 91,
+      "effect": -0.04
+    },
+    "very_poor": {
+      "min": 121,
+      "effect": -0.1
+    },
+    "severe": {
+      "min": 251,
+      "effect": -0.25
+    },
+    "archetype_factor": {
+      "cafe": 1.0,
+      "restaurant": 1.0,
+      "bar": 0.8,
+      "quick_service": 0.7,
+      "cloud_kitchen": -0.4,
+      "retail": 1.0,
+      "salon": 0.8
+    }
+  }
+}

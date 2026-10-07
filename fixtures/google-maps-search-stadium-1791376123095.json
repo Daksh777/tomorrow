@@ -1,0 +1,995 @@
+{
+  "search_metadata": {
+    "id": "6ac63afa05bb59d5951d0942",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/PkzcJ509Ez_Ifig4oyF4z2RXCjE0630QSVDU9CiBDEI/6ac63afa05bb59d5951d0942.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PkzcJ509Ez_Ifig4oyF4z2RXCjE0630QSVDU9CiBDEI/6ac63afa05bb59d5951d0942.md",
+    "created_at": "2026-10-07 12:28:42 UTC",
+    "processed_at": "2026-10-07 12:28:42 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/stadium/@12.974658999999999,77.6067528,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/PkzcJ509Ez_Ifig4oyF4z2RXCjE0630QSVDU9CiBDEI/6ac63afa05bb59d5951d0942.html",
+    "prettify_html_file": "https://serpapi.com/searches/PkzcJ509Ez_Ifig4oyF4z2RXCjE0630QSVDU9CiBDEI/6ac63afa05bb59d5951d0942.prettify",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "stadium",
+    "ll": "@12.974658999999999,77.6067528,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "stadium"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "M. Chinnaswamy Stadium",
+      "place_id": "ChIJU5th02QWrjsR7JpwhJd2Eww",
+      "data_id": "0x3bae1664d3619b53:0xc13769784709aec",
+      "data_cid": "870169546146749164",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1664d3619b53%3A0xc13769784709aec&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1664d3619b53%3A0xc13769784709aec&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.978812999999999,
+        "longitude": 77.5996565
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU5th02QWrjsR7JpwhJd2Eww",
+      "provider_id": "/m/06m6yw",
+      "rating": 4.5,
+      "reviews": 52337,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "Mahatma Gandhi Rd, near Cubbon Road, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "phone": "+91 80 4015 4200",
+      "website": "http://www.ksca.cricket/",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "children": [
+            "Has changing table(s)"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"The stadium is maintained very well including the washrooms.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXUMeg-RKNOeH0q4T2OZFhM3gDj0cMoBLuVOYlDlwp8XQs3UAkzeEpFQSHnzfoK6-10zi77f9Mo7vofodOkqvmlmrJ2ef29yPWbIEAG9lQfttu78pGu01wS7ajeV8mMCuZSh37HA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A62manicHcRbUoMwFADQFaUE6Bhwxo_UPtA2IsU-7F-NeVgSLiVJGdmhS3A3zng-zu-P9r5z91FkdDpRAMqI4ETPofWi9RMONlL92TnEXUTprLEbedwxodB2_VKKAl-nb0l5WmqWqvkFcwazTdiX72Zuhi47Vi7d0WYUi25Z1UU7SljfoRiPX4TInAG5gYTPsrnerLH9cyJkkn-_Hj6eFnSVm0p6H0jWrQKOh5qcL2KfWfYYTrVOSUEfhhhjjPT_HLV_7NxFLA"
+    },
+    {
+      "position": 2,
+      "title": "Sree Kanteerava Stadium",
+      "place_id": "ChIJsXEOXnYWrjsRMPbxP26DW6E",
+      "data_id": "0x3bae16765e0e71b1:0xa15b836e3ff1f630",
+      "data_cid": "11627031372529530416",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae16765e0e71b1%3A0xa15b836e3ff1f630&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae16765e0e71b1%3A0xa15b836e3ff1f630&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9696982,
+        "longitude": 77.5934858
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsXEOXnYWrjsRMPbxP26DW6E",
+      "provider_id": "/m/0bdvpl",
+      "rating": 4.4,
+      "reviews": 20428,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "23, Fort Rd, near Kanteerava Stadium, Nunegundlapalli, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"stadium is well maintained and very cool view, only concern is parking\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMnafmTe_brbdfXk2OI8qehJQpE-ZoRrGcs_D3QfV6Rn_Yws3XN5cJl6gXosQ3f4Mhfu-K7FUORaG-rxIjCp1_q_57BrEUn6Jb-K8v9KxAmyqXe1DASSGNRC1NlHF0iqoOSzY6=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/SG3bdXicHcRJDoIwAADAF5VFFNTEA24IKARQg14aqC1VoIUWFf2gb_A3Js5hvh_adY2cqmpFDaXgvKjwXWKBOOsw6xTEa7UQmZQASdW252W9vexYRuo9hrnILyQtB6E7bjH1omYFzjwWDpJwaUTkaMYMnp7SSIMR8iqzSLmMDDLcUXIHvrU-hHHmANG7t0WjwxaOrLlYHZjp5cAfPyZ-b9evNsX60k4SJ4gXelBt1tq15WHyPpmzp65pGqD_EWA_qiJEdA"
+    },
+    {
+      "position": 3,
+      "title": "Dr. B R Ambedkar Stadium",
+      "place_id": "ChIJqWN5guw9rjsRKpwSHjJyZos",
+      "data_id": "0x3bae3dec827963a9:0x8b6672321e129c2a",
+      "data_cid": "10044841578474937386",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3dec827963a9%3A0x8b6672321e129c2a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3dec827963a9%3A0x8b6672321e129c2a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.984054299999999,
+        "longitude": 77.5439712
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqWN5guw9rjsRKpwSHjJyZos",
+      "provider_id": "/g/1vxvg9g3",
+      "rating": 4.4,
+      "reviews": 7801,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "1st Main Rd, Rajaji Nagar Industrial Town, Rajajinagar, Bengaluru, Karnataka 560079, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Nice infrastructure and really well renovated stadium .\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLff0u8JtaU0e2ZeUGNrLfAthtgYWHh1D37bu8J1joSDzGq4ZgRnmxRY_tTdsuuMCk94WuhCPr-BJQf0hoR4JZzHrp9C7xFLpsjrVHsufNwrIlRHN1nBBYMSXdKfKOXkhDV4gl5u4g=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/jZF_YHicHclJDoIwAADAFyFFalwSDyxRRERFUeFiFLtEoMUugfBDn-BvNF7mMp83VaqRM9OsqD0gnJMKaYlEwZlCTA0KXptE3KQ0Cmk6jlvWEcZAT0J1SwEa5ihdxiLCjqKKZOeAWr49vv_aevKD3y9fMCcJq7sku6rjQ2q98copPGvq7YThhnsMKE9gmPeBaKbeuFtEjXyKUyA1jluxqpIgtpjrZpvD5bHG6-2lpP4JkmqkIZm3FgDAoH8Lg30BTBxGPQ"
+    },
+    {
+      "position": 4,
+      "title": "Nadaprabhu Kempegowda Stadium",
+      "place_id": "ChIJ69PGr4E9rjsR1XgudFb73Xw",
+      "data_id": "0x3bae3d81afc6d3eb:0x7cddfb56742e78d5",
+      "data_cid": "8997623979291080917",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d81afc6d3eb%3A0x7cddfb56742e78d5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d81afc6d3eb%3A0x7cddfb56742e78d5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.008511799999999,
+        "longitude": 77.5582999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ69PGr4E9rjsR1XgudFb73Xw",
+      "provider_id": "/g/1tgtcyfp",
+      "rating": 4.3,
+      "reviews": 2405,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium",
+        "Playground"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium",
+        "playground"
+      ],
+      "address": "147, 2nd Main Road, Milk Colony, Subramanyanagar,2 State, Rajaji Nagar, 104, 6th Cross Rd, Milk Colony, Subramanyanagar,2 State, Malleshwaram, Bengaluru, Karnataka 560055, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free street parking"
+          ]
+        }
+      ],
+      "user_review": "\"Good stadium in the locality\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLd_Fc3VQWw7xz-Y3QqshckAgvRabkKwBvJC3R8dDdvG2N9oHdjyNFnRqquN0CEE9SAsbC9PX5eQ70cLrpYvc6MfZQtHMijuNYFFjdtwxiIM3lY4Rf9jH4SCNMHvgSpad0yG1KI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0jUkNnicHcRJDoIwAADAFyHVumHiAVDAhUYgUfFioIUiIAVaivhA_-BvTJzDfD-ZEDVfqWqZwRFljJZJx5MWs0oklRhh9lRpG3GuYK7qulE8j-RuYXj2Lv3i9VZC6DU8w4VOpR_FxaE35N6E_pJsiLQnSGMOyQdkVX7TdAiY260W6Dw2tdN1lngLgI9tHUo8d9ObJxz3kXcotKyciP712LmwDKd-quXONDCR60ga1BEBgz0-7Nb9GACgZP-xUv0AXepElQ"
+    },
+    {
+      "position": 5,
+      "title": "BGS Stadium",
+      "place_id": "ChIJZwImtbg9rjsRss5gtLvz8jg",
+      "data_id": "0x3bae3db8b5260267:0x38f2f3bbb460ceb2",
+      "data_cid": "4103610197998620338",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3db8b5260267%3A0x38f2f3bbb460ceb2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3db8b5260267%3A0x38f2f3bbb460ceb2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.974945,
+        "longitude": 77.5413061
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZwImtbg9rjsRss5gtLvz8jg",
+      "provider_id": "/g/11fkr2ftf7",
+      "rating": 4.5,
+      "reviews": 515,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium",
+        "Playground"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium",
+        "playground"
+      ],
+      "address": "XGFR+XGF, 5th Main Rd, Govindaraja Nagar Ward, MC Layout, Vijayanagar, Bengaluru, Karnataka 560040, India",
+      "country": "India",
+      "phone": "+91 97394 12555",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"The stadium is very huge and planty of space to enjoy\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMm4x0HCQGL1Hdaxw0YFP2jlTbHt0ClkNiSm9EAjenLZVTfcN8tCHf1gEVmbxqByAe80iv40yIIfnXGDkbDwsHKHvef-ftKVePf_aKGsqFvxUdQxikOVp8RbX2zJ6wQS0M4KnA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/oX2sinicHcRLDoIwFADAEyEPJQZNXCAqVfzhh6gbA7UFpC1oKxQP6B28jYmzmO8nU6qSQ9NkWa-TlmXKyEuSJy6FIkJ1cMnN9BlLaWBpul5dMb7itgbkhf7SQrdYN3Cebbt3dkiQAo8V63zPB1P3TsTyEh0oXjvKQ9RKpxFP9GPcusSBvLahnc-pOPmTIpk0EgWoJtSgKojIll7jwJePWa2Pt1DnxSaqnF1y6r4X_Sbcw8oOhDtqLAAwsv_YED9vHkUo"
+    },
+    {
+      "position": 6,
+      "title": "Karnataka State Hockey Stadium",
+      "place_id": "ChIJG7a5ytYVrjsRVi_cBP6kn8k",
+      "data_id": "0x3bae15d6cab9b61b:0xc99fa4fe04dc2f56",
+      "data_cid": "14528512333830696790",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d6cab9b61b%3A0xc99fa4fe04dc2f56&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d6cab9b61b%3A0xc99fa4fe04dc2f56&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.961748,
+        "longitude": 77.6006211
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG7a5ytYVrjsRVi_cBP6kn8k",
+      "provider_id": "/m/04g0zs6",
+      "rating": 4.3,
+      "reviews": 4743,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "XJ62+M6X, Rhenius St, Langford Town, Langford Gardens, Bengaluru, Karnataka 560025, India",
+      "country": "India",
+      "phone": "+91 80 2227 7373",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "payments": [
+            "Credit cards",
+            "Debit cards",
+            "NFC mobile payments"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwodU1eYNpDEODVm-h7wg-N8jTHtKRNo_JGQSJqv4cI6UGblRXeQsY2iweaTVT0kEW-QE-OHsqg-_uNC7yzylY_VJ8it8R7Zy6iiDPltcFURVmVaEh7Dm7iV4xwvPimHeDiDmZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/akJQpXicHcRRboIwAADQE1XQGUpM_HAWZbigMOiEH8Jq01ZairbasQt6Bm9jsvfxng9u7WAWnif524RpzSS9GXolure0txOilceurTGAGG-1eu_U58npUzmlVTqgaI-wAhw6BtLwXMR2l6e6SbbZV3K5z8lHUG5_ZH6kmalmwtG2wIXfRd8gi8A-NhcGmlu6huPfKKsGJ6GwYQ7rMRACHaQlmzLHCrcRh0hBgee_7n4QKqZIIFUv3dT3fcD_J6B_AYwxRUs"
+    },
+    {
+      "position": 7,
+      "title": "Bangalore",
+      "place_id": "ChIJE9ELAoBOrjsR3rM7mXW8G0g",
+      "data_id": "0x3bae4e80020bd113:0x481bbc75993bb3de",
+      "data_cid": "5195953808370021342",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae4e80020bd113%3A0x481bbc75993bb3de&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae4e80020bd113%3A0x481bbc75993bb3de&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9819435,
+        "longitude": 77.5666839
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE9ELAoBOrjsR3rM7mXW8G0g",
+      "provider_id": "/g/1tdbcw60",
+      "rating": 4.2,
+      "reviews": 1443,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "P7HP+CG6, Old Mysore Road, Mahatma Gandhi Rd, Ramanagara, Karnataka 560023, India",
+      "country": "India",
+      "extensions": [
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"The stadium is well-maintained, with clean surroundings and ample seating.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLciquacO1RYb8WRp_NJGDrSxsXHQxav_WGf_vedRvj6pt9cInD0rJeQ5ie9s1QbqGkbjXsOpFtljgzE6H0fuCOktbzRg876E3Gj2pQ6lp-5s5CjQxsi7olk0my7puWEgPq_vDrzYA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0jDmC3icHcRBjoIwFADQEyFFA-gkLlAQNWawzAJdEai1UAot_QUZbjhHmNuY-Bbv_68yRsGXbYtqtWBSMkEHoJrIztDOLIhsbaYLAIuAHQS7pr2Quh8KkjjpvVxnqcq_z3Gofya4HfFUjHkWP_ORPtKRe8psyKkLkT5T7NZ0Aw4u-7gp-Q0SdTCCsznyjug57JPGlHPK1r4XrWK-VNgTynLB3XM8Qe1L0aD211dDFrFrn4-hnu_B9uUghKzqM7G6N8orR4Q"
+    },
+    {
+      "position": 8,
+      "title": "Chinnaswamy Stadium",
+      "place_id": "ChIJywNU2noWrjsRKBjE5_1CeBI",
+      "data_id": "0x3bae167ada5403cb:0x127842fde7c41828",
+      "data_cid": "1330887348170528808",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae167ada5403cb%3A0x127842fde7c41828&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae167ada5403cb%3A0x127842fde7c41828&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.977454,
+        "longitude": 77.598852
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJywNU2noWrjsRKBjE5_1CeBI",
+      "provider_id": "/g/1hjgsf2s_",
+      "rating": 4.3,
+      "reviews": 457,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "extensions": [
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Baggage storage"
+          ]
+        },
+        {
+          "getting_here": [
+            "24-hour transit available"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Watching a match at M. Chinnaswamy Stadium is an unforgettable experience.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf-JTU2j8b2S0w-fR0gAF1US77skdtHmlTnEsGAjg_9jUzZVPzoWWTp0D36TEd3ClvmaxQ5PqP_kcylkAD97BlpTMeP5LvBRorbnK8wXCHspikAvUsu2CAsp4ec68vqk8StlKY56A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/MPoIQHicHcTdboIwGADQJ6pUGD-aeFHQzUxNUMrYdmO01jJa2spXQX3DPcLexmTn4vz91s5ZmHqeqoORMEYofgXeMaMd127ETOuJ7gCAGHiEpLJdn9E7Lf0mOfoFHtB5hwV5HZdFHIM8uWWrqF7AG2nEftKUj--P_GGqilo8DyK6OAWZ6tvDbRvml3wv2V1JMp_EqbJ0w_Nw3ac70x31Khk-syXYH0n6Eq5-RsC-cBYl_UUmhVOrrzAis2GMMUb1_wzpJ-BbRXc"
+    },
+    {
+      "position": 9,
+      "title": "Bengaluru Football Stadium",
+      "place_id": "ChIJXf2hxYEWrjsREauf0-Zu8Gw",
+      "data_id": "0x3bae1681c5a1fd5d:0x6cf06ee6d39fab11",
+      "data_cid": "7849896088178764561",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1681c5a1fd5d%3A0x6cf06ee6d39fab11&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1681c5a1fd5d%3A0x6cf06ee6d39fab11&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9687469,
+        "longitude": 77.61091139999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXf2hxYEWrjsREauf0-Zu8Gw",
+      "provider_id": "/m/026hsgl",
+      "rating": 4.2,
+      "reviews": 2939,
+      "type": "Soccer field",
+      "types": [
+        "Soccer field"
+      ],
+      "type_id": "soccer_field",
+      "type_ids": [
+        "soccer_field"
+      ],
+      "address": "24, Anthony Nicholas St, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "country": "India",
+      "open_state": "Open now",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "payments": [
+            "Debit cards"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot",
+            "Paid street parking"
+          ]
+        }
+      ],
+      "user_review": "\"They even host some games of local teams and even training sessions of BFC\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcO6JnIawiWHGAKoCmQQJbQeSVtB324b78tKK7oDlbIvj2dWeL7aemRM6R-8itmRxXoZBLzACkQ0t4m2Pry1UFRs0PdfUL_HQZ18K2X0eyz2_4_I4N_8eGh8nYJmhTx9nb5BguZ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/vc8JoHicHcRJDoIwAADAFyGloFQTD6BRWVyKOxcCtVKVtoZWET_oG_yNiXOY74dpfVcD06yY3SmlLCv6ULQmUmgqdIdIbpZ1rpRBlOl5_o3HZNkLRZA3l_1s6kVyxDEOC0zXO-3b0ClcpKPIleOqCJ5XeNrT2M0pT-a9xEAXzZPXQaZ-_PZGNwy0w-Gqbq3tJFFgdTpv42yGUwtF8ABo-4aZkwXOIkN0ypA4hpxtXn1RdP3ykQ4bCwBgsP_EED8dQUOo"
+    },
+    {
+      "position": 10,
+      "title": "Tornadoes FC & Academy",
+      "place_id": "ChIJcytXar0VrjsR2IMz4Ot9OCw",
+      "data_id": "0x3bae15bd6a572b73:0x2c387debe03383d8",
+      "data_cid": "3186435188396884952",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15bd6a572b73%3A0x2c387debe03383d8&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15bd6a572b73%3A0x2c387debe03383d8&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9339531,
+        "longitude": 77.58597089999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcytXar0VrjsR2IMz4Ot9OCw",
+      "provider_id": "/g/1td7rmx4",
+      "rating": 4.3,
+      "reviews": 5983,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "WHMP+5HX, Kittur Rani Chennama stadium, Jaya Nagar 1st Block, Byrasandra, Jayanagar, Bengaluru, Karnataka 560011, India",
+      "country": "India",
+      "phone": "+91 98803 37669",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        }
+      ],
+      "user_review": "\"The stadium was closed for repairs, instructor was quite helpful.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeEf16zLyGLB2pUoFgZgzW0pAXnohrUNSk6yPEnhYyZEjdwgGEym3u4Sy3AQBZDzdqqh2PCqGk7h5Gm1CNnWOXIfrrDeQWdBkJ63GnSFAU_ZwNE0XOvwShkCW7rMCKnB4K-kgPL=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/FAsBwHicHcRRCoIwAADQE5kzyyDoY9M1KjNDRPMnQtdGy003S-YFO0O3CXof7_vhw9CZtes-uT9jSrEnfRmqayUHKodZrVqX6ZsxTm1cCJFoY4rvXjDFlsRo3uVqyyo2FaCDpVRc50kmAptiyS-2wo9mZATb1n8tMuvDM6qiqel7Pk_DnogVX5LWCxNZnMrdXeuInosGiX3gE5ltYX6txgSD8vQeMy7CYqWP4UGixcERLI03owcAcPj_2pE_xSNFAg"
+    },
+    {
+      "position": 11,
+      "title": "Koramangala Indoor Stadium Park",
+      "place_id": "ChIJy6npD9EVrjsR0bd-Q6mnM9Q",
+      "data_id": "0x3bae15d10fe9a9cb:0xd433a7a9437eb7d1",
+      "data_cid": "15290749505276655569",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15d10fe9a9cb%3A0xd433a7a9437eb7d1&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15d10fe9a9cb%3A0xd433a7a9437eb7d1&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9432461,
+        "longitude": 77.6228522
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJy6npD9EVrjsR0bd-Q6mnM9Q",
+      "provider_id": "/g/11bxb8j0x3",
+      "rating": 4.2,
+      "reviews": 440,
+      "type": "Sports complex",
+      "types": [
+        "Sports complex"
+      ],
+      "type_id": "sports_complex",
+      "type_ids": [
+        "sports_complex"
+      ],
+      "address": "Koramangala Indoor Stadium, KHB Games Village, Koramangala, Bengaluru, Karnataka 560095, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Good stadium.. clean and hygienic toilets\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLewZVVEWy89Hgkzo--KL0NpVbXj4bK1vYxpkQuFuF-a2MAdGtwd_kqShxLJxt1FQBgFmd-YSMehQNkH4ELk6cOqj5NZPVFLQwgHgvpGbeXTMgcNhRR59ZtoL2SclIp9VceR1MJtwQ=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/W5f1v3icHcTdzoIgAADQJyK1v2VbF7ZFVmihjcqblshgoUKB4dcb9gjf27R1Ls7_R1irzdzzajEacKV4zTrDnlS1lrV2QFXj8efNGECNF0VL2SDmCkJWp79ZGHP5VgDskJ9qUp7v43IXvC69lriDHQS3YRJVa-uqq3zkokfb3gYQLzlsKnDJEyZwKuPxCskp3T_uk7Q4EIiw4zF_6XXJzseE01Rk2SQsrELDnNYbHRLKsiDZWocXLvB9H4jfFLRfQ_hGEg"
+    },
+    {
+      "position": 12,
+      "title": "Kittur Rani Chennamma Stadium",
+      "place_id": "ChIJe0EOlKoVrjsRKVYAL17OWZs",
+      "data_id": "0x3bae15aa940e417b:0x9b59ce5e2f005629",
+      "data_cid": "11194205252716877353",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15aa940e417b%3A0x9b59ce5e2f005629&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15aa940e417b%3A0x9b59ce5e2f005629&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9344384,
+        "longitude": 77.5860782
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe0EOlKoVrjsRKVYAL17OWZs",
+      "provider_id": "/g/11fn09g5nd",
+      "rating": 4.4,
+      "reviews": 850,
+      "type": "Sports complex",
+      "types": [
+        "Sports complex",
+        "Volleyball club",
+        "Volleyball court",
+        "Volleyball instructor"
+      ],
+      "type_id": "sports_complex",
+      "type_ids": [
+        "sports_complex",
+        "volleyball_club",
+        "volleyball_court",
+        "volleyball_instructor"
+      ],
+      "address": "Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+      "country": "India",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "6–9:30 AM, 4–8 PM",
+        "thursday": "6–9:30 AM, 4–8 PM",
+        "friday": "6–9:30 AM, 4–8 PM",
+        "saturday": "6–9:30 AM, 4–8 PM",
+        "sunday": "6–9:30 AM, 4–8 PM",
+        "monday": "6–9:30 AM, 4–8 PM",
+        "tuesday": "6–9:30 AM, 4–8 PM"
+      },
+      "phone": "+91 98442 26700",
+      "website": "http://volleyballcoachingbangalore.in/",
+      "extensions": [
+        {
+          "from_the_business": [
+            "Identifies as women-owned"
+          ]
+        },
+        {
+          "service_options": [
+            "Onsite services"
+          ]
+        },
+        {
+          "amenities": [
+            "Gender-neutral restroom"
+          ]
+        },
+        {
+          "crowd": [
+            "LGBTQ+ friendly"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Free street parking",
+            "On-site parking"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "service_options": {
+        "onsite_services": true
+      },
+      "user_review": "\"Its very well maintained and good for competitions\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfBQoSk4MhASaDhfgU5j1sjh02hRs7l86KPk58upkY7g7UtuT-JPB4tGF4kZgeAGToc0eZeYl0MhXokgnMdrLpCz2PENkCah44m0on2ZnHvqtfR0pvxyoKEML40J_PRpwJpqkfG=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/X2kfEHicHcTdboIwFADgJ0KOWIcx8QL8YUEwDDWZ3BhSS08s9FRadO4F9wy-jcm-i-_1h84ZO_f9FicjSSRbMVjRc9JOaDfi1Pmyr631uPWjKFZd1sRftFcsx2hfr7CRx-l1bK8IAZY2bGcf20JNZ4NRp1CGRzccvLSImUs2TFVSRMmBOIhKnFrI8ZuU1Pmlz8zyNyjWO7WskbEOSAeV_rzfXFOCuf88abvOMwbpuSjNIzU31SSLxxgAPPyfe_oNczBFOw"
+    },
+    {
+      "position": 13,
+      "title": "Gowthamapura Soccer Stadium",
+      "place_id": "ChIJD_yHpiAUrjsRWuGhrGztFfg",
+      "data_id": "0x3bae1420a687fc0f:0xf815ed6caca1e15a",
+      "data_cid": "17876455346925592922",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1420a687fc0f%3A0xf815ed6caca1e15a&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1420a687fc0f%3A0xf815ed6caca1e15a&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.968277899999999,
+        "longitude": 77.62595429999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD_yHpiAUrjsRWuGhrGztFfg",
+      "provider_id": "/g/1tdfx4hr",
+      "rating": 4.1,
+      "reviews": 452,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "9/3, Artillery Rd, Gowthamapuram, Jogupalya, Bengaluru, Karnataka 560008, India",
+      "country": "India",
+      "user_review": "\"Recently painted and maintained well overall\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQIFhJ-bili4jh1Q0WlS-a59mjy2AElRyn593fakKU9ai4xVXuHrD6QxZPSlCryEPjwl6A9Qws7Xqbi4N9cvqzvlpDdQ5zgL2cbs8CR0kzYiqbO-SuTMxcXXkd529p7ThIDUmI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/0O721HicHcRJDoIwAADAF1UqAloTDygYcS-4oDcoSAtlLcjyQd_gb0ycw3w_tK4LMZckTiejKM8jHjYirEie1WFWj0ieSlHlCQGIkHR9maT7AFtrugU-40yJ6RjDO3eAp6I07mXd5HafqWjy8pLdFXlM6W5us6kMDXfPs8NXVW-e45ZrOsKtmLqlz5QjIu9yePPCCLA6RHuZ-GK2smEyPFjpn4DTXA4dcd0kUGVUTC_UMq6ptWjHEEJA_xOQ_QCKP0U2"
+    },
+    {
+      "position": 14,
+      "title": "Dr. Rajkumar Indoor Stadium",
+      "place_id": "ChIJ4ahs5hE9rjsRcCMZNrlbPUg",
+      "data_id": "0x3bae3d11e66ca8e1:0x483d5bb936192370",
+      "data_cid": "5205417595344855920",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d11e66ca8e1%3A0x483d5bb936192370&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d11e66ca8e1%3A0x483d5bb936192370&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0045065,
+        "longitude": 77.541292
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4ahs5hE9rjsRcCMZNrlbPUg",
+      "provider_id": "/g/11gh9pqzlc",
+      "rating": 4.4,
+      "reviews": 231,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "484, 14th B Cross Rd, Bovipalya, Nagapura, Bengaluru, Karnataka 560086, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"Lot of parking 🅿️ space too with the Classic 90s style Auditorium.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLehYatAgVxP4cjydoQYLDxWrirq12sfCDZRjIM0EicTkuXYRyv8f4gRCpa6_EumTDgwq31GCkaPAfHicsJiYhur1wsg9ceqpcg4_ub1HXQjVe4dKrWWzX4t3C1sdSc9HosxIhdTOg=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/Us74TXicHcTRToMwFADQL2JQaYwz8QFhGdMZNyQDfFnYpdwCg0JvK8w_9BP8GxPPw_n9kcaM9Oi6V-mvUCm8CktCgxqMGMwKVO-iLokcIDcInrt-L2RRmgBPy4FDe6vUsdhHS6YbPbE7qsPoM2l3b96mgbSzeZHcvh5qjkk4lvfnje3TCOfJZ9uwKw9BHTdAL00hrWYz4RrENALys72wOD-2J8GrV51l3zk3fsio-oB1rGjZySp9x6eZeZ7nyP_BGf4A2-dHsA"
+    },
+    {
+      "position": 15,
+      "title": "Sree Kanteerava Indoor Stadium ಶ್ರೀ ಕಂಠೀರವ ಒಳಾಂಗಣ ಕ್ರೀಡಾಂಗಣ",
+      "place_id": "ChIJl0QVegAXrjsRRRqBP5zCh54",
+      "data_id": "0x3bae17007a154497:0x9e87c29c3f811a45",
+      "data_cid": "11423312956184664645",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17007a154497%3A0x9e87c29c3f811a45&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17007a154497%3A0x9e87c29c3f811a45&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.968809799999999,
+        "longitude": 77.5912838
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl0QVegAXrjsRRRqBP5zCh54",
+      "provider_id": "/g/11wbtgy03d",
+      "rating": 4.1,
+      "reviews": 61,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "XH9R+GGF, Kasturba Rd, Nunegundlapalli, Raja Ram Mohanroy Extension, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        },
+        {
+          "amenities": [
+            "Restroom"
+          ]
+        },
+        {
+          "parking": [
+            "Free parking lot",
+            "Paid parking lot"
+          ]
+        }
+      ],
+      "user_review": "\"The stadium is well kept.\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeKxW1_MyH0dJmSlsZM18OVsaY5fUwgRX2a-6yM18rlc_BwxGQjueuf1rM9Ye-w8N0sx38RFk8RYZ7mQVbgEIaJNGRLqKCl09RGjk5H0JPil5lJnZvLoRnDnk_F8eg2yQ9PDTJX=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/I9wWf3icHchLEoIgAADQE5FYY2EzLfpapJX01Y1jRFgilGjqCTtDt6lp8xbv806K4qH7hiGSTosrxQUrNcupkgWTRYuqzOB5rDWg2hgOR2nmsmV9NCOvmcMLzrZCh56J1gcdB9Z1X3Fyaseg2_wuFzQaVbXj30tWXs3cswMGKrSCuu4gMksRCcJe5h_OfLqI8coh7nM5FtAmzj215hBvbsISWIYvVxE5kWk0Q4y3G9_eTHb4NKhMCCFI_lIgv186RCM"
+    },
+    {
+      "position": 16,
+      "title": "Chinnaswamy Stadium",
+      "place_id": "ChIJcU4X4HoWrjsRTO99ECm6R6k",
+      "data_id": "0x3bae167ae0174e71:0xa947ba29107def4c",
+      "data_cid": "12197922801289391948",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae167ae0174e71%3A0xa947ba29107def4c&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae167ae0174e71%3A0xa947ba29107def4c&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.977314999999999,
+        "longitude": 77.599189
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcU4X4HoWrjsRTO99ECm6R6k",
+      "provider_id": "/g/11b7q8lfw_",
+      "rating": 4.4,
+      "reviews": 17,
+      "type": "Bus stop",
+      "types": [
+        "Bus stop"
+      ],
+      "type_id": "bus_stop",
+      "type_ids": [
+        "bus_stop"
+      ],
+      "address": "Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "extensions": [
+        {
+          "getting_here": [
+            "24-hour transit available"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfq7ZiDO4O9BW07u1remyqyTWVF_bd2T79Jjl7rkkyX8FOsK-Vp8mNtbDLlBB_RBnPJ74XMaUKUAZ59rROi0QqOLG61wiMfGDe1DQ7852tY-UtmXJoiw5s9iZChOllQWfPb1r8D=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/bVl9jHicHcRRboIwAADQE1VaJyss2QddowniKkYE-THCCnS0VNoawgk9g7cx8X2856Nz7ma_PE92H4tW61byu-Wm1oPjg1vUWnmtuVoLautFEelV0oy4FJStWEhyiO_IcDWP8zE_rS_V3_KIw_hfYtP3cxGsmd2C0y1Qv66iiSTkciDDPsarYnfNtllU-qE5MAHTkSWbTzSJXbOhHNEUB_7SnUHmVBFrMfk2FOVPx6RM82ZfIRPQ7wlBCEH3vgbDCxRzQ2A"
+    },
+    {
+      "position": 17,
+      "title": "E13 M Chinnaswamy Stadium",
+      "place_id": "ChIJT952fgAXrjsRw8Ksju3GIoI",
+      "data_id": "0x3bae17007e76de4f:0x8222c6ed8eacc2c3",
+      "data_cid": "9377276097742029507",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17007e76de4f%3A0x8222c6ed8eacc2c3&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17007e76de4f%3A0x8222c6ed8eacc2c3&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.978346499999999,
+        "longitude": 77.600582
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJT952fgAXrjsRw8Ksju3GIoI",
+      "provider_id": "/g/11nbly1ldj",
+      "rating": 4.5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "XJH2+86P, 83rd St, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India"
+    },
+    {
+      "position": 18,
+      "title": "E10 M Chinnaswamy Stadium",
+      "place_id": "ChIJOVtDbwAXrjsRha3nqxjI_Ho",
+      "data_id": "0x3bae17006f435b39:0x7afcc818abe7ad85",
+      "data_cid": "8862178175047150981",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17006f435b39%3A0x7afcc818abe7ad85&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17006f435b39%3A0x7afcc818abe7ad85&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9777215,
+        "longitude": 77.5989609
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJOVtDbwAXrjsRha3nqxjI_Ho",
+      "provider_id": "/g/11nbly7g3r",
+      "rating": 4.8,
+      "reviews": 5,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "XHHX+3HP, Queens Rd, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "user_review": "\"It's Very Nice u can watch IPL it's fantastic.i feel good\"",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLe5eOi9vEhe_Et8Et2GbSBl4ztkZW94OpnaWbTcTSLvwIDx3VUJv2V2tHEqlxSNxXGml0f1n0JvQliwHREbESkjn7Ee30P4X36rPpSsIgneWFJUzndITyDmJDVU3a1_2rB-qLR141PeiXnO=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/CndTjXicHcTdboIwGADQJ0JailOX7EJCVQgZzPKX3RjoPgEpBWkHzJf0em-zZOfi_D5rrQf1apqiJquq7ysB3wpG3ksNUq9435nVWChlcGXu907bBbCGsNlNtIYL1VuqrWPJHGE_dPuZ7exwkEVWxjxmwTR77kLSxJ-s1NInehcLe1_yYyfQFUvkTx-imU9nWlLW3uSGAkGRnZOXMRqY8ioJ2cFPHvLLi3_cznfThBT4Yo2OcQ_O2MYRNLkM32aMEDLq_7kh_wDg00dP"
+    },
+    {
+      "position": 19,
+      "title": "E18 M Chinnaswamy Stadium",
+      "place_id": "ChIJURNyGQAXrjsReZnjTSZBzMk",
+      "data_id": "0x3bae170019721351:0xc9cc41264de39979",
+      "data_cid": "14541068929643813241",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae170019721351%3A0xc9cc41264de39979&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae170019721351%3A0xc9cc41264de39979&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9797481,
+        "longitude": 77.6005223
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJURNyGQAXrjsReZnjTSZBzMk",
+      "provider_id": "/g/11nbm0xqcf",
+      "rating": 5,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "XJH2+V6R, Cubbon Rd, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=f90yMBD3ovthvSRAH9eS7g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=182.38805&pitch=0&thumbfov=100",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GXWuqnicHc3BDcIgFADQbbgJ1MZITYjRePDixQ5gKP0FEloIfMGu41Zuo3GB9z5vixjzgbGMCQCLgxrdC3zeREVNCMaDii5THWZWGob2OQ-Lcv4Y1RLcKKeOr7fzpQ0Fbenvp2sH_d4QPTy0d7CgzKCSttTUn5jCSE1SOZMqBSdWdluyqiobsaWtEHxHokNtJSf_ZwpFNpx_AeVhOiU"
+    },
+    {
+      "position": 20,
+      "title": "E17 M Chinnaswamy Stadium",
+      "place_id": "ChIJsenMNQAXrjsRvEVs4xFs_A0",
+      "data_id": "0x3bae170035cce9b1:0xdfc6c11e36c45bc",
+      "data_cid": "1007799240709916092",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae170035cce9b1%3A0xdfc6c11e36c45bc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae170035cce9b1%3A0xdfc6c11e36c45bc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.979324,
+        "longitude": 77.60084479999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsenMNQAXrjsRvEVs4xFs_A0",
+      "provider_id": "/g/11z391swm7",
+      "rating": 4,
+      "reviews": 2,
+      "unclaimed_listing": true,
+      "type": "Stadium",
+      "types": [
+        "Stadium"
+      ],
+      "type_id": "stadium",
+      "type_ids": [
+        "stadium"
+      ],
+      "address": "XJH2+P8H, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "country": "India",
+      "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLelyrdMOjOC_xeiwvHbAfpmevtlvmbTqvdGWajOEElsBWoPVdO3nuCiwXmhGTBXDnzphp5Khj0osimV6FIbuDPnWt75kHlglbH9I1u2pX2mtCDqyZQoXniZwdzO7A6qRS2_-bYs9KXnsWo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/wgEUrnicHcRJDoIwFADQEyGIQaOJCwYVo6ZOkerGWKgU7AS_gHpI997GxLd43w8zRsPEtjkb9HKlck4boHWqpKHS9FIl7Ly-AVgp2L4fPMSa8ledbVCJwuuTFl0bE_-uBW0NbwU5Vm22SG4lms04BInanjI0kE1YdFiwxTHAkXxrpr0VKx0FhTgN50vSRFuZmJH3iHnOSTxe9htXY1eYMKpel53Csrh02RuN_GG1P7hXi5xhvMISEjXt-o7jWOx_askf8VJKdA"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.974658999999999%2C77.6067528%2C14z&q=stadium&start=20&type=search"
+  }
+}

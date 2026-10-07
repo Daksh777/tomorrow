@@ -1,0 +1,225 @@
+{
+  "search_metadata": {
+    "id": "6ac6435c6adf2711d700b857",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KLUkoyH6N8qV4JAHwPhoSLxZKyb0cI6FLYxXHsRKdVY/6ac6435c6adf2711d700b857.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KLUkoyH6N8qV4JAHwPhoSLxZKyb0cI6FLYxXHsRKdVY/6ac6435c6adf2711d700b857.md",
+    "created_at": "2026-10-07 13:04:28 UTC",
+    "processed_at": "2026-10-07 13:04:28 UTC",
+    "google_sports_url": "https://www.google.com/search?kgmid=/m/0ynr_sq&sourceid=chrome&ie=UTF-8&hl=en#sie=lg;/m/0ynr_sq;5;/m/0ynr_sq;bs;fp;1;;;2026-10-07T00:00:00Z;-1",
+    "raw_html_file": "https://serpapi.com/searches/KLUkoyH6N8qV4JAHwPhoSLxZKyb0cI6FLYxXHsRKdVY/6ac6435c6adf2711d700b857.html",
+    "prettify_html_file": "https://serpapi.com/searches/KLUkoyH6N8qV4JAHwPhoSLxZKyb0cI6FLYxXHsRKdVY/6ac6435c6adf2711d700b857.prettify",
+    "total_time_taken": 1.33
+  },
+  "search_parameters": {
+    "engine": "google_sports",
+    "kgmid": "/m/0ynr_sq",
+    "sp": "cr",
+    "type": "league",
+    "tab": "gm",
+    "moa": "2026-10-07T00:00:00Z",
+    "mob": "2026-10-15T00:00:00Z",
+    "hl": "en"
+  },
+  "league_results": {
+    "game_groups": [
+      {
+        "title": "Matchday 1 of 14",
+        "games": [
+          {
+            "teams": [
+              {
+                "name": "Bengaluru FC",
+                "short_name": "Bengaluru",
+                "short_code": "BGL",
+                "kgmid": "/m/0w3069g",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/fGnlgyfbEydLwje2BEEUgQ_500x500.png"
+              },
+              {
+                "name": "SC Delhi",
+                "short_code": "SCD",
+                "kgmid": "/g/11h_12db8q",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VqqF7mFu9h98HGqDxGQaBw_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "Indian Super League",
+              "short_name": "ISL",
+              "kgmid": "/m/0ynr_sq"
+            },
+            "venue": {
+              "name": "Sree Kanteerava Stadium",
+              "location": "Bengaluru",
+              "kgmid": "/m/0bdvpl"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11p1ckgvx6",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11p1ckgvx6&sp=ft&type=game",
+            "start_time": "2026-10-10T11:30:00Z"
+          },
+          {
+            "teams": [
+              {
+                "name": "FC Goa",
+                "short_name": "Goa",
+                "short_code": "GOA",
+                "kgmid": "/m/010fb75p",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/2kh601gIWUpwetVLrFYl1A_500x500.png"
+              },
+              {
+                "name": "Chennaiyin FC",
+                "short_name": "Chennaiyin",
+                "short_code": "CHE",
+                "kgmid": "/m/011x3h38",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/YD8tGKDHgwFh7r3VsdpCYA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "Indian Super League",
+              "short_name": "ISL",
+              "kgmid": "/m/0ynr_sq"
+            },
+            "venue": {
+              "name": "Marketview",
+              "alt_name": "Fatorda Stadium",
+              "location": "Margao",
+              "kgmid": "/m/0csgtj"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11p1ckrvvy",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11p1ckrvvy&sp=ft&type=game",
+            "start_time": "2026-10-10T14:00:00Z"
+          },
+          {
+            "teams": [
+              {
+                "name": "Inter Kashi FC",
+                "short_name": "Inter Kashi",
+                "short_code": "INT",
+                "kgmid": "/g/11kqnv67qf"
+              },
+              {
+                "name": "Kerala Blasters FC",
+                "short_name": "Kerala Blasters",
+                "short_code": "KER",
+                "kgmid": "/m/010fhkdy",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/_5VS8XluJxBhUh29V2yB_Q_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "Indian Super League",
+              "short_name": "ISL",
+              "kgmid": "/m/0ynr_sq"
+            },
+            "venue": {
+              "name": "Ekana International Football Stadium",
+              "location": "Ardonamau",
+              "kgmid": "/g/11lcj6s3tf"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxym3vxf",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxym3vxf&sp=ft&type=game",
+            "start_time": "2026-10-11T11:30:00Z"
+          },
+          {
+            "teams": [
+              {
+                "name": "Churchill Brothers FC Goa",
+                "short_name": "Churchill Brothers",
+                "short_code": "CHB",
+                "kgmid": "/m/0blm_k",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/wraIaYvoZLAXXrSP9MngsA_500x500.png"
+              },
+              {
+                "name": "Mumbai City FC",
+                "short_name": "Mumbai City",
+                "short_code": "MUM",
+                "kgmid": "/m/010f9p9z",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/pFOymUjummnYYqKp__o-LQ_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "Indian Super League",
+              "short_name": "ISL",
+              "kgmid": "/m/0ynr_sq"
+            },
+            "venue": {
+              "name": "Marketview",
+              "alt_name": "Fatorda Stadium",
+              "location": "Margao",
+              "kgmid": "/m/0csgtj"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11zxypd865",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11zxypd865&sp=ft&type=game",
+            "start_time": "2026-10-11T14:00:00Z"
+          },
+          {
+            "teams": [
+              {
+                "name": "NorthEast United FC",
+                "short_name": "NorthEast United",
+                "short_code": "NOR",
+                "kgmid": "/m/010fg2tk",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VeolOM7Y1XYnu6ufb1fEjg_500x500.png"
+              },
+              {
+                "name": "Mohun Bagan Super Giant",
+                "short_name": "Mohun Bagan",
+                "short_code": "MOH",
+                "kgmid": "/g/11jn_qg0mf",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/uB6DFtm7ayLetWSb9tFVhg_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "Indian Super League",
+              "short_name": "ISL",
+              "kgmid": "/m/0ynr_sq"
+            },
+            "venue": {
+              "name": "Indira Gandhi Athletic Stadium",
+              "location": "Guwahati",
+              "kgmid": "/m/04cvfpk"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11p1ckn70l",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11p1ckn70l&sp=ft&type=game",
+            "start_time": "2026-10-12T14:00:00Z"
+          },
+          {
+            "teams": [
+              {
+                "name": "Punjab FC",
+                "short_name": "Punjab",
+                "short_code": "PFC",
+                "kgmid": "/g/11bwgvhmx5",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Fuqhyi8dq86YxOOAldvVfA_500x500.png"
+              },
+              {
+                "name": "Odisha FC",
+                "short_name": "Odisha",
+                "short_code": "ODI",
+                "kgmid": "/m/010f4kbg",
+                "thumbnail": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8NSdffH3dYyTy5jLBAKDZA_500x500.png"
+              }
+            ],
+            "league": {
+              "name": "Indian Super League",
+              "short_name": "ISL",
+              "kgmid": "/m/0ynr_sq"
+            },
+            "venue": {
+              "name": "Guru Nanak Stadium",
+              "location": "Ludhiana",
+              "kgmid": "/m/0hhqhjc"
+            },
+            "status": "upcoming",
+            "kgmid": "/g/11p1ckdxs4",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_sports&hl=en&kgmid=%2Fg%2F11p1ckdxs4&sp=ft&type=game",
+            "start_time": "2026-10-14T14:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+}

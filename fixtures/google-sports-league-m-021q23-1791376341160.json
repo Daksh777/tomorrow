@@ -1,0 +1,28 @@
+{
+  "search_metadata": {
+    "id": "6ac63bd3f61b7da8964ec4ed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/nqOofdcflYDUPN0e-RkCIojhN7L__YxGcq1dTF5frqQ/6ac63bd3f61b7da8964ec4ed.json",
+    "markdown_endpoint": "https://serpapi.com/searches/nqOofdcflYDUPN0e-RkCIojhN7L__YxGcq1dTF5frqQ/6ac63bd3f61b7da8964ec4ed.md",
+    "created_at": "2026-10-07 12:32:19 UTC",
+    "processed_at": "2026-10-07 12:32:19 UTC",
+    "google_sports_url": "https://www.google.com/search?kgmid=/m/021q23&sourceid=chrome&ie=UTF-8&hl=en#sie=lg;/m/021q23;2;/m/021q23;bs;fp;1;;;2026-10-07T12:32:19Z;-1",
+    "raw_html_file": "https://serpapi.com/searches/nqOofdcflYDUPN0e-RkCIojhN7L__YxGcq1dTF5frqQ/6ac63bd3f61b7da8964ec4ed.html",
+    "prettify_html_file": "https://serpapi.com/searches/nqOofdcflYDUPN0e-RkCIojhN7L__YxGcq1dTF5frqQ/6ac63bd3f61b7da8964ec4ed.prettify",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_sports",
+    "kgmid": "/m/021q23",
+    "sp": "ft",
+    "type": "league",
+    "tab": "gm",
+    "moa": "2026-10-07T12:32:19Z",
+    "mob": "2026-10-15T12:32:19Z",
+    "hl": "en"
+  },
+  "search_information": {
+    "league_results_state": "Fully empty"
+  },
+  "error": "Google Sports hasn't returned any results for this search."
+}

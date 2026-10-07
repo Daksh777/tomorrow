@@ -1,0 +1,951 @@
+{
+  "search_metadata": {
+    "id": "6ac63afffd599155122a5b92",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/noAxWBQ3fOxNgc6NidIk3pE_nUrCs5aLYU0BZUnrUUM/6ac63afffd599155122a5b92.json",
+    "markdown_endpoint": "https://serpapi.com/searches/noAxWBQ3fOxNgc6NidIk3pE_nUrCs5aLYU0BZUnrUUM/6ac63afffd599155122a5b92.md",
+    "created_at": "2026-10-07 12:28:47 UTC",
+    "processed_at": "2026-10-07 12:28:47 UTC",
+    "google_maps_url": "https://www.google.com/maps/search/event+venue/@12.974658999999999,77.6067528,14z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+    "raw_html_file": "https://serpapi.com/searches/noAxWBQ3fOxNgc6NidIk3pE_nUrCs5aLYU0BZUnrUUM/6ac63afffd599155122a5b92.html",
+    "prettify_html_file": "https://serpapi.com/searches/noAxWBQ3fOxNgc6NidIk3pE_nUrCs5aLYU0BZUnrUUM/6ac63afffd599155122a5b92.prettify",
+    "total_time_taken": 0.76
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "type": "search",
+    "q": "event venue",
+    "ll": "@12.974658999999999,77.6067528,14z",
+    "google_domain": "google.com",
+    "hl": "en"
+  },
+  "search_information": {
+    "local_results_state": "Results for exact spelling",
+    "query_displayed": "event venue"
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Anantha Party Hall Jayanagar",
+      "place_id": "ChIJHfUWznoVrjsRzFhL9aDldwA",
+      "data_id": "0x3bae157ace16f51d:0x77e5a0f54b58cc",
+      "data_cid": "33748001701451980",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae157ace16f51d%3A0x77e5a0f54b58cc&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae157ace16f51d%3A0x77e5a0f54b58cc&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9305831,
+        "longitude": 77.5830314
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHfUWznoVrjsRzFhL9aDldwA",
+      "provider_id": "/g/11y83r6vly",
+      "rating": 4.8,
+      "reviews": 169,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "71, 8th C Main Road, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–11 PM",
+        "thursday": "10 AM–11 PM",
+        "friday": "10 AM–11 PM",
+        "saturday": "10 AM–11 PM",
+        "sunday": "10 AM–11 PM",
+        "monday": "10 AM–11 PM",
+        "tuesday": "10 AM–11 PM"
+      },
+      "phone": "+91 98448 93869",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T9h51FQgNObdWYgXJcPZWRmT0_C-z9_VTEJZ4I7qgY83Gj0eNAKm403kj90lC-n6BPzJkOjuquZOPw8Lt66bpPt8xs0b4FxcE5b6fQgSn2n3TCcn-_adnKqFvtQvkK5Z-l5BA99sMKOX0d=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/pATRU3icHcRJDoIwFADQE1W-MkhNXCARIyiDElE2RAoWGQrY4nRJ197GxLd4308hRMdnklQX8oi2La3zgec30jKRMzEibSPRjiPCEZcMN7q-cIgLdWwF1PXSLDrRo038ONo1ISQmeuPkEC7tWFlPe3rS5VUJuWs4jQJyVWKoTcS0hf-2K68c-iH2_Ie-EZqWdr7QnxxSxXqSpZpql4Du2YTJoUkYSs4Zc3rrLoJ75agxqtWFgTHfOt4RsvljDACo-E8Q-wHzd0WG"
+    },
+    {
+      "position": 2,
+      "title": "The Binge Town - Rajaji Nagar - Private Theatre Venues for Celebration",
+      "place_id": "ChIJawk4t189rjsRWfcBIDSKzJc",
+      "data_id": "0x3bae3d5fb738096b:0x97cc8a342001f759",
+      "data_cid": "10938269551456024409",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d5fb738096b%3A0x97cc8a342001f759&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d5fb738096b%3A0x97cc8a342001f759&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9849863,
+        "longitude": 77.5567032
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJawk4t189rjsRWfcBIDSKzJc",
+      "provider_id": "/g/11s8c557v5",
+      "rating": 4.9,
+      "reviews": 7269,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Children's party service",
+        "Event management company",
+        "Event planner",
+        "Movie theater",
+        "Party planner"
+      ],
+      "address": "Ram Mandir, 1st Floor, Shree Lakshmi, 59th Cross Road, Road, 4th Block, Rajajinagar, Bengaluru, Karnataka 560010, India",
+      "country": "India",
+      "open_state": "Open · Closes 1 AM",
+      "hours": "Open · Closes 1 AM",
+      "operating_hours": {
+        "wednesday": "10 AM–1 AM",
+        "thursday": "10 AM–1 AM",
+        "friday": "10 AM–1 AM",
+        "saturday": "10 AM–1 AM",
+        "sunday": "10 AM–1 AM",
+        "monday": "10 AM–1 AM",
+        "tuesday": "10 AM–1 AM"
+      },
+      "phone": "+91 86189 76974",
+      "website": "https://thebingetown.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1j8Zix5E-7yaGOfGFojS7g8RqAZ7piSiycF-Qb41BofKzUXfPleuSD8FuGe1PbGOAYClpAp_KqfkNGK8Cfkb1yIG6Bc2zR4RonZoSyaCs9eIsV8Rq0enK2lB90QeLhYjJ4zngeoshS0kK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZTMWv3icHczbToMwGADgJ-poJwqYeAEozazZgUbduFlG0wMH-3eWRctLeu3buHjzXX6_P2aanL-PotHcLDSAHuXFy08BdpJ2Wgj4iLTzSHjko3z93oWsJn3adN-3TygJJ7pRtIKeJzqtz3mTuI53QVRo18akAMXm173aXkv-mFYXKsm2pZv8UI4ud0d2VsOasrRUQ0vCit4VYjnXcQ22AR5Opc_kyr9dXywtW45FhnfyxRz653i2WoI3HA_s4YtgjJH5VyD7B3NoRyE"
+    },
+    {
+      "position": 3,
+      "title": "Life Celebration party hall",
+      "place_id": "ChIJaY06WgAXrjsR5dbbl1xXA4Q",
+      "data_id": "0x3bae17005a3a8d69:0x8403575c97dbd6e5",
+      "data_cid": "9512542893132994277",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17005a3a8d69%3A0x8403575c97dbd6e5&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17005a3a8d69%3A0x8403575c97dbd6e5&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0108736,
+        "longitude": 77.6479987
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaY06WgAXrjsR5dbbl1xXA4Q",
+      "provider_id": "/g/11mdjf9fqg",
+      "rating": 4.7,
+      "reviews": 94,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "Land mark :, Life celebrations Party hall NCR Pinnacle, opposite to HDFC Bank, OMBR Layout, Banaswadi, Bengaluru, Karnataka 560043, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "12 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 70900 02273",
+      "website": "https://www.instagram.com/lifecelebrationpartyhall?igsh=MW8zeDB4OXViZW85eg==",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXbYME4r4CVfAl0jt22wZ_0ASfdbeGA--mwIaN912GE74asrnK4JaWRGYFi-HlA1Jji-uDFNRW94-Gc1Ms6Dno6jNjcMnVQM1AEwWLq0iuzWj1XhZKQgABKGpwVNhTo4ljxHSkYIqGb3kK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/TPso63icHcTBboIwAADQL6q02LiwZIc6sSqjiWioeFmgQ0qtLdKSbv6k5_3Nkr3D-31K7wf3GkVazmedtZ1uJ9eOwhrfGj8T9hZ1gwPCARcRxvufpDg1VZ7iEb-XF6Kh8nEczp-QHC5fTUsJALewrVmCYpq-4NqNJsO7mhe0WvdgownaqR5MqzUreIIBFSh3i5WxC8WUyE25zxFJA_-4w356cIVO8pztO7LM6BBKJo8Wa_W9OVyr7Z0282v2FhCEEMj_BTB_w_RFhA"
+    },
+    {
+      "position": 4,
+      "title": "Shubharambha Party Venue",
+      "place_id": "ChIJ60ZtLyAVrjsRQuNB3Vih80M",
+      "data_id": "0x3bae15202f6d46eb:0x43f3a158dd41e342",
+      "data_cid": "4896434622923137858",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15202f6d46eb%3A0x43f3a158dd41e342&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15202f6d46eb%3A0x43f3a158dd41e342&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.947523499999999,
+        "longitude": 77.57979379999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ60ZtLyAVrjsRQuNB3Vih80M",
+      "provider_id": "/g/11z0t4f8fl",
+      "rating": 5,
+      "reviews": 17,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "Floors 2 and 3, #1, Sir, MN Krishna Rao Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–9 PM",
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM"
+      },
+      "phone": "+91 99015 91014",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-Dbz5NcUIMTMxsen0Z2vg6wHpWaVyR4kcMVi6KnbO1y6JxgIN0qK5aqii7YWvdNV6ifJ4GmPK4mUfKeGW1duR7OyyhumJOArUZZZbfam2OzUvhv4lPUtS3asMjNGYquF5IPyWJUDfHzgI=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/koPKY3icHcTBboMgAADQL6JiqzZbskOTZlaNaNyQ1JtSBDZBLWiLP7nz_mbJ3uH9_ghrJ_PqeYM47Pg48oEtht3pqC3TdkdH5fHJAGqA8U6ISPdSgXO3hYjiJP_Mn4Zp2OxXHj0uE2lrVwXfNK9llOmu8F2UPnmC4JyF7Szl8UrWG6oj2adBrMosULjPWEz821IdC-fEotLidMdN03R9q_bFhlexBkOJ7cehNfkXiq_z8h4mpSMpPveXjSdvDx9CCMT_FOg_6YVIbQ"
+    },
+    {
+      "position": 5,
+      "title": "Party Hall by 7Sprinkles Cafe",
+      "place_id": "ChIJnx5GnlURrjsRiT2yS6Gyr00",
+      "data_id": "0x3bae11559e461e9f:0x4dafb2a14bb23d89",
+      "data_cid": "5597889267674267017",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae11559e461e9f%3A0x4dafb2a14bb23d89&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae11559e461e9f%3A0x4dafb2a14bb23d89&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.018379099999999,
+        "longitude": 77.65853
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJnx5GnlURrjsRiT2yS6Gyr00",
+      "provider_id": "/g/11mlb785k2",
+      "rating": 4.8,
+      "reviews": 72,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "7Sprinkles Cafe, Apsensys Business Tower, 105, Outer Ring Rd, Vijaya Bank Colony, Kallumantapa, Horamavu, Bengaluru, Karnataka 560113, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10:30 PM",
+        "thursday": "10 AM–10:30 PM",
+        "friday": "10 AM–10:30 PM",
+        "saturday": "10 AM–10:30 PM",
+        "sunday": "10 AM–10:30 PM",
+        "monday": "10 AM–10:30 PM",
+        "tuesday": "10 AM–10:30 PM"
+      },
+      "phone": "+91 74834 86279",
+      "website": "https://7sprinkles.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "reserve_a_table": "https://www.google.com/maps/reserve/v/dine/c/wcrlsTrOzTs?source=pa&opi=79508299&hl=en-US&gei=_zrGataPFePlrfcP6_XAwQw&ahbb=1&sourceurl=https://www.google.com/search?q%3Devent%2Bvenue%26tbm%3Dmap%26hl%3Den%26pb%3D!4m8!1m3!1d43739.50624803319!2d77.6067528!3d12.97465899999999!3m2!1i1920!2i1080!4f13.1!7i20!10b1!12m49!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!6m22!49b1!63m0!66b1!74i150000!85b1!91b1!114b1!149b1!178b1!206b1!209b1!212b1!223b1!232b1!234b1!244b1!246b1!250b1!253b1!258b1!260b1!266b1!10b1!12b1!13b1!14b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m57!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m8!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m6!1sAXDOobyZ1yOtxwZRoQl24BQA22J6pQM:2!2s1i:0,t:11886,p:AXDOobyZ1yOtxwZRoQl24BQA22J6pQM:2!7e81!12e5!17sAXDOobyZ1yOtxwZRoQl24BQA22J6pQM:62!18e15!24m107!1m28!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m17!3b1!4b1!5b1!6b1!13b1!14b1!17b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1080!1m6!1m2!1i1870!2i0!2m2!1i1920!2i1080!1m6!1m2!1i0!2i0!2m2!1i1920!2i20!1m6!1m2!1i0!2i1060!2m2!1i1920!2i1080!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!42b1!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m4!2e2!3m2!1b1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i767!77b1",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TGy-lUj0fr7kxVTAug8hQFXmCOMaH5IC35nu7t43tPxpwGbZbOW3QjnbjwdCm4qDe17HA3XZkKeAQCUwendz-u7QPGGUpn6yUGg7BG96YcJq26Cx6JiwpOj77hyA6IoLlHHtQI_Y5-r_Aa=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/22pddXicHcTbboMgAADQL6LaUWFdsgfGMrS7WJK6Xl6aShnUKlDBoPvJPe9vluw8nN8fHYLzD0nSajhT1qpWDl72wpogTZgJ2yXKeSA88An52F6m5YZNoK2a9KvH1_FzQwZ1r_nLrqPl-ynPCgozM-CwgGE9usjqQ11uIW9M3cQz7Ra3ZznHOYG7w_VVEk6rKM35GwyYrxmrnEFTxRR-Yku0F6vbHaIjWl2iKxuM9URQYd_aPA-8OO4z0B_J6THO0zQF-n8BzB-GN0aY"
+    },
+    {
+      "position": 6,
+      "title": "Opera Party Hall",
+      "place_id": "ChIJ0-c0eHgXrjsRncclp3SQ-Fc",
+      "data_id": "0x3bae17787834e7d3:0x57f89074a725c79d",
+      "data_cid": "6338975306218850205",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17787834e7d3%3A0x57f89074a725c79d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17787834e7d3%3A0x57f89074a725c79d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0149347,
+        "longitude": 77.6334526
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0-c0eHgXrjsRncclp3SQ-Fc",
+      "provider_id": "/g/11srpvh7yp",
+      "rating": 4.6,
+      "reviews": 501,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "4th Floor, Sri Udupi Food Hub, Nehru Rd, 3rd Block, St Thomas Town, Kammanahalli, Bengaluru, Karnataka 560084, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–10:30 PM",
+        "thursday": "7 AM–10:30 PM",
+        "friday": "7 AM–10:30 PM",
+        "saturday": "7 AM–10:30 PM",
+        "sunday": "7 AM–10:30 PM",
+        "monday": "7 AM–10:30 PM",
+        "tuesday": "7 AM–10:30 PM"
+      },
+      "phone": "+91 95919 95603",
+      "website": "http://www.operabanquethall.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RRMKIEbCpnB5JxVtoJJ5taJ4bwzGHm8J3bug1QCWn5Gpg0nJnDjcVkWU2rVICA0MEjV0RjnG341si4aDhxIpSsHwSbDQFbKBrkEINLvidd2JiQQXs_7YY7dPwsoPf3UGWEU9XK=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/GRdl-3icHcTdEoFAGADQJ0qbasKMC_1IG0aZiivTbtkKuzt9S3hBz-BtzDgX5_tplJIw0_VrY46YEOxa36HuqeCq5mpExU1nEjQKGuiLbdG-pmm6iaOAeJK7Nn7mSmBsqxJbZHiHq9sEm-TOjMQruB1KhjjmfkfzS5GN-zzyFmgTdDlKOx6algGtVfrNM5J7WA174idLErv9JYi260dbVWPcJskBTs7x6FS7AcTubGZhEWTTQzwfDISQ1vynGv8BMT9EBQ"
+    },
+    {
+      "position": 7,
+      "title": "CELEBRATIONS PARTY HALL",
+      "place_id": "ChIJZ1KCmkQXrjsRr-JoAH1rI-8",
+      "data_id": "0x3bae17449a825267:0xef236b7d0068e2af",
+      "data_cid": "17231734783871607471",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17449a825267%3A0xef236b7d0068e2af&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17449a825267%3A0xef236b7d0068e2af&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0114179,
+        "longitude": 77.64656099999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZ1KCmkQXrjsRr-JoAH1rI-8",
+      "provider_id": "/g/11khzm18tf",
+      "rating": 4.3,
+      "reviews": 134,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "3rd Floor, Dodda Banaswadi Main Rd, opposite to Fire station, above Bharani Mixtures, Balaji Layout, OMBR Layout, Banaswadi, Bengaluru, Karnataka 560043, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "5 AM–10 PM",
+        "thursday": "5 AM–10 PM",
+        "friday": "5 AM–10 PM",
+        "saturday": "5 AM–10 PM",
+        "sunday": "5 AM–10 PM",
+        "monday": "5 AM–10 PM",
+        "tuesday": "5 AM–10 PM"
+      },
+      "phone": "+91 89517 10990",
+      "website": "https://business.google.com/v/celebrations-party-hall/03328804253680744749/def1/_?",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBNmtv1eR9ssZOlfnxD5zH1JoPeA8U7WSfb9-IJFuANnooFjLlistOYUkJIvWYgFhIAG1_ufJMnNToHpTBpSF8bpOGHWpO-GTnsGj84fOLDGRWA-UkWePcy3rWk6i9Q_IUpaCENA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/500oo3icHcRJDoIwFADQE1UgTmDiog4UiLYqkEY3RpsyCLaNvzjd0CN4GxPf4n0_lbUGJo7TVv1eqXXZyg7kTWhlpbI9oa9OaQAJQOBgyutXkM7o1d49uQsADqwt1HMxfEdeojcS-_mYp8U5QHESdpgqrcPLqq3Bsn3eJPGd78uwijHxjl2RrBXNdGSymUlD_2wYibhhiGQKyMUfFGy1IDuOUd5wuRGv_o03ozrYHuPcnOZLiqcPz3VdVP0XSP0AExlFJg"
+    },
+    {
+      "position": 8,
+      "title": "Crystal Down Town Party Hall",
+      "place_id": "ChIJHbqHKMQXrjsRvwPbxJjPwjk",
+      "data_id": "0x3bae17c42887ba1d:0x39c2cf98c4db03bf",
+      "data_cid": "4162117260688425919",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae17c42887ba1d%3A0x39c2cf98c4db03bf&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae17c42887ba1d%3A0x39c2cf98c4db03bf&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0015292,
+        "longitude": 77.6311295
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHbqHKMQXrjsRvwPbxJjPwjk",
+      "provider_id": "/g/11tmx87nf0",
+      "rating": 4.5,
+      "reviews": 47,
+      "type": "Convention center",
+      "types": [
+        "Convention center"
+      ],
+      "address": "58, Dodda Banaswadi Main Rd, Jaibharath Nagar, Sanjeevappa Layout, Maruthi Sevanagar, Bengaluru, Karnataka 560033, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+91 96328 77139",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REwMDU4l2iM8U3I8iNZ0g1xk6tqDVNlS9zJLSrEJWcNI-ZbJDu2iINKO2x_UFQfZ5cCF3ObtUPDtdwL7rFzyY6hM-Wagw3Iwx9u-tLf1R6nU-8VZigwiQf1yB1k6RdpDT2OkHmnA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/BR2IdHicHcRRboIwAADQE1UoKMISP5yVCEKZuELkZ5kVSgMWpCUFb-gRdpslvo_396qV6uWHYbS1vWBdx9pylOVAO6FKoRa0uxusl4BKII0tzvnspXsdI7JsLR67xA5cjguTwalx1ANluD17zzA6D_swpzgAxTVEo8UDfEys6Yf4p6pY0Z1vJ1dFvpC66Wg9-M_54tQxyH-ZtgM9eSNQUQVTRxDgZgVnmp8qOH_CxklvPfq2kuZwF9uNhqZpgvo9BeIfd2BENQ"
+    },
+    {
+      "position": 9,
+      "title": "Grand Party Hall",
+      "place_id": "ChIJCz0wAIMXrjsRR5tc2oXGJns",
+      "data_id": "0x3bae178300303d0b:0x7b26c685da5c9b47",
+      "data_cid": "8873998393976593223",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae178300303d0b%3A0x7b26c685da5c9b47&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae178300303d0b%3A0x7b26c685da5c9b47&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.016967,
+        "longitude": 77.636167
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCz0wAIMXrjsRR5tc2oXGJns",
+      "provider_id": "/g/11mw7sgmtc",
+      "rating": 4.4,
+      "reviews": 251,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "CHURCH, Kammanahalli Main Rd, opp. KAMMANAHALLI, near ICICI ATM, St Thomas Town, Ramaiah Layout, Kammanahalli, Bengaluru, Karnataka 560084, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–10 PM",
+        "thursday": "10 AM–10 PM",
+        "friday": "10 AM–10 PM",
+        "saturday": "10 AM–10 PM",
+        "sunday": "10 AM–10 PM",
+        "monday": "10 AM–10 PM",
+        "tuesday": "10 AM–10 PM"
+      },
+      "phone": "+91 80955 24500",
+      "website": "http://www.grandpartyhall.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RqZIMZgfCqPuymFEDfp-APeY3YkNpySYAcaBQyBs1tYPxlm7aG7czmxBVNOVv0X6aND0Zw-IWwds24Rue15GXY1dW7A8TXsUMTXDtMKQJzmY1rJiXL8npVZefJZd80e-GXVd3I3Q=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/KPTVKHicHcRRboIwAADQE1XaoYIm-wBRAgqCU2j7R0oBI4VqyxBv6BF2myW-j_f3brSWam0YbWPO6r6vWz4o_mB9p3mnZ6wXRi0VYAoow4nz67Q63WkQ0bra3JNhErutV0ngJJyY5BbL6Yc4rHDTyVVIk-TZCqvwLfYSTzeLj9kvxMsi9iAdQZCPpfqanwaOFj4mqMwtxz5jdYnO2NPRPg1fgqBHeMUHu5MZ5VVISxty4OOsNAMz_R4RhBA0nxno_gEUjUTS"
+    },
+    {
+      "position": 10,
+      "title": "Northern Terrace",
+      "place_id": "ChIJXQovzHg9rjsRCw35JMvCdLo",
+      "data_id": "0x3bae3d78cc2f0a5d:0xba74c2cb24f90d0b",
+      "data_cid": "13435577766107483403",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d78cc2f0a5d%3A0xba74c2cb24f90d0b&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d78cc2f0a5d%3A0xba74c2cb24f90d0b&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.011740399999999,
+        "longitude": 77.5567476
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXQovzHg9rjsRCw35JMvCdLo",
+      "provider_id": "/g/11c1xj4p4y",
+      "rating": 4.4,
+      "reviews": 174,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "Rooftop, Galaxy Club, Brigade Gateway, Rajajinagar, Bengaluru, Karnataka 560055, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–11 PM",
+        "thursday": "8 AM–11 PM",
+        "friday": "8 AM–11 PM",
+        "saturday": "8 AM–11 PM",
+        "sunday": "8 AM–11 PM",
+        "monday": "8 AM–11 PM",
+        "tuesday": "8 AM–11 PM"
+      },
+      "phone": "+91 95355 77337",
+      "website": "http://www.galaxyclub.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q6cyFs4-s-HcG7oOK1VTYRWAR47o-Qd74Av90kUZkGwnarESGfaot68IGvIsYMciiZTQWMHfBLQZAoTgL9SfCVzenR-IFbBviUM2TOHyzvJZvt8y21XP9I_5nQvM7HoLT4bfo=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/lBPjZnicHcTdDsEwGADQJ6ptzGoSFyPWjQ2dMnYj1P6CfstalXlA7-BtJM7F-X4qpRo5Nox7NeiVAOU9f8q85SBULlSPw8MoG4m4RNLwVmndudThnS9tJFHACYb10tqzY5J6iY0B0Su2Pe2at112Iy9xbudbUpxBOaOQ6FAeY17XGaNpHBTTiGYesDJyt8Vs_85FgkL_MtX1Lu6zddC99SLTatT1rcPGDU9DQXWMA4iYfSlg8rJM00TVf47ED6TSQ1E"
+    },
+    {
+      "position": 11,
+      "title": "Aria Avenue Banquet Hall",
+      "place_id": "ChIJ_a-5JmERrjsRSLYulTIfWCQ",
+      "data_id": "0x3bae116126b9affd:0x24581f32952eb648",
+      "data_cid": "2618877485427635784",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae116126b9affd%3A0x24581f32952eb648&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae116126b9affd%3A0x24581f32952eb648&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.997377499999999,
+        "longitude": 77.6143338
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_a-5JmERrjsRSLYulTIfWCQ",
+      "provider_id": "/g/11p65nf93y",
+      "rating": 4.3,
+      "reviews": 41,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "2nd floor, Azeem gold, 13, Mosque Rd, Cleveland Town, Fraser Town, Bengaluru, Karnataka 560005, India",
+      "country": "India",
+      "open_state": "Open · Closes 11:30 PM",
+      "hours": "Open · Closes 11:30 PM",
+      "operating_hours": {
+        "wednesday": "7 AM–11:30 PM",
+        "thursday": "7 AM–11:30 PM",
+        "friday": "7 AM–11:30 PM",
+        "saturday": "7 AM–11:30 PM",
+        "sunday": "7 AM–11:30 PM",
+        "monday": "7 AM–11:30 PM",
+        "tuesday": "7 AM–11:30 PM"
+      },
+      "phone": "+91 88844 45666",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYd43M5mv5jhkljpYe6YJxDtP41CzxVYhyrY0cDVoDUoFbXsssz2wXXaXi6FQSkoOzqLKOfppQP0OR-sdiYcqKMgtrcPunTRYtrdsY98xx8hghQgQauguB9OKPSKboppMgHWAQoTlk_gY3=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mpyrsnicHcTNboJAEADgJ1pZixpp0oMtMU0phRV_mFOjC51FkFmZpSIv2XPfpkm_w_f7Y5yz_Oh5jfEnSIRN2XPZaWpd2bqJpouHloVmwd7q41DdgwyKmR_PL9_zs6mbs4VyAW9D6NLZ9GUc9mDuHUgd7inc0fqUM_P4cMvzY14t1iqrKRmv71HyZa1KZbIRXFSgr1GMrtNp32434LqCIVgOw9KgUaiOPfbPQRKlWXQia2N8PawUbZv6E8F_uk2llML8r0X7B4ypSi0"
+    },
+    {
+      "position": 12,
+      "title": "Dunamis Venue",
+      "place_id": "ChIJ0WA-55kVrjsR-5_Nb-LDRKM",
+      "data_id": "0x3bae1599e73e60d1:0xa344c3e26fcd9ffb",
+      "data_cid": "11764743503904350203",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1599e73e60d1%3A0xa344c3e26fcd9ffb&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1599e73e60d1%3A0xa344c3e26fcd9ffb&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9584564,
+        "longitude": 77.65171029999999
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0WA-55kVrjsR-5_Nb-LDRKM",
+      "provider_id": "/g/11y58wmnsv",
+      "rating": 4.8,
+      "reviews": 23,
+      "type": "Event venue",
+      "types": [
+        "Event venue"
+      ],
+      "address": "B4, 4th Floor, Tower B, Corporate Block, GOLDEN ENCLAVE, HAL Old Airport Rd, Bengaluru, Karnataka 560017, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+91 63613 25138",
+      "website": "https://www.instagram.com/dunamisvenue/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8uuKFC6Ctlog7n15zlgiwnzIIeBpI5XHHhs3eYTxr5h7jXdKe6Ef076l75fqUKHsHZzzzp2AsFaBao6lQVWa6nUk2lmS0cHCIk9nBf9SgeDA5eaxs0PuB7RqI7YRitk6a9y7EPw=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ZuWTeHicHcTdbsIgGADQJ6pFDWBNvGg7DaTJ4qrOnzvCKNQiVD-aKm_oI-xtluxcnN-3CaGHZZpaM59o77VVA6iH9C4oFybS31LdQyIhgTT_PLavrF4MQ7UpSRms19RNcbS6HV3kXBU9xyfGDMzVef98YEOvp59KkXWDKLEUN_dDxYBdYoz9LIeNKIQn9uv7KIg7dDN72yHJSt5lrmiynVYfOVbiCWg7FLS-c3qu29ARkb3oejuuxilCKDH_y8T9ARS7RWE"
+    },
+    {
+      "position": 13,
+      "title": "Pearl MG Party Halls",
+      "place_id": "ChIJ3YSQom8XrjsRc1XBKdNbl4E",
+      "data_id": "0x3bae176fa29084dd:0x81975bd329c15573",
+      "data_cid": "9338033314872776051",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae176fa29084dd%3A0x81975bd329c15573&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae176fa29084dd%3A0x81975bd329c15573&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0144957,
+        "longitude": 77.6424767
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3YSQom8XrjsRc1XBKdNbl4E",
+      "provider_id": "/g/11k9ny35_c",
+      "rating": 4.5,
+      "reviews": 304,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "1st and 2nd Floor, 100, 7th Main Rd, PNS Layout, Subbayianiah Palyam, Kammanahalli, Bengaluru, Karnataka 560033, India",
+      "country": "India",
+      "open_state": "Open · Closes 10 PM",
+      "hours": "Open · Closes 10 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–10 PM",
+        "thursday": "8 AM–10 PM",
+        "friday": "8 AM–10 PM",
+        "saturday": "8 AM–10 PM",
+        "sunday": "8 AM–10 PM",
+        "monday": "8 AM–10 PM",
+        "tuesday": "8 AM–10 PM"
+      },
+      "phone": "+91 89516 28777",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TP6zuHLdMA20vqmM5XnZW6U_ub3J8lbYQ65Cvm3Sh85N5wWbls-zD7Z1ZacV1O5K7EHVxd6HDN50yslkWDad2hOHi-k3Q3-MEx4MI2sk54a_peWz7y-kTEBmhTaCmVQoynWhBTEB70JnY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/4RlT6nicHchLroIwAADAE1UKtaAmLlRIUB8oEamyMVAINfSDFlQ45Nt7G42bWcz7n7Vto2eGwRkaVUpVvOx0eadKtqVsR1QJo2o0oBpoYxGSaz-N9_bQ-X9FsLDg4yYCfJIpsY-XLkebCc_PkY1XD4EObIJD_CQ512BwndRMM5qYO7x1PD95Fbbvhhj2mtfEzQqL7fwrqFGEQOC9xsHa0jUeZ5emJIPTgzr2loLF2UokkeolYctvOHAjz_OnCSEE7CcF8gOxQ0Ue"
+    },
+    {
+      "position": 14,
+      "title": "Raghavendra Party Hall",
+      "place_id": "ChIJca9vOUYRrjsRcuOw_d9ew-M",
+      "data_id": "0x3bae1146396faf71:0xe3c35edffdb0e372",
+      "data_cid": "16412065783195165554",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae1146396faf71%3A0xe3c35edffdb0e372&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae1146396faf71%3A0xe3c35edffdb0e372&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.020292099999999,
+        "longitude": 77.6742731
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJca9vOUYRrjsRcuOw_d9ew-M",
+      "provider_id": "/g/11vst4y1fv",
+      "rating": 4.6,
+      "reviews": 130,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall",
+        "Children's party service",
+        "Event venue",
+        "Party planner",
+        "Wedding planner",
+        "Wedding venue"
+      ],
+      "address": "Raghavendra Circle, Raghavendra Nagar, Ramamurthy Nagar, Bengaluru, Karnataka 560016, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+91 98442 33906",
+      "website": "https://raghavendrapartyhall.in/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QzWjZ9Q0m2MYtdii1w4guTyUvpRuAZ1z8Avb-P1qHhZXh8mbmaTUUSn9rxDs2URSxNDbGgkHawzSb6cET-AyfYRBc2Rbq2ONWWXGFpO0CNBokX11Fxyg2bq1iOn1EbH6yOJV-ZjN8zmOWU=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/fKc58XicHcTbboMgAADQL6ICWxpdsge7XkyTwapSrG-FWbAtqAXr5Sf3vL9ZsvNwfn-09617C4K7flmoplH3qnfVQzbWV9YvZGMC1TogHXBBTHg9RYeZX8voAA3-PPnvukbDq-rziT3btI9LNIfxU4Av1CW6LHRohDnnjGU2eoxrh1majWQtduqWnIc5E0u5yUE8XU7pSuJUdJgSzovdtqXwg6yaW4HQdpwUFh2qqUUbkSwnuj-C8krC2VDO3gcEIQT6fwnsH_DKR4I"
+    },
+    {
+      "position": 15,
+      "title": "Magaji House | Party hall",
+      "place_id": "ChIJ5brP0Jw9rjsRX92XOw2SbFQ",
+      "data_id": "0x3bae3d9cd0cfbae5:0x546c920d3b97dd5f",
+      "data_cid": "6083397782202735967",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d9cd0cfbae5%3A0x546c920d3b97dd5f&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d9cd0cfbae5%3A0x546c920d3b97dd5f&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9716182,
+        "longitude": 77.5599854
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5brP0Jw9rjsRX92XOw2SbFQ",
+      "provider_id": "/g/11jsjccb0z",
+      "rating": 4.6,
+      "reviews": 66,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall"
+      ],
+      "address": "Kp agrahara Magadi Road 5th Cross, 8th Main Rd, KP Agrahara, Bengaluru, Karnataka 560023, India",
+      "country": "India",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "10 AM–8 PM",
+        "thursday": "10 AM–8 PM",
+        "friday": "10 AM–8 PM",
+        "saturday": "10 AM–8 PM",
+        "sunday": "10 AM–8 PM",
+        "monday": "10 AM–8 PM",
+        "tuesday": "10 AM–8 PM"
+      },
+      "phone": "+91 80504 63969",
+      "website": "https://www.instagram.com/magaji_house_party_hall?igsh=ZTR2cWpjaXB0dDly",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q1e8sD7LsFI2ffxJ22zYd55aUhvwn1PQOPmSEXtkvVdtdM9LI0S-v4C6l6bL1MTb-p4zE2su0ypNkrq15-8bGZwpdA-1CE-kjf1PjRehu0pAHxhlJ4JqEhuwt_7TmGZ8TLJkAZ2w=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/A3F4K3icHcRJDoIwFADQE31pKyiauCCKA0FFwYmNEShUmaotVL2hR_A2Jr7F-36YlFwMNa1g3U5W11lBG0EfcV1JWslOXJdaxgXEAoRmrQ7X12CDqSkmfVdMFyRNnw4h71NiGJcda1WFvc3aK337KPN2n8hkOXAXyIdWH_eKXuTiZRAB1982EQ168VX-uGMDzGgWKp5YgMc25LcUe7ctZQ3i1vzJCkd37jZrlDz3g3IWmoHr5FZI1EhhhBCw_zFUP40RRFM"
+    },
+    {
+      "position": 16,
+      "title": "White Petals",
+      "place_id": "ChIJeSVTQTUWrjsRfSeyoft6TUU",
+      "data_id": "0x3bae163541532579:0x454d7afba1b2277d",
+      "data_cid": "4993782782991935357",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae163541532579%3A0x454d7afba1b2277d&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae163541532579%3A0x454d7afba1b2277d&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 13.0104493,
+        "longitude": 77.5879588
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJeSVTQTUWrjsRfSeyoft6TUU",
+      "provider_id": "/g/11q8txbllq",
+      "rating": 4.5,
+      "reviews": 1445,
+      "type": "Wedding venue",
+      "types": [
+        "Wedding venue",
+        "Event venue"
+      ],
+      "address": "White Petals \"Tripura Vasini\" Entrance Gate No. 3, Near Mekhri Circle, Ramana Maharshi Rd, Bengaluru, Karnataka 560080, India",
+      "country": "India",
+      "open_state": "Open · Closes 8 PM",
+      "hours": "Open · Closes 8 PM",
+      "operating_hours": {
+        "wednesday": "8 AM–8 PM",
+        "thursday": "8 AM–8 PM",
+        "friday": "8 AM–8 PM",
+        "saturday": "8 AM–8 PM",
+        "sunday": "8 AM–8 PM",
+        "monday": "9 AM–9 PM",
+        "tuesday": "8 AM–8 PM"
+      },
+      "phone": "+91 98455 50155",
+      "website": "http://whitepetals.info/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SdkjBleFmZZAXHnXT85j1WL5N-mIzfI3yYne5VwWoOS9qDXH8DGWDob3D_FQSVc8WelmrO6A2OFnAOwtNOqYc-WiZu9y5WnXR-RxO0aPWvVE2krCV9d0V64dnfe-kI6fnGt2yY=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/mrsyBHicHcRBjoIwFADQE1UqDARMXKCIkhiqYlpgM5kpBRT4VVpFvKBn8DYmvsV7v2qtL2pmGG1tTSopq1bclOi5BC1AT7jsjOqiEFdIGX7MTqOXFM150Yqwy3M_3UB6dO3zlG3tGHXRs4ysMQNh04FJknjXIN24wZoF8t8KfsN9QrnLRNv1xPFNEoJPBh2Ta8YRO-U3b7QZpAd0eBD8t2N3ujKbfkm9AlPnp4BSoCZySlhrc8zmwxRjjOrvHMEHLDZD1g"
+    },
+    {
+      "position": 17,
+      "title": "GOD Celebrations Cafe | Private Theatre | Birthday and Events | Party Hall - Banashanakri",
+      "place_id": "ChIJPZLkyv0VrjsRp6SAbHLlk1c",
+      "data_id": "0x3bae15fdcae4923d:0x5793e5726c80a4a7",
+      "data_cid": "6310639782485599399",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15fdcae4923d%3A0x5793e5726c80a4a7&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15fdcae4923d%3A0x5793e5726c80a4a7&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.941188499999999,
+        "longitude": 77.5393783
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPZLkyv0VrjsRp6SAbHLlk1c",
+      "provider_id": "/g/11vpt_0_fb",
+      "rating": 4.8,
+      "reviews": 2103,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Party planner"
+      ],
+      "address": "No 1246, 2nd floor, above Universal Rasikas, 13th cross, Girinagar, 2nd Phase, Banashankari, Bengaluru, Karnataka 560085, India",
+      "country": "India",
+      "open_state": "Open · Closes 11 PM",
+      "hours": "Open · Closes 11 PM",
+      "operating_hours": {
+        "wednesday": "9:30 AM–11 PM",
+        "thursday": "9:30 AM–11 PM",
+        "friday": "9:30 AM–11 PM",
+        "saturday": "9:30 AM–11 PM",
+        "sunday": "9:30 AM–11 PM",
+        "monday": "9:30 AM–11 PM",
+        "tuesday": "9:30 AM–11 PM"
+      },
+      "phone": "+91 99021 46533",
+      "website": "http://www.godcelebrations.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S8F4dhN87w4DfQKWrG3ZyXMPjFg1d0fFySjTSpIfExtWu6qaLaILlTMgfxbcFpKef1ZYIKeIbWdwvaIXHxO04YeNfyt5HaLFvfd6BMUFgi7xhoYbOCXoVvjkWAr1Z24qx3jzQd=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/3jIwEHicHcRLcoIwAADQEyGhULWd6YJ-UjN81IE2wA7ylVKCJELwgp6ht3Gmb_H-btKYQT-7bif9lVBKdOyi2UhUb1hvVkT9umLQDtGOdsMUn5anbAsDKtPtZg7e-THC46dfLUVyaKHwKOBwydo8GxD_sAZf1uc6rlHc5YngtiFwiBj3qhJFDDWYzlONip3dg6BkKV_M466O4cTp-jX5guK0sVKVzf6tUN9T-4PD0asegrP12-uRvsweAMCR_xOnvwOJy0WO"
+    },
+    {
+      "position": 18,
+      "title": "GOD Celebrations Cafe and Private Theatre - Rajajinagar",
+      "place_id": "ChIJZTBYkCE9rjsR4kqI_qwh88M",
+      "data_id": "0x3bae3d2190583065:0xc3f321acfe884ae2",
+      "data_cid": "14119666283625073378",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae3d2190583065%3A0xc3f321acfe884ae2&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae3d2190583065%3A0xc3f321acfe884ae2&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9891285,
+        "longitude": 77.5466549
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZTBYkCE9rjsR4kqI_qwh88M",
+      "provider_id": "/g/11tfvz_j1s",
+      "rating": 4.8,
+      "reviews": 7692,
+      "type": "Event venue",
+      "types": [
+        "Event venue",
+        "Party planner"
+      ],
+      "address": "No 12, 60ft, 1st Main Rd, Shivanagar, Rajajinagar, Bengaluru, Karnataka 560010, India",
+      "country": "India",
+      "open_state": "Open · Closes 10:30 PM",
+      "hours": "Open · Closes 10:30 PM",
+      "operating_hours": {
+        "wednesday": "9:30 AM–10:30 PM",
+        "thursday": "9:30 AM–10:30 PM",
+        "friday": "9:30 AM–10:30 PM",
+        "saturday": "9:30 AM–10:30 PM",
+        "sunday": "9:30 AM–10:30 PM",
+        "monday": "9:30 AM–10:30 PM",
+        "tuesday": "9:30 AM–10:30 PM"
+      },
+      "phone": "+91 80731 29482",
+      "website": "http://www.godcelebrations.com/",
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RYhwyyKwEGy8NAagkFAXMMsRfr-6J_eaDpRtFGcoLE-qs_ah6qAu1QaSYMa40AQAIUluzzF0lRTpnR5gfwLZjK_Cq26WbGZUEwyuJ7mqov4Tv1t7d6VqclpHLkjXuUDZeJs8h07A=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/26jKwHicHcRRbsIgAADQE2Hppq1bsg8y2261NZHZqf1pkCFMsYCABG-4I-w2S_Y-3u-PcE7b5ySR4nHCleKSecuuVI2OjW5C1SXh2gJqgU3Qavsdn_BehBiXoajifIUIP5do17YWH68gqwdGFhq7sqKqKYCxAxGZQT5dk499S6YQrdF7J_39XkKJN3rEM34MTX9aDq_mIdseqr4rQvR1fjHqNt3cUpd_ZZ-GSv3WnE873y16Vtu5gDl6CSmEEIj_KRj_AFe8RkY"
+    },
+    {
+      "position": 19,
+      "title": "Pai Vista Convention Hall, South End Circle",
+      "place_id": "ChIJf-CWVpEVrjsRiW21pmyTrUw",
+      "data_id": "0x3bae15915696e07f:0x4cad936ca6b56d89",
+      "data_cid": "5525234412716125577",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae15915696e07f%3A0x4cad936ca6b56d89&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae15915696e07f%3A0x4cad936ca6b56d89&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.937926,
+        "longitude": 77.5787204
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf-CWVpEVrjsRiW21pmyTrUw",
+      "provider_id": "/g/1tgr_cl8",
+      "rating": 4.2,
+      "reviews": 6856,
+      "type": "Wedding venue",
+      "types": [
+        "Wedding venue",
+        "Banquet hall",
+        "Concert hall"
+      ],
+      "address": "Metro, Pattalamma Temple Rd, near South End Circle, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "country": "India",
+      "open_state": "Open · Closes 9 PM",
+      "hours": "Open · Closes 9 PM",
+      "operating_hours": {
+        "wednesday": "9 AM–9 PM",
+        "thursday": "9 AM–9 PM",
+        "friday": "9 AM–9 PM",
+        "saturday": "9 AM–9 PM",
+        "sunday": "9 AM–9 PM",
+        "monday": "9 AM–9 PM",
+        "tuesday": "9 AM–9 PM"
+      },
+      "phone": "+91 98455 37441",
+      "website": "http://www.paihotels.com/",
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RbBOno0ZJRhLOHaGnTKqBujivQ-zBt2h3OELIyYHOfmMIddgtNEEST5D_D5nJuWbDhhP-RZsM-lOzSwln-F1dYRcEtlm1DUCz3-1to6ajZqc2fOF-ive7FmofW9KRjnEKIrGWYcA=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/EG5xh3icHcRLDoIwFADAEz0BiRpNXIAURZRq1RDYGC2fQkqrtGDkhh7B25g4i_l-mNYPtTAMzuxRKWXJ807lLZVC50KPqGyM8qGAKlCGE8XVe07uLhbSTLeE7fDmthbn8Ol2ddUfYXD1mNkY7YJ3ssFFsw-yrNQRQqfzxLt6E7Ht4rvH2AFIqvbA8XB6cQG-lSWEIs0by7usBhssLae3On3ScYF9qPp85jeyiOchqQUKg3YdJ9RZvizTNIH9pyB-9PhFLg"
+    },
+    {
+      "position": 20,
+      "title": "MCS Party Hall",
+      "place_id": "ChIJM4nRwFwVrjsRdvVwlHF-Oz0",
+      "data_id": "0x3bae155cc0d18933:0x3d3b7e719470f576",
+      "data_cid": "4412259286226367862",
+      "reviews_link": "https://serpapi.com/search.json?data_id=0x3bae155cc0d18933%3A0x3d3b7e719470f576&engine=google_maps_reviews&hl=en",
+      "photos_link": "https://serpapi.com/search.json?data_id=0x3bae155cc0d18933%3A0x3d3b7e719470f576&engine=google_maps_photos&hl=en",
+      "gps_coordinates": {
+        "latitude": 12.9680375,
+        "longitude": 77.6528601
+      },
+      "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM4nRwFwVrjsRdvVwlHF-Oz0",
+      "provider_id": "/g/11zjl62vpl",
+      "rating": 4.6,
+      "reviews": 52,
+      "unclaimed_listing": true,
+      "type": "Banquet hall",
+      "types": [
+        "Banquet hall",
+        "Concert hall",
+        "Conference center",
+        "Convention center",
+        "Event management company",
+        "Event planner",
+        "Event venue",
+        "Party planner",
+        "Shooting event area",
+        "Wedding venue"
+      ],
+      "address": "4th Floor, No.M-18, 10th Main Rd, above IndusInd Bank, LIC Colony, HAL 3rd Stage, Sector 11, Jeevan Bima Nagar, Bengaluru, Karnataka 560075, India",
+      "country": "India",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "extensions": [
+        {
+          "accessibility": [
+            "Wheelchair accessible entrance",
+            "Wheelchair accessible restroom",
+            "Wheelchair accessible seating"
+          ]
+        }
+      ],
+      "unsupported_extensions": [
+        {
+          "accessibility": [
+            "Assistive hearing loop",
+            "Wheelchair accessible parking lot"
+          ]
+        }
+      ],
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TDwGa20AXckkEJgBzEQ71vDYoiMhj6RDhtURvS9i2wHuWhHT44_PwL1mNSc1XetUQ_1y1i5iCEmnRoefhTTi7unXERQDVchlLZrmYxQnuIJ9EKMvs738tdWWzlRxNG5Lk4wVUsYrzr0o4=w1000-h1000-c-n",
+      "serpapi_thumbnail": "https://serpapi.com/images/url/ordCtnicHcRLjoIwAADQEyGtooiJC2do_CGRync2ZlIrrUBraKHKId17GxPf4r1fTOu7Wth2zSajUsqypp2iLZFCU6FHRDZ2eVcWUZayV2HGn17sm_X_GKxyUlVoV_4MKHJh7xeSH9hthn2mE9yfPD42my5jm9hxzkcTwCY8EZhTnURn-IR8yn9RI7CkVxbH3O1EjnDkp4TVwV_bFI9IdNudh_aHXrmTub5k2VDjR7ieBpVj0kQV7dAC6SwNBABY7DuxxAd2QUfO"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4012.974658999999999%2C77.6067528%2C14z&q=event+venue&start=20&type=search"
+  }
+}

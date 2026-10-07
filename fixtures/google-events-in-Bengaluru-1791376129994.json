@@ -1,0 +1,417 @@
+{
+  "search_metadata": {
+    "id": "6ac63b00acb3e4ff135398f1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Mhshb0Vs5BxAgkDjeJaRcqAz99G8HU8g3EU33vdZDaQ/6ac63b00acb3e4ff135398f1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Mhshb0Vs5BxAgkDjeJaRcqAz99G8HU8g3EU33vdZDaQ/6ac63b00acb3e4ff135398f1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Mhshb0Vs5BxAgkDjeJaRcqAz99G8HU8g3EU33vdZDaQ/6ac63b00acb3e4ff135398f1.json_with_pixel_position",
+    "created_at": "2026-10-07 12:28:48 UTC",
+    "processed_at": "2026-10-07 12:28:48 UTC",
+    "google_url": "https://www.google.com/search?q=events+in+Bengaluru&oq=events+in+Bengaluru&uule=w+CAIQICIZQmVuZ2FsdXJ1LEthcm5hdGFrYSxJbmRpYQ&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Mhshb0Vs5BxAgkDjeJaRcqAz99G8HU8g3EU33vdZDaQ/6ac63b00acb3e4ff135398f1.html",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "events in Bengaluru",
+    "location_requested": "Bengaluru",
+    "location_used": "Bengaluru,Karnataka,India",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "events in Bengaluru",
+    "total_results": 36,
+    "time_taken_displayed": 0.19,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "events in Bangalore"
+  },
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Upcoming events in Bangalore include rock festivals, dance celebrations, and live music performances happening through October 2026 and beyond.",
+        "snippet_highlighted_words": [
+          "rock festivals, dance celebrations, and live music performances"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Featured Events"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Head to the Open Air Event Venue Bangalore on Saturday, 10 October 2026 for India's premier heavy metal and rock festival.",
+        "snippet_links": [
+          {
+            "text": "Open Air Event Venue Bangalore",
+            "link": "https://www.outgoing.world/activity/bangalore-open-air-2026-54f94ff79565"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Catch artist Marc Gonen playing a live set at Mirage on Saturday, 10 October 2026.",
+        "snippet_links": [
+          {
+            "text": "Mirage",
+            "link": "https://music.apple.com/tr/concerts/ce.8ae588a2-c480-47a7-8cd4-e5fff7d4915f?l=tr"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Enjoy a live Hindi cinema music experience at Bloom Creative Zone - Akshayanagar on Saturday, 10 October 2026.",
+        "snippet_links": [
+          {
+            "text": "Bloom Creative Zone - Akshayanagar",
+            "link": "https://in.bookmyshow.com/events/bollywood-melodies-with-the-high-octave/ET00517987"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Celebrate Navratri with open-air Garba and Dandiya dancing at Magique starting Tuesday, 20 October 2026.",
+        "snippet_links": [
+          {
+            "text": "Magique",
+            "link": "https://bookmy.show/jT352Q59I6b"
+          }
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Your preferred genre (music, comedy, art, or dance)"
+          },
+          {
+            "snippet": "Specific dates you plan to attend an event"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can narrow down the list to match your exact schedule."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Bangalore Open Air",
+        "link": "https://www.outgoing.world/activity/bangalore-open-air-2026-54f94ff79565",
+        "snippet": "Bangalore Open Air is India's dedicated heavy metal and rock open-air music festival. This outdoor event features global headliners and powerful live acts, bringing together a community of metal fans for an afternoon of thunderous live music, bone-rattling riffs, and atmospheric heaviness. The festival is organized in collaboration with Wacken Open Air and is suitable for friend groups and families.",
+        "source": "www.outgoing.world",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outgoing.world&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 1,
+        "title": "Marc Gonen",
+        "link": "https://music.apple.com/tr/concerts/ce.8ae588a2-c480-47a7-8cd4-e5fff7d4915f?l=tr",
+        "snippet": "Music artist Marc Gonen performs live as part of his India Tour. This indoor nighttime event is geared towards friend groups and provides a lively atmosphere for fans of contemporary music. The performance takes place at an Asian restaurant and venue.",
+        "source": "music.apple.com",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://music.apple.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 2,
+        "title": "Bollywood Melodies With The High Octave",
+        "link": "https://in.bookmyshow.com/events/bollywood-melodies-with-the-high-octave/ET00517987",
+        "snippet": "A live music performance featuring Bollywood melodies by The High Octave. This event explores the linear succession of musical tones and rhythmic phrases characteristic of Hindi cinema music. The show provides an indoor cultural experience suitable for friend groups and families, celebrating the rich musical heritage of India's Hindi-language film industry. Tickets can be booked online through BookMyShow.",
+        "source": "in.bookmyshow.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://in.bookmyshow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 3,
+        "title": "The Dandiya Circle",
+        "link": "https://bookmy.show/jT352Q59I6b",
+        "snippet": "A vibrant five-day Navratri celebration featuring Dandiya and Garba dance in an open rooftop setting with a bohemian theme. The event includes live Dhol performances, top DJs playing Hindi and Gujarati hits, and colorful festive decor. Guests receive free Dandiya sticks at the entrance and can enjoy live vegetarian food counters. The festival offers both afternoon and evening sessions with a festive atmosphere suitable for families and friends.",
+        "source": "bookmy.show",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bookmy.show&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Events In Bangalore Next Week Explore & Book Tickets ...",
+      "link": "https://eventsflare.com/bangalore%20%20%20%20%20%20%20/events-next-week",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFfGxxTlxFdfQJkvIRlQ3j_ExVD9p-9d77vEb3Ra5hnc4el9FEb4OoeBSV6LbOQm2Du0uE4HxusHWqS_hsxp1nPdukRr5Vu7dN1Nul7XyLvkGUlPQzDZvpbYPakc75EHBsRcoijrdWt-IfYmGqXP4daIIQQGwtv3Sz2Njwb1I&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://eventsflare.com › events-next-week",
+      "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp",
+      "snippet": "Handpicked list of Events Next Week including Night Parties, Concerts, Live Comedy, Music, Food, Exhibitions, Festivals, Workshops, Travel and Things to do ...",
+      "snippet_highlighted_words": [
+        "Events"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Handpicked list of Events Next Week including Night Parties, Concerts, Live Comedy, Music, Food, Exhibitions, Festivals, Workshops, Travel and Things to do ...",
+          "source_info_link": "https://eventsflare.com/bangalore%20%20%20%20%20%20%20/events-next-week",
+          "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZmR3h4VGx4RmRmUUprdklSbFEzal9FeFZEOXAtOWQ3N3ZFYjNSYTVobmM0ZWw5RkViNE9vZUJTVjZMYk9RbTJEdTB1RTRIeHVzSFdxU19oc3hwMW5QZHVrUnI1VnU3ZE4xTnVsN1h5THZrR1VsUFF6RFp2cGJZUGFrYzc1RUhCc1Jjb2lqcmRXdC1JZlltR3FYUDRkYUlJUVFHd3R2M1N6Mk5qd2IxSRIEGgIIABrqBRIAGgAiACoAOgBCBAgBEABKHAgBEhRCZW5nYWx1cnUsIEthcm5hdGFrYRoCCAJaAHIAegCCQLIFCAAQABgAIAAqXAoGZXZlbnRzFbVEwkAaF2dlbzp5cGNhdDpldmVudHNzcGVjaWFsGhxnZW86eXBjYXQ6cGFydHlldmVudHBsYW5uaW5nGhZnZW86eXBjYXQ6ZXZlbnRwbGFubmVyKgkKAmluFQAAAAAqgwEKCWJlbmdhbHVydRUAAAAAGgliYW5nYWxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGZkd4eFRseEZkZlFKa3ZJUmxRM2pfRXhWRDlwLTlkNzd2RWIzUmE1aG5jNGVsOUZFYjRPb2VCU1Y2TGJPUW0yRHUwdUU0SHh1c0hXcVNfaHN4cDFuUGR1a1JyNVZ1N2ROMU51bDdYeUx2a0dVbFBRekRadnBiWVBha2M3NUVIQnNSY29panJkV3QtSWZZbUdxWFA0ZGFJSVFRR3d0djNTejJOandiMUk6RjxiPkV2ZW50cyBJbiBCYW5nYWxvcmU8L2I-IE5leHQgV2VlayBFeHBsb3JlICZhbXA7IEJvb2sgVGlja2V0cyBPbmxpbmVCqwFIYW5kcGlja2VkIGxpc3Qgb2YgPGI-RXZlbnRzPC9iPiBOZXh0IFdlZWsgaW5jbHVkaW5nIE5pZ2h0IFBhcnRpZXMsIENvbmNlcnRzLCBMaXZlIENvbWVkeSwgTXVzaWMsIEZvb2QsIEV4aGliaXRpb25zLCBGZXN0aXZhbHMsIFdvcmtzaG9wcywgVHJhdmVsIGFuZCBUaGluZ3MgdG8gZG8mbmJzcDsuLi5KAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZmR3h4VGx4RmRmUUprdklSbFEzal9FeFZEOXAtOWQ3N3ZFYjNSYTVobmM0ZWw5RkViNE9vZUJTVjZMYk9RbTJEdTB1RTRIeHVzSFdxU19oc3hwMW5QZHVrUnI1VnU3ZE4xTnVsN1h5THZrR1VsUFF6RFp2cGJZUGFrYzc1RUhCc1Jjb2lqcmRXdC1JZlltR3FYUDRkYUlJUVFHd3R2M1N6Mk5qd2IxSRIEGgIIABrqBRIAGgAiACoAOgBCBAgBEABKHAgBEhRCZW5nYWx1cnUsIEthcm5hdGFrYRoCCAJaAHIAegCCQLIFCAAQABgAIAAqXAoGZXZlbnRzFbVEwkAaF2dlbzp5cGNhdDpldmVudHNzcGVjaWFsGhxnZW86eXBjYXQ6cGFydHlldmVudHBsYW5uaW5nGhZnZW86eXBjYXQ6ZXZlbnRwbGFubmVyKgkKAmluFQAAAAAqgwEKCWJlbmdhbHVydRUAAAAAGgliYW5nYWxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGZkd4eFRseEZkZlFKa3ZJUmxRM2pfRXhWRDlwLTlkNzd2RWIzUmE1aG5jNGVsOUZFYjRPb2VCU1Y2TGJPUW0yRHUwdUU0SHh1c0hXcVNfaHN4cDFuUGR1a1JyNVZ1N2ROMU51bDdYeUx2a0dVbFBRekRadnBiWVBha2M3NUVIQnNSY29panJkV3QtSWZZbUdxWFA0ZGFJSVFRR3d0djNTejJOandiMUk6RjxiPkV2ZW50cyBJbiBCYW5nYWxvcmU8L2I-IE5leHQgV2VlayBFeHBsb3JlICZhbXA7IEJvb2sgVGlja2V0cyBPbmxpbmVCqwFIYW5kcGlja2VkIGxpc3Qgb2YgPGI-RXZlbnRzPC9iPiBOZXh0IFdlZWsgaW5jbHVkaW5nIE5pZ2h0IFBhcnRpZXMsIENvbmNlcnRzLCBMaXZlIENvbWVkeSwgTXVzaWMsIEZvb2QsIEV4aGliaXRpb25zLCBGZXN0aXZhbHMsIFdvcmtzaG9wcywgVHJhdmVsIGFuZCBUaGluZ3MgdG8gZG8mbmJzcDsuLi5KAmluIgIQAUgAWABoAA",
+      "source": "Eventsflare.com"
+    },
+    {
+      "position": 2,
+      "title": "Events In Bengaluru Today Explore & Book Tickets Online",
+      "link": "https://eventsflare.com/bengaluru/events-today",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVfBy1WRwJ5Lbg2fP3TnY_T-rwRQL8ilkK1JsRFjmbyQtk6tQVDhgXoV0pynTz21eO9YrrMAFd_yl0hqi5U_A9BWD0UAK42U_0Z96BTVl3-V5phurwDSWXh1DUBINinRY5PpqR6Q&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://eventsflare.com › bengaluru › events-today",
+      "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp",
+      "snippet": "All Events happening in Bengaluru today. Find events from various list of categories which includes - Dj Parties, Nightlife and Parties, Bollywood Nights, ...",
+      "snippet_highlighted_words": [
+        "All Events happening in Bengaluru today"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "All Events happening in Bengaluru today. Find events from various list of categories which includes - Dj Parties, Nightlife and Parties, Bollywood Nights, ...",
+          "source_info_link": "https://eventsflare.com/bengaluru/events-today",
+          "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZCeTFXUndKNUxiZzJmUDNUbllfVC1yd1JRTDhpbGtLMUpzUkZqbWJ5UXRrNnRRVkRoZ1hvVjBweW5UejIxZU85WXJyTUFGZF95bDBocWk1VV9BOUJXRDBVQUs0MlVfMFo5NkJUVmwzLVY1cGh1cndEU1dYaDFEVUJJTmluUlk1UHBxUjZREgQaAggAGsMFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAiwUIABAAGAAgACpcCgZldmVudHMV7t_KQBoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1Fc4KsEAaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZCeTFXUndKNUxiZzJmUDNUbllfVC1yd1JRTDhpbGtLMUpzUkZqbWJ5UXRrNnRRVkRoZ1hvVjBweW5UejIxZU85WXJyTUFGZF95bDBocWk1VV9BOUJXRDBVQUs0MlVfMFo5NkJUVmwzLVY1cGh1cndEU1dYaDFEVUJJTmluUlk1UHBxUjZROkI8Yj5FdmVudHMgSW4gQmVuZ2FsdXJ1PC9iPiBUb2RheSBFeHBsb3JlICZhbXA7IEJvb2sgVGlja2V0cyBPbmxpbmVCqgE8Yj5BbGwgRXZlbnRzIGhhcHBlbmluZyBpbiBCZW5nYWx1cnUgdG9kYXk8L2I-LiBGaW5kIGV2ZW50cyBmcm9tIHZhcmlvdXMgbGlzdCBvZiBjYXRlZ29yaWVzIHdoaWNoIGluY2x1ZGVzIC0gRGogUGFydGllcywgTmlnaHRsaWZlIGFuZCBQYXJ0aWVzLCBCb2xseXdvb2QgTmlnaHRzLCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZCeTFXUndKNUxiZzJmUDNUbllfVC1yd1JRTDhpbGtLMUpzUkZqbWJ5UXRrNnRRVkRoZ1hvVjBweW5UejIxZU85WXJyTUFGZF95bDBocWk1VV9BOUJXRDBVQUs0MlVfMFo5NkJUVmwzLVY1cGh1cndEU1dYaDFEVUJJTmluUlk1UHBxUjZREgQaAggAGsMFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAiwUIABAAGAAgACpcCgZldmVudHMV7t_KQBoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1Fc4KsEAaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZCeTFXUndKNUxiZzJmUDNUbllfVC1yd1JRTDhpbGtLMUpzUkZqbWJ5UXRrNnRRVkRoZ1hvVjBweW5UejIxZU85WXJyTUFGZF95bDBocWk1VV9BOUJXRDBVQUs0MlVfMFo5NkJUVmwzLVY1cGh1cndEU1dYaDFEVUJJTmluUlk1UHBxUjZROkI8Yj5FdmVudHMgSW4gQmVuZ2FsdXJ1PC9iPiBUb2RheSBFeHBsb3JlICZhbXA7IEJvb2sgVGlja2V0cyBPbmxpbmVCqgE8Yj5BbGwgRXZlbnRzIGhhcHBlbmluZyBpbiBCZW5nYWx1cnUgdG9kYXk8L2I-LiBGaW5kIGV2ZW50cyBmcm9tIHZhcmlvdXMgbGlzdCBvZiBjYXRlZ29yaWVzIHdoaWNoIGluY2x1ZGVzIC0gRGogUGFydGllcywgTmlnaHRsaWZlIGFuZCBQYXJ0aWVzLCBCb2xseXdvb2QgTmlnaHRzLCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "source": "Eventsflare.com"
+    },
+    {
+      "position": 3,
+      "title": "Must-Attend Events In Bangalore This Weekend",
+      "link": "https://www.outlooktraveller.com/destinations/india/must-attend-events-in-bangalore-this-weekend",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFRZ2g72wTCGJZ_ELKePQr-euFyfo2y-D27FdJqwkN-UuASo-dESXGfVcW0WjCZReoQOTO3UvM0SA3hcK7WTYHpwav1P8aX93U0QOsjYSMuZrRkLRMTEcZNpSjsD5TDUTdGyO_hR0GPGEia4YC7wwFfKEKuA8yH45ewKCaI05vWd488p1SJ57OalUJtRy2_mYuhQqnV1Iug&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.outlooktraveller.com › Destinations › India",
+      "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHA3rvD9WqRXsW6hhIUXEnlBaKyX8BvwVRVgc8VLo9KmAAD-nJVKMF7_Hv751L5KFCC0qkAFAbSMKt9nycHbPSfrfuJgExr9bnFl_-9NmlVrS__T5LRl-_z_9CTsvVxlydR1xukbrKUykX5fyfQy6eUUss2lAZsBQjNTHSZi0_MIzt0XpDdxqws2ALA_zOtuzIkIrEGPkt5L6fcPhdusv1pfwZmF95MOr2frZxHP-Qxn8ztgsnJWaUbu4QAzXzVJyCJEieluvypjFSimWWtn95wspM5SpH4vb-x7iF50TDK7GGEgDkgA_eRsbZ6rAGLbdx0yFU_2Zkf_5AqEo_-sBdbMtQQgAAAA.webp",
+      "date": "Aug 10, 2024",
+      "snippet": "Bengaluru with parties, meetups, and memorable experiences. Bengaluru weekend packed with music, intriguing meetups, and side-splitting comedy. ...",
+      "snippet_highlighted_words": [
+        "Bengaluru",
+        "Bengaluru"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Bengaluru with parties, meetups, and memorable experiences. Bengaluru weekend packed with music, intriguing meetups, and side-splitting comedy. ...",
+          "source_info_link": "https://www.outlooktraveller.com/destinations/india/must-attend-events-in-bangalore-this-weekend",
+          "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHA3rvD9WqRXsW6hhIUXEnlBaKyX8BvwVRVgc8VLo9KmAAD-nJVKMF7_Hv751L5KFCC0qkAFAbSMKt9nycHbPSfrfuJgExr9bnFl_-9NmlVrS__T5LRl-_z_9CTsvVxlydR1xukbrKUykX5fyfQy6eUUss2lAZsBQjNTHSZi0_MIzt0XpDdxqws2ALA_zOtuzIkIrEGPkt5L6fcPhdusv1pfwZmF95MOr2frZxHP-Qxn8ztgsnJWaUbu4QAzXzVJyCJEieluvypjFSimWWtn95wspM5SpH4vb-x7iF50TDK7GGEgDkgA_eRsbZ6rAGLbdx0yFU_2Zkf_5AqEo_-sBdbMtQQgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZSWjJnNzJ3VENHSlpfRUxLZVBRci1ldUZ5Zm8yeS1EMjdGZEpxd2tOLVV1QVNvLWRFU1hHZlZjVzBXakNaUmVvUU9UTzNVdk0wU0EzaGNLN1dUWUhwd2F2MVA4YVg5M1UwUU9zallTTXVaclJrTFJNVEVjWk5wU2pzRDVURFVUZEd5T19oUjBHUEdFaWE0WUM3d3dGZktFS3VBOHlINDVld0tDYUkwNXZXZDQ4OHAxU0o1N09hbFVKdFJ5Ml9tWXVoUXFuVjFJdWcSBBoCCAAa9AUSABoAIgAqADoAQgQIARAAShwIARIUQmVuZ2FsdXJ1LCBLYXJuYXRha2EaAggCWgByAHoAgkC8BQgAEAAYACAAKlwKBmV2ZW50cxUVU4tAGhdnZW86eXBjYXQ6ZXZlbnRzc3BlY2lhbBocZ2VvOnlwY2F0OnBhcnR5ZXZlbnRwbGFubmluZxoWZ2VvOnlwY2F0OmV2ZW50cGxhbm5lcioJCgJpbhUAAAAAKoMBCgliZW5nYWx1cnUVaLEqQBoJYmFuZ2Fsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlJaMmc3MndUQ0dKWl9FTEtlUFFyLWV1RnlmbzJ5LUQyN0ZkSnF3a04tVXVBU28tZEVTWEdmVmNXMFdqQ1pSZW9RT1RPM1V2TTBTQTNoY0s3V1RZSHB3YXYxUDhhWDkzVTBRT3NqWVNNdVpyUmtMUk1URWNaTnBTanNENVREVVRkR3lPX2hSMEdQR0VpYTRZQzd3d0ZmS0VLdUE4eUg0NWV3S0NhSTA1dldkNDg4cDFTSjU3T2FsVUp0UnkyX21ZdWhRcW5WMUl1ZzozTXVzdC1BdHRlbmQgPGI-RXZlbnRzIEluIEJhbmdhbG9yZTwvYj4gVGhpcyBXZWVrZW5kQqYBPGI-QmVuZ2FsdXJ1PC9iPiB3aXRoIHBhcnRpZXMsIG1lZXR1cHMsIGFuZCBtZW1vcmFibGUgZXhwZXJpZW5jZXMuIDxiPkJlbmdhbHVydTwvYj4gd2Vla2VuZCBwYWNrZWQgd2l0aCBtdXNpYywgaW50cmlndWluZyBtZWV0dXBzLCBhbmQgc2lkZS1zcGxpdHRpbmcgY29tZWR5LiZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZSWjJnNzJ3VENHSlpfRUxLZVBRci1ldUZ5Zm8yeS1EMjdGZEpxd2tOLVV1QVNvLWRFU1hHZlZjVzBXakNaUmVvUU9UTzNVdk0wU0EzaGNLN1dUWUhwd2F2MVA4YVg5M1UwUU9zallTTXVaclJrTFJNVEVjWk5wU2pzRDVURFVUZEd5T19oUjBHUEdFaWE0WUM3d3dGZktFS3VBOHlINDVld0tDYUkwNXZXZDQ4OHAxU0o1N09hbFVKdFJ5Ml9tWXVoUXFuVjFJdWcSBBoCCAAa9AUSABoAIgAqADoAQgQIARAAShwIARIUQmVuZ2FsdXJ1LCBLYXJuYXRha2EaAggCWgByAHoAgkC8BQgAEAAYACAAKlwKBmV2ZW50cxUVU4tAGhdnZW86eXBjYXQ6ZXZlbnRzc3BlY2lhbBocZ2VvOnlwY2F0OnBhcnR5ZXZlbnRwbGFubmluZxoWZ2VvOnlwY2F0OmV2ZW50cGxhbm5lcioJCgJpbhUAAAAAKoMBCgliZW5nYWx1cnUVaLEqQBoJYmFuZ2Fsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RlJaMmc3MndUQ0dKWl9FTEtlUFFyLWV1RnlmbzJ5LUQyN0ZkSnF3a04tVXVBU28tZEVTWEdmVmNXMFdqQ1pSZW9RT1RPM1V2TTBTQTNoY0s3V1RZSHB3YXYxUDhhWDkzVTBRT3NqWVNNdVpyUmtMUk1URWNaTnBTanNENVREVVRkR3lPX2hSMEdQR0VpYTRZQzd3d0ZmS0VLdUE4eUg0NWV3S0NhSTA1dldkNDg4cDFTSjU3T2FsVUp0UnkyX21ZdWhRcW5WMUl1ZzozTXVzdC1BdHRlbmQgPGI-RXZlbnRzIEluIEJhbmdhbG9yZTwvYj4gVGhpcyBXZWVrZW5kQqYBPGI-QmVuZ2FsdXJ1PC9iPiB3aXRoIHBhcnRpZXMsIG1lZXR1cHMsIGFuZCBtZW1vcmFibGUgZXhwZXJpZW5jZXMuIDxiPkJlbmdhbHVydTwvYj4gd2Vla2VuZCBwYWNrZWQgd2l0aCBtdXNpYywgaW50cmlndWluZyBtZWV0dXBzLCBhbmQgc2lkZS1zcGxpdHRpbmcgY29tZWR5LiZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "source": "Outlook Traveller"
+    },
+    {
+      "position": 4,
+      "title": "List of Events in Bangalore - Travel",
+      "link": "https://www.india.com/travel/bangalore/events/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVId8wkUh7KlmVL3Ul3ZVxrmDWY32FbH5lU8QTQ9m_7LZ9VT017ZuqQgBYJXW8WBbIG8c4LAfbzZpTH0XrlxcPKbb2gnyfHCuR1ZSyerQSqk8-icKzFNh0_xJ0zxerZHtbk25shw&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.india.com › Travel › Destinations",
+      "favicon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAABQBQCdASocABwAPtE-tFooIigoFAEAGglnABFAHyAZ2hwJxxkLxEYhm7V7Wan8x3qflAAA_vYReqWoJlvDmz_zfaKFzLdf1-xjblvBdVKrJN5Qbbfbwe-I3h_st3-7rzxR-e_qowShYWCfn3-oaihTU-qAghHtpj0L72ikJ-Kl3_1EfR9BzBd0A5GpRj4O9ldheryq1fcfQZDc_8RD67yacIdD2D2B6TOLPgPjEbNb1bcTAT2wg2LDt3AyGv2qqNrl3EIDuxQ7CnNtBmLSimqz9eVksTld3Go9goyei0n9i6qa1wAAAA.webp",
+      "snippet": "Events in BANGALORE · Kadalekai Parishe Festival in Bengaluru · Varamahalakshmi Festival in Bengaluru · Makar Sankranti in Bengaluru · Ugadi Festival in Bengaluru.",
+      "snippet_highlighted_words": [
+        "Events in BANGALORE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Events in BANGALORE · Kadalekai Parishe Festival in Bengaluru · Varamahalakshmi Festival in Bengaluru · Makar Sankranti in Bengaluru · Ugadi Festival in Bengaluru.",
+          "source_info_link": "https://www.india.com/travel/bangalore/events/",
+          "icon": "https://serpapi.com/images/i/UklGRvIAAABXRUJQVlA4IOYAAABQBQCdASocABwAPtE-tFooIigoFAEAGglnABFAHyAZ2hwJxxkLxEYhm7V7Wan8x3qflAAA_vYReqWoJlvDmz_zfaKFzLdf1-xjblvBdVKrJN5Qbbfbwe-I3h_st3-7rzxR-e_qowShYWCfn3-oaihTU-qAghHtpj0L72ikJ-Kl3_1EfR9BzBd0A5GpRj4O9ldheryq1fcfQZDc_8RD67yacIdD2D2B6TOLPgPjEbNb1bcTAT2wg2LDt3AyGv2qqNrl3EIDuxQ7CnNtBmLSimqz9eVksTld3Go9goyei0n9i6qa1wAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVklkOHdrVWg3S2xtVkwzVWwzWlZ4cm1EV1kzMkZiSDVsVThRVFE5bV83TFo5VlQwMTdadXFRZ0JZSlhXOFdCYklHOGM0TEFmYnpacFRIMFhybHhjUEtiYjJnbnlmSEN1UjFaU3llclFTcWs4LWljS3pGTmgwX3hKMHp4ZXJaSHRiazI1c2h3EgQaAggAGtQFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAnAUIABAAGAAgACpcCgZldmVudHMVe4msQBoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1FTQERUAaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVklkOHdrVWg3S2xtVkwzVWwzWlZ4cm1EV1kzMkZiSDVsVThRVFE5bV83TFo5VlQwMTdadXFRZ0JZSlhXOFdCYklHOGM0TEFmYnpacFRIMFhybHhjUEtiYjJnbnlmSEN1UjFaU3llclFTcWs4LWljS3pGTmgwX3hKMHp4ZXJaSHRiazI1c2h3OjdMaXN0IG9mIDxiPkV2ZW50cyBpbiBCYW5nYWxvcmU8L2I-IC0gVHJhdmVsIC0gSW5kaWEuY29tQsYBPGI-RXZlbnRzIGluIEJBTkdBTE9SRTwvYj4gJm1pZGRvdDsgS2FkYWxla2FpIFBhcmlzaGUgRmVzdGl2YWwgaW4gQmVuZ2FsdXJ1ICZtaWRkb3Q7IFZhcmFtYWhhbGFrc2htaSBGZXN0aXZhbCBpbiBCZW5nYWx1cnUgJm1pZGRvdDsgTWFrYXIgU2Fua3JhbnRpIGluIEJlbmdhbHVydSAmbWlkZG90OyBVZ2FkaSBGZXN0aXZhbCBpbiBCZW5nYWx1cnUuSgJpbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVklkOHdrVWg3S2xtVkwzVWwzWlZ4cm1EV1kzMkZiSDVsVThRVFE5bV83TFo5VlQwMTdadXFRZ0JZSlhXOFdCYklHOGM0TEFmYnpacFRIMFhybHhjUEtiYjJnbnlmSEN1UjFaU3llclFTcWs4LWljS3pGTmgwX3hKMHp4ZXJaSHRiazI1c2h3EgQaAggAGtQFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAnAUIABAAGAAgACpcCgZldmVudHMVe4msQBoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1FTQERUAaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVklkOHdrVWg3S2xtVkwzVWwzWlZ4cm1EV1kzMkZiSDVsVThRVFE5bV83TFo5VlQwMTdadXFRZ0JZSlhXOFdCYklHOGM0TEFmYnpacFRIMFhybHhjUEtiYjJnbnlmSEN1UjFaU3llclFTcWs4LWljS3pGTmgwX3hKMHp4ZXJaSHRiazI1c2h3OjdMaXN0IG9mIDxiPkV2ZW50cyBpbiBCYW5nYWxvcmU8L2I-IC0gVHJhdmVsIC0gSW5kaWEuY29tQsYBPGI-RXZlbnRzIGluIEJBTkdBTE9SRTwvYj4gJm1pZGRvdDsgS2FkYWxla2FpIFBhcmlzaGUgRmVzdGl2YWwgaW4gQmVuZ2FsdXJ1ICZtaWRkb3Q7IFZhcmFtYWhhbGFrc2htaSBGZXN0aXZhbCBpbiBCZW5nYWx1cnUgJm1pZGRvdDsgTWFrYXIgU2Fua3JhbnRpIGluIEJlbmdhbHVydSAmbWlkZG90OyBVZ2FkaSBGZXN0aXZhbCBpbiBCZW5nYWx1cnUuSgJpbiICEAFIAFgAaAA",
+      "source": "India.com",
+      "read_more_link": "https://www.india.com/travel/bangalore/events/#:~:text=Events%20in%20BANGALORE&text=Kadalekai%20Parishe%20Festival%20in%20Bengaluru&text=Varamahalakshmi%20Festival%20in%20Bengaluru&text=Makar%20Sankranti%20in%20Bengaluru&text=Ugadi%20Festival%20in%20Bengaluru"
+    },
+    {
+      "position": 5,
+      "title": "Cultural Events Bangalore This Weekend",
+      "link": "https://www.instagram.com/popular/cultural-events-bangalore-this-weekend/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFcgg1377vVcUNJzbAkcB7jy8JjQEdYPFyXe923KqQRhIAn4fr7NoNgnTLjqFMtnUv0N0sytS0U3PGY5OlAuZPc0FLJtfVEdaCyBBiMac6WaB7-1mywFfuG2Xob073vwhJFfY9f6YW7KWwMVT1sd0A1_GfplQhGYET-YnFPnNDb8&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.instagram.com › popular › cultural-events-...",
+      "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+      "snippet": "Cubbon Park Flower Show, Cubbon Park, MG Road - Christmas Akon- Nov -9 4. Passenger - date- Nov 22 5. Lucky Ali - date- December 6. January ⏰ 11 AM – 8 PM",
+      "snippet_highlighted_words": [
+        "Cubbon Park Flower Show, Cubbon Park, MG Road"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Cubbon Park Flower Show, Cubbon Park, MG Road - Christmas Akon- Nov -9 4. Passenger - date- Nov 22 5. Lucky Ali - date- December 6. January ⏰ 11 AM – 8 PM",
+          "source_info_link": "https://www.instagram.com/popular/cultural-events-bangalore-this-weekend/",
+          "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjZ2cxMzc3dlZjVU5KemJBa2NCN2p5OEpqUUVkWVBGeVhlOTIzS3FRUmhJQW40ZnI3Tm9OZ25UTGpxRk10blV2ME4wc3l0UzBVM1BHWTVPbEF1WlBjMEZMSnRmVkVkYUN5QkJpTWFjNldhQjctMW15d0ZmdUcyWG9iMDczdndoSkZmWTlmNllXN0tXd01WVDFzZDBBMV9HZnBsUWhHWUVULVluRlBuTkRiOBIEGgIIABraBRIAGgAiACoAOgBCBAgBEABKHAgBEhRCZW5nYWx1cnUsIEthcm5hdGFrYRoCCAJaAHIAegCCQKIFCAAQABgAIAAqXAoGZXZlbnRzFfJUtkAaF2dlbzp5cGNhdDpldmVudHNzcGVjaWFsGhxnZW86eXBjYXQ6cGFydHlldmVudHBsYW5uaW5nGhZnZW86eXBjYXQ6ZXZlbnRwbGFubmVyKgkKAmluFQAAAAAqgwEKCWJlbmdhbHVydRV6xVFAGgliYW5nYWxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGY2dnMTM3N3ZWY1VOSnpiQWtjQjdqeThKalFFZFlQRnlYZTkyM0txUVJoSUFuNGZyN05vTmduVExqcUZNdG5VdjBOMHN5dFMwVTNQR1k1T2xBdVpQYzBGTEp0ZlZFZGFDeUJCaU1hYzZXYUI3LTFteXdGZnVHMlhvYjA3M3Z3aEpGZlk5ZjZZVzdLV3dNVlQxc2QwQTFfR2ZwbFFoR1lFVC1ZbkZQbk5EYjg6OUN1bHR1cmFsIDxiPkV2ZW50cyBCYW5nYWxvcmU8L2I-IFRoaXMgV2Vla2VuZCAtIEluc3RhZ3JhbUKlATxiPkN1YmJvbiBQYXJrIEZsb3dlciBTaG93LCBDdWJib24gUGFyaywgTUcgUm9hZDwvYj4gLSBDaHJpc3RtYXMgQWtvbi0gTm92IC05IDQuIFBhc3NlbmdlciAtIGRhdGUtIE5vdiAyMiA1LiBMdWNreSBBbGkgLSBkYXRlLSBEZWNlbWJlciA2LiBKYW51YXJ5IOKPsCAxMSBBTSDigJMgOCBQTUoCaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjZ2cxMzc3dlZjVU5KemJBa2NCN2p5OEpqUUVkWVBGeVhlOTIzS3FRUmhJQW40ZnI3Tm9OZ25UTGpxRk10blV2ME4wc3l0UzBVM1BHWTVPbEF1WlBjMEZMSnRmVkVkYUN5QkJpTWFjNldhQjctMW15d0ZmdUcyWG9iMDczdndoSkZmWTlmNllXN0tXd01WVDFzZDBBMV9HZnBsUWhHWUVULVluRlBuTkRiOBIEGgIIABraBRIAGgAiACoAOgBCBAgBEABKHAgBEhRCZW5nYWx1cnUsIEthcm5hdGFrYRoCCAJaAHIAegCCQKIFCAAQABgAIAAqXAoGZXZlbnRzFfJUtkAaF2dlbzp5cGNhdDpldmVudHNzcGVjaWFsGhxnZW86eXBjYXQ6cGFydHlldmVudHBsYW5uaW5nGhZnZW86eXBjYXQ6ZXZlbnRwbGFubmVyKgkKAmluFQAAAAAqgwEKCWJlbmdhbHVydRV6xVFAGgliYW5nYWxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGY2dnMTM3N3ZWY1VOSnpiQWtjQjdqeThKalFFZFlQRnlYZTkyM0txUVJoSUFuNGZyN05vTmduVExqcUZNdG5VdjBOMHN5dFMwVTNQR1k1T2xBdVpQYzBGTEp0ZlZFZGFDeUJCaU1hYzZXYUI3LTFteXdGZnVHMlhvYjA3M3Z3aEpGZlk5ZjZZVzdLV3dNVlQxc2QwQTFfR2ZwbFFoR1lFVC1ZbkZQbk5EYjg6OUN1bHR1cmFsIDxiPkV2ZW50cyBCYW5nYWxvcmU8L2I-IFRoaXMgV2Vla2VuZCAtIEluc3RhZ3JhbUKlATxiPkN1YmJvbiBQYXJrIEZsb3dlciBTaG93LCBDdWJib24gUGFyaywgTUcgUm9hZDwvYj4gLSBDaHJpc3RtYXMgQWtvbi0gTm92IC05IDQuIFBhc3NlbmdlciAtIGRhdGUtIE5vdiAyMiA1LiBMdWNreSBBbGkgLSBkYXRlLSBEZWNlbWJlciA2LiBKYW51YXJ5IOKPsCAxMSBBTSDigJMgOCBQTUoCaW4iAhABSABYAGgA",
+      "source": "Instagram"
+    },
+    {
+      "position": 6,
+      "title": "Upcoming Festivals Events in Bengaluru Tickets Today ...",
+      "link": "https://www.townscript.com/bengaluru/festivals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVir7ckik_gXJorxlXlC8Wa9YG98wrG6bOQbw-M1cdHqC9tUmICaV6H-oQXNLRf4boukApYWTjjObhPvzDF3PrGO4CSHXDcz9maOIkEY1kO83Yc3vftDubeOmXes3wphydFa8d5A&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.townscript.com › bengaluru › festivals",
+      "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABwBgCdASocABwAPtE-tFooIigoFAEAGglsALOoEC8AN5PIjHdko1e6VHuK0T7u-QJ6ueTWb43bTls9i0AA_v0rC_-PdwCAcsGm076yhvRa5hhRE8UsdTVLm-aTa51W97KDoOEkayaMCr2BsfiX_C7rXe-lFXl7_yHLW7-8VwPyjM43-T35gy42dfjE89nwTBs_Q7YgXn5nGW6cOWQ_IxaMHr_6eODEu5gk4wVbgpd_hLXJqff5WorTD9p8mJMFwRvGdblCBu19yhfy9avm5MZAcLtZUUHauCTpW4--kbklbHAav5ZdxtHDurw7d1IkpWYWyShkVTTznWYyprFC19tlH2pB7zkjdbZUvVxgCJ-bdLGFKiuHc3L8fOV_KcwA.webp",
+      "snippet": "Find the best upcoming Festivals events in Bengaluru. Get ready to explore festivals, festival, durga puja, ganesh chaturthi, saraswati puja, onam and much& ...",
+      "snippet_highlighted_words": [
+        "events in Bengaluru"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find the best upcoming Festivals events in Bengaluru. Get ready to explore festivals, festival, durga puja, ganesh chaturthi, saraswati puja, onam and much& ...",
+          "source_info_link": "https://www.townscript.com/bengaluru/festivals",
+          "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABwBgCdASocABwAPtE-tFooIigoFAEAGglsALOoEC8AN5PIjHdko1e6VHuK0T7u-QJ6ueTWb43bTls9i0AA_v0rC_-PdwCAcsGm076yhvRa5hhRE8UsdTVLm-aTa51W97KDoOEkayaMCr2BsfiX_C7rXe-lFXl7_yHLW7-8VwPyjM43-T35gy42dfjE89nwTBs_Q7YgXn5nGW6cOWQ_IxaMHr_6eODEu5gk4wVbgpd_hLXJqff5WorTD9p8mJMFwRvGdblCBu19yhfy9avm5MZAcLtZUUHauCTpW4--kbklbHAav5ZdxtHDurw7d1IkpWYWyShkVTTznWYyprFC19tlH2pB7zkjdbZUvVxgCJ-bdLGFKiuHc3L8fOV_KcwA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlyN2NraWtfZ1hKb3J4bFhsQzhXYTlZRzk4d3JHNmJPUWJ3LU0xY2RIcUM5dFVtSUNhVjZILW9RWE5MUmY0Ym91a0FwWVdUampPYmhQdnpERjNQckdPNENTSFhEY3o5bWFPSWtFWTFrTzgzWWMzdmZ0RHViZU9tWGVzM3dwaHlkRmE4ZDVBEgQaAggAGswFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAlAUIABAAGAAgACpcCgZldmVudHMVYbJ9QBoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1FZiIb0AaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlyN2NraWtfZ1hKb3J4bFhsQzhXYTlZRzk4d3JHNmJPUWJ3LU0xY2RIcUM5dFVtSUNhVjZILW9RWE5MUmY0Ym91a0FwWVdUampPYmhQdnpERjNQckdPNENTSFhEY3o5bWFPSWtFWTFrTzgzWWMzdmZ0RHViZU9tWGVzM3dwaHlkRmE4ZDVBOkVVcGNvbWluZyBGZXN0aXZhbHMgPGI-RXZlbnRzIGluIEJlbmdhbHVydTwvYj4gVGlja2V0cyBUb2RheSwgVGhpcyAuLi5CsAFGaW5kIHRoZSBiZXN0IHVwY29taW5nIEZlc3RpdmFscyA8Yj5ldmVudHMgaW4gQmVuZ2FsdXJ1PC9iPi4gR2V0IHJlYWR5IHRvIGV4cGxvcmUgZmVzdGl2YWxzLCBmZXN0aXZhbCwgZHVyZ2EgcHVqYSwgZ2FuZXNoIGNoYXR1cnRoaSwgc2FyYXN3YXRpIHB1amEsIG9uYW0gYW5kIG11Y2gmYW1wOyZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlyN2NraWtfZ1hKb3J4bFhsQzhXYTlZRzk4d3JHNmJPUWJ3LU0xY2RIcUM5dFVtSUNhVjZILW9RWE5MUmY0Ym91a0FwWVdUampPYmhQdnpERjNQckdPNENTSFhEY3o5bWFPSWtFWTFrTzgzWWMzdmZ0RHViZU9tWGVzM3dwaHlkRmE4ZDVBEgQaAggAGswFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAlAUIABAAGAAgACpcCgZldmVudHMVYbJ9QBoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1FZiIb0AaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmlyN2NraWtfZ1hKb3J4bFhsQzhXYTlZRzk4d3JHNmJPUWJ3LU0xY2RIcUM5dFVtSUNhVjZILW9RWE5MUmY0Ym91a0FwWVdUampPYmhQdnpERjNQckdPNENTSFhEY3o5bWFPSWtFWTFrTzgzWWMzdmZ0RHViZU9tWGVzM3dwaHlkRmE4ZDVBOkVVcGNvbWluZyBGZXN0aXZhbHMgPGI-RXZlbnRzIGluIEJlbmdhbHVydTwvYj4gVGlja2V0cyBUb2RheSwgVGhpcyAuLi5CsAFGaW5kIHRoZSBiZXN0IHVwY29taW5nIEZlc3RpdmFscyA8Yj5ldmVudHMgaW4gQmVuZ2FsdXJ1PC9iPi4gR2V0IHJlYWR5IHRvIGV4cGxvcmUgZmVzdGl2YWxzLCBmZXN0aXZhbCwgZHVyZ2EgcHVqYSwgZ2FuZXNoIGNoYXR1cnRoaSwgc2FyYXN3YXRpIHB1amEsIG9uYW0gYW5kIG11Y2gmYW1wOyZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "source": "Townscript"
+    },
+    {
+      "position": 7,
+      "title": "0 Events In %20bengaluru,karnataka",
+      "link": "https://eventsflare.com/%20bengaluru,karnataka/all-events",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVclfpAE8zmJahI4bZ_MRMgKccOGum-i2pm_uhRiuZNTBdYMEtLgn5YT_UAIHIO4SsMsaMg46ivj8GaI_jxbeyD4aAgVmhiDOS3YP-tYgfnjgV1FEK6yVeR-DABweGdiXpJ1pe1H2sOGASf6Pvb9LJ&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://eventsflare.com › all-events",
+      "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp",
+      "snippet": "Check out the %20bengaluru,karnataka nightlife scene with Dj Nights, parties, music concerts, discotheques, pub crawls, , live in concert, activities and more.",
+      "about_this_result": {
+        "source": {
+          "description": "Check out the %20bengaluru,karnataka nightlife scene with Dj Nights, parties, music concerts, discotheques, pub crawls, , live in concert, activities and more.",
+          "source_info_link": "https://eventsflare.com/%20bengaluru,karnataka/all-events",
+          "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVmNsZnBBRTh6bUphaEk0YlpfTVJNZ0tjY09HdW0taTJwbV91aFJpdVpOVEJkWU1FdExnbjVZVF9VQUlISU80U3NNc2FNZzQ2aXZqOEdhSV9qeGJleUQ0YUFnVm1oaURPUzNZUC10WWdmbmpnVjFGRUs2eVZlUi1EQUJ3ZUdkaVhwSjFwZTFIMnNPR0FTZjZQdmI5TEoSBBoCCAAavwUSABoAIgAqADoAQgQIARAAShwIARIUQmVuZ2FsdXJ1LCBLYXJuYXRha2EaAggCWgByAHoAgkCHBQgAEAAYACAAKlwKBmV2ZW50cxUl-L1AGhdnZW86eXBjYXQ6ZXZlbnRzc3BlY2lhbBocZ2VvOnlwY2F0OnBhcnR5ZXZlbnRwbGFubmluZxoWZ2VvOnlwY2F0OmV2ZW50cGxhbm5lcioJCgJpbhUAAAAAKoMBCgliZW5nYWx1cnUVxU4UQBoJYmFuZ2Fsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWY2xmcEFFOHptSmFoSTRiWl9NUk1nS2NjT0d1bS1pMnBtX3VoUml1Wk5UQmRZTUV0TGduNVlUX1VBSUhJTzRTc01zYU1nNDZpdmo4R2FJX2p4YmV5RDRhQWdWbWhpRE9TM1lQLXRZZ2ZuamdWMUZFSzZ5VmVSLURBQndlR2RpWHBKMXBlMUgyc09HQVNmNlB2YjlMSjo7MCA8Yj5FdmVudHM8L2I-IEluICUyMGJlbmdhbHVydSxrYXJuYXRha2EgLSBFdmVudHNmbGFyZS5jb21CnwFDaGVjayBvdXQgdGhlICUyMGJlbmdhbHVydSxrYXJuYXRha2EgbmlnaHRsaWZlIHNjZW5lIHdpdGggRGogTmlnaHRzLCBwYXJ0aWVzLCBtdXNpYyBjb25jZXJ0cywgZGlzY290aGVxdWVzLCBwdWIgY3Jhd2xzLCAsIGxpdmUgaW4gY29uY2VydCwgYWN0aXZpdGllcyBhbmQgbW9yZS5KAmluIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVmNsZnBBRTh6bUphaEk0YlpfTVJNZ0tjY09HdW0taTJwbV91aFJpdVpOVEJkWU1FdExnbjVZVF9VQUlISU80U3NNc2FNZzQ2aXZqOEdhSV9qeGJleUQ0YUFnVm1oaURPUzNZUC10WWdmbmpnVjFGRUs2eVZlUi1EQUJ3ZUdkaVhwSjFwZTFIMnNPR0FTZjZQdmI5TEoSBBoCCAAavwUSABoAIgAqADoAQgQIARAAShwIARIUQmVuZ2FsdXJ1LCBLYXJuYXRha2EaAggCWgByAHoAgkCHBQgAEAAYACAAKlwKBmV2ZW50cxUl-L1AGhdnZW86eXBjYXQ6ZXZlbnRzc3BlY2lhbBocZ2VvOnlwY2F0OnBhcnR5ZXZlbnRwbGFubmluZxoWZ2VvOnlwY2F0OmV2ZW50cGxhbm5lcioJCgJpbhUAAAAAKoMBCgliZW5nYWx1cnUVxU4UQBoJYmFuZ2Fsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWY2xmcEFFOHptSmFoSTRiWl9NUk1nS2NjT0d1bS1pMnBtX3VoUml1Wk5UQmRZTUV0TGduNVlUX1VBSUhJTzRTc01zYU1nNDZpdmo4R2FJX2p4YmV5RDRhQWdWbWhpRE9TM1lQLXRZZ2ZuamdWMUZFSzZ5VmVSLURBQndlR2RpWHBKMXBlMUgyc09HQVNmNlB2YjlMSjo7MCA8Yj5FdmVudHM8L2I-IEluICUyMGJlbmdhbHVydSxrYXJuYXRha2EgLSBFdmVudHNmbGFyZS5jb21CnwFDaGVjayBvdXQgdGhlICUyMGJlbmdhbHVydSxrYXJuYXRha2EgbmlnaHRsaWZlIHNjZW5lIHdpdGggRGogTmlnaHRzLCBwYXJ0aWVzLCBtdXNpYyBjb25jZXJ0cywgZGlzY290aGVxdWVzLCBwdWIgY3Jhd2xzLCAsIGxpdmUgaW4gY29uY2VydCwgYWN0aXZpdGllcyBhbmQgbW9yZS5KAmluIgIQAUgAWABoAA",
+      "source": "Eventsflare.com"
+    },
+    {
+      "position": 8,
+      "title": "Things to do in Bengaluru (@things2doinbengaluru)",
+      "link": "https://www.facebook.com/things2doinbengaluru/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVE6-7OEysOD2PqMpEtDAPtftNwN8s8doBvTFmGZTdHRT_Smf0eJpxEZOyJlxX-rZ-zQ87jhi5jFeUoh0vonv4oga0DI2-jdQYVpTyaqfvKcTxSpbzRiOq31YQl4ltvF7C_6D7tw&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECCQQAQ&uoh=1",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Things to do in Bengaluru. One Stop Destination for the best Things to do in Bengaluru. live DJ, art, arcade, Things to do in Bengaluru Sep 7, 2026· Get ...",
+      "snippet_highlighted_words": [
+        "Things to do in Bengaluru"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Things to do in Bengaluru. One Stop Destination for the best Things to do in Bengaluru. live DJ, art, arcade, Things to do in Bengaluru Sep 7, 2026· Get ...",
+          "source_info_link": "https://www.facebook.com/things2doinbengaluru/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkU2LTdPRXlzT0QyUHFNcEV0REFQdGZ0TndOOHM4ZG9CdlRGbUdaVGRIUlRfU21mMGVKcHhFWk95Smx4WC1yWi16UTg3amhpNWpGZVVvaDB2b252NG9nYTBESTItamRRWVZwVHlhcWZ2S2NUeFNwYnpSaU9xMzFZUWw0bHR2RjdDXzZEN3R3EgQaAggAGsMFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAiwUIABAAGAAgACpcCgZldmVudHMVuybTPRoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1FaFILEAaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkU2LTdPRXlzT0QyUHFNcEV0REFQdGZ0TndOOHM4ZG9CdlRGbUdaVGRIUlRfU21mMGVKcHhFWk95Smx4WC1yWi16UTg3amhpNWpGZVVvaDB2b252NG9nYTBESTItamRRWVZwVHlhcWZ2S2NUeFNwYnpSaU9xMzFZUWw0bHR2RjdDXzZEN3R3OkNUaGluZ3MgdG8gZG8gaW4gPGI-QmVuZ2FsdXJ1PC9iPiAoQHRoaW5nczJkb2luYmVuZ2FsdXJ1KSAtIEZhY2Vib29rQqkBPGI-VGhpbmdzIHRvIGRvIGluIEJlbmdhbHVydTwvYj4uIE9uZSBTdG9wIERlc3RpbmF0aW9uIGZvciB0aGUgYmVzdCBUaGluZ3MgdG8gZG8gaW4gQmVuZ2FsdXJ1LiBsaXZlIERKLCBhcnQsIGFyY2FkZSwgVGhpbmdzIHRvIGRvIGluIEJlbmdhbHVydSBTZXAgNywgMjAyNsK3IEdldCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkU2LTdPRXlzT0QyUHFNcEV0REFQdGZ0TndOOHM4ZG9CdlRGbUdaVGRIUlRfU21mMGVKcHhFWk95Smx4WC1yWi16UTg3amhpNWpGZVVvaDB2b252NG9nYTBESTItamRRWVZwVHlhcWZ2S2NUeFNwYnpSaU9xMzFZUWw0bHR2RjdDXzZEN3R3EgQaAggAGsMFEgAaACIAKgA6AEIECAEQAEocCAESFEJlbmdhbHVydSwgS2FybmF0YWthGgIIAloAcgB6AIJAiwUIABAAGAAgACpcCgZldmVudHMVuybTPRoXZ2VvOnlwY2F0OmV2ZW50c3NwZWNpYWwaHGdlbzp5cGNhdDpwYXJ0eWV2ZW50cGxhbm5pbmcaFmdlbzp5cGNhdDpldmVudHBsYW5uZXIqCQoCaW4VAAAAACqDAQoJYmVuZ2FsdXJ1FaFILEAaCWJhbmdhbG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkU2LTdPRXlzT0QyUHFNcEV0REFQdGZ0TndOOHM4ZG9CdlRGbUdaVGRIUlRfU21mMGVKcHhFWk95Smx4WC1yWi16UTg3amhpNWpGZVVvaDB2b252NG9nYTBESTItamRRWVZwVHlhcWZ2S2NUeFNwYnpSaU9xMzFZUWw0bHR2RjdDXzZEN3R3OkNUaGluZ3MgdG8gZG8gaW4gPGI-QmVuZ2FsdXJ1PC9iPiAoQHRoaW5nczJkb2luYmVuZ2FsdXJ1KSAtIEZhY2Vib29rQqkBPGI-VGhpbmdzIHRvIGRvIGluIEJlbmdhbHVydTwvYj4uIE9uZSBTdG9wIERlc3RpbmF0aW9uIGZvciB0aGUgYmVzdCBUaGluZ3MgdG8gZG8gaW4gQmVuZ2FsdXJ1LiBsaXZlIERKLCBhcnQsIGFyY2FkZSwgVGhpbmdzIHRvIGRvIGluIEJlbmdhbHVydSBTZXAgNywgMjAyNsK3IEdldCZuYnNwOy4uLkoCaW4iAhABSABYAGgA",
+      "source": "Facebook · Things to do in Bengaluru"
+    },
+    {
+      "position": 9,
+      "title": "Upcoming Events In Bangalore, Today, Tomorrow And This ...",
+      "link": "https://eventsflare.com/bangalore%20%20%20%20%20%20%20%20/all-events",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVIp6SOaLsfNVmgZ-h5l-pmnv18mWuRF9ht26VB909mxSaSgde1m2buW24Mm7hd9WjFfZ2puJMx-75qGKbiX1Cm64DzAUuleIYp7xHIeB1xN-0w2hWUNFGIn26HMk6BmoRznymDeh2TD86FVXnDGs1T0IgYXCe84dS9JE&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://eventsflare.com › all-events",
+      "favicon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp",
+      "snippet": "You can find various kinds of events happening near you in Bangalore on our platform. Explore from various lists of categories such as Nightlife & Parties, ...",
+      "snippet_highlighted_words": [
+        "events happening near you in Bangalore"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You can find various kinds of events happening near you in Bangalore on our platform. Explore from various lists of categories such as Nightlife & Parties, ...",
+          "source_info_link": "https://eventsflare.com/bangalore%20%20%20%20%20%20%20%20/all-events",
+          "icon": "https://serpapi.com/images/i/UklGRmQBAABXRUJQVlA4IFgBAACwCACdASocABwAPtEutFooIagoGAEAGglsAJ0vAiaYVPAA2wHmA_YD9VeCA6iveUPKqJnsXq3NcLUtSMHYK7jIUV5z38eBrIOLe6-ewAAA_vYJ1edPRwJ2-esIbfM70GSrN44V-hhkjDFSowmWT0DjDKvkItfX1bex8cArWSBmnPuj8cPeSYfswRO5uwD9UGXWwo6ei3vZU5Io5CVvKvRGJY8_qqgvofDx4CdiBGKAZeIoD2ihCDY3tDOcqnGduG21nC9ama8gx_7Xr27XjRKNRbqE-Nw_5w3eP6PmY6nVBmEl7X6ZgsHiWlNixxnyZLrgzpdZ7lNNU8BGzJFm1Ihbo0MWa41_8B_tekYy_rHopn8rdO786xWfJxFMviVrx6wc_5v_0Wt4RNBz-IKSPc5qt22Ys-y5AdykK7UaJ7nJZMfgkagB_8Of8_-vv6Zj8hyR2dKeEIwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVklwNlNPYUxzZk5WbWdaLWg1bC1wbW52MThtV3VSRjlodDI2VkI5MDlteFNhU2dkZTFtMmJ1VzI0TW03aGQ5V2pGZloycHVKTXgtNzVxR0tiaVgxQ202NER6QVV1bGVJWXA3eEhJZUIxeE4tMHcyaFdVTkZHSW4yNkhNazZCbW9Sem55bURlaDJURDg2RlZYbkRHczFUMElnWVhDZTg0ZFM5SkUSBBoCCAAa5AUSABoAIgAqADoAQgQIARAAShwIARIUQmVuZ2FsdXJ1LCBLYXJuYXRha2EaAggCWgByAHoAgkCsBQgAEAAYACAAKlwKBmV2ZW50cxX-XL9AGhdnZW86eXBjYXQ6ZXZlbnRzc3BlY2lhbBocZ2VvOnlwY2F0OnBhcnR5ZXZlbnRwbGFubmluZxoWZ2VvOnlwY2F0OmV2ZW50cGxhbm5lcioJCgJpbhUAAAAAKoMBCgliZW5nYWx1cnUVAAAAABoJYmFuZ2Fsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUyuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWSXA2U09hTHNmTlZtZ1otaDVsLXBtbnYxOG1XdVJGOWh0MjZWQjkwOW14U2FTZ2RlMW0yYnVXMjRNbTdoZDlXakZmWjJwdUpNeC03NXFHS2JpWDFDbTY0RHpBVXVsZUlZcDd4SEllQjF4Ti0wdzJoV1VORkdJbjI2SE1rNkJtb1J6bnltRGVoMlREODZGVlhuREdzMVQwSWdZWENlODRkUzlKRTpBVXBjb21pbmcgPGI-RXZlbnRzIEluIEJhbmdhbG9yZTwvYj4sIFRvZGF5LCBUb21vcnJvdyBBbmQgVGhpcyAuLi5CrwFZb3UgY2FuIGZpbmQgdmFyaW91cyBraW5kcyBvZiA8Yj5ldmVudHMgaGFwcGVuaW5nIG5lYXIgeW91IGluIEJhbmdhbG9yZTwvYj4gb24gb3VyIHBsYXRmb3JtLiBFeHBsb3JlIGZyb20gdmFyaW91cyBsaXN0cyBvZiBjYXRlZ29yaWVzIHN1Y2ggYXMgTmlnaHRsaWZlICZhbXA7IFBhcnRpZXMsJm5ic3A7Li4uSgJpbiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVklwNlNPYUxzZk5WbWdaLWg1bC1wbW52MThtV3VSRjlodDI2VkI5MDlteFNhU2dkZTFtMmJ1VzI0TW03aGQ5V2pGZloycHVKTXgtNzVxR0tiaVgxQ202NER6QVV1bGVJWXA3eEhJZUIxeE4tMHcyaFdVTkZHSW4yNkhNazZCbW9Sem55bURlaDJURDg2RlZYbkRHczFUMElnWVhDZTg0ZFM5SkUSBBoCCAAa5AUSABoAIgAqADoAQgQIARAAShwIARIUQmVuZ2FsdXJ1LCBLYXJuYXRha2EaAggCWgByAHoAgkCsBQgAEAAYACAAKlwKBmV2ZW50cxX-XL9AGhdnZW86eXBjYXQ6ZXZlbnRzc3BlY2lhbBocZ2VvOnlwY2F0OnBhcnR5ZXZlbnRwbGFubmluZxoWZ2VvOnlwY2F0OmV2ZW50cGxhbm5lcioJCgJpbhUAAAAAKoMBCgliZW5nYWx1cnUVAAAAABoJYmFuZ2Fsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUyuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWSXA2U09hTHNmTlZtZ1otaDVsLXBtbnYxOG1XdVJGOWh0MjZWQjkwOW14U2FTZ2RlMW0yYnVXMjRNbTdoZDlXakZmWjJwdUpNeC03NXFHS2JpWDFDbTY0RHpBVXVsZUlZcDd4SEllQjF4Ti0wdzJoV1VORkdJbjI2SE1rNkJtb1J6bnltRGVoMlREODZGVlhuREdzMVQwSWdZWENlODRkUzlKRTpBVXBjb21pbmcgPGI-RXZlbnRzIEluIEJhbmdhbG9yZTwvYj4sIFRvZGF5LCBUb21vcnJvdyBBbmQgVGhpcyAuLi5CrwFZb3UgY2FuIGZpbmQgdmFyaW91cyBraW5kcyBvZiA8Yj5ldmVudHMgaGFwcGVuaW5nIG5lYXIgeW91IGluIEJhbmdhbG9yZTwvYj4gb24gb3VyIHBsYXRmb3JtLiBFeHBsb3JlIGZyb20gdmFyaW91cyBsaXN0cyBvZiBjYXRlZ29yaWVzIHN1Y2ggYXMgTmlnaHRsaWZlICZhbXA7IFBhcnRpZXMsJm5ic3A7Li4uSgJpbiICEAFIAFgAaAA",
+      "source": "Eventsflare.com",
+      "read_more_link": "https://eventsflare.com/bangalore%20%20%20%20%20%20%20%20/all-events#:~:text=Eventsflare.com%20aims%20to%20give%20you,such%20as%20Nightlife%20%26%20Parties%2C"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=events+in+Bengaluru&sca_esv=8de974bdd654ed99&sxsrf=APpeQnsFNXjdnxTkAGn-33pnB3exqKmoww:1791376128906&ei=ADvGaojqNpq6qtsPw9GssQ4&start=10&sa=N&sstk=AS6-VmLSUJVPqgIX_nS7R8OcHn2QPh23dui67ykgRHObi-MAzkuhRswB_1mAqD1K6wMjdl32Uj_Erm9Dek4Lo8698QS3oPWR8RqWWw&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQ8NMDegQINhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=events+in+Bengaluru&sca_esv=8de974bdd654ed99&sxsrf=APpeQnsFNXjdnxTkAGn-33pnB3exqKmoww:1791376128906&ei=ADvGaojqNpq6qtsPw9GssQ4&start=10&sa=N&sstk=AS6-VmLSUJVPqgIX_nS7R8OcHn2QPh23dui67ykgRHObi-MAzkuhRswB_1mAqD1K6wMjdl32Uj_Erm9Dek4Lo8698QS3oPWR8RqWWw&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQ8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=events+in+Bengaluru&sca_esv=8de974bdd654ed99&sxsrf=APpeQnsFNXjdnxTkAGn-33pnB3exqKmoww:1791376128906&ei=ADvGaojqNpq6qtsPw9GssQ4&start=20&sa=N&sstk=AS6-VmLSUJVPqgIX_nS7R8OcHn2QPh23dui67ykgRHObi-MAzkuhRswB_1mAqD1K6wMjdl32Uj_Erm9Dek4Lo8698QS3oPWR8RqWWw&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQ8tMDegQINhAG",
+      "4": "https://www.google.com/search?q=events+in+Bengaluru&sca_esv=8de974bdd654ed99&sxsrf=APpeQnsFNXjdnxTkAGn-33pnB3exqKmoww:1791376128906&ei=ADvGaojqNpq6qtsPw9GssQ4&start=30&sa=N&sstk=AS6-VmLSUJVPqgIX_nS7R8OcHn2QPh23dui67ykgRHObi-MAzkuhRswB_1mAqD1K6wMjdl32Uj_Erm9Dek4Lo8698QS3oPWR8RqWWw&ved=2ahUKEwiI6smO9KeXAxUanWoFHcMoK-YQ8tMDegQINhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Bengaluru&q=events+in+Bengaluru&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Bengaluru&q=events+in+Bengaluru&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Bengaluru&q=events+in+Bengaluru&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Bengaluru&q=events+in+Bengaluru&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Bengaluru&q=events+in+Bengaluru&start=30"
+    }
+  }
+}
