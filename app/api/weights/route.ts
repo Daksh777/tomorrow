@@ -6,7 +6,7 @@ import { localDate } from "@/lib/time";
 
 export const dynamic = "force-dynamic";
 
-const KINDS = ["match_stadium", "match_tv", "event", "rain", "holiday", "disruption", "festival", "payday", "aqi", "dry_day"];
+const KINDS = ["match_stadium", "match_tv", "event", "rain", "holiday", "disruption", "festival", "payday", "aqi", "dry_day", "long_weekend"];
 
 /** Current per-signal weights for a place, and which ones the owner set by hand. */
 export async function GET(req: Request) {

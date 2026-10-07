@@ -56,6 +56,12 @@
     "office": -0.3,
     "residential": 0.15
   },
+  "long_weekend": {
+    "_note": "Assumed, not measured. A run of three or more days off (weekend plus a public holiday) or a bridge day between a holiday and a weekend. Office areas empty out as people travel; residential areas get more local outings. Cloud kitchens are left alone.",
+    "office": -0.12,
+    "residential": 0.08,
+    "skip": ["cloud_kitchen"]
+  },
   "windows": {
     "match_stadium_hours_before": 2,
     "match_stadium_hours_after": 2,

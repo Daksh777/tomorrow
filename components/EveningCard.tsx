@@ -18,6 +18,7 @@ const KIND_PHRASE: Record<SignalKind, string> = {
   payday: "the salary cycle (payday week and month-end)",
   aqi: "bad air quality",
   dry_day: "a dry day",
+  long_weekend: "a long weekend or bridge day",
 };
 
 type WeightInfo = Record<string, { w: number; ownerSet: boolean }>;

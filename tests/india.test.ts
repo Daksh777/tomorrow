@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
 import { calendarHoliday, calendarSignals, paydaySignals, stateOf } from "../lib/india";
 import { aqiCategory, airSignals, type AirPayload } from "../lib/signals/air";
-import { holidaySignals } from "../lib/signals/holidays";
+import { holidaySignals, longWeekendSignals } from "../lib/signals/holidays";
 import { forecast } from "../lib/forecast";
 import { WEEKDAYS, type Baseline, type Place, type Signal } from "../lib/types";
 
@@ -101,5 +101,37 @@ describe("multiplier cap", () => {
     const down = forecast({ ...base, signals: [big("festival", -0.9), big("rain", -0.9), big("aqi", -0.9)] });
     expect(up.hourly[12]!).toBeCloseTo(50 * 2.5, 5);
     expect(down.hourly[12]!).toBeCloseTo(50 * 0.3, 5);
+  });
+});
+
+describe("long weekends and bridge days", () => {
+  const lw = (p: Place, d: string) => longWeekendSignals(p, d).map((s) => [s.label, s.effectOverride]);
+  it("Dussehra on Tue 20 Oct 2026: Mon is a bridge day, Tue is not part of a 3-day run", () => {
+    expect(lw(mk({}), "2026-10-19")).toEqual([["Bridge day", -0.12]]);
+    expect(lw(mk({}), "2026-10-20")).toEqual([]);
+  });
+  it("Christmas on Fri 25 Dec 2026 makes Fri to Sun a long weekend", () => {
+    expect(lw(mk({}), "2026-12-25")[0][0]).toBe("Long weekend");
+    expect(lw(mk({}), "2026-12-26")[0][0]).toBe("Long weekend");
+  });
+  it("residential areas go up, plain weekends and cloud kitchens get nothing", () => {
+    expect(lw(mk({ area_type: "residential" }), "2026-12-27")).toEqual([["Long weekend", 0.08]]);
+    expect(lw(mk({}), "2026-10-24")).toEqual([]);
+    expect(lw(mk({ archetype: "cloud_kitchen" }), "2026-12-26")).toEqual([]);
+  });
+  it("is India only", () => {
+    expect(lw(mk({ country: "United Kingdom", city: "London" }), "2026-12-26")).toEqual([]);
+  });
+});
+
+describe("added regional festivals", () => {
+  const names = (p: Place, d: string) => calendarSignals(p, d).map((s) => s.label);
+  it("fire only in their region", () => {
+    expect(names(mk({ archetype: "restaurant", city: "Chennai" }), "2027-01-15")).toContain("Pongal");
+    expect(names(mk({ archetype: "restaurant", city: "Delhi" }), "2027-01-15")).not.toContain("Pongal");
+    expect(names(mk({ archetype: "restaurant", city: "Delhi" }), "2027-01-13")).toContain("Lohri");
+    expect(names(mk({ archetype: "restaurant", city: "Kochi" }), "2027-09-12")).toContain("Thiruvonam");
+    expect(names(mk({ archetype: "restaurant", city: "Pune" }), "2027-09-04")).toContain("Ganesh Chaturthi");
+    expect(names(mk({ archetype: "bar", city: "Delhi" }), "2026-11-24")[0]).toBe("Guru Nanak Jayanti");
   });
 });

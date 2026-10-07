@@ -17,7 +17,8 @@ export type SignalKind =
   | "festival"
   | "payday"
   | "aqi"
-  | "dry_day";
+  | "dry_day"
+  | "long_weekend";
 
 export const WEEKDAYS = [
   "sunday",

@@ -6,7 +6,7 @@ import { eventSignals, fetchEvents } from "./signals/events";
 import { fetchMatches, matchSignals } from "./signals/matches";
 import { fetchWeather, rainSignals } from "./signals/weather";
 import { classifyHeadlines, disruptionSignals, fetchNews } from "./signals/news";
-import { holidaySignals } from "./signals/holidays";
+import { holidaySignals, longWeekendSignals } from "./signals/holidays";
 import { airSignals, fetchAir } from "./signals/air";
 import { calendarSignals, paydaySignals } from "./india";
 import type { Copy, Forecast, Place, Signal, SignalKind } from "./types";
@@ -45,6 +45,7 @@ export async function gatherSignals(place: Place, targetDate: string): Promise<{
   const signals: Signal[] = [];
 
   signals.push(...holidaySignals(place, targetDate));
+  signals.push(...longWeekendSignals(place, targetDate));
   signals.push(...calendarSignals(place, targetDate));
   signals.push(...paydaySignals(place, targetDate));
 
