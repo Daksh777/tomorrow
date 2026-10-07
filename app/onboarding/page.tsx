@@ -256,13 +256,15 @@ export default function Onboarding() {
             </fieldset>
           )}
 
-          <button
-            onClick={save}
-            disabled={busy || !pv.curve}
-            className="w-full rounded-xl bg-ink px-5 py-4 text-base font-semibold text-paper disabled:opacity-40"
-          >
-            {busy ? "Finding what's near you…" : "Show me tomorrow"}
-          </button>
+          <div className="sticky bottom-0 -mx-4 bg-gradient-to-t from-paper from-70% to-transparent px-4 pb-[calc(env(safe-area-inset-bottom)+1rem)] pt-6">
+            <button
+              onClick={save}
+              disabled={busy || !pv.curve}
+              className="w-full rounded-xl bg-ink px-5 py-4 text-base font-semibold text-paper disabled:opacity-40"
+            >
+              {busy ? "Finding what's near you…" : "Show me tomorrow"}
+            </button>
+          </div>
         </div>
       )}
 
