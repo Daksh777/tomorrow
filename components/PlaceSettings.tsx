@@ -88,7 +88,7 @@ export default function PlaceSettings({
                 ))}
               </select>
             </div>
-            <span className="mt-1 block text-xs text-ink/50">Optional. Your whole day, not one item (bills from your billing app work). Turns “30% more” into “about 40 more orders”.</span>
+            <span className="mt-1 block text-xs text-ink/50">Optional. Your total for a normal day, all items together. With it, the card says “about 40 more orders” instead of “30% busier”.</span>
           </fieldset>
           <button
             onClick={save}
