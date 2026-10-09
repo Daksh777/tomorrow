@@ -8,26 +8,9 @@ import { fmtHour } from "@/lib/time";
 import { OWNER_LEVELS, dayRatio } from "@/lib/forecast";
 import { editHeaders, editKeyFor } from "@/lib/editkey-client";
 import PushButton from "./PushButton";
+import { KIND_PHRASE } from "@/lib/kinds";
 import type { Copy, Forecast, Level, SignalKind } from "@/lib/types";
 
-const KIND_PHRASE: Record<SignalKind, string> = {
-  match_stadium: "a match at a stadium near you",
-  match_tv: "a big match on TV",
-  event: "an event nearby",
-  rain: "rain",
-  holiday: "a public holiday",
-  disruption: "a strike or road closure",
-  festival: "a festival like this",
-  payday: "the salary cycle (payday week and month-end)",
-  aqi: "bad air quality",
-  dry_day: "a dry day",
-  long_weekend: "a long weekend or bridge day",
-  hotels: "a jump in hotel prices (visitors arriving)",
-  heat: "a hot afternoon",
-  competitor: "a nearby place being closed",
-  trend: "how fast your reviews are coming in",
-  exams: "exam season",
-};
 
 type WeightInfo = Record<string, { w: number; ownerSet: boolean }>;
 
@@ -143,6 +126,15 @@ export default function EveningCard({
       </div>
 
       {f.baselineSource === "peers" && <p className="mt-2 text-xs text-ink/55">Based on places like yours.</p>}
+      {f.correction && Object.keys(f.correction).length > 0 && (
+        <p className="mt-2 text-xs text-ink/55">
+          Usual line adjusted from Google live readings:{" "}
+          {Object.entries(f.correction)
+            .map(([p, c]) => `${PART_NAME[p].toLowerCase()} ${c!.factor >= 1 ? "+" : "−"}${Math.abs(Math.round((c!.factor - 1) * 100))}%`)
+            .join(", ")}
+          .
+        </p>
+      )}
       {estimate !== null && (
         <p className="mt-3 text-sm text-ink/70">
           About <span className="font-mono font-semibold text-ink tabular">{estimate}</span> {units.unit} tomorrow

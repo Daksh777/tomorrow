@@ -85,6 +85,8 @@ export interface ForecastInput {
   horizonDays?: number;
   /** Band half-width measured from past forecasts against Google's live readings, and how many readings. */
   calibration?: { band: number; n: number } | null;
+  /** How the usual curve was corrected from live readings, passed through to the card. */
+  correction?: Forecast["correction"];
   /** Signal kinds whose weight the owner set by hand (not learned from taps). */
   ownerSet?: SignalKind[];
   taps: number;
@@ -186,6 +188,7 @@ export function forecast(input: ForecastInput): Forecast {
     taps: input.taps,
     tuned: input.taps >= 7,
     baselineSource: input.baselineSource,
+    ...(input.correction && Object.keys(input.correction).length ? { correction: input.correction } : {}),
   };
 }
 

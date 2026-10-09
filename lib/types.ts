@@ -23,7 +23,8 @@ export type SignalKind =
   | "heat"
   | "competitor"
   | "trend"
-  | "exams";
+  | "exams"
+  | "own_event";
 
 export const WEEKDAYS = [
   "sunday",
@@ -136,6 +137,23 @@ export interface Pin {
   links?: SourceLink[];
 }
 
+/** One of the owner's own plans (owner_events). */
+export interface OwnerEvent {
+  id: number;
+  date: string;
+  weekly: boolean;
+  start_hour: number;
+  end_hour: number;
+  label: string;
+  level: "quieter" | "busier" | "much_busier";
+}
+
+/** Multiplier on the usual curve for one part of the day, measured from Google live readings. */
+export interface Correction {
+  factor: number;
+  n: number;
+}
+
 export interface Forecast {
   date: string; // YYYY-MM-DD, local
   weekday: Weekday;
@@ -150,6 +168,8 @@ export interface Forecast {
   taps: number;
   tuned: boolean;
   baselineSource: "own" | "peers";
+  /** Per part of the day: how the usual curve was corrected from live readings (absent when not). */
+  correction?: Partial<Record<DayPart, Correction>>;
 }
 
 export interface Copy {

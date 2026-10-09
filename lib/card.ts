@@ -44,6 +44,7 @@ export async function getCard(place_id: string, date?: string): Promise<StoredCa
       taps,
       tuned: taps >= 7,
       baselineSource: b.baselineSource,
+      ...(b.correction ? { correction: b.correction } : {}),
     };
     return { place, forecast, copy: data.copy as Copy, warnings: [] };
   }

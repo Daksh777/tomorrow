@@ -1,9 +1,9 @@
 import { NextResponse } from "next/server";
 import { db } from "@/lib/db";
+import { dropUpcoming } from "@/lib/invalidate";
 import { loadPlace } from "@/lib/build";
 import { canEdit, editKeyFrom, READ_ONLY } from "@/lib/editkey";
 import { LANGUAGES, asUnit } from "@/lib/languages";
-import { localDate } from "@/lib/time";
 
 export const dynamic = "force-dynamic";
 
@@ -26,6 +26,6 @@ export async function PATCH(req: Request) {
   const sb = db();
   const { error } = await sb.from("places").update(patch).eq("place_id", place_id);
   if (error) return NextResponse.json({ error: error.message }, { status: 502 });
-  await sb.from("forecasts").delete().eq("place_id", place_id).gt("date", localDate(place.timezone));
+  await dropUpcoming(place);
   return NextResponse.json({ ok: true });
 }

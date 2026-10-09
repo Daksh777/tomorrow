@@ -96,3 +96,30 @@ create table if not exists push_subscriptions (
   created_at timestamptz not null default now()
 );
 grant all on push_subscriptions to service_role;
+
+-- The owner's own plans: "Quiz night Friday 8 to 11 pm, much busier". Optionally every week.
+create table if not exists owner_events (
+  id bigint generated always as identity primary key,
+  place_id text not null references places(place_id) on delete cascade,
+  date date not null,                -- first (or only) date
+  weekly boolean not null default false,
+  start_hour smallint not null check (start_hour between 0 and 23),
+  end_hour smallint not null check (end_hour between 1 and 30),
+  label text not null,
+  level text not null check (level in ('quieter', 'busier', 'much_busier')),
+  created_at timestamptz not null default now()
+);
+create index if not exists owner_events_place on owner_events (place_id);
+grant all on owner_events to service_role;
+
+-- One row per SerpApi call, to see what each signal and each place costs.
+create table if not exists serp_log (
+  id bigint generated always as identity primary key,
+  at timestamptz not null default now(),
+  engine text not null,
+  kind text,                         -- events | weather | matches | news | hotels | trends | place | search | ...
+  place_id text,
+  ok boolean not null default true
+);
+create index if not exists serp_log_at on serp_log (at);
+grant all on serp_log to service_role;

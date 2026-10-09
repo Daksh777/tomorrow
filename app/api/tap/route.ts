@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { db } from "@/lib/db";
+import { dropUpcoming } from "@/lib/invalidate";
 import { loadPlace } from "@/lib/build";
 import { scoreDay, updateWeights, type Weights } from "@/lib/forecast";
 import { canEdit, editKeyFrom, READ_ONLY } from "@/lib/editkey";
@@ -57,6 +58,7 @@ export async function POST(req: Request) {
   await sb.from("taps").insert({ place_id, date, value, daypart: daypart ?? null });
   const up = Object.entries(after).map(([signal_kind, w]) => ({ place_id, signal_kind, w }));
   if (up.length) await sb.from("weights").upsert(up);
+  await dropUpcoming(place); // tomorrow's card and the week use the new weights
 
   const changed = Object.fromEntries(
     Object.keys(after)

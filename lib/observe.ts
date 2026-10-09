@@ -1,5 +1,6 @@
 import { db } from "./db";
 import { fetchPlaceDetails } from "./place";
+import { forPlace } from "./serp";
 import { localDate, localHour } from "./time";
 import type { Observation, Place } from "./types";
 
@@ -15,7 +16,11 @@ export async function observeNow(place: Place): Promise<Observation | null> {
   // No table yet (migration not run): don't spend a search on a reading we can't keep.
   if (error) throw new Error("live readings are not set up (run supabase/schema.sql)");
   if (have) return have as Observation;
-  const d = await fetchPlaceDetails(place.place_id);
+  const d = await forPlace(place.place_id, () => fetchPlaceDetails(place.place_id));
+  // The same call carries Google's whole popular-times graph: keep the usual curve current for free.
+  if (place.baseline_source === "own" && d.baseline && JSON.stringify(d.baseline) !== JSON.stringify(place.baseline)) {
+    await sb.from("places").update({ baseline: d.baseline }).eq("place_id", place.place_id);
+  }
   return recordObservation(place, d.live, d.reviews);
 }
 

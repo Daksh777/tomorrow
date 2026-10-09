@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Brand: ink on paper, amber for tomorrow's band, blue for quieter, orange for busier. Light only. */
+/* Brand: ink on paper, amber for tomorrow's band, blue for quieter, orange for busier. Dark follows the phone. */
 :root {
   --ink: 20 24 31;
   --paper: 246 244 239;
@@ -12,6 +12,20 @@
   --busy: 214 98 40;
   --band-alpha: 0.28;
   color-scheme: light;
+}
+
+/* Dark: the same roles flipped. Ink stays warm, the band a little stronger so it reads on a dark surface. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: 236 233 226;
+    --paper: 16 18 22;
+    --surface: 26 29 35;
+    --band: 232 163 61;
+    --quiet: 120 160 245;
+    --busy: 242 133 78;
+    --band-alpha: 0.34;
+    color-scheme: dark;
+  }
 }
 
 html, body { background: rgb(var(--paper)); color: rgb(var(--ink)); }

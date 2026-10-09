@@ -28,6 +28,9 @@ Third Wave gets a stadium pin and reads busier through the afternoon and evening
 - **Send to staff:** a WhatsApp message with the headline, actions and link, or the card as a 1000×1000 PNG (`/api/share`).
 - **Evening push:** "Send me this card every evening" (Web Push; on iPhone after Add to Home Screen). The 6 pm build pushes the headline.
 - **Several outlets:** with more than one place saved, the home page shows each one's headline and day parts.
+- **Your plans:** a quiz night, an offer, a big booking: the owner adds it (once or every week, with a time and "quieter / busier / much busier") and it becomes a pin. Taps tune how far to trust the owner's guesses.
+- **What moves your place** (`/p/<id>/moves`): every signal that has shown up on the cards, how strong it is now against our first guess, where that came from (your taps, your own setting, places like yours) and how sure we are; plus how the place runs against Google's usual curve.
+- **Dark mode** follows the phone, and the last card opened works offline (service worker; production only).
 
 ## The six SerpApi calls
 
@@ -95,6 +98,7 @@ All magnitudes are starting guesses in `config/effects.json` and `config/india-c
 - Learning: `w ← w + 0.2 × outcome × sign(e) × |e|/max|e|`, clamped to 0..2. Each signal gets credit by its share of the day's biggest effect, so a small payday nudge isn't blamed like the stadium match. `outcome` is the tap (−1, 0, +1), or the measured miss from Google's live readings (a 50% miss = a full tap) when it agrees with the tap or the owner said "as expected". "As expected" keeps the weights that produced a right forecast. "Tuned to your place" after 7 taps.
 - Buckets per day part: below −15% quieter, to +15% usual, to +40% busier, above that much busier.
 - Band width grows with opposing signals that overlap in time (including after midnight), with days ahead (+3% a day), and shrinks as taps accumulate. Once live readings have scored past forecasts, the band moves to the width that would have held 80% of them (`n/(n+20)` of the way).
+- **Usual-curve correction:** Google's popular times are an average over months. Live readings in ordinary hours (no pin of 5%+ touching them) give `live / usual` per part of the day, averaged in log space, shrunk towards no change (`n/(n+6)`), then per weekday towards that (`n/(n+4)`), clamped to 0.6–1.5, and only after 3 readings. The card's usual line includes it and says so. Each live reading also refreshes the stored popular-times curve, at no extra cost.
 - `npm run backtest` prints, per place: live readings scored, share inside the band, mean miss, the band that would have held 80%, and how often the owner agreed.
 - An LLM only phrases the headline and two actions from the computed buckets and pins, and classifies news headlines as relevant or not. It uses Claude (`claude-haiku-4-5`) if `ANTHROPIC_API_KEY` is set, otherwise Gemini if `GEMINI_API_KEY` is set. With neither key, or if the call fails, deterministic rule-based copy is used.
 
@@ -112,8 +116,10 @@ cp .env.example .env.local   # fill in the keys
 5. `npm run dev`, open `/`, and onboard a business.
 6. Deploy to Vercel. `vercel.json` has two daily crons (Hobby allows daily only): `/api/cron` at 12:30 UTC (18:00 IST) builds tomorrow's card for every place whose local time is 17:00 or later and has none yet, then pushes it; `/api/observe` at 14:30 UTC (20:00 IST, the evening peak) takes a live reading for every place. Places outside India's timezone need an hourly schedule (Pro) or an external trigger. Test with `/api/cron?force=1`.
 
+Engineering notes: all signal sources are fetched in parallel (pins still come out in a fixed order); the week strip is cached per place for 3 hours and dropped whenever weights, taps, settings or plans change; the nightly cron prunes cached signals older than 60 days and the call log older than 90 (forecasts, taps and live readings are kept: they are the training data); every SerpApi call is logged (`serp_log`: engine, kind, place) and `GET /api/usage` (with `CRON_SECRET`) shows the last 30 days by kind and by place plus what SerpApi says is left this month.
+
 ```bash
-npm test        # forecast maths, learning rule, parsers
+npm test        # forecast maths, learning rule, parsers, and an offline replay of a real day
 npm run typecheck
 ```
 

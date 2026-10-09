@@ -59,5 +59,20 @@ export async function GET(req: Request) {
       }
     }),
   );
-  return NextResponse.json({ built, failed, pushed });
+  return NextResponse.json({ built, failed, pushed, pruned: await prune() });
+}
+
+/**
+ * Keep the tables small: cached signals older than 60 days (Trends keys sit on the 1st of the month, so
+ * 60 keeps the current month) and the SerpApi call log older than 90. Forecasts, taps and live readings
+ * are kept: they are what the model learns from.
+ */
+async function prune(): Promise<{ cache: number; log: number }> {
+  const sb = db();
+  const cutoff = new Date(Date.now() - 60 * 864e5).toISOString().slice(0, 10);
+  const [cache, log] = await Promise.all([
+    sb.from("signal_cache").delete({ count: "exact" }).lt("date", cutoff),
+    sb.from("serp_log").delete({ count: "exact" }).lt("at", new Date(Date.now() - 90 * 864e5).toISOString()),
+  ]);
+  return { cache: cache.count ?? 0, log: log.count ?? 0 };
 }

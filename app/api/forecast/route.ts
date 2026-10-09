@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import { getCard } from "@/lib/card";
 import { buildCard, loadPlace } from "@/lib/build";
 import { addDays, localDate } from "@/lib/time";
+import { cached } from "@/lib/cache";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -21,9 +22,12 @@ export async function GET(req: Request) {
         const { forecast } = await buildCard(place, date, false);
         return { date, weekday: forecast.weekday, buckets: forecast.buckets, pins: forecast.pins.length };
       };
-      // First day alone fills the shared city caches; the rest then run in parallel without refetching.
-      const first = await one(dates[0]);
-      const days = [first, ...(await Promise.all(dates.slice(1).map(one)))];
+      // Cached per place for 3 hours; anything that changes the forecast drops it (lib/invalidate.ts).
+      const days = await cached(`place:${place.place_id}`, localDate(place.timezone), "week", 3, async () => {
+        // First day alone fills the shared city caches; the rest then run in parallel without refetching.
+        const first = await one(dates[0]);
+        return [first, ...(await Promise.all(dates.slice(1).map(one)))];
+      });
       return NextResponse.json({ days });
     }
     const card = await getCard(place_id, sp.get("date") ?? undefined);

@@ -1,6 +1,7 @@
 import "./globals.css";
 import type { Metadata, Viewport } from "next";
 import { Geist_Mono, Schibsted_Grotesk } from "next/font/google";
+import RegisterSW from "@/components/RegisterSW";
 
 // Schibsted Grotesk was drawn for a newspaper group: fits a forecast written like a weather report.
 // Geist Mono carries the numbers (hours, distances, dates) so they line up.
@@ -13,7 +14,10 @@ export const metadata: Metadata = {
   manifest: "/manifest.webmanifest",
 };
 export const viewport: Viewport = {
-  themeColor: "#f6f4ef",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f6f4ef" },
+    { media: "(prefers-color-scheme: dark)", color: "#101216" },
+  ],
   width: "device-width",
   initialScale: 1,
   viewportFit: "cover",
@@ -23,6 +27,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${sans.variable} ${mono.variable}`}>
       <body className="font-sans min-h-dvh">
+        <RegisterSW />
         <div className="mx-auto max-w-md px-4 pt-6 pb-[calc(env(safe-area-inset-bottom)+5rem)]">{children}</div>
       </body>
     </html>

@@ -1,15 +1,15 @@
 import { NextResponse } from "next/server";
 import { db } from "@/lib/db";
+import { dropUpcoming } from "@/lib/invalidate";
 import { loadPlace } from "@/lib/build";
 import { OWNER_LEVELS } from "@/lib/forecast";
-import { localDate } from "@/lib/time";
 import { canEdit, editKeyFrom, READ_ONLY } from "@/lib/editkey";
 
 export const dynamic = "force-dynamic";
 
 const KINDS = [
   "match_stadium", "match_tv", "event", "rain", "holiday", "disruption", "festival", "payday", "aqi", "dry_day", "long_weekend",
-  "hotels", "heat", "competitor", "trend", "exams",
+  "hotels", "heat", "competitor", "trend", "exams", "own_event",
 ];
 
 /** Current per-signal weights for a place, and which ones the owner set by hand. */
@@ -46,6 +46,6 @@ export async function PUT(req: Request) {
   if (q.error) return NextResponse.json({ error: q.error.message }, { status: 502 });
 
   // Keep today's row: the morning tap still needs it. Later days rebuild on next view.
-  await sb.from("forecasts").delete().eq("place_id", place_id).gt("date", localDate(place.timezone));
+  await dropUpcoming(place);
   return NextResponse.json({ ok: true, kind, level: choice.id, w: choice.w });
 }

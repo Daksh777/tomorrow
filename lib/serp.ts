@@ -1,6 +1,7 @@
 import { getJson } from "serpapi";
 import fs from "node:fs";
 import path from "node:path";
+import { AsyncLocalStorage } from "node:async_hooks";
 
 type Params = Record<string, string | number | boolean | undefined>;
 
@@ -20,10 +21,55 @@ export async function serp(params: Params): Promise<any> {
   const clean: Record<string, any> = { api_key };
   for (const [k, v] of Object.entries(params)) if (v !== undefined) clean[k] = v;
 
-  const res = await getJson(clean);
+  let res: any;
+  try {
+    res = await getJson(clean);
+  } catch (e) {
+    await logCall(params, false);
+    throw e;
+  }
+  await logCall(params, true);
 
   if (process.env.SAVE_FIXTURES === "1") saveFixture(params, res);
   return res;
+}
+
+/** Which place a run of calls is for, so the log can show what each place costs. */
+const context = new AsyncLocalStorage<{ place_id?: string }>();
+export function forPlace<T>(place_id: string, fn: () => Promise<T>): Promise<T> {
+  return context.run({ place_id }, fn);
+}
+
+/** What a call was for, from its parameters (never the key). */
+export function callKind(p: Params): string {
+  const q = String(p.q ?? "").toLowerCase();
+  switch (p.engine) {
+    case "google_maps":
+      return p.place_id ? "place" : "maps search";
+    case "google":
+      return q.includes("weather") ? "weather" : q.includes("event") ? "events" : "google";
+    case "google_news":
+      return "news";
+    case "google_sports":
+      return "matches";
+    case "google_hotels":
+      return "hotels";
+    case "google_trends":
+      return "trends";
+    default:
+      return String(p.engine);
+  }
+}
+
+/** One row per call in serp_log. Best-effort: a missing table never breaks a search. */
+async function logCall(params: Params, ok: boolean): Promise<void> {
+  if (process.env.SERP_LOG === "0" || !process.env.SUPABASE_URL) return;
+  try {
+    const { db } = await import("./db");
+    await db().from("serp_log").insert({ engine: String(params.engine), kind: callKind(params), place_id: context.getStore()?.place_id ?? null, ok });
+  } catch {
+    /* logging is optional */
+  }
 }
 
 function saveFixture(params: Params, res: unknown) {

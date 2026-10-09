@@ -10,6 +10,8 @@ import TopBar from "@/components/TopBar";
 import TodayCheck, { type DayForecast } from "@/components/TodayCheck";
 import WeekRecap, { type RecapDay } from "@/components/WeekRecap";
 import PlaceSettings from "@/components/PlaceSettings";
+import OwnerPlans from "@/components/OwnerPlans";
+import { ownerEvents } from "@/lib/ownerEvents";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -32,12 +34,15 @@ export default async function PlacePage({ params }: { params: Promise<{ placeId:
   const weekAgo = addDays(today, -7);
   const sb = db();
   // Last week's stored cards, taps and Google live readings: today's panel and the recap.
-  const [{ data: fcs }, { data: taps }, obs, checkedAt] = await Promise.all([
+  const [{ data: fcs }, { data: taps }, obs, checkedAt, plans] = await Promise.all([
     sb.from("forecasts").select("date, hourly").eq("place_id", placeId).gte("date", weekAgo).lte("date", today).order("date"),
     sb.from("taps").select("date, value").eq("place_id", placeId).gte("date", weekAgo).lte("date", today),
     observationsFor(placeId, weekAgo, today),
     newsCheckedAt(card.place.city),
+    ownerEvents(placeId),
   ]);
+  // Upcoming plans only: one-offs from today on, and every weekly one.
+  const upcoming = plans.filter((e) => e.weekly || e.date >= today);
   const days: DayForecast[] = (fcs ?? []).map((r: any) => ({ date: r.date, hourly: r.hourly.hourly, lo: r.hourly.lo, hi: r.hourly.hi, baseline: r.hourly.baseline }));
   const fc = days.find((d) => d.date === yesterday);
   const todayFc = days.find((d) => d.date === today);
@@ -72,8 +77,16 @@ export default async function PlacePage({ params }: { params: Promise<{ placeId:
           <TodayCheck placeId={placeId} forecast={todayFc} observations={obs.filter((o) => o.date === today)} hourNow={localHour(tz)} />
         </div>
       )}
+      <OwnerPlans placeId={placeId} locked={locked} events={upcoming} tomorrow={localDate(tz, 1)} />
       <WeekStrip placeId={placeId} />
       <WeekRecap days={recap} />
+      <a
+        href={`/p/${encodeURIComponent(placeId)}/moves`}
+        className="mt-3 flex items-center justify-between rounded-xl border border-ink/[0.07] bg-surface px-5 py-4 text-base font-semibold transition-colors active:bg-paper"
+      >
+        What moves your place
+        <span aria-hidden className="text-ink/40">→</span>
+      </a>
       <PlaceSettings
         placeId={placeId}
         locked={locked}

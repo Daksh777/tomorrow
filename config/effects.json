@@ -207,5 +207,22 @@
       "office": 0.3
     }
   },
-  "archetypes_note_new_kinds": "hotels, heat, competitor, trend and exams set their effect per signal (effectOverride); see their sections."
+  "archetypes_note_new_kinds": "hotels, heat, competitor, trend and exams set their effect per signal (effectOverride); see their sections.",
+  "own_event": {
+    "_note": "The owner's own estimate for their plans. Morning taps tune how far to trust it (weight own_event).",
+    "quieter": -0.2,
+    "busier": 0.15,
+    "much_busier": 0.4
+  },
+  "correction": {
+    "_note": "Usual-curve correction from Google live readings: live / usual in hours with no notable pin, averaged in log space per part of the day, shrunk towards no change (n / (n + 6)), then per weekday towards that (n / (n + 4)). Clamped.",
+    "min_usual": 10,
+    "ignore_pin_effect": 0.05,
+    "shrink_part": 6,
+    "shrink_weekday": 4,
+    "min": 0.6,
+    "max": 1.5,
+    "days": 60,
+    "min_readings": 3
+  }
 }
