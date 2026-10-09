@@ -5,6 +5,8 @@
  *   npm run seed-demo                 set up new places; reset every demo place's week to the script
  *   npm run seed-demo -- --refresh    also re-fetch Google details for places already saved (1 to 3 searches each)
  *   npm run seed-demo -- --only toit  just the places whose query contains "toit"
+ *   npm run seed-demo -- --unscript   remove only the scripted part (answers, plans, the weights they taught); keep the places
+ *   npm run seed-demo -- --remove     delete the demo places and everything stored for them
  *
  * Safe to re-run before recording: it clears the demo places' taps, weights, plans and cards and replays
  * the script, so yesterday is unanswered again and can be tapped live. Other places are not touched.
@@ -48,6 +50,26 @@ async function main() {
   const only = args.includes("--only") ? args[args.indexOf("--only") + 1]?.toLowerCase() : null;
   const places = demo.places as unknown as DemoPlace[];
   const sb = db();
+
+  if (args.includes("--unscript") || args.includes("--remove")) {
+    const ids = places.map((p) => p.place_id).filter((id): id is string => !!id);
+    if (args.includes("--remove")) {
+      // Cards, readings, answers, weights and plans go with the place (on delete cascade).
+      await sb.from("signal_cache").delete().in("city", ids.map((id) => `place:${id}`));
+      const { error } = await sb.from("places").delete().in("place_id", ids);
+      if (error) throw new Error(error.message);
+      console.log(`deleted ${ids.length} demo places. Clear config/demo.json's places to hide them from the home page.`);
+    } else {
+      for (const table of ["taps", "weights", "owner_events"]) {
+        const { error } = await sb.from(table).delete().in("place_id", ids);
+        if (error) throw new Error(`${table}: ${error.message}`);
+      }
+      // Upcoming cards were built with the scripted weights: drop them so they rebuild clean.
+      await sb.from("forecasts").delete().in("place_id", ids).gte("date", localDate("Asia/Kolkata"));
+      console.log(`removed the scripted answers and plans from ${ids.length} demo places; Google's data stays.`);
+    }
+    return;
+  }
 
   for (const p of places) {
     if (only && !p.query.toLowerCase().includes(only)) continue;
