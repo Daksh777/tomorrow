@@ -42,8 +42,9 @@ export async function complete(system: string, user: string, maxTokens = 300): P
           maxOutputTokens: maxTokens,
           temperature: 0, // same input, same answer: cards should not change between views
           responseMimeType: "application/json",
-          // Short structured answers: no hidden "thinking" tokens eating the output budget.
-          thinkingConfig: { thinkingBudget: 0 },
+          // Short structured answers: no hidden "thinking" tokens eating the output budget. Gemini 2.x turns it
+          // off with a zero budget; Gemini 3 and later reject that and take a level instead.
+          thinkingConfig: /^gemini-2\./.test(model) ? { thinkingBudget: 0 } : { thinkingLevel: "minimal" },
         },
       }),
     });
