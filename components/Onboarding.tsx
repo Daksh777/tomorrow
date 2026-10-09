@@ -8,6 +8,7 @@ import TopBar from "./TopBar";
 import PlaceSummary from "./PlaceSummary";
 import { editHeaders, saveEditKey } from "@/lib/editkey-client";
 import { LANGUAGES, UNITS } from "@/lib/languages";
+import { DEMO_PLACES } from "@/lib/demo";
 
 interface Hit {
   place_id: string;
@@ -57,6 +58,8 @@ export default function Onboarding() {
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState("");
   const [saved, setSaved] = useState<SavedPlace[]>([]);
+  // Demo restaurants this phone does not already follow.
+  const demos = DEMO_PLACES.filter((d) => !saved.some((p) => p.id === d.id));
   useEffect(() => {
     const sync = () => setSaved(savedPlaces());
     sync();
@@ -229,6 +232,28 @@ export default function Onboarding() {
                     >
                       Remove
                     </button>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          {demos.length > 0 && (
+            <section className="mt-10">
+              <h2 className="text-sm font-medium text-ink/55">Demo restaurants</h2>
+              <ul className="mt-2 divide-y divide-ink/[0.07] overflow-hidden rounded-xl border border-ink/[0.07] bg-surface">
+                {demos.map((p) => (
+                  <li key={p.id}>
+                    <Link
+                      href={`/p/${encodeURIComponent(p.id)}`}
+                      className="flex items-center gap-3 px-4 py-3.5 transition-colors active:bg-paper"
+                    >
+                      <span className="min-w-0 flex-1">
+                        <span className="block truncate font-semibold">{p.name}</span>
+                        <span className="mt-0.5 block truncate text-sm text-ink/55">{p.where}</span>
+                      </span>
+                      <CaretRight size={16} weight="bold" aria-hidden className="shrink-0 text-ink/30" />
+                    </Link>
                   </li>
                 ))}
               </ul>

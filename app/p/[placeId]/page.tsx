@@ -14,6 +14,7 @@ import WeekRecap, { type RecapDay } from "@/components/WeekRecap";
 import PlaceSettings from "@/components/PlaceSettings";
 import OwnerPlans from "@/components/OwnerPlans";
 import { ownerEvents } from "@/lib/ownerEvents";
+import { isDemo } from "@/lib/demo";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -64,6 +65,11 @@ export default async function PlacePage({ params }: { params: Promise<{ placeId:
   return (
     <main>
       <TopBar current={{ id: placeId, name: card.place.name, where: [card.place.area, card.place.city].filter(Boolean).join(", ") }} />
+      {isDemo(placeId) && (
+        <p className="mb-3 rounded-lg bg-band/15 px-4 py-2.5 text-xs leading-relaxed text-ink/70">
+          Demo place. Google&apos;s numbers and every pin are real; the owner&apos;s answers for earlier days were scripted, and yesterday is left for you to answer.
+        </p>
+      )}
       {fc && <MorningTap placeId={placeId} date={yesterday} answered={tap?.value ?? null} locked={locked} />}
       <div className={fc ? "mt-3" : ""}>
         <EveningCard

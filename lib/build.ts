@@ -1,7 +1,8 @@
 import { db } from "./db";
 import { forPlace } from "./serp";
 import { calibrateBand, forecast, type Weights } from "./forecast";
-import { writeCopy } from "./copy";
+import { ruleCopy, writeCopy } from "./copy";
+import { LANGUAGES } from "./languages";
 import { addDays, localDate, weekdayOf } from "./time";
 import { correctedCurve, usualCorrection } from "./correction";
 import { eventSignals, fetchEvents } from "./signals/events";
@@ -102,6 +103,8 @@ function calibrationFrom(h: Awaited<ReturnType<typeof liveHistory>>): { band: nu
 export interface BuildOptions {
   /** Refetch news older than this many hours (default: the nightly 12 h). */
   newsMaxAgeHours?: number;
+  /** Store the phrasebook draft without asking the model (past days, whose words nobody reads). */
+  draftCopy?: boolean;
 }
 
 export async function gatherSignals(place: Place, targetDate: string, opts: BuildOptions = {}): Promise<{ signals: Signal[]; warnings: string[] }> {
@@ -208,7 +211,8 @@ async function build(place: Place, targetDate: string, withCopy: boolean, opts: 
     calibration,
   });
 
-  const copy = withCopy ? await writeCopy(f, place) : { headline: "", actions: ["", ""] as [string, string] };
+  const lang = place.language && place.language in LANGUAGES ? place.language : "en";
+  const copy = withCopy ? (opts.draftCopy ? ruleCopy(f, place.name, place, lang) : await writeCopy(f, place)) : { headline: "", actions: ["", ""] as [string, string] };
 
   if (withCopy) {
     await db().from("forecasts").upsert({

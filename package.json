@@ -10,6 +10,7 @@
     "test": "vitest run",
     "fixtures": "tsx --env-file=.env.local scripts/save-fixtures.ts",
     "seed-today": "tsx --env-file=.env.local scripts/seed-today.ts",
+    "seed-demo": "tsx --env-file=.env.local scripts/seed-demo.ts",
     "reset-test": "tsx --env-file=.env.local scripts/reset-test-state.ts",
     "backtest": "tsx --env-file=.env.local scripts/backtest.ts",
     "observe": "curl -s -X GET http://localhost:3000/api/observe"

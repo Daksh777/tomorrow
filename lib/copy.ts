@@ -24,6 +24,19 @@ export function unitsDelta(f: Pick<Forecast, "hourly" | "baseline">, u: Units | 
   return Math.round((u.usual_daily * delta) / day);
 }
 
+/** Net change over the hours (all pins together, not one), as a fraction of the usual; null without curves. */
+function netChange(f: Pick<Forecast, "hourly" | "baseline">, start: number, end: number): number | null {
+  let usual = 0,
+    delta = 0;
+  for (let h = Math.max(0, Math.floor(start)); h < Math.min(24, Math.ceil(end)); h++) {
+    const b = f.baseline[h];
+    if (b == null || f.hourly[h] == null) continue;
+    usual += b;
+    delta += (f.hourly[h] as number) - b;
+  }
+  return usual ? delta / usual : null;
+}
+
 /** 37 -> 35, 143 -> 140: a count an owner would say. */
 const roundUnits = (n: number) => (n < 20 ? n : Math.round(n / 5) * 5);
 const round10 = (x: number) => Math.max(10, Math.round((x * 100) / 10) * 10);
@@ -52,19 +65,27 @@ export function ruleCopy(f: Forecast, placeName: string, units?: Units, lang: La
     return s <= 0 && e >= 24 ? null : [s, e];
   };
 
-  if (busyPin && !(quietDay && quietPin)) {
+  // A pin acts only if its hours still move once every pin is counted: payday +6% under Pitru Paksha nets +2%.
+  const net = (p: { startHour: number; endHour: number }) => {
+    const w = span(p);
+    return netChange(f, w?.[0] ?? 0, w?.[1] ?? 24);
+  };
+  const busyNet = busyPin ? net(busyPin) : null;
+  const quietNet = quietPin ? net(quietPin) : null;
+
+  if (busyPin && !(quietDay && quietPin) && (busyNet === null || busyNet >= MIN_ACTION_EFFECT)) {
     const w = span(busyPin);
     const n = unitsDelta(f, units, w?.[0] ?? 0, w?.[1] ?? 24);
-    const pct = round10(busyPin.effect);
+    const pct = round10(busyNet ?? busyPin.effect);
     return {
       headline,
       actions: [n && n >= 5 ? t.prepMoreUnits(roundUnits(n), unit, pct, w?.[0] ?? null) : t.prepMore(pct, w?.[0] ?? null), t.staffMore(w)],
     };
   }
-  if (quietPin) {
+  if (quietPin && (quietNet === null || quietNet <= -MIN_ACTION_EFFECT)) {
     const w = span(quietPin);
     const n = unitsDelta(f, units, w?.[0] ?? 0, w?.[1] ?? 24);
-    const pct = round10(-quietPin.effect);
+    const pct = round10(-(quietNet ?? quietPin.effect));
     return {
       headline,
       actions: [n && n <= -5 ? t.prepLessUnits(roundUnits(-n), unit, pct, w) : t.prepLess(pct, w), t.staffLess(w)],
@@ -94,7 +115,7 @@ export async function writeCopy(f: Forecast, place: Pick<Place, "name" | "langua
   try {
     const text = await complete(
       "You write the headline and two actions of a nightly demand forecast for a small food or retail business owner. " +
-        "Plain words, like a weather report. Use ONLY the facts given. Do not add events, causes, or numbers that are not in the facts. " +
+        "The forecast is for tomorrow: never call the day \"today\". Plain words, like a weather report. Use ONLY the facts given. Do not add events, causes, or numbers that are not in the facts. " +
         "Headline: one sentence. Actions: two short sentences about prep and staffing, in the owner's units. " +
         "Keep every percentage, count and clock time from the draft actions exactly as written, in Western digits (0-9). " +
         (lang !== "en"

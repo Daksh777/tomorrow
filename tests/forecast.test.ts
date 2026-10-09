@@ -165,6 +165,13 @@ describe("rule copy", () => {
     expect(ruleCopy(quiet, "x").actions).toEqual(["Prep 30% less all day.", "Quiet all day: you can run with one person fewer."]);
     expect(ruleCopy({ ...base, pins: [payday] }, "x").actions).toEqual(["Prep 10% more of your fast sellers.", "Keep one more person on for your busiest hours."]);
   });
+  it("stays usual when pins cancel out over their hours", () => {
+    const payday = { kind: "payday", label: "Payday week", source: "t", distanceKm: null, startHour: 0, endHour: 24, effect: 0.06 };
+    const curves = { baseline: Array(24).fill(50), hourly: Array(24).fill(51) }; // +6% and -4% net +2%
+    expect(ruleCopy({ ...base, ...curves, pins: [payday, pin(-0.04)] }, "x").actions[0]).toBe("Prep as you usually do on a Friday.");
+    const busy = { baseline: Array(24).fill(50), hourly: Array(24).fill(55) };
+    expect(ruleCopy({ ...base, ...busy, pins: [payday] }, "x").actions[0]).toBe("Prep 10% more of your fast sellers.");
+  });
 });
 
 describe("rule copy in other languages (no model needed)", () => {

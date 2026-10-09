@@ -1,0 +1,152 @@
+{
+  "_about": "Real restaurants for the demo. Google's numbers (popular times, live readings, reviews) and every signal are real. The owner's past morning answers ('taps', days -7 to -2, oldest first: -1 quieter, 0 as expected, 1 busier) and 'plans' are scripted, and the card says so. Yesterday is left unanswered so it can be tapped live. Run `npm run seed-demo`; place_id, name and where are filled in on the first run.",
+  "places": [
+    {
+      "query": "MTR Lalbagh Road Bengaluru",
+      "archetype": "restaurant",
+      "area_type": "residential",
+      "city": "Bengaluru",
+      "area": "Lalbagh",
+      "state": "Karnataka",
+      "usual_daily": 900,
+      "unit": "covers",
+      "language": "kn",
+      "taps": [1, 0, -1, 0, 1, 0],
+      "plans": [],
+      "place_id": "ChIJaaWjpN0VrjsRAsmfiafDlN4",
+      "name": "MTR",
+      "where": "Lalbagh, Bengaluru"
+    },
+    {
+      "query": "Vidyarthi Bhavan Basavanagudi Bengaluru",
+      "archetype": "quick_service",
+      "area_type": "residential",
+      "city": "Bengaluru",
+      "area": "Basavanagudi",
+      "state": "Karnataka",
+      "usual_daily": 1200,
+      "unit": "bills",
+      "language": "en",
+      "taps": [0, 1, 0, 0, -1, 1],
+      "plans": [],
+      "place_id": "ChIJNdCK6PIVrjsR3I4feeftf-0",
+      "name": "Vidyarthi Bhavan",
+      "where": "Basavanagudi, Bengaluru"
+    },
+    {
+      "query": "Toit Brewpub Indiranagar Bengaluru",
+      "archetype": "bar",
+      "area_type": "residential",
+      "city": "Bengaluru",
+      "area": "Indiranagar",
+      "state": "Karnataka",
+      "leagues": ["ICC"],
+      "usual_daily": 700,
+      "unit": "covers",
+      "language": "en",
+      "taps": [1, 1, 0, -1, 0, 1],
+      "plans": [
+        {
+          "weekday": "saturday",
+          "weekly": true,
+          "start_hour": 20,
+          "end_hour": 23,
+          "label": "Live band",
+          "level": "much_busier"
+        }
+      ],
+      "place_id": "ChIJc0JAFaUWrjsRRXSXJPX7YFo",
+      "name": "Toit",
+      "where": "Indiranagar, Bengaluru"
+    },
+    {
+      "query": "Karim's Jama Masjid Delhi",
+      "archetype": "restaurant",
+      "area_type": "residential",
+      "city": "New Delhi",
+      "area": "Jama Masjid",
+      "state": "Delhi",
+      "usual_daily": 800,
+      "unit": "orders",
+      "language": "hi",
+      "taps": [1, 0, 0, -1, 0, -1],
+      "plans": [],
+      "place_id": "ChIJyy_Vxxj9DDkRPXF11X7EfT0",
+      "name": "Karim Hotel",
+      "where": "Jama Masjid, New Delhi"
+    },
+    {
+      "query": "Saravana Bhavan Connaught Place Delhi",
+      "archetype": "restaurant",
+      "area_type": "office",
+      "city": "New Delhi",
+      "area": "Connaught Place",
+      "state": "Delhi",
+      "usual_daily": 1000,
+      "unit": "bills",
+      "language": "en",
+      "taps": [-1, 0, 1, 0, 0, 1],
+      "plans": [
+        {
+          "weekday": "sunday",
+          "weekly": true,
+          "start_hour": 8,
+          "end_hour": 12,
+          "label": "Sunday breakfast thali",
+          "level": "busier"
+        }
+      ],
+      "place_id": "ChIJyQoFpTX9DDkRP9GfG1Ia9p8",
+      "name": "Saravana Bhavan",
+      "where": "Connaught Place, New Delhi"
+    },
+    {
+      "query": "Leopold Cafe Colaba Mumbai",
+      "archetype": "restaurant",
+      "area_type": "residential",
+      "city": "Mumbai",
+      "area": "Colaba",
+      "state": "Maharashtra",
+      "usual_daily": 900,
+      "unit": "covers",
+      "language": "en",
+      "taps": [0, 1, -1, 0, 1, 0],
+      "plans": [],
+      "place_id": "ChIJqSNr-8DR5zsRosXwmBExzRw",
+      "name": "Leopold Cafe",
+      "where": "Colaba, Mumbai"
+    },
+    {
+      "query": "Peter Cat Park Street Kolkata",
+      "archetype": "restaurant",
+      "area_type": "office",
+      "city": "Kolkata",
+      "area": "Park Street",
+      "state": "West Bengal",
+      "usual_daily": 600,
+      "unit": "covers",
+      "language": "bn",
+      "taps": [1, 1, 0, 0, -1, 0],
+      "plans": [],
+      "place_id": "ChIJHQVk-A93AjoRR4ecYP0gZIo",
+      "name": "Peter Cat",
+      "where": "Park Street, Kolkata"
+    },
+    {
+      "query": "Murugan Idli Shop T Nagar Chennai",
+      "archetype": "quick_service",
+      "area_type": "residential",
+      "city": "Chennai",
+      "area": "T Nagar",
+      "state": "Tamil Nadu",
+      "usual_daily": 1500,
+      "unit": "bills",
+      "language": "ta",
+      "taps": [0, -1, 0, 1, 0, 0],
+      "plans": [],
+      "place_id": "ChIJaQsF81ZmUjoR7iCI35SfSpQ",
+      "name": "Murugan Idli Shop",
+      "where": "T Nagar, Chennai"
+    }
+  ]
+}
