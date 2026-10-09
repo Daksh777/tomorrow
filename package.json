@@ -10,7 +10,9 @@
     "test": "vitest run",
     "fixtures": "tsx --env-file=.env.local scripts/save-fixtures.ts",
     "seed-today": "tsx --env-file=.env.local scripts/seed-today.ts",
-    "reset-test": "tsx --env-file=.env.local scripts/reset-test-state.ts"
+    "reset-test": "tsx --env-file=.env.local scripts/reset-test-state.ts",
+    "backtest": "tsx --env-file=.env.local scripts/backtest.ts",
+    "observe": "curl -s -X GET http://localhost:3000/api/observe"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.60.0",
@@ -21,12 +23,14 @@
     "next": "^15.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "serpapi": "^2.1.0"
+    "serpapi": "^2.1.0",
+    "web-push": "^3.6.7"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "@types/web-push": "^3.6.4",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",

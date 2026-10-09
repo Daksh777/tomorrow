@@ -1,7 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import { editHeaders, editKeyFor } from "@/lib/editkey-client";
 
 const OPTIONS = [
   { label: "Quieter", value: -1 },
@@ -11,8 +12,10 @@ const OPTIONS = [
 
 const ANSWERED: Record<number, string> = { [-1]: "quieter", 0: "as expected", 1: "busier" };
 
-export default function MorningTap({ placeId, date, answered }: { placeId: string; date: string; answered: number | null }) {
+export default function MorningTap({ placeId, date, answered, locked }: { placeId: string; date: string; answered: number | null; locked: boolean }) {
   const router = useRouter();
+  const [canTap, setCanTap] = useState(!locked);
+  useEffect(() => setCanTap(!locked || !!editKeyFor(placeId)), [locked, placeId]);
   const [state, setState] = useState<"idle" | "saving" | "done" | "error">(answered === null ? "idle" : "done");
   const [msg, setMsg] = useState(answered === null ? "" : `You said yesterday was ${ANSWERED[answered]}. Thanks.`);
 
@@ -20,7 +23,7 @@ export default function MorningTap({ placeId, date, answered }: { placeId: strin
     setState("saving");
     const r = await fetch("/api/tap", {
       method: "POST",
-      headers: { "content-type": "application/json" },
+      headers: editHeaders(placeId),
       body: JSON.stringify({ place_id: placeId, date, value }),
     });
     const j = await r.json();
@@ -37,10 +40,12 @@ export default function MorningTap({ placeId, date, answered }: { placeId: strin
           ? changed.map(([k, v]) => `${k.replace("_", " ")} weight ${v.from.toFixed(1)} to ${v.to.toFixed(1)}`).join(", ")
           : "Thanks. Noted.",
     );
+    if (j.learnedFrom === "live" && j.score) setMsg((m) => `${m} Learned from Google's live readings (${j.score.inside} of ${j.score.n} inside).`);
     setState("done");
     router.refresh(); // the card's tap counter is counted live
   }
 
+  if (!canTap && state !== "done") return null; // read-only: only the owner's phone trains the forecast
   return (
     <section className="rounded-xl border border-ink/[0.07] bg-surface p-5">
       <h2 className="text-base font-semibold">How was yesterday?</h2>

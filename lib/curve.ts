@@ -8,13 +8,21 @@ export interface CurveGeometry {
   band: string;
   forecast: string;
   x: (hour: number) => number;
+  y: (value: number) => number;
   ticks: { h: number; x: number; label: string }[];
   width: number;
   height: number;
 }
 
 /** One shared geometry for the phone card and the WhatsApp image. */
-export function curveGeometry(f: Forecast, width: number, height: number, pad = 8): CurveGeometry {
+export function curveGeometry(
+  f: Pick<Forecast, "hourly" | "lo" | "hi" | "baseline">,
+  width: number,
+  height: number,
+  pad = 8,
+  /** Extra values the scale must fit (Google's live readings). */
+  extra: number[] = [],
+): CurveGeometry {
   const span = CURVE_TO - CURVE_FROM;
   const x = (h: number) => pad + ((h - CURVE_FROM) / span) * (width - pad * 2);
   const maxV = Math.max(
@@ -22,6 +30,7 @@ export function curveGeometry(f: Forecast, width: number, height: number, pad = 
     40,
     ...f.hi.slice(CURVE_FROM, CURVE_TO + 1).map((v) => v ?? 0),
     ...f.baseline.slice(CURVE_FROM, CURVE_TO + 1).map((v) => v ?? 0),
+    ...extra,
   );
   const y = (v: number) => height - pad - (v / maxV) * (height - pad * 2);
 
@@ -45,6 +54,7 @@ export function curveGeometry(f: Forecast, width: number, height: number, pad = 
     band,
     forecast: line(f.hourly),
     x,
+    y,
     ticks: Object.entries(labels).map(([h, label]) => ({ h: Number(h), x: x(Number(h)), label })),
     width,
     height,

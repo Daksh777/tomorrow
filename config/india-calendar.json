@@ -1,5 +1,5 @@
 {
-  "_note": "India festival and observance calendar, Oct 2026 to Jan 2027, plus Ganesh Chaturthi and Onam 2027. Dates were cross-checked across several panchang/calendar sources on 7 Oct 2026 (Dussehra falls on 20 or 21 Oct depending on the tithi, so both days are listed). Effects are fractional starting guesses by archetype, tuned per place by the morning tap and the owner's weights. `basis`: 'reported' = a published business source describes the direction; 'assumed' = reasoned from how the festival is observed, not measured. `regionGroup` gates an entry to those states. `observance` (optional) scales every effect by how widely the festival is kept where the place is: keys are 'city:<lower-case city>', then the state name, then 'group:<regionGroup name>', then 'default' (1 if absent); 0 means it does not fire, above 1 means bigger than the national norm. Observance values are assumed, not measured. `hours` are local clock hours (past 24 = after midnight).",
+  "_note": "India festival and observance calendar, Oct 2026 to Jan 2027, plus Ganesh Chaturthi and Onam 2027. Dates were cross-checked across several panchang/calendar sources on 7 Oct 2026 (Dussehra falls on 20 or 21 Oct depending on the tithi, so both days are listed). Effects are fractional starting guesses by archetype, tuned per place by the morning tap and the owner's weights. `basis`: 'reported' = a published business source describes the direction; 'assumed' = reasoned from how the festival is observed, not measured. `regionGroup` gates an entry to those states. `observance` (optional) scales every effect by how widely the festival is kept where the place is: keys are 'city:<lower-case city>', then the state name, then 'group:<regionGroup name>', then 'default' (1 if absent); 0 means it does not fire, above 1 means bigger than the national norm. Observance values are assumed, not measured. `hours` are local clock hours (past 24 = after midnight). `trends` (optional): the Google Trends search term used to measure how widely the festival is kept in each state (defaults to the name; false = don't measure).",
   "regionGroups": {
     "north": [
       "Delhi",
@@ -167,7 +167,8 @@
         "city:mumbai": 0.8
       },
       "basis": "assumed",
-      "culture": "Late-night crowds around garba grounds in Gujarat and Mumbai look for quick food after the dance."
+      "culture": "Late-night crowds around garba grounds in Gujarat and Mumbai look for quick food after the dance.",
+      "trends": "Garba"
     },
     {
       "id": "durga_puja",
@@ -243,7 +244,8 @@
         "Madhya Pradesh": 0.7
       },
       "basis": "assumed",
-      "culture": "Couples break the fast at moonrise and many go out to dinner."
+      "culture": "Couples break the fast at moonrise and many go out to dinner.",
+      "trends": "Karva Chauth"
     },
     {
       "id": "karva_chauth_day",
@@ -269,7 +271,8 @@
         "Madhya Pradesh": 0.7
       },
       "basis": "assumed",
-      "culture": "Salons and mehendi stalls are busiest in the hours before moonrise."
+      "culture": "Salons and mehendi stalls are busiest in the hours before moonrise.",
+      "trends": "Karva Chauth"
     },
     {
       "id": "dhanteras",
@@ -297,7 +300,8 @@
         "West Bengal": 0.7
       },
       "basis": "reported (Diwali week is the biggest revenue window); assumed (split by day)",
-      "culture": "Buying gold, utensils and gifts is auspicious; bazaars and malls are crowded into the evening."
+      "culture": "Buying gold, utensils and gifts is auspicious; bazaars and malls are crowded into the evening.",
+      "trends": "Dhanteras"
     },
     {
       "id": "diwali_night",
@@ -327,7 +331,8 @@
         "Goa": 0.6
       },
       "basis": "assumed",
-      "culture": "Families are home for Lakshmi puja; shops close early; eating out picks up again from the next day."
+      "culture": "Families are home for Lakshmi puja; shops close early; eating out picks up again from the next day.",
+      "trends": "Diwali"
     },
     {
       "id": "bhai_dooj",
@@ -354,7 +359,8 @@
         "Kerala": 0.2
       },
       "basis": "assumed",
-      "culture": "Siblings and extended families meet; lunches and dinners out are common."
+      "culture": "Siblings and extended families meet; lunches and dinners out are common.",
+      "trends": "Bhai Dooj"
     },
     {
       "id": "chhath",
@@ -377,7 +383,8 @@
         "Delhi": 0.3
       },
       "basis": "assumed",
-      "culture": "A strict fast kept by many families from Bihar, Jharkhand and eastern UP; fewer eat out."
+      "culture": "A strict fast kept by many families from Bihar, Jharkhand and eastern UP; fewer eat out.",
+      "trends": "Chhath Puja"
     },
     {
       "id": "christmas_eve",
@@ -404,7 +411,8 @@
         "Mizoram": 1.5
       },
       "basis": "assumed",
-      "culture": "Dinners and parties in metros, Goa, Kerala and Northeast towns."
+      "culture": "Dinners and parties in metros, Goa, Kerala and Northeast towns.",
+      "trends": "Christmas"
     },
     {
       "id": "christmas",
@@ -435,7 +443,8 @@
         "Mizoram": 1.5
       },
       "basis": "reported (some restaurants cite +30-40% on Diwali and Christmas)",
-      "culture": "Public holiday; brunch and dinner outings, gift shopping."
+      "culture": "Public holiday; brunch and dinner outings, gift shopping.",
+      "trends": "Christmas"
     },
     {
       "id": "new_years_eve",
@@ -458,7 +467,8 @@
         "Goa": 1.5
       },
       "basis": "assumed",
-      "culture": "Parties and countdown dinners; bars and restaurants book out, delivery spikes after midnight."
+      "culture": "Parties and countdown dinners; bars and restaurants book out, delivery spikes after midnight.",
+      "trends": false
     },
     {
       "id": "gurpurab",
@@ -487,7 +497,8 @@
         "Uttarakhand": 0.4
       },
       "basis": "assumed",
-      "culture": "Langar and processions; families go out in the evening, and many avoid alcohol. Sources differ on 24 or 25 Nov, so both days are listed."
+      "culture": "Langar and processions; families go out in the evening, and many avoid alcohol. Sources differ on 24 or 25 Nov, so both days are listed.",
+      "trends": "Guru Nanak Jayanti"
     },
     {
       "id": "lohri",
@@ -533,7 +544,8 @@
         "retail": 0.1
       },
       "basis": "assumed",
-      "culture": "Kite flying and family lunches. Sources differ on 14 or 15 Jan, so both days are listed."
+      "culture": "Kite flying and family lunches. Sources differ on 14 or 15 Jan, so both days are listed.",
+      "trends": "Makar Sankranti"
     },
     {
       "id": "pongal",
@@ -573,7 +585,8 @@
         "retail": 0.1
       },
       "basis": "assumed",
-      "culture": "Pandal visits and family meals; many avoid alcohol and non-veg on the first day. Only day 1 is listed; the immersion dates are not verified."
+      "culture": "Pandal visits and family meals; many avoid alcohol and non-veg on the first day. Only day 1 is listed; the immersion dates are not verified.",
+      "trends": "Ganesh Chaturthi"
     },
     {
       "id": "onam_2027",
@@ -592,7 +605,8 @@
         "retail": 0.2
       },
       "basis": "assumed",
-      "culture": "Sadya feasts at home and big shopping beforehand; restaurants run special sadya menus. Sources differ on 12 or 13 Sep, so both days are listed."
+      "culture": "Sadya feasts at home and big shopping beforehand; restaurants run special sadya menus. Sources differ on 12 or 13 Sep, so both days are listed.",
+      "trends": "Onam"
     }
   ],
   "dryDays": {

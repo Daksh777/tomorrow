@@ -3,10 +3,14 @@ import { db } from "@/lib/db";
 import { loadPlace } from "@/lib/build";
 import { OWNER_LEVELS } from "@/lib/forecast";
 import { localDate } from "@/lib/time";
+import { canEdit, editKeyFrom, READ_ONLY } from "@/lib/editkey";
 
 export const dynamic = "force-dynamic";
 
-const KINDS = ["match_stadium", "match_tv", "event", "rain", "holiday", "disruption", "festival", "payday", "aqi", "dry_day", "long_weekend"];
+const KINDS = [
+  "match_stadium", "match_tv", "event", "rain", "holiday", "disruption", "festival", "payday", "aqi", "dry_day", "long_weekend",
+  "hotels", "heat", "competitor", "trend", "exams",
+];
 
 /** Current per-signal weights for a place, and which ones the owner set by hand. */
 export async function GET(req: Request) {
@@ -32,6 +36,7 @@ export async function PUT(req: Request) {
   }
   const place = await loadPlace(place_id);
   if (!place) return NextResponse.json({ error: "unknown place" }, { status: 404 });
+  if (!canEdit(place, editKeyFrom(req))) return NextResponse.json({ error: READ_ONLY }, { status: 403 });
   const sb = db();
 
   const q =

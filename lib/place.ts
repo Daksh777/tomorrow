@@ -2,6 +2,7 @@ import { serp } from "./serp";
 import { haversineKm } from "./geo";
 import {
   WEEKDAYS,
+  type Peer,
   type Anchor,
   type Archetype,
   type Baseline,
@@ -74,8 +75,42 @@ export interface PlaceDetails {
   types: string[];
   reviews: number;
   baseline: Baseline | null;
-  live: { score: number | null; info: string | null };
+  /** Google's live reading for the current hour (graph_results[day][i].live_busyness_score where current=true). */
+  live: { score: number | null; usual: number | null; hour: number | null; info: string | null };
+  /** weekday -> "8 AM–12 AM" | "Closed" */
+  hours: Partial<Record<Weekday, string>> | null;
+  /** "Temporarily closed" / "Permanently closed" */
+  closed: string | null;
   events: any[];
+}
+
+/**
+ * Real shape (fixtures/google-maps-ChIJoVIBOaUXrjsRbF451NgeXrA-1791559003173.json): the live score sits
+ * on the current hour's point inside graph_results, next to that hour's usual score; live_hash only
+ * carries words ("A little busy"). There is no top-level live_busyness_score.
+ */
+export function liveFromPopularTimes(popular: any): PlaceDetails["live"] {
+  const info = popular?.live_hash?.info ?? null;
+  for (const day of Object.values(popular?.graph_results ?? {}) as any[]) {
+    for (const pt of Array.isArray(day) ? day : []) {
+      if (!pt?.current) continue;
+      return {
+        score: typeof pt.live_busyness_score === "number" ? pt.live_busyness_score : null,
+        usual: typeof pt.busyness_score === "number" ? pt.busyness_score : null,
+        hour: parseHourLabel(String(pt.time)),
+        info,
+      };
+    }
+  }
+  return { score: null, usual: null, hour: null, info };
+}
+
+/** hours: [{ friday: "8 AM–12 AM" }, ...] -> { friday: "8 AM–12 AM", ... } */
+export function hoursFrom(raw: any): Partial<Record<Weekday, string>> | null {
+  if (!Array.isArray(raw)) return raw && typeof raw === "object" ? (raw as any) : null;
+  const out: Partial<Record<Weekday, string>> = {};
+  for (const row of raw) for (const [k, v] of Object.entries(row ?? {})) if ((WEEKDAYS as readonly string[]).includes(k)) out[k as Weekday] = String(v);
+  return Object.keys(out).length ? out : null;
 }
 
 /** Your weekly rhythm: engine=google_maps, place_id=<id>. */
@@ -92,10 +127,9 @@ export async function fetchPlaceDetails(place_id: string): Promise<PlaceDetails>
     types: Array.isArray(p.type) ? p.type : p.type ? [p.type] : [],
     reviews: p.reviews ?? 0,
     baseline: curvesFromPopularTimes(popular),
-    live: {
-      score: popular?.live_busyness_score ?? null,
-      info: popular?.live_hash?.info ?? null,
-    },
+    live: liveFromPopularTimes(popular),
+    hours: hoursFrom(p.hours ?? p.operating_hours),
+    closed: /closed/i.test(String(p.open_state ?? "")) && /temporar|permanent/i.test(String(p.open_state)) ? String(p.open_state) : null,
     events: p.events ?? res.events ?? [],
   };
 }
@@ -273,4 +307,35 @@ export async function lookupTimezone(lat: number, lng: number): Promise<string> 
     /* fall through */
   }
   return lat > 6 && lat < 36 && lng > 68 && lng < 98 ? "Asia/Kolkata" : "UTC";
+}
+
+/**
+ * Up to 5 nearby places of the same type, with their weekly hours: if one is shut tomorrow, some of its
+ * crowd comes to you. One search plus one details call each, refreshed weekly (lib/signals/competitors.ts).
+ */
+export async function findPeers(lat: number, lng: number, typeQuery: string, excludePlaceId: string, radiusKm = 1): Promise<Peer[]> {
+  const res = await serp({ engine: "google_maps", type: "search", q: typeQuery, ll: `@${lat},${lng},16z` });
+  const near = (res.local_results ?? [])
+    .filter((r: any) => r.place_id && r.place_id !== excludePlaceId && r.gps_coordinates)
+    .map((r: any) => ({ r, d: haversineKm({ lat, lng }, { lat: r.gps_coordinates.latitude, lng: r.gps_coordinates.longitude }) }))
+    .filter((x: any) => x.d <= radiusKm)
+    .sort((a: any, b: any) => a.d - b.d)
+    .slice(0, 5);
+  const out: Peer[] = [];
+  for (const { r } of near) {
+    // Search rows often carry hours already; only fetch details when they don't.
+    let hours = hoursFrom(r.operating_hours ?? r.hours);
+    let closed: string | null = /temporar|permanent/i.test(String(r.open_state ?? "")) ? String(r.open_state) : null;
+    if (!hours) {
+      try {
+        const d = await fetchPlaceDetails(r.place_id);
+        hours = d.hours;
+        closed = d.closed;
+      } catch {
+        /* keep the peer without hours */
+      }
+    }
+    out.push({ place_id: r.place_id, name: r.title, lat: r.gps_coordinates.latitude, lng: r.gps_coordinates.longitude, hours, closed });
+  }
+  return out;
 }

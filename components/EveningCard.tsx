@@ -5,7 +5,9 @@ import { useRouter } from "next/navigation";
 import { ArrowDown, ArrowUp, ArrowUpRight, CaretDown, Minus } from "@phosphor-icons/react";
 import { curveGeometry } from "@/lib/curve";
 import { fmtHour } from "@/lib/time";
-import { OWNER_LEVELS } from "@/lib/forecast";
+import { OWNER_LEVELS, dayRatio } from "@/lib/forecast";
+import { editHeaders, editKeyFor } from "@/lib/editkey-client";
+import PushButton from "./PushButton";
 import type { Copy, Forecast, Level, SignalKind } from "@/lib/types";
 
 const KIND_PHRASE: Record<SignalKind, string> = {
@@ -20,6 +22,11 @@ const KIND_PHRASE: Record<SignalKind, string> = {
   aqi: "bad air quality",
   dry_day: "a dry day",
   long_weekend: "a long weekend or bridge day",
+  hotels: "a jump in hotel prices (visitors arriving)",
+  heat: "a hot afternoon",
+  competitor: "a nearby place being closed",
+  trend: "how fast your reviews are coming in",
+  exams: "exam season",
 };
 
 type WeightInfo = Record<string, { w: number; ownerSet: boolean }>;
@@ -41,21 +48,33 @@ const PART_NAME: Record<string, string> = {
 
 export default function EveningCard({
   placeId,
+  placeName,
   forecast: f,
   copy,
   warnings,
   newsChecked,
+  units,
+  locked,
 }: {
   placeId: string;
+  placeName: string;
   forecast: Forecast;
   copy: Copy;
   warnings: string[];
   newsChecked: string | null;
+  units: { usual_daily: number | null; unit: string | null };
+  locked: boolean;
 }) {
   const router = useRouter();
   const [open, setOpen] = useState<number | null>(null);
   const [weights, setWeights] = useState<WeightInfo>({});
   const [saving, setSaving] = useState(false);
+  const [canEdit, setCanEdit] = useState(!locked);
+  const [origin, setOrigin] = useState("");
+  useEffect(() => {
+    setCanEdit(!locked || !!editKeyFor(placeId));
+    setOrigin(window.location.origin);
+  }, [locked, placeId]);
 
   useEffect(() => {
     fetch(`/api/weights?place_id=${encodeURIComponent(placeId)}`)
@@ -68,7 +87,7 @@ export default function EveningCard({
     setSaving(true);
     const r = await fetch("/api/weights", {
       method: "PUT",
-      headers: { "content-type": "application/json" },
+      headers: editHeaders(placeId),
       body: JSON.stringify({ place_id: placeId, kind, level }),
     });
     setSaving(false);
@@ -83,6 +102,11 @@ export default function EveningCard({
     router.refresh(); // the card rebuilds with the new weight
   }
   const g = curveGeometry(f, 360, 170);
+  const ratio = dayRatio(f);
+  const estimate = units.usual_daily && units.unit ? Math.round((units.usual_daily * ratio) / 5) * 5 : null;
+  const whatsapp = `https://wa.me/?text=${encodeURIComponent(
+    `Tomorrow at ${placeName}: ${copy.headline}\n1. ${copy.actions[0]}\n2. ${copy.actions[1]}${origin ? `\n${origin}/p/${encodeURIComponent(placeId)}` : ""}`,
+  )}`;
   const day = f.weekday[0].toUpperCase() + f.weekday.slice(1);
   const dateLabel = new Date(`${f.date}T12:00:00`).toLocaleDateString("en-GB", { day: "numeric", month: "short" });
 
@@ -119,6 +143,16 @@ export default function EveningCard({
       </div>
 
       {f.baselineSource === "peers" && <p className="mt-2 text-xs text-ink/55">Based on places like yours.</p>}
+      {estimate !== null && (
+        <p className="mt-3 text-sm text-ink/70">
+          About <span className="font-mono font-semibold text-ink tabular">{estimate}</span> {units.unit} tomorrow
+          <span className="text-ink/50">
+            {" "}
+            (usual {units.usual_daily}, {ratio >= 1 ? "+" : "−"}
+            {Math.abs(Math.round((ratio - 1) * 100))}%)
+          </span>
+        </p>
+      )}
 
       <dl className="mt-5 grid grid-cols-5 border-y border-ink/[0.07] py-3 text-center">
         {DAYPART_ORDER.map((part) => {
@@ -179,12 +213,14 @@ export default function EveningCard({
                   {p.source}. {fmtHour(p.startHour)} to {fmtHour(p.endHour)}
                   {p.distanceKm !== null && `, ${p.distanceKm.toFixed(1)} km away`}.
                 </p>
-                <WeightPicker
-                  phrase={KIND_PHRASE[p.kind]}
-                  info={weights[p.kind]}
-                  disabled={saving}
-                  onPick={(level) => setLevel(p.kind, level)}
-                />
+                {canEdit && (
+                  <WeightPicker
+                    phrase={KIND_PHRASE[p.kind]}
+                    info={weights[p.kind]}
+                    disabled={saving}
+                    onPick={(level) => setLevel(p.kind, level)}
+                  />
+                )}
               </div>
             )}
           </li>
@@ -203,24 +239,33 @@ export default function EveningCard({
         ))}
       </ol>
 
-      <div className="mt-4 flex items-center justify-between gap-3">
-        <span className="text-xs text-ink/50">
-          {f.tuned ? (
-            "Tuned to your place"
-          ) : (
-            <>
-              Learning your place <span className="whitespace-nowrap font-mono tabular">{f.taps}/7</span>
-            </>
-          )}
-        </span>
+      <div className="mt-4 grid grid-cols-[auto_1fr] gap-2">
         <a
           href={`/api/share?place_id=${encodeURIComponent(placeId)}&date=${f.date}`}
           target="_blank"
-          className="shrink-0 rounded-lg bg-ink px-4 py-2.5 text-sm font-medium text-paper transition-transform active:scale-[0.98]"
+          className="rounded-lg bg-paper px-4 py-2.5 text-center text-sm font-medium transition-transform active:scale-[0.98]"
         >
-          Share to staff
+          Image
+        </a>
+        <a
+          href={whatsapp}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-lg bg-ink px-4 py-2.5 text-center text-sm font-medium text-paper transition-transform active:scale-[0.98]"
+        >
+          Send to staff on WhatsApp
         </a>
       </div>
+      <PushButton placeId={placeId} />
+      <p className="mt-3 text-xs text-ink/50">
+        {f.tuned ? (
+          "Tuned to your place"
+        ) : (
+          <>
+            Learning your place <span className="whitespace-nowrap font-mono tabular">{f.taps}/7</span>
+          </>
+        )}
+      </p>
 
       {warnings.length > 0 && (
         <p className="mt-3 text-xs text-ink/45">Some sources were unavailable: {warnings.map((w) => w.split(":")[0]).join(", ")}.</p>

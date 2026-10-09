@@ -4,6 +4,9 @@ import { useEffect, useState } from "react";
 import { ArrowLeft, CaretRight } from "@phosphor-icons/react";
 import { PLACES_EVENT, forgetPlace, rememberPlace, savedPlaces, type SavedPlace } from "@/lib/saved";
 import TopBar from "./TopBar";
+import PlaceSummary from "./PlaceSummary";
+import { editHeaders, saveEditKey } from "@/lib/editkey-client";
+import { LANGUAGES } from "@/lib/languages";
 
 interface Hit {
   place_id: string;
@@ -47,6 +50,9 @@ export default function Onboarding() {
   const [city, setCity] = useState("");
   const [area, setArea] = useState("");
   const [leagues, setLeagues] = useState<string[]>([]);
+  const [usualDaily, setUsualDaily] = useState("");
+  const [unit, setUnit] = useState("");
+  const [language, setLanguage] = useState("en");
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState("");
   const [saved, setSaved] = useState<SavedPlace[]>([]);
@@ -89,7 +95,7 @@ export default function Onboarding() {
     setErr("");
     const r = await fetch("/api/place", {
       method: "POST",
-      headers: { "content-type": "application/json" },
+      headers: editHeaders(pv.place_id),
       body: JSON.stringify({
         place_id: pv.place_id,
         archetype,
@@ -100,6 +106,9 @@ export default function Onboarding() {
         area,
         state: pv.state,
         country: pv.country,
+        usual_daily: usualDaily ? Number(usualDaily) : null,
+        unit,
+        language,
       }),
     });
     const j = await r.json();
@@ -107,6 +116,7 @@ export default function Onboarding() {
       setBusy(false);
       return setErr(j.error);
     }
+    if (j.editKey) saveEditKey(pv.place_id, j.editKey);
     rememberPlace({ id: pv.place_id, name: pv.title.split("|")[0].trim(), where: [area, city].filter(Boolean).join(", ") });
     window.location.href = `/p/${encodeURIComponent(pv.place_id)}`;
   }
@@ -207,6 +217,7 @@ export default function Onboarding() {
                       <span className="min-w-0 flex-1">
                         <span className="block truncate font-semibold">{p.name}</span>
                         {p.where && <span className="mt-0.5 block truncate text-sm text-ink/55">{p.where}</span>}
+                        {saved.length > 1 && <PlaceSummary id={p.id} />}
                       </span>
                       <CaretRight size={16} weight="bold" aria-hidden className="shrink-0 text-ink/30" />
                     </a>
@@ -326,6 +337,43 @@ export default function Onboarding() {
               onChange={(e) => setRadius(Number(e.target.value))}
               className="mt-3 w-full accent-[rgb(var(--ink))]"
             />
+          </label>
+
+          <fieldset>
+            <legend className="text-sm font-medium">On a usual day you sell about</legend>
+            <div className="mt-1.5 flex gap-2">
+              <input
+                inputMode="numeric"
+                value={usualDaily}
+                onChange={(e) => setUsualDaily(e.target.value.replace(/\D/g, ""))}
+                placeholder="300"
+                aria-label="How many"
+                className="w-28 rounded-lg border border-ink/15 bg-surface px-3 py-3 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10"
+              />
+              <input
+                value={unit}
+                onChange={(e) => setUnit(e.target.value)}
+                placeholder="coffees"
+                aria-label="Of what"
+                className="min-w-0 flex-1 rounded-lg border border-ink/15 bg-surface px-3 py-3 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10"
+              />
+            </div>
+            <span className="mt-1 block text-xs font-normal text-ink/50">Optional. Turns “30% more” into “about 40 more coffees”.</span>
+          </fieldset>
+
+          <label className="block text-sm font-medium">
+            Write the card in
+            <select
+              value={language}
+              onChange={(e) => setLanguage(e.target.value)}
+              className="mt-1.5 w-full rounded-lg border border-ink/15 bg-surface px-3 py-3 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10"
+            >
+              {Object.entries(LANGUAGES).map(([k, v]) => (
+                <option key={k} value={k}>
+                  {v}
+                </option>
+              ))}
+            </select>
           </label>
 
           {pv.leagueOptions.length > 0 && (

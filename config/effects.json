@@ -60,7 +60,9 @@
     "_note": "Assumed, not measured. A run of three or more days off (weekend plus a public holiday) or a bridge day between a holiday and a weekend. Office areas empty out as people travel; residential areas get more local outings. Cloud kitchens are left alone.",
     "office": -0.12,
     "residential": 0.08,
-    "skip": ["cloud_kitchen"]
+    "skip": [
+      "cloud_kitchen"
+    ]
   },
   "windows": {
     "match_stadium_hours_before": 2,
@@ -130,5 +132,80 @@
       "retail": 1.0,
       "salon": 0.8
     }
-  }
+  },
+  "hotels": {
+    "_note": "Assumed, not measured. Hotel prices for tomorrow night against the same weekday two weeks later, matched hotel by hotel (Google Hotels via SerpApi). A jump means visitors are arriving (a concert, conference, wedding season) before any listing says so. Full effect at a 50% rise; nothing below 15%.",
+    "min_rise": 0.15,
+    "full_rise": 0.5,
+    "min_matched": 6,
+    "effect": {
+      "cafe": 0.08,
+      "restaurant": 0.1,
+      "bar": 0.12,
+      "quick_service": 0.1,
+      "cloud_kitchen": 0.03,
+      "retail": 0.08,
+      "salon": 0.02
+    },
+    "hours": [
+      10,
+      23
+    ]
+  },
+  "heat": {
+    "_note": "Assumed. Hours whose feels-like temperature (heat index) reaches 40 C keep people off the street; delivery gains. From the SerpApi weather answer box (temperature and humidity) or Open-Meteo's apparent temperature.",
+    "min_feels_c": 40,
+    "effect": {
+      "cafe": -0.1,
+      "restaurant": -0.05,
+      "bar": -0.05,
+      "quick_service": -0.08,
+      "cloud_kitchen": 0.1,
+      "retail": -0.12,
+      "salon": -0.1
+    }
+  },
+  "competitor": {
+    "_note": "Assumed. Each nearby place of the same type that is shut tomorrow (by its Google hours, or temporarily closed) sends some of its crowd to you. Linear falloff to zero at 1 km, summed, capped.",
+    "per_peer": 0.04,
+    "cap": 0.12,
+    "radius_km": 1
+  },
+  "trend": {
+    "_note": "Assumed. Review velocity from our own snapshots of the review count: reviews per day over the last 14 days against the 42 days before. A place being discovered gets more walk-ins. Needs about 4 weeks of readings before it fires.",
+    "per_doubling": 0.05,
+    "min": -0.06,
+    "max": 0.08,
+    "recent_days": 14,
+    "prior_days": 42
+  },
+  "exams": {
+    "_note": "Assumed, approximate. Board-exam season: families with school children stay in on evenings in residential areas; delivery picks up a little. The 2027 CBSE date sheet was not out on 9 Oct 2026; the window follows the usual mid-February to March pattern and must be replaced with the published dates.",
+    "windows": [
+      {
+        "name": "Board exam season (approximate)",
+        "start": "2027-02-15",
+        "end": "2027-03-31",
+        "basis": "assumed"
+      }
+    ],
+    "hours": [
+      17,
+      23
+    ],
+    "effect": {
+      "cafe": -0.04,
+      "restaurant": -0.05,
+      "bar": 0.0,
+      "quick_service": -0.03,
+      "cloud_kitchen": 0.05,
+      "retail": -0.03,
+      "salon": -0.03
+    },
+    "area_type": {
+      "residential": 1.0,
+      "office": 0.3
+    }
+  },
+  "archetypes_note_new_kinds": "hotels, heat, competitor, trend and exams set their effect per signal (effectOverride); see their sections."
 }

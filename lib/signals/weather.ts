@@ -2,12 +2,13 @@ import { serp } from "../serp";
 import { cached } from "../cache";
 import { serpLocation } from "../location";
 import { fmtHour } from "../time";
+import effects from "../../config/effects.json";
 import type { Place, Signal } from "../types";
 
 export interface WeatherPayload {
   source: "SerpApi answer box" | "Open-Meteo";
-  /** date -> hour(0..23) -> { rain: 0..100 probability, mm } */
-  days: Record<string, Record<string, { rain: number; mm: number }>>;
+  /** date -> hour(0..23) -> { rain: 0..100 probability, mm, feels: feels-like °C when known } */
+  days: Record<string, Record<string, { rain: number; mm: number; feels?: number }>>;
 }
 
 const WEEKDAYS = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
@@ -21,6 +22,7 @@ const WEEKDAYS = ["sunday", "monday", "tuesday", "wednesday", "thursday", "frida
 export function fromAnswerBox(res: any, fetchDate: string): WeatherPayload | null {
   const rows: any[] = res.answer_box?.hourly_forecast ?? [];
   if (!Array.isArray(rows) || rows.length < 12) return null;
+  const fahrenheit = !/celsius/i.test(String(res.answer_box?.unit ?? "Fahrenheit"));
   const base = new Date(`${fetchDate}T00:00:00Z`);
   const dateOf: Record<string, string> = {};
   for (let i = 0; i < 8; i++) {
@@ -34,7 +36,12 @@ export function fromAnswerBox(res: any, fetchDate: string): WeatherPayload | nul
     if (!m || !date) continue;
     const h = (Number(m[2]) % 12) + (m[3].toUpperCase() === "PM" ? 12 : 0);
     const p = parseInt(String(r.precipitation ?? "0"), 10);
-    (days[date] ??= {})[String(h)] ??= { rain: isNaN(p) ? 0 : p, mm: 0 };
+    const t = parseFloat(String(r.temperature ?? ""));
+    const rh = parseFloat(String(r.humidity ?? ""));
+    const tc = isNaN(t) ? null : fahrenheit ? ((t - 32) * 5) / 9 : t;
+    const row: { rain: number; mm: number; feels?: number } = { rain: isNaN(p) ? 0 : p, mm: 0 };
+    if (tc !== null) row.feels = Math.round(heatIndexC(tc, isNaN(rh) ? 50 : rh) * 10) / 10;
+    (days[date] ??= {})[String(h)] ??= row;
   }
   return Object.keys(days).length ? { source: "SerpApi answer box", days } : null;
 }
@@ -43,7 +50,7 @@ export function fromAnswerBox(res: any, fetchDate: string): WeatherPayload | nul
 async function openMeteo(lat: number, lng: number, tz: string): Promise<WeatherPayload> {
   const url =
     `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lng}` +
-    `&hourly=precipitation_probability,precipitation&forecast_days=7&timezone=${encodeURIComponent(tz)}`;
+    `&hourly=precipitation_probability,precipitation,apparent_temperature&forecast_days=7&timezone=${encodeURIComponent(tz)}`;
   const r = await fetch(url);
   if (!r.ok) throw new Error(`Open-Meteo ${r.status}`);
   const j: any = await r.json();
@@ -54,6 +61,7 @@ async function openMeteo(lat: number, lng: number, tz: string): Promise<WeatherP
     (days[date] ??= {})[h] = {
       rain: j.hourly.precipitation_probability[i] ?? 0,
       mm: j.hourly.precipitation[i] ?? 0,
+      ...(typeof j.hourly.apparent_temperature?.[i] === "number" ? { feels: j.hourly.apparent_temperature[i] } : {}),
     };
   });
   return { source: "Open-Meteo", days };
@@ -101,6 +109,51 @@ export function rainSignals(payload: WeatherPayload, targetDate: string): Signal
       startHour: s,
       endHour: h,
       size: 1,
+    });
+  }
+  return out;
+}
+
+/**
+ * Feels-like temperature (°C) from air temperature and relative humidity: the US NWS heat index
+ * (Rothfusz regression), which is the usual one. Below 27 °C it is just the temperature.
+ */
+export function heatIndexC(tc: number, rh: number): number {
+  if (tc < 27) return tc;
+  const T = (tc * 9) / 5 + 32;
+  const hi =
+    -42.379 + 2.04901523 * T + 10.14333127 * rh - 0.22475541 * T * rh - 0.00683783 * T * T -
+    0.05481717 * rh * rh + 0.00122874 * T * T * rh + 0.00085282 * T * rh * rh - 0.00000199 * T * T * rh * rh;
+  return ((hi - 32) * 5) / 9;
+}
+
+/** Contiguous hours whose feels-like temperature reaches the threshold become one pin. */
+export function heatSignals(place: Place, payload: WeatherPayload, targetDate: string): Signal[] {
+  const hours = payload.days[targetDate];
+  const c = effects.heat;
+  const base = (c.effect as Record<string, number>)[place.archetype] ?? 0;
+  if (!hours || !base) return [];
+  const hot = (h: number) => (hours[String(h)]?.feels ?? -99) >= c.min_feels_c;
+  const out: Signal[] = [];
+  let h = 0;
+  while (h < 24) {
+    if (!hot(h)) {
+      h++;
+      continue;
+    }
+    const s = h;
+    let peak = 0;
+    while (h < 24 && hot(h)) peak = Math.max(peak, hours[String(h++)].feels!);
+    out.push({
+      kind: "heat",
+      label: `Feels like ${Math.round(peak)}°C, ${fmtHour(s)} to ${fmtHour(h)}`,
+      source: payload.source,
+      detail: "Heat keeps people off the street in the afternoon; delivery picks up.",
+      distanceKm: null,
+      startHour: s,
+      endHour: h,
+      size: 1,
+      effectOverride: base,
     });
   }
   return out;

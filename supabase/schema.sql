@@ -66,3 +66,33 @@ alter table places add column if not exists area text;
 
 -- Indian state, for regional festivals (Durga Puja, Karva Chauth, Chhath, Garba).
 alter table places add column if not exists state text;
+
+-- Live busyness readings (Google's "live" popular-times score), the ground truth that scores each forecast.
+create table if not exists observations (
+  place_id text not null references places(place_id) on delete cascade,
+  date date not null,                -- local date of the reading
+  hour smallint not null check (hour between 0 and 23),
+  live double precision,             -- Google's live score, same 0..100 scale as popular times; null when Google shows none
+  usual double precision,            -- Google's usual score for that hour
+  reviews integer,                   -- review count at the time, for review velocity
+  fetched_at timestamptz not null default now(),
+  primary key (place_id, date, hour)
+);
+grant all on observations to service_role;
+
+-- Edit key: the phone that set a place up gets a secret; taps and weight changes need it. No accounts.
+alter table places add column if not exists edit_key_hash text;
+-- "About 300 coffees on a usual day": turns percentages into quantities on the card.
+alter table places add column if not exists usual_daily integer;
+alter table places add column if not exists unit text;
+-- Language for the headline and actions: en, hi, kn, ta, bn.
+alter table places add column if not exists language text not null default 'en';
+
+-- Web Push subscriptions: the card arrives on the phone at 7 pm.
+create table if not exists push_subscriptions (
+  endpoint text primary key,
+  place_id text not null references places(place_id) on delete cascade,
+  subscription jsonb not null,
+  created_at timestamptz not null default now()
+);
+grant all on push_subscriptions to service_role;

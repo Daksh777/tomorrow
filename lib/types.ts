@@ -18,7 +18,12 @@ export type SignalKind =
   | "payday"
   | "aqi"
   | "dry_day"
-  | "long_weekend";
+  | "long_weekend"
+  | "hotels"
+  | "heat"
+  | "competitor"
+  | "trend"
+  | "exams";
 
 export const WEEKDAYS = [
   "sunday",
@@ -61,6 +66,34 @@ export interface Place {
   baseline: Baseline;
   baseline_source: "own" | "peers";
   anchors: Anchor[];
+  /** "About 300 coffees on a usual day" (optional): turns percentages into quantities. */
+  usual_daily?: number | null;
+  unit?: string | null;
+  /** Language for the headline and actions. */
+  language?: Language | null;
+  edit_key_hash?: string | null;
+}
+
+export type Language = "en" | "hi" | "kn" | "ta" | "bn";
+
+export interface Peer {
+  place_id: string;
+  name: string;
+  lat: number;
+  lng: number;
+  /** weekday -> "8 AM–12 AM" | "Closed"; null when Google gives no hours */
+  hours: Partial<Record<Weekday, string>> | null;
+  /** "Temporarily closed" / "Permanently closed" when Google says so */
+  closed?: string | null;
+}
+
+/** One live reading from Google: the ground truth a forecast is scored against. */
+export interface Observation {
+  date: string;
+  hour: number;
+  live: number | null;
+  usual: number | null;
+  reviews: number | null;
 }
 
 /** An article behind a pin, so the owner can read it. */

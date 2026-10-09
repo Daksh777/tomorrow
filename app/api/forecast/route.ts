@@ -28,7 +28,8 @@ export async function GET(req: Request) {
     }
     const card = await getCard(place_id, sp.get("date") ?? undefined);
     if (!card) return NextResponse.json({ error: "unknown place" }, { status: 404 });
-    return NextResponse.json(card);
+    const { edit_key_hash, ...place } = card.place;
+    return NextResponse.json({ ...card, place: { ...place, locked: !!edit_key_hash } });
   } catch (e: any) {
     return NextResponse.json({ error: e.message }, { status: 502 });
   }

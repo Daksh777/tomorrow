@@ -1,0 +1,270 @@
+{
+  "search_metadata": {
+    "id": "6ac9055397012126909ec053",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TzFrWgs13-Rl2fs2F2kMkh-8iYJpLC076wG687atb30/6ac9055397012126909ec053.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TzFrWgs13-Rl2fs2F2kMkh-8iYJpLC076wG687atb30/6ac9055397012126909ec053.md",
+    "created_at": "2026-10-09 15:16:35 UTC",
+    "processed_at": "2026-10-09 15:16:35 UTC",
+    "google_trends_url": "https://trends.google.com/trends/embed/explore/GEO_MAP?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22Navratri%22%2C%22geo%22%3A%22IN%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "raw_html_file": "https://serpapi.com/searches/TzFrWgs13-Rl2fs2F2kMkh-8iYJpLC076wG687atb30/6ac9055397012126909ec053.html",
+    "prettify_html_file": "https://serpapi.com/searches/TzFrWgs13-Rl2fs2F2kMkh-8iYJpLC076wG687atb30/6ac9055397012126909ec053.prettify",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google_trends",
+    "q": "Navratri",
+    "hl": "en",
+    "geo": "IN",
+    "date": "today 12-m",
+    "tz": "420",
+    "data_type": "GEO_MAP_0"
+  },
+  "interest_by_region": [
+    {
+      "geo": "IN-DN",
+      "location": "Dadra and Nagar Haveli",
+      "max_value_index": 0,
+      "value": "100",
+      "extracted_value": 100
+    },
+    {
+      "geo": "IN-UT",
+      "location": "Uttarakhand",
+      "max_value_index": 0,
+      "value": "97",
+      "extracted_value": 97
+    },
+    {
+      "geo": "IN-DD",
+      "location": "Daman and Diu",
+      "max_value_index": 0,
+      "value": "95",
+      "extracted_value": 95
+    },
+    {
+      "geo": "IN-DL",
+      "location": "Delhi",
+      "max_value_index": 0,
+      "value": "92",
+      "extracted_value": 92
+    },
+    {
+      "geo": "IN-HR",
+      "location": "Haryana",
+      "max_value_index": 0,
+      "value": "89",
+      "extracted_value": 89
+    },
+    {
+      "geo": "IN-HP",
+      "location": "Himachal Pradesh",
+      "max_value_index": 0,
+      "value": "89",
+      "extracted_value": 89
+    },
+    {
+      "geo": "IN-UP",
+      "location": "Uttar Pradesh",
+      "max_value_index": 0,
+      "value": "82",
+      "extracted_value": 82
+    },
+    {
+      "geo": "IN-CT",
+      "location": "Chhattisgarh",
+      "max_value_index": 0,
+      "value": "77",
+      "extracted_value": 77
+    },
+    {
+      "geo": "IN-GJ",
+      "location": "Gujarat",
+      "max_value_index": 0,
+      "value": "74",
+      "extracted_value": 74
+    },
+    {
+      "geo": "IN-CH",
+      "location": "Chandigarh",
+      "max_value_index": 0,
+      "value": "69",
+      "extracted_value": 69
+    },
+    {
+      "geo": "IN-PB",
+      "location": "Punjab",
+      "max_value_index": 0,
+      "value": "66",
+      "extracted_value": 66
+    },
+    {
+      "geo": "IN-MP",
+      "location": "Madhya Pradesh",
+      "max_value_index": 0,
+      "value": "58",
+      "extracted_value": 58
+    },
+    {
+      "geo": "IN-RJ",
+      "location": "Rajasthan",
+      "max_value_index": 0,
+      "value": "53",
+      "extracted_value": 53
+    },
+    {
+      "geo": "IN-MH",
+      "location": "Maharashtra",
+      "max_value_index": 0,
+      "value": "40",
+      "extracted_value": 40
+    },
+    {
+      "geo": "IN-JK",
+      "location": "Jammu and Kashmir",
+      "max_value_index": 0,
+      "value": "38",
+      "extracted_value": 38
+    },
+    {
+      "geo": "IN-BR",
+      "location": "Bihar",
+      "max_value_index": 0,
+      "value": "31",
+      "extracted_value": 31
+    },
+    {
+      "geo": "IN-GA",
+      "location": "Goa",
+      "max_value_index": 0,
+      "value": "31",
+      "extracted_value": 31
+    },
+    {
+      "geo": "IN-JH",
+      "location": "Jharkhand",
+      "max_value_index": 0,
+      "value": "30",
+      "extracted_value": 30
+    },
+    {
+      "geo": "IN-AN",
+      "location": "Andaman and Nicobar Islands",
+      "max_value_index": 0,
+      "value": "24",
+      "extracted_value": 24
+    },
+    {
+      "geo": "IN-KA",
+      "location": "Karnataka",
+      "max_value_index": 0,
+      "value": "17",
+      "extracted_value": 17
+    },
+    {
+      "geo": "IN-SK",
+      "location": "Sikkim",
+      "max_value_index": 0,
+      "value": "13",
+      "extracted_value": 13
+    },
+    {
+      "geo": "IN-TG",
+      "location": "Telangana",
+      "max_value_index": 0,
+      "value": "12",
+      "extracted_value": 12
+    },
+    {
+      "geo": "IN-OR",
+      "location": "Odisha",
+      "max_value_index": 0,
+      "value": "12",
+      "extracted_value": 12
+    },
+    {
+      "geo": "IN-AS",
+      "location": "Assam",
+      "max_value_index": 0,
+      "value": "10",
+      "extracted_value": 10
+    },
+    {
+      "geo": "IN-WB",
+      "location": "West Bengal",
+      "max_value_index": 0,
+      "value": "10",
+      "extracted_value": 10
+    },
+    {
+      "geo": "IN-AR",
+      "location": "Arunachal Pradesh",
+      "max_value_index": 0,
+      "value": "8",
+      "extracted_value": 8
+    },
+    {
+      "geo": "IN-ML",
+      "location": "Meghalaya",
+      "max_value_index": 0,
+      "value": "7",
+      "extracted_value": 7
+    },
+    {
+      "geo": "IN-TN",
+      "location": "Tamil Nadu",
+      "max_value_index": 0,
+      "value": "5",
+      "extracted_value": 5
+    },
+    {
+      "geo": "IN-AP",
+      "location": "Andhra Pradesh",
+      "max_value_index": 0,
+      "value": "5",
+      "extracted_value": 5
+    },
+    {
+      "geo": "IN-PY",
+      "location": "Puducherry",
+      "max_value_index": 0,
+      "value": "4",
+      "extracted_value": 4
+    },
+    {
+      "geo": "IN-TR",
+      "location": "Tripura",
+      "max_value_index": 0,
+      "value": "4",
+      "extracted_value": 4
+    },
+    {
+      "geo": "IN-MN",
+      "location": "Manipur",
+      "max_value_index": 0,
+      "value": "3",
+      "extracted_value": 3
+    },
+    {
+      "geo": "IN-NL",
+      "location": "Nagaland",
+      "max_value_index": 0,
+      "value": "3",
+      "extracted_value": 3
+    },
+    {
+      "geo": "IN-KL",
+      "location": "Kerala",
+      "max_value_index": 0,
+      "value": "2",
+      "extracted_value": 2
+    },
+    {
+      "geo": "IN-MZ",
+      "location": "Mizoram",
+      "max_value_index": 0,
+      "value": "<1",
+      "extracted_value": 0
+    }
+  ]
+}

@@ -159,4 +159,10 @@ describe("rule copy", () => {
   it("still acts on a real one", () => {
     expect(ruleCopy({ ...base, pins: [pin(-0.3)] }, "x").actions[0]).toBe("Prep 30% less for 11 am to 11 pm.");
   });
+  it("acts on the side the day leans to, and says 'all day' for all-day pins", () => {
+    const payday = { kind: "payday", label: "Payday week", source: "t", distanceKm: null, startHour: 0, endHour: 24, effect: 0.06 };
+    const quiet = { ...base, buckets: { lunch: "quieter" }, ratios: { lunch: -0.2 }, pins: [payday, { ...payday, kind: "disruption", effect: -0.3 }] };
+    expect(ruleCopy(quiet, "x").actions).toEqual(["Prep 30% less all day.", "Offer an early finish or a staggered start to one person."]);
+    expect(ruleCopy({ ...base, pins: [payday] }, "x").actions).toEqual(["Prep 10% more of your fast sellers.", "Keep one more person on for your busiest hours."]);
+  });
 });

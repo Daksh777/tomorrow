@@ -87,20 +87,39 @@ function observanceNote(strength: number, where: string | null): string {
   return ` Kept less widely in ${where}, so the effect is scaled down.`;
 }
 
-/** Festival and dry-day pins for one date, by archetype. India only. */
-export function calendarSignals(place: Place, targetDate: string): Signal[] {
+/** Festivals on a date, for fetching their search interest before building pins. */
+export function festivalsOn(targetDate: string): CalEvent[] {
+  return EVENTS.filter((e) => targetDate >= e.start && targetDate <= e.end);
+}
+
+/** Measured observance from Google Trends: festival id -> strength (0.15..1.5) and the numbers behind it. */
+export type MeasuredObservance = Record<string, { strength: number; value: number; median: number }>;
+
+/** Weight of the Trends measurement against the hand-set observance. */
+const MEASURED_WEIGHT = 0.5;
+
+/**
+ * Festival and dry-day pins for one date, by archetype. India only. When Google Trends interest for
+ * the festival is known, the hand-set observance is blended half and half with the measured one;
+ * a festival the region gate turns off stays off.
+ */
+export function calendarSignals(place: Place, targetDate: string, measured: MeasuredObservance = {}): Signal[] {
   if (!isIndia(place)) return [];
   const out: Signal[] = [];
   for (const e of EVENTS) {
     if (targetDate < e.start || targetDate > e.end) continue;
-    const { strength, where } = observanceOf(e, place);
+    const set = observanceOf(e, place);
+    const m = measured[e.id];
+    const strength = set.strength && m ? (1 - MEASURED_WEIGHT) * set.strength + MEASURED_WEIGHT * m.strength : set.strength;
+    const where = set.where ?? (m ? stateOf(place) : null);
     const eff = ((e.effects as Record<string, number>)[place.archetype] ?? 0) * strength;
     if (!eff) continue;
+    const trendsNote = m && set.strength ? ` Search interest in ${stateOf(place)}: ${m.value}/100 (median state ${m.median}).` : "";
     out.push({
       kind: "festival",
       label: e.name,
-      source: "India festival calendar",
-      detail: e.culture + observanceNote(strength, where),
+      source: m && set.strength ? "India festival calendar, Google Trends" : "India festival calendar",
+      detail: e.culture + observanceNote(strength, where) + trendsNote,
       distanceKm: null,
       startHour: e.hours[0],
       endHour: e.hours[1],
@@ -217,4 +236,30 @@ export function applyDrinkingCulture(place: Place, signals: Signal[]): Signal[] 
     out.push({ ...s, effectOverride: baseEffect(place.archetype, s) * f, detail: s.detail ? `${s.detail} ${note}` : note });
   }
   return out;
+}
+
+/**
+ * Board-exam season (config/effects.json `exams`): evenings in residential areas go a little quieter.
+ * The window is approximate until the date sheet is published; the pin says so.
+ */
+export function examSignals(place: Place, targetDate: string): Signal[] {
+  if (!isIndia(place)) return [];
+  const c = effects.exams;
+  const w = c.windows.find((x) => targetDate >= x.start && targetDate <= x.end);
+  if (!w) return [];
+  const eff = ((c.effect as Record<string, number>)[place.archetype] ?? 0) * ((c.area_type as Record<string, number>)[place.area_type] ?? 1);
+  if (!eff) return [];
+  return [
+    {
+      kind: "exams",
+      label: w.name,
+      source: "School exam calendar",
+      detail: "Families with children at school stay in on exam evenings. The dates are approximate until the board publishes its date sheet.",
+      distanceKm: null,
+      startHour: c.hours[0],
+      endHour: c.hours[1],
+      size: 1,
+      effectOverride: eff,
+    },
+  ];
 }
