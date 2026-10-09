@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { ArrowLeft, CaretRight } from "@phosphor-icons/react";
 import { PLACES_EVENT, forgetPlace, rememberPlace, savedPlaces, type SavedPlace } from "@/lib/saved";
 import TopBar from "./TopBar";
@@ -209,7 +210,7 @@ export default function Onboarding() {
               <ul className="mt-2 space-y-2">
                 {saved.map((p) => (
                   <li key={p.id} className="flex items-stretch rounded-xl border border-ink/[0.07] bg-surface">
-                    <a
+                    <Link
                       href={`/p/${encodeURIComponent(p.id)}`}
                       aria-label={`See tomorrow for ${p.name}`}
                       className="flex min-w-0 flex-1 items-center gap-3 px-4 py-3.5 transition-colors active:bg-paper"
@@ -220,7 +221,7 @@ export default function Onboarding() {
                         {saved.length > 1 && <PlaceSummary id={p.id} />}
                       </span>
                       <CaretRight size={16} weight="bold" aria-hidden className="shrink-0 text-ink/30" />
-                    </a>
+                    </Link>
                     <button
                       onClick={() => setSaved(forgetPlace(p.id))}
                       aria-label={`Remove ${p.name} from this phone`}

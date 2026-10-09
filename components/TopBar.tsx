@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Link from "next/link";
 import { CaretDown, Check, Plus } from "@phosphor-icons/react";
 import { PLACES_EVENT, rememberPlace, savedPlaces, type SavedPlace } from "@/lib/saved";
 import ThemeToggle from "./ThemeToggle";
@@ -66,13 +67,13 @@ export default function TopBar({ current }: { current?: SavedPlace }) {
           {places.map((p) => {
             const on = p.id === current?.id;
             return (
-              <a key={p.id} role="menuitem" href={href(p.id)} aria-current={on ? "page" : undefined} className="flex items-center gap-3 px-4 py-2.5 active:bg-paper">
+              <Link key={p.id} role="menuitem" href={href(p.id)} onClick={() => setOpen(false)} aria-current={on ? "page" : undefined} className="flex items-center gap-3 px-4 py-2.5 active:bg-paper">
                 <span className="min-w-0 flex-1">
                   <span className="block truncate text-[15px] font-medium">{p.name}</span>
                   {p.where && <span className="block truncate text-xs text-ink/50">{p.where}</span>}
                 </span>
                 {on && <Check size={16} weight="bold" className="shrink-0 text-ink" />}
-              </a>
+              </Link>
             );
           })}
           <a role="menuitem" href="/#biz" className="flex items-center gap-2 border-t border-ink/[0.07] px-4 py-3 text-[15px] font-medium active:bg-paper">
