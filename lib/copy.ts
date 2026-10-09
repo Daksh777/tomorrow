@@ -1,7 +1,7 @@
 import { complete } from "./llm";
-import { fmtHour } from "./time";
 import { LANGUAGES, LANGUAGE_NAME } from "./languages";
-import type { Copy, DayPart, Forecast, Language, Level, Place } from "./types";
+import { PHRASES } from "./phrases";
+import type { Copy, DayPart, Forecast, Language, Place } from "./types";
 
 /** The owner's own numbers: "about 300 orders on a usual day". */
 export type Units = Pick<Place, "usual_daily" | "unit">;
@@ -24,68 +24,53 @@ export function unitsDelta(f: Pick<Forecast, "hourly" | "baseline">, u: Units | 
   return Math.round((u.usual_daily * delta) / day);
 }
 
-const PART_LABEL: Record<DayPart, string> = {
-  morning: "in the morning",
-  lunch: "at lunch",
-  afternoon: "in the afternoon",
-  evening: "after 6 pm",
-  late: "late at night",
-};
-const ORDER: Level[] = ["quieter", "usual", "busier", "much busier"];
-const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
 /** 37 -> 35, 143 -> 140: a count an owner would say. */
 const roundUnits = (n: number) => (n < 20 ? n : Math.round(n / 5) * 5);
 const round10 = (x: number) => Math.max(10, Math.round((x * 100) / 10) * 10);
 /** Pins smaller than this (a festival few people here keep, say) are shown but don't change prep or staffing. */
 const MIN_ACTION_EFFECT = 0.05;
 
-/** Deterministic copy from computed buckets. Used when no API key is set or the model fails. */
-export function ruleCopy(f: Forecast, placeName: string, units?: Units): Copy {
-  const day = cap(f.weekday);
+/** Deterministic copy from computed buckets, in any language. Used when no model is available, and as the model's draft. */
+export function ruleCopy(f: Forecast, placeName: string, units?: Units, lang: Language = "en"): Copy {
+  const t = PHRASES[lang] ?? PHRASES.en;
+  const day = t.day[f.weekday];
   const entries = Object.entries(f.ratios) as [DayPart, number][];
   const strongest = entries.sort((a, b) => Math.abs(b[1]) - Math.abs(a[1]))[0];
 
-  let headline = `A usual ${day}.`;
-  if (strongest && f.buckets[strongest[0]] !== "usual") {
-    const lvl = f.buckets[strongest[0]]!;
-    headline = `${cap(lvl)} than a usual ${day} ${PART_LABEL[strongest[0]]}.`;
-  }
+  let headline = t.usualDay(day);
+  if (strongest && f.buckets[strongest[0]] !== "usual") headline = t.levelHeadline(f.buckets[strongest[0]]!, day, strongest[0]);
 
   const busyPin = [...f.pins].filter((p) => p.effect >= MIN_ACTION_EFFECT).sort((a, b) => b.effect - a.effect)[0];
   const quietPin = [...f.pins].filter((p) => p.effect <= -MIN_ACTION_EFFECT).sort((a, b) => a.effect - b.effect)[0];
-  const actions: string[] = [];
+  const unit = units?.unit ? t.unit(units.unit) : "";
 
   // Act on the side the day leans to: a quieter day with a small all-day payday lift must not say "prep more".
   const quietDay = !!strongest && strongest[1] < 0 && f.buckets[strongest[0]] !== "usual";
-  const allDay = (s: number, e: number) => s <= 0 && e >= 24;
+  const span = (p: { startHour: number; endHour: number }): [number, number] | null => {
+    const s = Math.floor(p.startHour);
+    const e = Math.min(Math.ceil(p.endHour), 24);
+    return s <= 0 && e >= 24 ? null : [s, e];
+  };
 
   if (busyPin && !(quietDay && quietPin)) {
-    const s = Math.floor(busyPin.startHour);
-    const e = Math.ceil(busyPin.endHour);
-    const n = unitsDelta(f, units, s, e);
-    const when = allDay(s, e) ? "" : ` before ${fmtHour(s)}`;
-    actions.push(
-      n && n >= 5
-        ? `Prep about ${roundUnits(n)} more ${units!.unit} (${round10(busyPin.effect)}% more)${when}.`
-        : `Prep ${round10(busyPin.effect)}% more of your fast sellers${when}.`,
-    );
-    actions.push(allDay(s, e) ? `Keep one more person on for your busiest hours.` : `Keep one more person on ${fmtHour(s)} to ${fmtHour(Math.min(e, 24))}.`);
-  } else if (quietPin) {
-    const s = Math.floor(quietPin.startHour);
-    const e = Math.ceil(quietPin.endHour);
-    const n = unitsDelta(f, units, s, e);
-    const when = allDay(s, e) ? "all day" : `for ${fmtHour(s)} to ${fmtHour(Math.min(e, 24))}`;
-    actions.push(
-      n && n <= -5
-        ? `Prep about ${roundUnits(-n)} fewer ${units!.unit} (${round10(-quietPin.effect)}% less) ${when}.`
-        : `Prep ${round10(-quietPin.effect)}% less ${when}.`,
-    );
-    actions.push(`Offer an early finish or a staggered start to one person.`);
-  } else {
-    actions.push(`Prep as you usually do on a ${day}.`);
-    actions.push(`Keep your usual roster.`);
+    const w = span(busyPin);
+    const n = unitsDelta(f, units, w?.[0] ?? 0, w?.[1] ?? 24);
+    const pct = round10(busyPin.effect);
+    return {
+      headline,
+      actions: [n && n >= 5 ? t.prepMoreUnits(roundUnits(n), unit, pct, w?.[0] ?? null) : t.prepMore(pct, w?.[0] ?? null), t.staffMore(w)],
+    };
   }
-  return { headline, actions: [actions[0], actions[1]] };
+  if (quietPin) {
+    const w = span(quietPin);
+    const n = unitsDelta(f, units, w?.[0] ?? 0, w?.[1] ?? 24);
+    const pct = round10(-quietPin.effect);
+    return {
+      headline,
+      actions: [n && n <= -5 ? t.prepLessUnits(roundUnits(-n), unit, pct, w) : t.prepLess(pct, w), t.staffLess(w)],
+    };
+  }
+  return { headline, actions: [t.prepUsual(day), t.staffUsual] };
 }
 
 /**
@@ -93,8 +78,9 @@ export function ruleCopy(f: Forecast, placeName: string, units?: Units): Copy {
  * rule-based draft, and told not to add signals or numbers.
  */
 export async function writeCopy(f: Forecast, place: Pick<Place, "name" | "language" | "usual_daily" | "unit">): Promise<Copy> {
-  const draft = ruleCopy(f, place.name, place);
   const lang: Language = place.language && place.language in LANGUAGES ? place.language : "en";
+  // The draft is already in the owner's language, so a missing or failing model still gives the right words.
+  const draft = ruleCopy(f, place.name, place, lang);
   const facts = {
     weekday: f.weekday,
     buckets: f.buckets,

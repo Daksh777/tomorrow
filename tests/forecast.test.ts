@@ -162,7 +162,26 @@ describe("rule copy", () => {
   it("acts on the side the day leans to, and says 'all day' for all-day pins", () => {
     const payday = { kind: "payday", label: "Payday week", source: "t", distanceKm: null, startHour: 0, endHour: 24, effect: 0.06 };
     const quiet = { ...base, buckets: { lunch: "quieter" }, ratios: { lunch: -0.2 }, pins: [payday, { ...payday, kind: "disruption", effect: -0.3 }] };
-    expect(ruleCopy(quiet, "x").actions).toEqual(["Prep 30% less all day.", "Offer an early finish or a staggered start to one person."]);
+    expect(ruleCopy(quiet, "x").actions).toEqual(["Prep 30% less all day.", "Quiet all day: you can run with one person fewer."]);
     expect(ruleCopy({ ...base, pins: [payday] }, "x").actions).toEqual(["Prep 10% more of your fast sellers.", "Keep one more person on for your busiest hours."]);
+  });
+});
+
+describe("rule copy in other languages (no model needed)", () => {
+  const base = { date: "2026-10-10", weekday: "saturday", baseline: [], hourly: [], lo: [], hi: [], buckets: { evening: "much busier" }, ratios: { evening: 0.5 }, band: 0.1, taps: 0, tuned: false, baselineSource: "own" } as any;
+  const match = { kind: "match_stadium", label: "m", source: "t", distanceKm: 1, startHour: 15, endHour: 23, effect: 0.3 };
+  it("writes Hindi with the same numbers and times", () => {
+    const c = ruleCopy({ ...base, pins: [match] }, "x", undefined, "hi");
+    expect(c.headline).toBe("शनिवार को शाम 6 बजे के बाद आम दिनों से बहुत ज़्यादा भीड़।");
+    expect(c.actions).toEqual(["दोपहर 3 बजे से पहले जल्दी बिकने वाली चीज़ें 30% ज़्यादा तैयार रखें।", "दोपहर 3 बजे से रात 11 बजे तक एक व्यक्ति ज़्यादा रखें।"]);
+  });
+  it("says when it will be quiet in the staffing line", () => {
+    const quiet = { ...base, buckets: { lunch: "quieter" }, ratios: { lunch: -0.3 }, pins: [{ ...match, kind: "rain", startHour: 11, endHour: 15, effect: -0.2 }] };
+    expect(ruleCopy(quiet, "x").actions[1]).toBe("Quiet from 11 am to 3 pm: one person can come in later or leave early.");
+    for (const lang of ["kn", "ta", "bn"] as const) {
+      const c = ruleCopy(quiet, "x", undefined, lang);
+      expect(c.actions[0]).toContain("20%");
+      expect(c.actions.join(" ")).not.toMatch(/[a-z]{3,}/); // no English words left over
+    }
   });
 });

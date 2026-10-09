@@ -24,7 +24,7 @@ Third Wave gets a stadium pin and reads busier through the afternoon and evening
 - **Today so far:** last night's forecast for today, with Google's live busyness readings as dots. The forecast is scored, not just made.
 - **How we did this week:** what the card said, what the owner tapped, and how many live readings fell inside the band (aim: 80%).
 - **Week strip:** seven days, one word per day part. Days further out get a wider band.
-- **Your numbers and language:** "about 300 orders on a usual day" turns "+30%" into "about 40 more orders" (a whole-day total: orders, bills, customers or covers, never one item); the headline and actions can be written in Hindi, Kannada, Tamil or Bengali.
+- **Your numbers and language:** "about 300 orders on a usual day" turns "+30%" into "about 40 more orders" (a whole-day total: orders, bills, customers or covers, never one item); the headline and actions can be written in Hindi, Kannada, Tamil or Bengali. Every sentence has a template in each language (`lib/phrases.ts`), so languages work with no model key or when the model's quota runs out; with a model, it only polishes the template. Kannada, Tamil and Bengali templates should be checked by a native speaker.
 - **Send to staff:** a WhatsApp message with the headline, actions and link, or the card as a 1000×1000 PNG (`/api/share`).
 - **Evening push:** "Send me this card every evening" (Web Push; on iPhone after Add to Home Screen). The 6 pm build pushes the headline.
 - **Several outlets:** with more than one place saved, the home page shows each one's headline and day parts.
