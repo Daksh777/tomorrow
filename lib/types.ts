@@ -66,7 +66,7 @@ export interface Place {
   baseline: Baseline;
   baseline_source: "own" | "peers";
   anchors: Anchor[];
-  /** "About 300 coffees on a usual day" (optional): turns percentages into quantities. */
+  /** "About 300 orders on a usual day" (optional): turns percentages into quantities. */
   usual_daily?: number | null;
   unit?: string | null;
   /** Language for the headline and actions. */

@@ -6,7 +6,7 @@ import { PLACES_EVENT, forgetPlace, rememberPlace, savedPlaces, type SavedPlace 
 import TopBar from "./TopBar";
 import PlaceSummary from "./PlaceSummary";
 import { editHeaders, saveEditKey } from "@/lib/editkey-client";
-import { LANGUAGES } from "@/lib/languages";
+import { LANGUAGES, UNITS } from "@/lib/languages";
 
 interface Hit {
   place_id: string;
@@ -51,7 +51,7 @@ export default function Onboarding() {
   const [area, setArea] = useState("");
   const [leagues, setLeagues] = useState<string[]>([]);
   const [usualDaily, setUsualDaily] = useState("");
-  const [unit, setUnit] = useState("");
+  const [unit, setUnit] = useState("orders");
   const [language, setLanguage] = useState("en");
   const [busy, setBusy] = useState(false);
   const [err, setErr] = useState("");
@@ -340,7 +340,7 @@ export default function Onboarding() {
           </label>
 
           <fieldset>
-            <legend className="text-sm font-medium">On a usual day you sell about</legend>
+            <legend className="text-sm font-medium">How many orders on a usual day?</legend>
             <div className="mt-1.5 flex gap-2">
               <input
                 inputMode="numeric"
@@ -350,15 +350,20 @@ export default function Onboarding() {
                 aria-label="How many"
                 className="w-28 rounded-lg border border-ink/15 bg-surface px-3 py-3 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10"
               />
-              <input
+              <select
                 value={unit}
                 onChange={(e) => setUnit(e.target.value)}
-                placeholder="coffees"
-                aria-label="Of what"
+                aria-label="Counted as"
                 className="min-w-0 flex-1 rounded-lg border border-ink/15 bg-surface px-3 py-3 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10"
-              />
+              >
+                {UNITS.map((u) => (
+                  <option key={u} value={u}>
+                    {u}
+                  </option>
+                ))}
+              </select>
             </div>
-            <span className="mt-1 block text-xs font-normal text-ink/50">Optional. Turns “30% more” into “about 40 more coffees”.</span>
+            <span className="mt-1 block text-xs font-normal text-ink/50">Optional. Your whole day, not one item (bills from your billing app work). Turns “30% more” into “about 40 more orders”.</span>
           </fieldset>
 
           <label className="block text-sm font-medium">

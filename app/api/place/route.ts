@@ -3,7 +3,7 @@ import { db } from "@/lib/db";
 import { fetchPlaceDetails, findAnchors, lookupTimezone, peerBaseline } from "@/lib/place";
 import { canEdit, editKeyFrom, newEditKey } from "@/lib/editkey";
 import { recordObservation } from "@/lib/observe";
-import { LANGUAGES } from "@/lib/languages";
+import { LANGUAGES, asUnit } from "@/lib/languages";
 import type { Archetype } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
@@ -63,7 +63,7 @@ export async function POST(req: Request) {
       area: area || null,
       state: state || null,
       usual_daily: Number(usual_daily) > 0 ? Math.round(Number(usual_daily)) : null,
-      unit: typeof unit === "string" && unit.trim() ? unit.trim().slice(0, 30) : null,
+      unit: Number(usual_daily) > 0 ? asUnit(unit) : null,
       language: language in LANGUAGES ? language : "en",
       ...(key ? { edit_key_hash: key.hash } : {}),
     };

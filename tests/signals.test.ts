@@ -182,7 +182,7 @@ describe("quantities", () => {
     const hourly = flat(50).map((v, h) => (v !== null && h >= 18 && h < 22 ? v * 1.3 : v));
     const f = { hourly, baseline: flat(50) };
     // 15 open hours of 50; 4 hours at +15 each = 60 of 750 -> 8% of 300 = 24
-    expect(unitsDelta(f, { usual_daily: 300, unit: "coffees" }, 18, 22)).toBe(24);
+    expect(unitsDelta(f, { usual_daily: 300, unit: "orders" }, 18, 22)).toBe(24);
     expect(unitsDelta(f, { usual_daily: null, unit: null }, 18, 22)).toBeNull();
     expect(dayRatio(f)).toBeCloseTo(1.08);
   });
@@ -197,7 +197,7 @@ describe("quantities", () => {
       weights: {},
       taps: 0,
     });
-    expect(ruleCopy(fc, "x", { usual_daily: 300, unit: "coffees" }).actions[0]).toBe("Prep about 25 more coffees (30% more) before 6 pm.");
+    expect(ruleCopy(fc, "x", { usual_daily: 300, unit: "orders" }).actions[0]).toBe("Prep about 25 more orders (30% more) before 6 pm.");
   });
 });
 

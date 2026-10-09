@@ -4,11 +4,12 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { CaretDown } from "@phosphor-icons/react";
 import { editHeaders, editKeyFor } from "@/lib/editkey-client";
-import { LANGUAGES } from "@/lib/languages";
+import { LANGUAGES, UNITS } from "@/lib/languages";
 import type { Language } from "@/lib/types";
 
-const field =
-  "mt-1.5 w-full rounded-lg border border-ink/15 bg-surface px-3 py-2.5 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10";
+const box =
+  "rounded-lg border border-ink/15 bg-surface px-3 py-2.5 text-base font-normal focus:border-ink/60 focus:outline-none focus:ring-2 focus:ring-ink/10";
+const field = `mt-1.5 w-full ${box}`;
 
 /** Language of the headline and actions, and the owner's usual-day numbers. Owner's phone only. */
 export default function PlaceSettings({
@@ -29,7 +30,7 @@ export default function PlaceSettings({
   const [open, setOpen] = useState(false);
   const [lang, setLang] = useState<Language>(language);
   const [n, setN] = useState(usualDaily ? String(usualDaily) : "");
-  const [u, setU] = useState(unit ?? "");
+  const [u, setU] = useState(unit ?? "orders");
   const [state, setState] = useState<"idle" | "saving" | "error">("idle");
   const [err, setErr] = useState("");
   useEffect(() => setCanEdit(!locked || !!editKeyFor(placeId)), [locked, placeId]);
@@ -76,12 +77,18 @@ export default function PlaceSettings({
             </select>
           </label>
           <fieldset>
-            <legend className="text-sm font-medium">On a usual day you sell about</legend>
+            <legend className="text-sm font-medium">How many orders on a usual day?</legend>
             <div className="mt-1.5 flex gap-2">
-              <input inputMode="numeric" value={n} onChange={(e) => setN(e.target.value.replace(/\D/g, ""))} placeholder="300" aria-label="How many" className={`${field} mt-0 w-28`} />
-              <input value={u} onChange={(e) => setU(e.target.value)} placeholder="coffees" aria-label="Of what" className={`${field} mt-0 flex-1`} />
+              <input inputMode="numeric" value={n} onChange={(e) => setN(e.target.value.replace(/\D/g, ""))} placeholder="300" aria-label="How many" className={`${box} w-28 flex-none`} />
+              <select value={u} onChange={(e) => setU(e.target.value)} aria-label="Counted as" className={`${box} min-w-0 flex-1`}>
+                {UNITS.map((x) => (
+                  <option key={x} value={x}>
+                    {x}
+                  </option>
+                ))}
+              </select>
             </div>
-            <span className="mt-1 block text-xs text-ink/50">Optional. Turns “30% more” into “about 40 more coffees”.</span>
+            <span className="mt-1 block text-xs text-ink/50">Optional. Your whole day, not one item (bills from your billing app work). Turns “30% more” into “about 40 more orders”.</span>
           </fieldset>
           <button
             onClick={save}

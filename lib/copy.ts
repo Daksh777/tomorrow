@@ -3,7 +3,7 @@ import { fmtHour } from "./time";
 import { LANGUAGES, LANGUAGE_NAME } from "./languages";
 import type { Copy, DayPart, Forecast, Language, Level, Place } from "./types";
 
-/** The owner's own numbers: "about 300 coffees on a usual day". */
+/** The owner's own numbers: "about 300 orders on a usual day". */
 export type Units = Pick<Place, "usual_daily" | "unit">;
 
 /**

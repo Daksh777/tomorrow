@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { db } from "@/lib/db";
 import { loadPlace } from "@/lib/build";
 import { canEdit, editKeyFrom, READ_ONLY } from "@/lib/editkey";
-import { LANGUAGES } from "@/lib/languages";
+import { LANGUAGES, asUnit } from "@/lib/languages";
 import { localDate } from "@/lib/time";
 
 export const dynamic = "force-dynamic";
@@ -20,7 +20,7 @@ export async function PATCH(req: Request) {
     patch.language = language;
   }
   if (usual_daily !== undefined) patch.usual_daily = Number(usual_daily) > 0 ? Math.round(Number(usual_daily)) : null;
-  if (unit !== undefined) patch.unit = typeof unit === "string" && unit.trim() ? unit.trim().slice(0, 30) : null;
+  if (unit !== undefined) patch.unit = asUnit(unit);
   if (!Object.keys(patch).length) return NextResponse.json({ error: "nothing to change" }, { status: 400 });
 
   const sb = db();
