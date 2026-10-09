@@ -19,6 +19,7 @@ export const KIND_PHRASE: Record<SignalKind, string> = {
   trend: "how fast your reviews are coming in",
   exams: "exam season",
   own_event: "your own plans",
+  after_rain: "people coming out after the rain stops",
 };
 
 /** Short names for the "What moves your place" page. */
@@ -40,4 +41,5 @@ export const KIND_NAME: Record<SignalKind, string> = {
   trend: "New reviews",
   exams: "Exam season",
   own_event: "Your own plans",
+  after_rain: "After the rain stops",
 };

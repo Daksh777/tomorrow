@@ -224,5 +224,34 @@
     "max": 1.5,
     "days": 60,
     "min_readings": 3
+  },
+  "rain_intensity": {
+    "_note": "Rain amounts come from Open-Meteo (free, no key; a weather model at roughly 1-10 km), Google's answer box gives only the chance of rain. Peak mm in an hour sets the size of the rain pin. Light < 1 mm, moderate 1-4 mm, heavy 4 mm and up (IMD calls 2.5 mm/h moderate and 7.5+ heavy over a day; these are per hour and assumed). Without amounts the pin keeps size 1.",
+    "light": {
+      "below_mm": 1,
+      "size": 0.6
+    },
+    "heavy": {
+      "from_mm": 4,
+      "size": 1.5
+    }
+  },
+  "after_rain": {
+    "_note": "Assumed. When real rain (1 mm/h or more) stops between 10 am and 9 pm, people who waited it out come out for about 2 hours; delivery falls back.",
+    "min_peak_mm": 1,
+    "hours": 2,
+    "window": [
+      10,
+      21
+    ],
+    "effect": {
+      "cafe": 0.08,
+      "restaurant": 0.06,
+      "bar": 0.05,
+      "quick_service": 0.06,
+      "cloud_kitchen": -0.05,
+      "retail": 0.08,
+      "salon": 0.03
+    }
   }
 }

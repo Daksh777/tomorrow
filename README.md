@@ -30,7 +30,7 @@ Third Wave gets a stadium pin and reads busier through the afternoon and evening
 - **Several outlets:** with more than one place saved, the home page shows each one's headline and day parts.
 - **Your plans:** a quiz night, an offer, a big booking: the owner adds it (once or every week, with a time and "quieter / busier / much busier") and it becomes a pin. Taps tune how far to trust the owner's guesses.
 - **What moves your place** (`/p/<id>/moves`): every signal that has shown up on the cards, how strong it is now against our first guess, where that came from (your taps, your own setting, places like yours) and how sure we are; plus how the place runs against Google's usual curve.
-- **Dark mode** follows the phone, and the last card opened works offline (service worker; production only).
+- **Dark mode** follows the phone (or the switch in the top bar: auto, light, dark), and the last card opened works offline (service worker; production only).
 
 ## The six SerpApi calls
 
@@ -53,7 +53,7 @@ Notes from real responses (raw files are in `fixtures/`):
 
 Events carry an address rather than coordinates, so each event venue is resolved with one cached Google Maps search to get its distance and a review-count size proxy.
 
-**Weather:** the SerpApi answer box returns about 250 hourly rows (`hourly_forecast`) and is used first. If it is missing or thin, weather falls back to [Open-Meteo](https://open-meteo.com/) (free, not SerpApi). Open-Meteo is also used to look up the place's timezone. The rain pin shows which source it came from.
+**Weather:** the SerpApi answer box returns about 250 hourly rows (`hourly_forecast`) and is used first. It gives the chance of rain but no amount, so Open-Meteo's hourly millimetres (free, no key) are merged in: the rain pin is "light" (under 1 mm an hour, 0.6x), plain, or "heavy" (4 mm and up, 1.5x), and when real rain stops between 10 am and 9 pm an "after the rain" pin covers the next two hours (assumed: people who waited it out come out). If it is missing or thin, weather falls back to [Open-Meteo](https://open-meteo.com/) (free, not SerpApi). Open-Meteo is also used to look up the place's timezone. The rain pin shows which source it came from.
 
 **Holidays** come from the `date-holidays` library, not search credits.
 

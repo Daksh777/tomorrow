@@ -210,3 +210,31 @@ describe("edit key", () => {
     expect(canEdit({ edit_key_hash: null }, null)).toBe(true);
   });
 });
+
+import { rainSignals, withAmounts } from "../lib/signals/weather";
+describe("rain amounts", () => {
+  const day = (rows: Record<number, [number, number]>) =>
+    Object.fromEntries(Array.from({ length: 24 }, (_, h) => [String(h), { rain: rows[h]?.[0] ?? 0, mm: rows[h]?.[1] ?? 0 }]));
+  const meteo = (rows: Record<number, [number, number]>) => ({ source: "Open-Meteo" as const, days: { "2026-10-10": day(rows) } });
+
+  it("sizes the pin by the peak amount and adds an after-the-rain pin", () => {
+    const [heavy, after] = rainSignals(meteo({ 14: [90, 2], 15: [95, 6], 16: [80, 3] }), "2026-10-10", "cafe");
+    expect(heavy).toMatchObject({ kind: "rain", label: "Heavy rain 2 pm to 5 pm", size: 1.5, startHour: 14, endHour: 17 });
+    expect(after).toMatchObject({ kind: "after_rain", startHour: 17, endHour: 19, effectOverride: 0.08 });
+    const [light, ...rest] = rainSignals(meteo({ 9: [70, 0.3] }), "2026-10-10", "cafe");
+    expect(light).toMatchObject({ label: "Light rain 9 am to 10 am", size: 0.6 });
+    expect(rest).toEqual([]); // drizzle: no rebound
+  });
+
+  it("keeps size 1 and no rebound when only Google's chance of rain is known", () => {
+    const google = { source: "SerpApi answer box" as const, days: { "2026-10-10": day({ 14: [90, 0], 15: [90, 0] }) } };
+    expect(rainSignals(google, "2026-10-10", "cafe")).toEqual([expect.objectContaining({ label: "Rain 2 pm to 4 pm", size: 1 })]);
+  });
+
+  it("merges Open-Meteo millimetres into Google's hours", () => {
+    const google = { source: "SerpApi answer box" as const, days: { "2026-10-10": day({ 14: [90, 0] }) } };
+    const m = withAmounts(google, meteo({ 14: [40, 5] }));
+    expect(m.source).toBe("SerpApi answer box, Open-Meteo amounts");
+    expect(m.days["2026-10-10"]["14"]).toEqual({ rain: 90, mm: 5 });
+  });
+});

@@ -6,7 +6,7 @@ import effects from "../../config/effects.json";
 import type { Place, Signal } from "../types";
 
 export interface WeatherPayload {
-  source: "SerpApi answer box" | "Open-Meteo";
+  source: "SerpApi answer box" | "Open-Meteo" | "SerpApi answer box, Open-Meteo amounts";
   /** date -> hour(0..23) -> { rain: 0..100 probability, mm, feels: feels-like °C when known } */
   days: Record<string, Record<string, { rain: number; mm: number; feels?: number }>>;
 }
@@ -76,7 +76,11 @@ export async function fetchWeather(place: Place, fetchDate: string, _tomorrow?: 
         location: await serpLocation(place),
       });
       const parsed = fromAnswerBox(res, fetchDate);
-      if (parsed) return parsed;
+      if (parsed) {
+        // Google gives the chance of rain but no amount: add Open-Meteo's millimetres (free) when it answers.
+        const amounts = await openMeteo(place.lat, place.lng, place.timezone).catch(() => null);
+        return amounts ? withAmounts(parsed, amounts) : parsed;
+      }
     } catch {
       /* fall through to Open-Meteo */
     }
@@ -84,10 +88,33 @@ export async function fetchWeather(place: Place, fetchDate: string, _tomorrow?: 
   });
 }
 
-/** Contiguous rainy hours become one pin each. Rain hour = >=60% chance or >=0.5 mm. */
-export function rainSignals(payload: WeatherPayload, targetDate: string): Signal[] {
+/** Google's chance of rain and feels-like, with Open-Meteo's mm for the same local hour. */
+export function withAmounts(google: WeatherPayload, meteo: WeatherPayload): WeatherPayload {
+  const days: WeatherPayload["days"] = {};
+  let merged = false;
+  for (const [date, hours] of Object.entries(google.days)) {
+    days[date] = {};
+    for (const [h, row] of Object.entries(hours)) {
+      const mm = meteo.days[date]?.[h]?.mm;
+      if (typeof mm === "number") merged = true;
+      days[date][h] = { ...row, mm: typeof mm === "number" ? mm : row.mm };
+    }
+  }
+  return merged ? { source: "SerpApi answer box, Open-Meteo amounts", days } : google;
+}
+
+/**
+ * Contiguous rainy hours become one pin each. Rain hour = >=60% chance or >=0.5 mm. The pin's size
+ * follows the peak amount in the stretch (light, moderate, heavy); when real rain stops in the day,
+ * an "after the rain" pin covers the next hours.
+ */
+export function rainSignals(payload: WeatherPayload, targetDate: string, archetype?: string): Signal[] {
   const hours = payload.days[targetDate];
   if (!hours) return [];
+  const ri = effects.rain_intensity;
+  const ar = effects.after_rain;
+  // Answer-box-only payloads carry mm = 0 everywhere: no amounts known, so no intensity either way.
+  const known = payload.source !== "SerpApi answer box";
   const rainy = (h: number) => {
     const x = hours[String(h)];
     return !!x && (x.rain >= 60 || x.mm >= 0.5);
@@ -100,16 +127,35 @@ export function rainSignals(payload: WeatherPayload, targetDate: string): Signal
       continue;
     }
     const s = h;
-    while (h < 24 && rainy(h)) h++;
+    let peak = 0;
+    while (h < 24 && rainy(h)) peak = Math.max(peak, hours[String(h++)].mm);
+    const heavy = known && peak >= ri.heavy.from_mm;
+    const light = known && peak < ri.light.below_mm;
+    const amount = known && peak > 0 ? ` (up to ${peak >= 10 ? Math.round(peak) : peak.toFixed(1)} mm an hour)` : "";
     out.push({
       kind: "rain",
-      label: `Rain ${fmtHour(s)} to ${fmtHour(h)}`,
+      label: `${heavy ? "Heavy rain" : light ? "Light rain" : "Rain"} ${fmtHour(s)} to ${fmtHour(h)}`,
       source: payload.source,
+      ...(amount ? { detail: `Chance of rain and amount${amount}.` } : {}),
       distanceKm: null,
       startHour: s,
       endHour: h,
-      size: 1,
+      size: heavy ? ri.heavy.size : light ? ri.light.size : 1,
     });
+    const eff = archetype ? (ar.effect as Record<string, number>)[archetype] : undefined;
+    if (eff && known && peak >= ar.min_peak_mm && h >= ar.window[0] && h <= ar.window[1] && !rainy(h)) {
+      out.push({
+        kind: "after_rain",
+        label: `After the rain, ${fmtHour(h)} to ${fmtHour(h + ar.hours)}`,
+        source: payload.source,
+        detail: "People who waited the rain out come out for a couple of hours. A starting guess that your taps tune.",
+        distanceKm: null,
+        startHour: h,
+        endHour: h + ar.hours,
+        size: 1,
+        effectOverride: eff,
+      });
+    }
   }
   return out;
 }

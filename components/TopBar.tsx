@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { CaretDown, Check, Plus } from "@phosphor-icons/react";
 import { PLACES_EVENT, rememberPlace, savedPlaces, type SavedPlace } from "@/lib/saved";
+import ThemeToggle from "./ThemeToggle";
 
 const href = (id: string) => `/p/${encodeURIComponent(id)}`;
 
@@ -42,17 +43,20 @@ export default function TopBar({ current }: { current?: SavedPlace }) {
         tomorrow
       </a>
 
+      <div className="flex min-w-0 items-center gap-1">
       {places.length > 0 && (
         <button
           onClick={() => setOpen(!open)}
           aria-expanded={open}
           aria-haspopup="menu"
-          className="-mr-2 flex min-w-0 items-center gap-1 rounded-lg px-2 py-1.5 text-sm font-medium text-ink/70 transition-colors active:bg-ink/[0.05]"
+          className="flex min-w-0 items-center gap-1 rounded-lg px-2 py-1.5 text-sm font-medium text-ink/70 transition-colors active:bg-ink/[0.05]"
         >
           <span className="truncate">{current?.name ?? "Your places"}</span>
           <CaretDown size={14} weight="bold" className={`shrink-0 text-ink/40 transition-transform ${open ? "rotate-180" : ""}`} />
         </button>
       )}
+        <ThemeToggle />
+      </div>
 
       {open && (
         <div

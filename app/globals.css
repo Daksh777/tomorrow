@@ -14,9 +14,10 @@
   color-scheme: light;
 }
 
-/* Dark: the same roles flipped. Ink stays warm, the band a little stronger so it reads on a dark surface. */
+/* Dark: the same roles flipped. Ink stays warm, the band a little stronger so it reads on a dark surface.
+   Follows the phone unless the top-bar switch set data-theme on <html>. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --ink: 236 233 226;
     --paper: 16 18 22;
     --surface: 26 29 35;
@@ -26,6 +27,16 @@
     --band-alpha: 0.34;
     color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --ink: 236 233 226;
+  --paper: 16 18 22;
+  --surface: 26 29 35;
+  --band: 232 163 61;
+  --quiet: 120 160 245;
+  --busy: 242 133 78;
+  --band-alpha: 0.34;
+  color-scheme: dark;
 }
 
 html, body { background: rgb(var(--paper)); color: rgb(var(--ink)); }

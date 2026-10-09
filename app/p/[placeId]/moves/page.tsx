@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { db } from "@/lib/db";
 import { liveHistory, loadPlace, loadWeightRows, pooledWeights } from "@/lib/build";
 import { usualCorrection } from "@/lib/correction";
@@ -79,9 +80,9 @@ export default async function MovesPage({ params }: { params: Promise<{ placeId:
   return (
     <main>
       <TopBar current={{ id: placeId, name: place.name, where: [place.area, place.city].filter(Boolean).join(", ") }} />
-      <a href={`/p/${encodeURIComponent(placeId)}`} className="text-sm font-medium text-ink/55">
+      <Link href={`/p/${encodeURIComponent(placeId)}`} className="text-sm font-medium text-ink/55">
         ← Tomorrow&apos;s card
-      </a>
+      </Link>
       <h1 className="mt-3 text-2xl font-semibold tracking-tight">What moves {place.name}</h1>
       <p className="mt-1 text-sm text-ink/60">
         Learned from {tapped.size} {tapped.size === 1 ? "morning tap" : "morning taps"} and {readings} Google live {readings === 1 ? "reading" : "readings"}.

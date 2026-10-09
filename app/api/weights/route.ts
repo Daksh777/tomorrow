@@ -9,7 +9,7 @@ export const dynamic = "force-dynamic";
 
 const KINDS = [
   "match_stadium", "match_tv", "event", "rain", "holiday", "disruption", "festival", "payday", "aqi", "dry_day", "long_weekend",
-  "hotels", "heat", "competitor", "trend", "exams", "own_event",
+  "hotels", "heat", "competitor", "trend", "exams", "own_event", "after_rain",
 ];
 
 /** Current per-signal weights for a place, and which ones the owner set by hand. */

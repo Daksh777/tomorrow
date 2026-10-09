@@ -24,7 +24,8 @@ export type SignalKind =
   | "competitor"
   | "trend"
   | "exams"
-  | "own_event";
+  | "own_event"
+  | "after_rain";
 
 export const WEEKDAYS = [
   "sunday",

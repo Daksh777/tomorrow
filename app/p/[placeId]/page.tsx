@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { db } from "@/lib/db";
 import { getCard } from "@/lib/card";
 import { addDays, fmtHour, localDate, localHour } from "@/lib/time";
@@ -80,13 +81,13 @@ export default async function PlacePage({ params }: { params: Promise<{ placeId:
       <OwnerPlans placeId={placeId} locked={locked} events={upcoming} tomorrow={localDate(tz, 1)} />
       <WeekStrip placeId={placeId} />
       <WeekRecap days={recap} />
-      <a
+      <Link
         href={`/p/${encodeURIComponent(placeId)}/moves`}
         className="mt-3 flex items-center justify-between rounded-xl border border-ink/[0.07] bg-surface px-5 py-4 text-base font-semibold transition-colors active:bg-paper"
       >
         What moves your place
         <span aria-hidden className="text-ink/40">→</span>
-      </a>
+      </Link>
       <PlaceSettings
         placeId={placeId}
         locked={locked}

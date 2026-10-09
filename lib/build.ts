@@ -47,10 +47,13 @@ const POOL_SHRINK = 3;
  * where the other Indiranagar cafés have got to, instead of at 1.0.
  */
 export async function pooledWeights(place: Pick<Place, "place_id" | "archetype" | "city">): Promise<Weights> {
-  const { data: peers } = await db().from("places").select("place_id").eq("archetype", place.archetype).eq("city", place.city).neq("place_id", place.place_id);
-  const ids = (peers ?? []).map((p: any) => p.place_id);
-  if (!ids.length) return {};
-  let { data, error } = await db().from("weights").select("place_id, signal_kind, w, owner_set").in("place_id", ids);
+  // One round trip: weights joined to their place, filtered on the place's archetype and city.
+  const { data, error } = await db()
+    .from("weights")
+    .select("signal_kind, w, owner_set, places!inner(archetype, city)")
+    .eq("places.archetype", place.archetype)
+    .eq("places.city", place.city)
+    .neq("place_id", place.place_id);
   if (error) return {};
   const by = new Map<string, number[]>();
   for (const r of data ?? []) {
@@ -125,7 +128,7 @@ export async function gatherSignals(place: Place, targetDate: string, opts: Buil
     ...place.leagues.map((league) => task(`matches(${league})`, async () => matchSignals(place, targetDate, await fetchMatches(place.city, league, fetchDate)))),
     task("weather", async () => {
       const weather = await fetchWeather(place, fetchDate, tomorrow);
-      return [...rainSignals(weather, targetDate), ...heatSignals(place, weather, targetDate)];
+      return [...rainSignals(weather, targetDate, place.archetype), ...heatSignals(place, weather, targetDate)];
     }),
     task("air", async () => airSignals(place, await fetchAir(place, fetchDate), targetDate)),
     task("nearby places", async () => competitorSignals(place, await fetchPeers(place, fetchDate), targetDate)),
