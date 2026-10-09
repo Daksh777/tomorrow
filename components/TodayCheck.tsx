@@ -63,7 +63,7 @@ export default function TodayCheck({
       </div>
       <p className="mt-0.5 text-sm text-ink/60">
         {score
-          ? `${score.inside} of ${score.n} live ${score.n === 1 ? "reading" : "readings"} inside last night's forecast${
+          ? `${score.inside} of ${score.n} live ${score.n === 1 ? "reading" : "readings"} inside last night's forecast range${
               Math.abs(score.meanMiss) >= 0.1 ? `, running ${Math.round(Math.abs(score.meanMiss) * 100)}% ${score.meanMiss > 0 ? "busier" : "quieter"}` : ""
             }.`
           : dots.length
@@ -99,15 +99,15 @@ export default function TodayCheck({
       <div className="mt-1.5 flex flex-wrap gap-x-4 gap-y-1 text-xs text-ink/55">
         <span className="flex items-center gap-1.5">
           <span aria-hidden className="h-2.5 w-4 rounded-sm bg-band/40" />
-          Forecast
+          Our forecast range
         </span>
         <span className="flex items-center gap-1.5">
           <span aria-hidden className="h-2 w-2 rounded-full bg-ink" />
-          Google live, inside
+          Google live, in range
         </span>
         <span className="flex items-center gap-1.5">
           <span aria-hidden className="h-2 w-2 rounded-full bg-busy" />
-          outside
+          Google live, out of range
         </span>
       </div>
     </section>
