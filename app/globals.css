@@ -2,5 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body { background: #f6f4ef; color: #14181f; }
+/* Brand: ink on paper, amber for tomorrow's band, blue for quieter, orange for busier. Light only. */
+:root {
+  --ink: 20 24 31;
+  --paper: 246 244 239;
+  --surface: 255 255 255;
+  --band: 232 163 61;
+  --quiet: 59 111 214;
+  --busy: 214 98 40;
+  --band-alpha: 0.28;
+  color-scheme: light;
+}
+
+html, body { background: rgb(var(--paper)); color: rgb(var(--ink)); }
 body { -webkit-font-smoothing: antialiased; }
+.tabular { font-variant-numeric: tabular-nums; }

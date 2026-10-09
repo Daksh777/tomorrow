@@ -25,6 +25,9 @@ export async function getCard(place_id: string, date?: string): Promise<StoredCa
     .maybeSingle();
 
   if (data) {
+    // The tap count moves during the day; the rest of the stored card does not.
+    const { count } = await db().from("taps").select("*", { count: "exact", head: true }).eq("place_id", place_id);
+    const taps = count ?? (data.buckets as any).taps;
     const h = data.hourly as any;
     const b = data.buckets as any;
     const forecast: Forecast = {
@@ -38,8 +41,8 @@ export async function getCard(place_id: string, date?: string): Promise<StoredCa
       ratios: b.ratios,
       pins: data.pins as Pin[],
       band: Number(data.band),
-      taps: b.taps,
-      tuned: b.tuned,
+      taps,
+      tuned: taps >= 7,
       baselineSource: b.baselineSource,
     };
     return { place, forecast, copy: data.copy as Copy, warnings: [] };

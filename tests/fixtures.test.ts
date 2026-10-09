@@ -3,7 +3,8 @@ import { describe, expect, it } from "vitest";
 import { fromAnswerBox } from "../lib/signals/weather";
 import { matchSignals } from "../lib/signals/matches";
 import { parseTimes } from "../lib/signals/events";
-import type { Place } from "../lib/types";
+import { WEEKDAYS, type Baseline, type Place } from "../lib/types";
+import { forecast } from "../lib/forecast";
 
 // These load raw SerpApi responses saved under /fixtures (real calls, not synthetic data).
 const load = (prefix: string) => {
@@ -66,7 +67,7 @@ describe("cityCountryFromAddress (addresses from real Maps results)", () => {
   });
 });
 
-import { classifyHeadlines, disruptionSize, disruptionSignals, isFresh, headlineAgeHours } from "../lib/signals/news";
+import { classifyHeadlines, disruptionSize, disruptionSignals, isFresh, headlineAgeHours, statedDate } from "../lib/signals/news";
 describe("news disruptions (real google_news response)", () => {
   const items = load("google-news-Bengaluru").news_results.map((n: any) => ({ title: n.title, date: n.date }));
   const now = new Date("2026-10-07T13:00:00Z"); // when the fixture was captured
@@ -126,5 +127,56 @@ describe("Connaught Place protests (real google_news response, 2 Oct 7 2026)", (
   it("finds nothing for a neighbourhood that is not named", async () => {
     const hits = await classifyHeadlines({ ...place, area: "Hauz Khas" }, items, now);
     expect(hits).toEqual([]);
+  });
+});
+
+describe("the day a headline names (real Bengaluru headlines, 7 Oct 2026)", () => {
+  const h = (title: string, date: string) => ({ title, date });
+  const tz = "Asia/Kolkata";
+  it("reads explicit dates, today/tomorrow and weekdays relative to publishing", () => {
+    // Republished on 6 Oct, but about 13 Aug: must not land on an October card.
+    expect(statedDate(h("Karnataka Bandh Tomorrow, August 13: What's Open, What's Closed", "10/06/2026, 12:06 AM, +0000 UTC"), tz)).toBe("2026-08-13");
+    expect(statedDate(h("CJP announce 'Chappal Protest' in Bengaluru on Oct 8; Prakash Raj to join", "10/07/2026, 08:33 AM, +0000 UTC"), tz)).toBe("2026-10-08");
+    expect(statedDate(h("After Delhi and Mumbai, Bengaluru to protest against SIR on Thursday", "10/07/2026, 05:12 AM, +0000 UTC"), tz)).toBe("2026-10-08");
+    expect(statedDate(h("Traffic curbs in place tomorrow", "10/07/2026, 08:00 PM, +0000 UTC"), tz)).toBe("2026-10-09"); // 1:30 am IST on the 8th
+    expect(statedDate(h("Bengaluru Garment Workers Protest New Rules", "10/07/2026, 08:00 AM, +0000 UTC"), tz)).toBeNull();
+    expect(statedDate(h("Year-end sale on Jan 3", "12/20/2026, 08:00 AM, +0000 UTC"), tz)).toBe("2027-01-03");
+  });
+  it("keeps a city protest dated tomorrow and drops a republished bandh (rules, no model)", async () => {
+    const place = { city: "Bengaluru", area: "Shivaji Nagar", name: "x", timezone: tz };
+    const items = [
+      h("Karnataka Bandh Tomorrow, August 13: What's Open, What's Closed", "10/06/2026, 12:06 AM, +0000 UTC"),
+      h("CJP announce 'Chappal Protest' in Bengaluru on Oct 8; Prakash Raj to join", "10/07/2026, 08:33 AM, +0000 UTC"),
+    ];
+    const now = new Date("2026-10-07T14:19:00Z");
+    const hits = await classifyHeadlines(place, items, now, "2026-10-08");
+    expect(hits.map((x) => x.scope)).toEqual(["elsewhere"]);
+    const [pin] = disruptionSignals(hits);
+    expect(pin.label).toBe("Protest in the city");
+    expect(pin.size).toBe(0.35);
+    // The next day's card says nothing: the protest was on the 8th.
+    expect(await classifyHeadlines(place, items, now, "2026-10-09")).toEqual([]);
+  });
+});
+
+describe("news pin links", () => {
+  const c = (title: string, scope: "near" | "city" | "elsewhere", source: string, link: string) => ({ title, scope, source, link });
+  it("keeps up to three articles of the winning scope, best first, one per outlet, http only", () => {
+    const [pin] = disruptionSignals([
+      c("Protest at Freedom Park on Oct 8", "elsewhere", "The Hindu", "https://thehindu.com/a"),
+      c("Bengaluru bandh tomorrow", "city", "Deccan Herald", "https://deccanherald.com/b"),
+      c("Bandh: what's open", "city", "Deccan Herald", "https://deccanherald.com/c"),
+      c("Bandh called for Thursday", "city", "Evil", "javascript:alert(1)"),
+      c("Bandh, schools shut", "city", "NDTV", "https://ndtv.com/d"),
+    ]);
+    expect(pin.label).toBe("City-wide disruption");
+    expect(pin.links?.map((l) => l.url)).toEqual(["https://deccanherald.com/b", "https://ndtv.com/d"]);
+  });
+  it("carries links through to the card's pins", () => {
+    const flat = Array.from({ length: 24 }, () => 50);
+    const baseline = Object.fromEntries(WEEKDAYS.map((d) => [d, flat])) as Baseline;
+    const [s] = disruptionSignals([c("Bandh tomorrow", "city", "NDTV", "https://ndtv.com/d")]);
+    const f = forecast({ date: "2026-10-09", baseline, baselineSource: "own", archetype: "cafe", radiusKm: 2, signals: [s], weights: {}, taps: 0 });
+    expect(f.pins[0].links).toEqual([{ title: "Bandh tomorrow", url: "https://ndtv.com/d", source: "NDTV" }]);
   });
 });

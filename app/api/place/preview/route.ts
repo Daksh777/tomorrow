@@ -6,6 +6,7 @@ import {
   lookupTimezone,
   peerBaseline,
 } from "@/lib/place";
+import { drinkingCulture } from "@/lib/india";
 import { leagueIds } from "@/lib/signals/matches";
 import { localDate, weekdayOf } from "@/lib/time";
 
@@ -37,6 +38,7 @@ export async function GET(req: Request) {
       state,
       country,
       archetype,
+      drinking: drinkingCulture({ city, state, country })?.culture ?? null,
       baseline,
       baselineSource: source,
       weekday,

@@ -1,5 +1,5 @@
 {
-  "_note": "India festival and observance calendar, Oct 2026 to Jan 2027, plus Ganesh Chaturthi and Onam 2027. Dates were cross-checked across several panchang/calendar sources on 7 Oct 2026 (Dussehra falls on 20 or 21 Oct depending on the tithi, so both days are listed). Effects are fractional starting guesses by archetype, tuned per place by the morning tap and the owner's weights. `basis`: 'reported' = a published business source describes the direction; 'assumed' = reasoned from how the festival is observed, not measured. `regions` are states; an entry with regions only fires where the place's state is listed. `hours` are local clock hours (past 24 = after midnight).",
+  "_note": "India festival and observance calendar, Oct 2026 to Jan 2027, plus Ganesh Chaturthi and Onam 2027. Dates were cross-checked across several panchang/calendar sources on 7 Oct 2026 (Dussehra falls on 20 or 21 Oct depending on the tithi, so both days are listed). Effects are fractional starting guesses by archetype, tuned per place by the morning tap and the owner's weights. `basis`: 'reported' = a published business source describes the direction; 'assumed' = reasoned from how the festival is observed, not measured. `regionGroup` gates an entry to those states. `observance` (optional) scales every effect by how widely the festival is kept where the place is: keys are 'city:<lower-case city>', then the state name, then 'group:<regionGroup name>', then 'default' (1 if absent); 0 means it does not fire, above 1 means bigger than the national norm. Observance values are assumed, not measured. `hours` are local clock hours (past 24 = after midnight).",
   "regionGroups": {
     "north": [
       "Delhi",
@@ -66,6 +66,31 @@
         "quick_service": -0.04,
         "cloud_kitchen": -0.04
       },
+      "observance": {
+        "default": 0.3,
+        "Bihar": 1,
+        "Jharkhand": 1,
+        "Uttar Pradesh": 0.8,
+        "city:varanasi": 1,
+        "Madhya Pradesh": 0.6,
+        "Rajasthan": 0.6,
+        "Gujarat": 0.6,
+        "Haryana": 0.4,
+        "Maharashtra": 0.4,
+        "Andhra Pradesh": 0.4,
+        "Telangana": 0.4,
+        "West Bengal": 0.4,
+        "Odisha": 0.5,
+        "Delhi": 0.15,
+        "city:gurugram": 0.15,
+        "city:mumbai": 0.2,
+        "city:bengaluru": 0.15,
+        "city:hyderabad": 0.2,
+        "Karnataka": 0.3,
+        "Tamil Nadu": 0.15,
+        "Kerala": 0.1,
+        "Goa": 0.15
+      },
       "basis": "assumed",
       "culture": "Many families avoid non-veg and eating out for these 16 days; veg-forward menus hold up best."
     },
@@ -87,6 +112,36 @@
         "retail": 0.1,
         "salon": 0.1
       },
+      "observance": {
+        "default": 0.5,
+        "Gujarat": 1,
+        "Rajasthan": 0.9,
+        "Uttar Pradesh": 0.9,
+        "Madhya Pradesh": 0.9,
+        "Bihar": 0.8,
+        "Jharkhand": 0.8,
+        "Haryana": 0.8,
+        "Himachal Pradesh": 0.8,
+        "Uttarakhand": 0.8,
+        "Maharashtra": 0.8,
+        "city:mumbai": 0.6,
+        "city:pune": 0.6,
+        "Delhi": 0.7,
+        "city:gurugram": 0.5,
+        "Punjab": 0.5,
+        "Chandigarh": 0.5,
+        "Karnataka": 0.4,
+        "city:bengaluru": 0.3,
+        "Telangana": 0.5,
+        "Andhra Pradesh": 0.5,
+        "Tamil Nadu": 0.3,
+        "Kerala": 0.2,
+        "Goa": 0.3,
+        "West Bengal": 0.2,
+        "Odisha": 0.3,
+        "Assam": 0.3,
+        "Tripura": 0.2
+      },
       "basis": "reported (evening dining); assumed (bars)",
       "culture": "Fasting thalis without onion or garlic sell; people go out every evening for garba and pandal hopping; many avoid alcohol and non-veg."
     },
@@ -105,6 +160,11 @@
         "cafe": 0.1,
         "quick_service": 0.15,
         "bar": -0.1
+      },
+      "observance": {
+        "Gujarat": 1,
+        "Maharashtra": 0.4,
+        "city:mumbai": 0.8
       },
       "basis": "assumed",
       "culture": "Late-night crowds around garba grounds in Gujarat and Mumbai look for quick food after the dance."
@@ -127,6 +187,12 @@
         "cloud_kitchen": 0.1,
         "retail": 0.25,
         "salon": 0.15
+      },
+      "observance": {
+        "West Bengal": 1,
+        "Tripura": 1,
+        "Assam": 0.7,
+        "Odisha": 0.6
       },
       "basis": "assumed",
       "culture": "Pandal hopping with family fills restaurants and street food until late; new clothes are bought beforehand."
@@ -167,6 +233,15 @@
         "cafe": 0.05,
         "bar": 0.05
       },
+      "observance": {
+        "default": 0.8,
+        "Punjab": 1,
+        "Haryana": 1,
+        "Delhi": 1,
+        "Chandigarh": 1,
+        "Rajasthan": 1,
+        "Madhya Pradesh": 0.7
+      },
       "basis": "assumed",
       "culture": "Couples break the fast at moonrise and many go out to dinner."
     },
@@ -183,6 +258,15 @@
       "effects": {
         "salon": 0.3,
         "retail": 0.1
+      },
+      "observance": {
+        "default": 0.8,
+        "Punjab": 1,
+        "Haryana": 1,
+        "Delhi": 1,
+        "Chandigarh": 1,
+        "Rajasthan": 1,
+        "Madhya Pradesh": 0.7
       },
       "basis": "assumed",
       "culture": "Salons and mehendi stalls are busiest in the hours before moonrise."
@@ -202,6 +286,15 @@
         "restaurant": 0.1,
         "cafe": 0.05,
         "quick_service": 0.05
+      },
+      "observance": {
+        "default": 1,
+        "Karnataka": 0.7,
+        "Telangana": 0.8,
+        "Andhra Pradesh": 0.8,
+        "Tamil Nadu": 0.5,
+        "Kerala": 0.4,
+        "West Bengal": 0.7
       },
       "basis": "reported (Diwali week is the biggest revenue window); assumed (split by day)",
       "culture": "Buying gold, utensils and gifts is auspicious; bazaars and malls are crowded into the evening."
@@ -224,6 +317,15 @@
         "retail": -0.3,
         "salon": -0.2
       },
+      "observance": {
+        "default": 1,
+        "Tamil Nadu": 0.6,
+        "Kerala": 0.4,
+        "Karnataka": 0.8,
+        "West Bengal": 0.4,
+        "Assam": 0.5,
+        "Goa": 0.6
+      },
       "basis": "assumed",
       "culture": "Families are home for Lakshmi puja; shops close early; eating out picks up again from the next day."
     },
@@ -243,6 +345,14 @@
         "quick_service": 0.1,
         "retail": 0.05
       },
+      "observance": {
+        "default": 1,
+        "Karnataka": 0.5,
+        "Telangana": 0.5,
+        "Andhra Pradesh": 0.5,
+        "Tamil Nadu": 0.3,
+        "Kerala": 0.2
+      },
       "basis": "assumed",
       "culture": "Siblings and extended families meet; lunches and dinners out are common."
     },
@@ -259,6 +369,12 @@
       "effects": {
         "restaurant": -0.08,
         "bar": -0.1
+      },
+      "observance": {
+        "Bihar": 1,
+        "Jharkhand": 1,
+        "Uttar Pradesh": 0.6,
+        "Delhi": 0.3
       },
       "basis": "assumed",
       "culture": "A strict fast kept by many families from Bihar, Jharkhand and eastern UP; fewer eat out."
@@ -277,6 +393,15 @@
         "bar": 0.3,
         "cafe": 0.1,
         "quick_service": 0.05
+      },
+      "observance": {
+        "default": 1,
+        "Goa": 1.5,
+        "Kerala": 1.2,
+        "city:kolkata": 1.3,
+        "Meghalaya": 1.5,
+        "Nagaland": 1.5,
+        "Mizoram": 1.5
       },
       "basis": "assumed",
       "culture": "Dinners and parties in metros, Goa, Kerala and Northeast towns."
@@ -300,6 +425,15 @@
         "quick_service": 0.1,
         "retail": 0.2
       },
+      "observance": {
+        "default": 1,
+        "Goa": 1.5,
+        "Kerala": 1.3,
+        "city:kolkata": 1.3,
+        "Meghalaya": 1.5,
+        "Nagaland": 1.5,
+        "Mizoram": 1.5
+      },
       "basis": "reported (some restaurants cite +30-40% on Diwali and Christmas)",
       "culture": "Public holiday; brunch and dinner outings, gift shopping."
     },
@@ -318,6 +452,10 @@
         "cafe": 0.1,
         "quick_service": 0.1,
         "cloud_kitchen": 0.2
+      },
+      "observance": {
+        "default": 1,
+        "Goa": 1.5
       },
       "basis": "assumed",
       "culture": "Parties and countdown dinners; bars and restaurants book out, delivery spikes after midnight."
@@ -340,6 +478,14 @@
         "bar": -0.15,
         "retail": 0.05
       },
+      "observance": {
+        "default": 0.3,
+        "Punjab": 1,
+        "Chandigarh": 1,
+        "Haryana": 0.7,
+        "Delhi": 0.6,
+        "Uttarakhand": 0.4
+      },
       "basis": "assumed",
       "culture": "Langar and processions; families go out in the evening, and many avoid alcohol. Sources differ on 24 or 25 Nov, so both days are listed."
     },
@@ -358,6 +504,14 @@
         "cafe": 0.05,
         "quick_service": 0.1,
         "bar": 0.1
+      },
+      "observance": {
+        "default": 0.2,
+        "Punjab": 1,
+        "Chandigarh": 1,
+        "Haryana": 0.8,
+        "Himachal Pradesh": 0.7,
+        "Delhi": 0.6
       },
       "basis": "assumed",
       "culture": "Bonfire evenings with family and friends; dinners out and sweets (gajak, revri)."

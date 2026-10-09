@@ -1,5 +1,6 @@
-import Onboarding from "@/components/Onboarding";
+import { redirect } from "next/navigation";
 
+/** Old link: setup lives on the home page now. */
 export default function Page() {
-  return <Onboarding />;
+  redirect("/");
 }

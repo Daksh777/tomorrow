@@ -151,6 +151,7 @@ export function forecast(input: ForecastInput): Forecast {
     startHour: s.startHour,
     endHour: s.endHour,
     effect: e * (input.weights[s.kind] ?? 1), // as applied to the curve, so copy and pins match it
+    ...(s.links?.length ? { links: s.links } : {}),
   }));
 
   return {

@@ -12,6 +12,8 @@ const PART_LABEL: Record<DayPart, string> = {
 const ORDER: Level[] = ["quieter", "usual", "busier", "much busier"];
 const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
 const round10 = (x: number) => Math.max(10, Math.round((x * 100) / 10) * 10);
+/** Pins smaller than this (a festival few people here keep, say) are shown but don't change prep or staffing. */
+const MIN_ACTION_EFFECT = 0.05;
 
 /** Deterministic copy from computed buckets. Used when no API key is set or the model fails. */
 export function ruleCopy(f: Forecast, placeName: string): Copy {
@@ -25,8 +27,8 @@ export function ruleCopy(f: Forecast, placeName: string): Copy {
     headline = `${cap(lvl)} than a usual ${day} ${PART_LABEL[strongest[0]]}.`;
   }
 
-  const busyPin = [...f.pins].filter((p) => p.effect > 0).sort((a, b) => b.effect - a.effect)[0];
-  const quietPin = [...f.pins].filter((p) => p.effect < 0).sort((a, b) => a.effect - b.effect)[0];
+  const busyPin = [...f.pins].filter((p) => p.effect >= MIN_ACTION_EFFECT).sort((a, b) => b.effect - a.effect)[0];
+  const quietPin = [...f.pins].filter((p) => p.effect <= -MIN_ACTION_EFFECT).sort((a, b) => a.effect - b.effect)[0];
   const actions: string[] = [];
 
   if (busyPin) {

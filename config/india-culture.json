@@ -1,0 +1,66 @@
+{
+  "_note": "How much alcohol-led signals move a place, by state or city. Keys: 'city:<lower-case city>' wins over a state name, which wins over 'default'. All values are assumed starting guesses, tuned per place by the morning tap and the owner's weights. The place's own popular-times curve already shows how busy its area normally is; these factors only scale how far each signal moves it, so nothing is counted twice.",
+  "drinking": {
+    "profiles": {
+      "dry": {
+        "label": "a dry state",
+        "_note": "Alcohol is banned or permit-only (Gujarat, Bihar, Nagaland, Mizoram, Lakshadweep). A 'bar' here is usually a permit room or a lounge without alcohol: crowd boosts are halved, festival abstinence and dry days change nothing.",
+        "bar_boost": 0.5,
+        "bar_dip": 0,
+        "dry_day": 0
+      },
+      "low": {
+        "label": "a light drinking-out culture",
+        "_note": "Going out to drink is less common and abstinence during festivals is wider: smaller boosts, deeper festival dips.",
+        "bar_boost": 0.75,
+        "bar_dip": 1.25,
+        "dry_day": 1
+      },
+      "medium": {
+        "label": "an average bar scene",
+        "bar_boost": 1,
+        "bar_dip": 1,
+        "dry_day": 1
+      },
+      "high": {
+        "label": "a big pub culture",
+        "_note": "Pub cities: matches, paydays and events pull more people into bars, and fewer regulars skip drinking for festivals. Dry days still bite but some drinkers move to house parties earlier in the week.",
+        "bar_boost": 1.25,
+        "bar_dip": 0.6,
+        "dry_day": 0.85
+      }
+    },
+    "places": {
+      "default": "medium",
+      "Gujarat": "dry",
+      "Bihar": "dry",
+      "Nagaland": "dry",
+      "Mizoram": "dry",
+      "Lakshadweep": "dry",
+      "Goa": "high",
+      "Delhi": "high",
+      "Punjab": "high",
+      "Chandigarh": "high",
+      "Sikkim": "high",
+      "Meghalaya": "high",
+      "city:bengaluru": "high",
+      "city:mumbai": "high",
+      "city:pune": "high",
+      "city:gurugram": "high",
+      "city:kolkata": "high",
+      "city:hyderabad": "high",
+      "city:mangaluru": "high",
+      "Uttar Pradesh": "low",
+      "Madhya Pradesh": "low",
+      "Rajasthan": "low",
+      "Jharkhand": "low",
+      "Odisha": "low",
+      "city:noida": "medium",
+      "city:ghaziabad": "medium",
+      "city:indore": "medium",
+      "city:jaipur": "medium",
+      "city:udaipur": "medium",
+      "city:varanasi": "low"
+    }
+  }
+}

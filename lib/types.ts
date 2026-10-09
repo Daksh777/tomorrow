@@ -63,6 +63,13 @@ export interface Place {
   anchors: Anchor[];
 }
 
+/** An article behind a pin, so the owner can read it. */
+export interface SourceLink {
+  title: string;
+  url: string;
+  source?: string;
+}
+
 /** One reason that can move demand, with a visible source and distance. */
 export interface Signal {
   kind: SignalKind;
@@ -77,6 +84,8 @@ export interface Signal {
   size: number;
   /** Override the table effect (used for holidays, which depend on area type) */
   effectOverride?: number;
+  /** Articles behind this pin (news), best first. */
+  links?: SourceLink[];
 }
 
 export type Level = "quieter" | "usual" | "busier" | "much busier";
@@ -91,6 +100,7 @@ export interface Pin {
   startHour: number;
   endHour: number;
   effect: number; // signed, after distance/size scaling and the place's weight
+  links?: SourceLink[];
 }
 
 export interface Forecast {

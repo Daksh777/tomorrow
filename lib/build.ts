@@ -8,7 +8,7 @@ import { fetchWeather, rainSignals } from "./signals/weather";
 import { classifyHeadlines, disruptionSignals, fetchNews } from "./signals/news";
 import { holidaySignals, longWeekendSignals } from "./signals/holidays";
 import { airSignals, fetchAir } from "./signals/air";
-import { calendarSignals, paydaySignals } from "./india";
+import { applyDrinkingCulture, calendarSignals, paydaySignals } from "./india";
 import type { Copy, Forecast, Place, Signal, SignalKind } from "./types";
 
 export async function loadPlace(place_id: string): Promise<Place | null> {
@@ -38,7 +38,12 @@ async function tapCount(place_id: string): Promise<number> {
 }
 
 /** City-level fetches are shared and cached; each failed source is skipped, never faked. */
-export async function gatherSignals(place: Place, targetDate: string): Promise<{ signals: Signal[]; warnings: string[] }> {
+export interface BuildOptions {
+  /** Refetch news older than this many hours (default: the nightly 12 h). */
+  newsMaxAgeHours?: number;
+}
+
+export async function gatherSignals(place: Place, targetDate: string, opts: BuildOptions = {}): Promise<{ signals: Signal[]; warnings: string[] }> {
   const fetchDate = localDate(place.timezone);
   const tomorrow = localDate(place.timezone, 1);
   const warnings: string[] = [];
@@ -78,14 +83,14 @@ export async function gatherSignals(place: Place, targetDate: string): Promise<{
   // Headlines are from the last 24 h, so they only describe tomorrow.
   if (targetDate === tomorrow) {
     try {
-      const rel = await classifyHeadlines(place, await fetchNews(place, fetchDate), new Date(), targetDate);
+      const rel = await classifyHeadlines(place, await fetchNews(place, fetchDate, opts.newsMaxAgeHours), new Date(), targetDate);
       signals.push(...disruptionSignals(rel));
     } catch (e: any) {
       warnings.push(`news: ${e.message}`);
     }
   }
 
-  return { signals, warnings };
+  return { signals: applyDrinkingCulture(place, signals), warnings };
 }
 
 export interface Card {
@@ -95,9 +100,9 @@ export interface Card {
 }
 
 /** Build and store the evening card for one place and date. */
-export async function buildCard(place: Place, targetDate: string, withCopy = true): Promise<Card> {
+export async function buildCard(place: Place, targetDate: string, withCopy = true, opts: BuildOptions = {}): Promise<Card> {
   const [{ signals, warnings }, { weights, ownerSet }, taps] = await Promise.all([
-    gatherSignals(place, targetDate),
+    gatherSignals(place, targetDate, opts),
     loadWeightRows(place.place_id),
     tapCount(place.place_id),
   ]);

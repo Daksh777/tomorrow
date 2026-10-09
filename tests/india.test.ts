@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs";
 import { describe, expect, it } from "vitest";
-import { calendarHoliday, calendarSignals, paydaySignals, stateOf } from "../lib/india";
+import { applyDrinkingCulture, calendarHoliday, calendarSignals, drinkingCulture, paydaySignals, stateOf } from "../lib/india";
 import { aqiCategory, airSignals, type AirPayload } from "../lib/signals/air";
 import { holidaySignals, longWeekendSignals } from "../lib/signals/holidays";
 import { forecast } from "../lib/forecast";
@@ -20,9 +20,10 @@ describe("state lookup", () => {
 
 describe("festival calendar", () => {
   const eff = (p: Place, d: string, kind = "festival") => calendarSignals(p, d).filter((s) => s.kind === kind).map((s) => [s.label, s.effectOverride]);
-  it("Navratri lifts restaurants and cuts bars (alcohol avoided)", () => {
-    expect(eff(mk({ archetype: "restaurant" }), "2026-10-11")).toEqual([["Navratri", 0.1]]);
-    expect(eff(mk({ archetype: "bar" }), "2026-10-11")).toEqual([["Navratri", -0.2]]);
+  it("Navratri lifts restaurants and cuts bars (alcohol avoided), at full strength in Gujarat", () => {
+    const ahd = { city: "Ahmedabad", state: "Gujarat" };
+    expect(eff(mk({ archetype: "restaurant", ...ahd }), "2026-10-11")).toContainEqual(["Navratri", 0.1]);
+    expect(eff(mk({ archetype: "bar", ...ahd }), "2026-10-11")).toContainEqual(["Navratri", -0.2]);
   });
   it("regional festivals only fire in their region", () => {
     const kolkata = mk({ archetype: "restaurant", city: "Kolkata", state: "West Bengal" });
@@ -133,5 +134,57 @@ describe("added regional festivals", () => {
     expect(names(mk({ archetype: "restaurant", city: "Kochi" }), "2027-09-12")).toContain("Thiruvonam");
     expect(names(mk({ archetype: "restaurant", city: "Pune" }), "2027-09-04")).toContain("Ganesh Chaturthi");
     expect(names(mk({ archetype: "bar", city: "Delhi" }), "2026-11-24")[0]).toBe("Guru Nanak Jayanti");
+  });
+});
+
+describe("how widely a festival is kept", () => {
+  const fx = (p: Place, d: string, name: string) => calendarSignals(p, d).find((s) => s.label === name)?.effectOverride;
+  it("Pitru Paksha barely moves Delhi but hits Varanasi fully", () => {
+    expect(fx(mk({ archetype: "restaurant", city: "New Delhi", state: "Delhi" }), "2026-10-05", "Pitru Paksha")).toBeCloseTo(-0.05 * 0.15, 5);
+    expect(fx(mk({ archetype: "restaurant", city: "Varanasi", state: "Uttar Pradesh" }), "2026-10-05", "Pitru Paksha")).toBeCloseTo(-0.05, 5);
+  });
+  it("city entries beat state entries, and aliases resolve", () => {
+    const blr = fx(mk({ archetype: "bar", city: "Bangalore", state: "Karnataka" }), "2026-10-12", "Navratri");
+    expect(blr).toBeCloseTo(-0.2 * 0.3, 5);
+  });
+  it("says why the effect is smaller", () => {
+    const s = calendarSignals(mk({ archetype: "restaurant", city: "New Delhi", state: "Delhi" }), "2026-10-05")[0];
+    expect(s.detail).toContain("Few people in Delhi keep it");
+  });
+  it("can be bigger than the national norm (Christmas in Goa)", () => {
+    expect(fx(mk({ archetype: "bar", city: "Panaji", state: "Goa" }), "2026-12-25", "Christmas")).toBeCloseTo(0.3 * 1.5, 5);
+  });
+  it("Chhath is graded inside its region", () => {
+    expect(fx(mk({ archetype: "restaurant", city: "Patna", state: "Bihar" }), "2026-11-14", "Chhath Puja")).toBeCloseTo(-0.08, 5);
+    expect(fx(mk({ archetype: "restaurant", city: "New Delhi", state: "Delhi" }), "2026-11-14", "Chhath Puja")).toBeCloseTo(-0.08 * 0.3, 5);
+  });
+});
+
+describe("drinking culture", () => {
+  const sig = (kind: Signal["kind"], effectOverride?: number): Signal => ({ kind, label: kind, source: "t", distanceKm: null, startHour: 0, endHour: 24, size: 1, effectOverride });
+  const after = (p: Place, s: Signal) => applyDrinkingCulture(p, [s]);
+  it("classifies dry states, pub cities and the rest", () => {
+    expect(drinkingCulture(mk({ city: "Ahmedabad", state: "Gujarat" }))?.culture).toBe("dry");
+    expect(drinkingCulture(mk({ city: "Bengaluru", state: "Karnataka" }))?.culture).toBe("high");
+    expect(drinkingCulture(mk({ city: "Mysuru", state: "Karnataka" }))?.culture).toBe("medium");
+    expect(drinkingCulture(mk({ city: "Lucknow", state: "Uttar Pradesh" }))?.culture).toBe("low");
+    expect(drinkingCulture(mk({ country: "United Kingdom", city: "London" }))).toBeNull();
+  });
+  it("pub cities lift bar match boosts and soften festival abstinence", () => {
+    const blr = mk({ archetype: "bar", city: "Bengaluru", state: "Karnataka" });
+    expect(after(blr, sig("match_tv"))[0].effectOverride).toBeCloseTo(0.4 * 1.25, 5);
+    expect(after(blr, sig("festival", -0.1))[0].effectOverride).toBeCloseTo(-0.06, 5);
+    expect(after(blr, sig("rain"))[0].effectOverride).toBeUndefined();
+  });
+  it("dry states drop dry days and festival abstinence, and halve bar boosts", () => {
+    const ahd = mk({ archetype: "bar", city: "Ahmedabad", state: "Gujarat" });
+    expect(after(ahd, sig("dry_day", -0.6))).toEqual([]);
+    expect(after(ahd, sig("festival", -0.2))).toEqual([]);
+    expect(after(ahd, sig("match_tv"))[0].effectOverride).toBeCloseTo(0.2, 5);
+    expect(after(mk({ archetype: "restaurant", city: "Patna", state: "Bihar" }), sig("dry_day", -0.1))).toEqual([]);
+  });
+  it("leaves non-bars alone apart from dry days", () => {
+    const blr = mk({ archetype: "restaurant", city: "Bengaluru", state: "Karnataka" });
+    expect(after(blr, sig("match_tv"))[0].effectOverride).toBeUndefined();
   });
 });

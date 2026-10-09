@@ -148,3 +148,15 @@ describe("pins carry the weighted effect", () => {
     expect(f(0)).toBe(0);
   });
 });
+
+import { ruleCopy } from "../lib/copy";
+describe("rule copy", () => {
+  const base = { date: "2026-10-09", weekday: "friday", baseline: [], hourly: [], lo: [], hi: [], buckets: { lunch: "usual" }, ratios: { lunch: -0.01 }, band: 0.1, taps: 0, tuned: false, baselineSource: "own" } as any;
+  const pin = (effect: number) => ({ kind: "festival", label: "Pitru Paksha", source: "t", distanceKm: null, startHour: 11, endHour: 23, effect });
+  it("does not turn a tiny pin into a 10% prep change", () => {
+    expect(ruleCopy({ ...base, pins: [pin(-0.0075)] }, "x").actions[0]).toBe("Prep as you usually do on a Friday.");
+  });
+  it("still acts on a real one", () => {
+    expect(ruleCopy({ ...base, pins: [pin(-0.3)] }, "x").actions[0]).toBe("Prep 30% less for 11 am to 11 pm.");
+  });
+});

@@ -1,5 +1,7 @@
 import calendar from "../config/india-calendar.json";
+import culture from "../config/india-culture.json";
 import effects from "../config/effects.json";
+import { baseEffect } from "./forecast";
 import { weekdayOf } from "./time";
 import type { Archetype, Place, Signal } from "./types";
 
@@ -17,7 +19,35 @@ const CITY_STATE: Record<string, string> = {
   kochi: "Kerala", thiruvananthapuram: "Kerala", kozhikode: "Kerala",
   patna: "Bihar", ranchi: "Jharkhand", bhubaneswar: "Odisha", guwahati: "Assam",
   indore: "Madhya Pradesh", bhopal: "Madhya Pradesh", dehradun: "Uttarakhand", shimla: "Himachal Pradesh",
+  "navi mumbai": "Maharashtra", mangaluru: "Karnataka", mangalore: "Karnataka", mohali: "Punjab",
+  visakhapatnam: "Andhra Pradesh", vijayawada: "Andhra Pradesh", panaji: "Goa", panjim: "Goa", margao: "Goa",
+  shillong: "Meghalaya", gangtok: "Sikkim", kohima: "Nagaland", aizawl: "Mizoram", agartala: "Tripura",
 };
+
+/** Old and alternate spellings, so 'city:' keys in config only need the current name. */
+const CITY_ALIAS: Record<string, string> = {
+  bangalore: "bengaluru", gurgaon: "gurugram", mangalore: "mangaluru", mysore: "mysuru", bombay: "mumbai",
+  calcutta: "kolkata", "new delhi": "delhi", panjim: "panaji", trivandrum: "thiruvananthapuram", cochin: "kochi",
+};
+
+function cityKey(city: string | null | undefined): string {
+  const c = (city ?? "").trim().toLowerCase();
+  return CITY_ALIAS[c] ?? c;
+}
+
+/** Most specific entry wins: 'city:<name>', then the state, then any 'group:<name>', then 'default'. */
+function lookupLocal<T>(
+  table: Record<string, T>,
+  place: Pick<Place, "city" | "state" | "country">,
+  groups: string[] = [],
+): { value: T | undefined; where: string | null } {
+  const city = cityKey(place.city);
+  const state = stateOf(place);
+  if (city && table[`city:${city}`] !== undefined) return { value: table[`city:${city}`], where: place.city ?? city };
+  if (state && table[state] !== undefined) return { value: table[state], where: state };
+  for (const g of groups) if (table[`group:${g}`] !== undefined) return { value: table[`group:${g}`], where: state };
+  return { value: table.default, where: null };
+}
 
 export function stateOf(place: Pick<Place, "city" | "state" | "country">): string | null {
   if (place.country && place.country.toLowerCase() !== "india") return null;
@@ -26,7 +56,11 @@ export function stateOf(place: Pick<Place, "city" | "state" | "country">): strin
 
 const isIndia = (p: Pick<Place, "country">) => !p.country || p.country.toLowerCase() === "india";
 
-type CalEvent = (typeof calendar.events)[number] & { regionGroup?: string; holidayDates?: string[] };
+type CalEvent = (typeof calendar.events)[number] & {
+  regionGroup?: string;
+  holidayDates?: string[];
+  observance?: Record<string, number>;
+};
 const EVENTS = calendar.events as CalEvent[];
 
 function regionOk(e: CalEvent, state: string | null): boolean {
@@ -35,20 +69,38 @@ function regionOk(e: CalEvent, state: string | null): boolean {
   return !!state && group.includes(state);
 }
 
+/**
+ * How widely a festival is kept where the place is, 0 to 1.5. Pitru Paksha matters in Varanasi
+ * and barely in Delhi; Navratri's alcohol dip is deep in Gujarat and shallow in Bengaluru.
+ */
+export function observanceOf(e: CalEvent, place: Pick<Place, "city" | "state" | "country">): { strength: number; where: string | null } {
+  if (!regionOk(e, stateOf(place))) return { strength: 0, where: null };
+  if (!e.observance) return { strength: 1, where: null };
+  const { value, where } = lookupLocal(e.observance, place, e.regionGroup ? [e.regionGroup] : []);
+  return { strength: value ?? 1, where };
+}
+
+function observanceNote(strength: number, where: string | null): string {
+  if (!where || strength === 1) return "";
+  if (strength > 1) return ` Bigger in ${where} than in most of India.`;
+  if (strength <= 0.35) return ` Few people in ${where} keep it, so the effect here is small.`;
+  return ` Kept less widely in ${where}, so the effect is scaled down.`;
+}
+
 /** Festival and dry-day pins for one date, by archetype. India only. */
 export function calendarSignals(place: Place, targetDate: string): Signal[] {
   if (!isIndia(place)) return [];
-  const state = stateOf(place);
   const out: Signal[] = [];
   for (const e of EVENTS) {
-    if (targetDate < e.start || targetDate > e.end || !regionOk(e, state)) continue;
-    const eff = (e.effects as Record<string, number>)[place.archetype];
+    if (targetDate < e.start || targetDate > e.end) continue;
+    const { strength, where } = observanceOf(e, place);
+    const eff = ((e.effects as Record<string, number>)[place.archetype] ?? 0) * strength;
     if (!eff) continue;
     out.push({
       kind: "festival",
       label: e.name,
       source: "India festival calendar",
-      detail: e.culture,
+      detail: e.culture + observanceNote(strength, where),
       distanceKm: null,
       startHour: e.hours[0],
       endHour: e.hours[1],
@@ -123,4 +175,46 @@ export function paydaySignals(place: Place, targetDate: string): Signal[] {
       effectOverride: effect,
     },
   ];
+}
+
+type DrinkingProfile = { label: string; bar_boost: number; bar_dip: number; dry_day: number };
+export type DrinkingCulture = "dry" | "low" | "medium" | "high";
+
+/** The local drinking-out culture: dry states, pub cities, and the rest. India only. */
+export function drinkingCulture(place: Pick<Place, "city" | "state" | "country">): { culture: DrinkingCulture; where: string | null } | null {
+  if (!isIndia(place)) return null;
+  const { value, where } = lookupLocal(culture.drinking.places as Record<string, string>, place);
+  return { culture: (value ?? "medium") as DrinkingCulture, where };
+}
+
+/** Kinds whose lift for a bar comes from people going out to drink. */
+const BAR_BOOST_KINDS = new Set(["match_tv", "match_stadium", "event", "payday", "festival"]);
+
+/**
+ * Scale alcohol-led signals by the local drinking culture. Bars get bigger crowd boosts in pub
+ * cities and smaller ones in dry states; festival abstinence bites less where drinking out is
+ * common; dry days change nothing in a dry state. Weather, air and disruptions are left alone.
+ */
+export function applyDrinkingCulture(place: Place, signals: Signal[]): Signal[] {
+  const dc = drinkingCulture(place);
+  if (!dc || dc.culture === "medium") return signals;
+  const prof = (culture.drinking.profiles as Record<string, DrinkingProfile>)[dc.culture];
+  const where = dc.where ?? "this area";
+  const out: Signal[] = [];
+  for (const s of signals) {
+    let f = 1;
+    if (s.kind === "dry_day") f = prof.dry_day;
+    else if (place.archetype === "bar" && BAR_BOOST_KINDS.has(s.kind)) {
+      const e = baseEffect(place.archetype, s);
+      f = e > 0 ? prof.bar_boost : s.kind === "festival" ? prof.bar_dip : 1;
+    }
+    if (f === 1) {
+      out.push(s);
+      continue;
+    }
+    if (f === 0) continue;
+    const note = `Scaled for ${where}: ${prof.label}.`;
+    out.push({ ...s, effectOverride: baseEffect(place.archetype, s) * f, detail: s.detail ? `${s.detail} ${note}` : note });
+  }
+  return out;
 }
