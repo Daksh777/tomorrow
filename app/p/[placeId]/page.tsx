@@ -15,6 +15,7 @@ import PlaceSettings from "@/components/PlaceSettings";
 import OwnerPlans from "@/components/OwnerPlans";
 import { ownerEvents } from "@/lib/ownerEvents";
 import { isDemo } from "@/lib/demo";
+import { ui } from "@/lib/ui";
 
 export const dynamic = "force-dynamic";
 export const maxDuration = 60;
@@ -61,16 +62,18 @@ export default async function PlacePage({ params }: { params: Promise<{ placeId:
       observations: obs.filter((o) => o.date === d.date),
     }));
   const locked = !!card.place.edit_key_hash;
+  const lang = card.place.language ?? "en";
+  const t = ui(lang);
 
   return (
     <main>
       <TopBar current={{ id: placeId, name: card.place.name, where: [card.place.area, card.place.city].filter(Boolean).join(", ") }} />
       {isDemo(placeId) && (
         <p className="mb-3 rounded-lg bg-band/15 px-4 py-2.5 text-xs leading-relaxed text-ink/70">
-          Demo place. Google&apos;s numbers and every pin are real; the owner&apos;s answers for earlier days were scripted, and yesterday is left for you to answer.
+          {t.demoNote}
         </p>
       )}
-      {fc && <MorningTap placeId={placeId} date={yesterday} answered={tap?.value ?? null} locked={locked} />}
+      {fc && <MorningTap placeId={placeId} date={yesterday} answered={tap?.value ?? null} locked={locked} lang={lang} />}
       <div className={fc ? "mt-3" : ""}>
         <EveningCard
           placeId={placeId}
@@ -81,21 +84,22 @@ export default async function PlacePage({ params }: { params: Promise<{ placeId:
           newsChecked={checkedAt ? checkedLabel(checkedAt, tz) : null}
           units={{ usual_daily: card.place.usual_daily ?? null, unit: card.place.unit ?? null }}
           locked={locked}
+          lang={lang}
         />
       </div>
       {todayFc && (
         <div className="mt-3">
-          <TodayCheck placeId={placeId} forecast={todayFc} observations={obs.filter((o) => o.date === today)} hourNow={localHour(tz)} />
+          <TodayCheck placeId={placeId} forecast={todayFc} observations={obs.filter((o) => o.date === today)} hourNow={localHour(tz)} lang={lang} />
         </div>
       )}
-      <OwnerPlans placeId={placeId} locked={locked} events={upcoming} tomorrow={localDate(tz, 1)} />
-      <WeekStrip placeId={placeId} />
-      <WeekRecap days={recap} />
+      <OwnerPlans placeId={placeId} locked={locked} events={upcoming} tomorrow={localDate(tz, 1)} lang={lang} />
+      <WeekStrip placeId={placeId} lang={lang} />
+      <WeekRecap days={recap} lang={lang} />
       <Link
         href={`/p/${encodeURIComponent(placeId)}/moves`}
-        className="mt-3 flex items-center justify-between rounded-xl border border-ink/[0.07] bg-surface px-5 py-4 text-base font-semibold transition-colors active:bg-paper"
+        className="mt-3 flex items-center justify-between rounded-xl border border-ink/[0.07] bg-surface px-5 py-4 text-base font-semibold transition-colors active:bg-paper [&>span]:transition-transform hover:[&>span]:translate-x-1"
       >
-        What moves your place
+        {t.movesLink}
         <span aria-hidden className="text-ink/40">→</span>
       </Link>
       <PlaceSettings

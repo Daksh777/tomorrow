@@ -89,7 +89,7 @@ Raw responses are in `fixtures/`.
 | **Air quality** | PM2.5 mapped to CPCB categories cuts street footfall (a Delhi study saw up to 33% less in Connaught Place) and lifts delivery kitchens. |
 | **Drinking culture** | Pub cities give bars bigger match and payday boosts; dry states drop dry-day and abstinence effects. |
 | **Dry days, holidays, exam season** | National dry days, holidays the library misses (Dussehra, Christmas), board-exam windows. |
-| **Five languages** | Every sentence has a template in each language, so the card works with no model key; an LLM only polishes it and must keep every number. |
+| **Five languages** | The whole card page is translated: labels, buttons, the weekly recap and common pin names (`lib/ui.ts`, `lib/pinLabels.ts`). Every headline and action has a template in each language, so it works with no model key; an LLM only polishes it and must keep every number. |
 
 Every magnitude is a starting guess in `config/effects.json` and `config/india-calendar.json`, marked as reported or assumed. The morning tap tunes them per place.
 

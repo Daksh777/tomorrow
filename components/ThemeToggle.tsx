@@ -23,6 +23,9 @@ export default function ThemeToggle() {
   function cycle() {
     const next = NEXT[theme];
     setTheme(next);
+    const root = document.documentElement;
+    root.classList.add("theming");
+    setTimeout(() => root.classList.remove("theming"), 350);
     if (next === "system") delete document.documentElement.dataset.theme;
     else document.documentElement.dataset.theme = next;
     try {

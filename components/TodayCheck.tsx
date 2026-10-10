@@ -5,7 +5,9 @@ import { useRouter } from "next/navigation";
 import { curveGeometry } from "@/lib/curve";
 import { scoreDay } from "@/lib/forecast";
 import { fmtHour } from "@/lib/time";
-import type { Observation } from "@/lib/types";
+import { PHRASES } from "@/lib/phrases";
+import { ui } from "@/lib/ui";
+import type { Language, Observation } from "@/lib/types";
 
 export interface DayForecast {
   date: string;
@@ -24,13 +26,17 @@ export default function TodayCheck({
   forecast: f,
   observations,
   hourNow,
+  lang = "en",
 }: {
   placeId: string;
   forecast: DayForecast;
   observations: Observation[];
   hourNow: number;
+  lang?: Language;
 }) {
   const router = useRouter();
+  const t = ui(lang);
+  const hour = lang === "en" ? fmtHour : (PHRASES[lang] ?? PHRASES.en).hour;
   const [state, setState] = useState<"idle" | "reading" | "error">("idle");
   const tried = useRef(false);
   const latest = observations.at(-1);
@@ -56,29 +62,30 @@ export default function TodayCheck({
   return (
     <section className="rounded-xl border border-ink/[0.07] bg-surface px-5 pb-4 pt-4">
       <div className="flex items-baseline justify-between gap-3">
-        <h2 className="text-base font-semibold">Today so far</h2>
+        <h2 className="text-base font-semibold">{t.todaySoFar}</h2>
         <span className="text-xs text-ink/50" role="status">
-          {state === "reading" ? "Reading Google live…" : state === "error" ? "Live reading unavailable" : last ? `Live at ${fmtHour(last.hour)}` : ""}
+          {state === "reading" ? t.readingLive : state === "error" ? t.liveUnavailable : last ? t.liveAt(hour(last.hour)) : ""}
         </span>
       </div>
       <p className="mt-0.5 text-sm text-ink/60">
         {score
-          ? `${score.inside} of ${score.n} live ${score.n === 1 ? "reading" : "readings"} inside last night's forecast range${
-              Math.abs(score.meanMiss) >= 0.1 ? `, running ${Math.round(Math.abs(score.meanMiss) * 100)}% ${score.meanMiss > 0 ? "busier" : "quieter"}` : ""
-            }.`
+          ? t.score(score.inside, score.n, Math.abs(score.meanMiss) >= 0.1 ? Math.round(Math.abs(score.meanMiss) * 100) : 0, score.meanMiss > 0 ? 1 : -1)
           : dots.length
-            ? "Live readings so far are in hours too quiet to score."
-            : "Google's live busyness, checked against the forecast we made last night."}
+            ? t.tooQuiet
+            : t.liveIntro}
       </p>
       <svg viewBox={`0 0 ${g.width} ${g.height}`} className="mt-3 w-full text-ink" role="img" aria-label="Today's forecast with live readings">
-        <path d={g.band} fill="rgb(var(--band))" style={{ fillOpacity: "var(--band-alpha)" }} />
-        <path d={g.forecast} fill="none" stroke="currentColor" strokeOpacity={0.55} strokeWidth={1.5} />
+        <path d={g.band} fill="rgb(var(--band))" style={{ fillOpacity: "var(--band-alpha)" }} className="fade-in" />
+        <path d={g.forecast} pathLength={1} fill="none" stroke="currentColor" strokeOpacity={0.55} strokeWidth={1.5} className="draw" />
         {hourNow >= 6 && <line x1={g.x(hourNow)} x2={g.x(hourNow)} y1={4} y2={g.height - 14} stroke="currentColor" strokeOpacity={0.15} strokeDasharray="2 3" />}
-        {dots.map((o) => {
+        {last && <circle cx={g.x(last.hour)} cy={g.y(last.live!)} r={4} fill="none" stroke="currentColor" strokeOpacity={0.5} strokeWidth={1} className="live-ring" />}
+        {dots.map((o, i) => {
           const inside = o.live! >= (f.lo[o.hour] ?? 0) && o.live! <= (f.hi[o.hour] ?? Infinity);
           return (
             <circle
               key={o.hour}
+              className="pop"
+              style={{ animationDelay: `${0.9 + i * 0.08}s` }}
               cx={g.x(o.hour)}
               cy={g.y(o.live!)}
               r={4}
@@ -99,15 +106,15 @@ export default function TodayCheck({
       <div className="mt-1.5 flex flex-wrap gap-x-4 gap-y-1 text-xs text-ink/55">
         <span className="flex items-center gap-1.5">
           <span aria-hidden className="h-2.5 w-4 rounded-sm bg-band/40" />
-          Our forecast range
+          {t.legendRange}
         </span>
         <span className="flex items-center gap-1.5">
           <span aria-hidden className="h-2 w-2 rounded-full bg-ink" />
-          Google live, in range
+          {t.legendIn}
         </span>
         <span className="flex items-center gap-1.5">
           <span aria-hidden className="h-2 w-2 rounded-full bg-busy" />
-          Google live, out of range
+          {t.legendOut}
         </span>
       </div>
     </section>

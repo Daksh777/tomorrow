@@ -212,7 +212,7 @@ export default function Onboarding() {
               <h2 className="text-sm font-medium text-ink/55">Your places</h2>
               <ul className="mt-2 space-y-2">
                 {saved.map((p) => (
-                  <li key={p.id} className="flex items-stretch rounded-xl border border-ink/[0.07] bg-surface">
+                  <li key={p.id} className="lift flex items-stretch rounded-xl border border-ink/[0.07] bg-surface transition-[transform,box-shadow] duration-150">
                     <Link
                       href={`/p/${encodeURIComponent(p.id)}`}
                       aria-label={`See tomorrow for ${p.name}`}

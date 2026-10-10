@@ -2,6 +2,8 @@
 
 import { useEffect, useState } from "react";
 import { Bell, BellSlash } from "@phosphor-icons/react";
+import { ui } from "@/lib/ui";
+import type { Language } from "@/lib/types";
 
 const VAPID = process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY;
 
@@ -15,7 +17,8 @@ function keyBytes(b64: string): Uint8Array {
  * "Send me this every evening": Web Push from the nightly build. Hidden where the browser can't do it
  * (on iPhone, push needs the app added to the Home Screen first) or the server has no VAPID key.
  */
-export default function PushButton({ placeId }: { placeId: string }) {
+export default function PushButton({ placeId, lang = "en" }: { placeId: string; lang?: Language }) {
+  const t = ui(lang);
   const [support, setSupport] = useState<"unknown" | "no" | "ios-install" | "yes">("unknown");
   const [on, setOn] = useState(false);
   const [busy, setBusy] = useState(false);
@@ -64,7 +67,7 @@ export default function PushButton({ placeId }: { placeId: string }) {
 
   if (support === "unknown" || support === "no") return null;
   if (support === "ios-install") {
-    return <p className="mt-3 text-xs text-ink/50">To get this card every evening, add Tomorrow to your Home Screen (Share, then Add to Home Screen).</p>;
+    return <p className="mt-3 text-xs text-ink/50">{t.iosInstall}</p>;
   }
   return (
     <div className="mt-3">
@@ -74,7 +77,7 @@ export default function PushButton({ placeId }: { placeId: string }) {
         className="flex w-full items-center justify-center gap-2 rounded-lg border border-ink/15 px-4 py-2.5 text-sm font-medium transition-transform active:scale-[0.99] disabled:opacity-50"
       >
         {on ? <BellSlash size={16} weight="bold" /> : <Bell size={16} weight="bold" />}
-        {busy ? "…" : on ? "Stop the evening card" : "Send me this card every evening"}
+        {busy ? "…" : on ? t.pushOff : t.pushOn}
       </button>
       {err && <p className="mt-1.5 text-xs text-busy">{err}</p>}
     </div>

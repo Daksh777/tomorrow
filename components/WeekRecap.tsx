@@ -1,5 +1,6 @@
 import { dayRatio, scoreDay } from "@/lib/forecast";
-import type { Observation } from "@/lib/types";
+import { dateLocale, ui } from "@/lib/ui";
+import type { Language, Level, Observation } from "@/lib/types";
 import type { DayForecast } from "./TodayCheck";
 
 export interface RecapDay {
@@ -9,13 +10,14 @@ export interface RecapDay {
 }
 
 const SAID = (r: number) => (r >= 1.05 ? 1 : r <= 0.95 ? -1 : 0);
-const WORD: Record<number, string> = { [-1]: "quieter", 0: "usual", 1: "busier" };
+const WORD: Record<number, Level> = { [-1]: "quieter", 0: "usual", 1: "busier" };
 
 /**
  * How we did over the last week: what the card said, what the owner tapped, and how many of Google's
  * live readings landed inside the band. Shown once there is at least one scored day.
  */
-export default function WeekRecap({ days }: { days: RecapDay[] }) {
+export default function WeekRecap({ days, lang = "en" }: { days: RecapDay[]; lang?: Language }) {
+  const t = ui(lang);
   const rows = days
     .map((d) => {
       const said = SAID(dayRatio(d.forecast));
@@ -32,33 +34,33 @@ export default function WeekRecap({ days }: { days: RecapDay[] }) {
 
   return (
     <section className="mt-3 rounded-xl border border-ink/[0.07] bg-surface p-5">
-      <h2 className="text-base font-semibold">How we did this week</h2>
+      <h2 className="text-base font-semibold">{t.howWeDid}</h2>
       <p className="mt-0.5 text-sm text-ink/60">
         {[
-          tapped.length ? `You agreed with ${agreed} of ${tapped.length} ${tapped.length === 1 ? "card" : "cards"}` : null,
-          n ? `${Math.round((inside / n) * 100)}% of Google's live readings fell inside the forecast (aim: 80%)` : null,
+          tapped.length ? t.agreed(agreed, tapped.length) : null,
+          n ? t.insidePct(Math.round((inside / n) * 100)) : null,
         ]
           .filter(Boolean)
-          .join(". ")}
-        .
+          .join(lang === "en" ? ". " : " · ")}
+        {lang === "en" ? "." : ""}
       </p>
       <table className="mt-3 w-full text-left text-sm tabular">
         <thead className="text-xs text-ink/50">
           <tr>
-            <th className="pb-1.5 font-normal">Day</th>
-            <th className="pb-1.5 font-normal">We said</th>
-            <th className="pb-1.5 font-normal">You said</th>
-            <th className="pb-1.5 text-right font-normal">Live inside</th>
+            <th className="pb-1.5 font-normal">{t.colDay}</th>
+            <th className="pb-1.5 font-normal">{t.colWeSaid}</th>
+            <th className="pb-1.5 font-normal">{t.colYouSaid}</th>
+            <th className="pb-1.5 text-right font-normal">{t.colLive}</th>
           </tr>
         </thead>
         <tbody>
           {rows.map((r) => (
             <tr key={r.date} className="border-t border-ink/[0.07]">
               <td className="py-1.5 font-mono text-xs">
-                {new Date(`${r.date}T12:00:00`).toLocaleDateString("en-GB", { weekday: "short", day: "numeric" })}
+                {new Date(`${r.date}T12:00:00`).toLocaleDateString(dateLocale(lang), { weekday: "short", day: "numeric" })}
               </td>
-              <td className="py-1.5">{WORD[r.said]}</td>
-              <td className={`py-1.5 ${r.tap !== null && r.tap !== r.said ? "text-busy" : ""}`}>{r.tap === null ? "–" : WORD[r.tap]}</td>
+              <td className="py-1.5">{t.level[WORD[r.said]]}</td>
+              <td className={`py-1.5 ${r.tap !== null && r.tap !== r.said ? "text-busy" : ""}`}>{r.tap === null ? "–" : t.level[WORD[r.tap]]}</td>
               <td className="py-1.5 text-right font-mono text-xs">{r.score ? `${r.score.inside}/${r.score.n}` : "–"}</td>
             </tr>
           ))}
