@@ -78,6 +78,20 @@ function localParts(d: Date, tz: string): { date: string; hour: number } {
   };
 }
 
+/**
+ * Does a side in this match belong to the place: its country (India), city (Delhi Capitals for New Delhi)
+ * or state (Punjab Kings, Gujarat Titans)? Whole words on full team names, so "Mumbai Indians" is not India.
+ */
+function isHomeSide(place: Place, teams: any[]): boolean {
+  const names = teams.flatMap((t) => [t.name, t.short_name]).filter(Boolean).map((n) => String(n).toLowerCase());
+  const home = [place.country, place.state, ...String(place.city ?? "").split(/\s+/)]
+    .filter(Boolean)
+    .map((x) => String(x).toLowerCase())
+    .filter((x) => x.length > 3);
+  const word = (h: string) => new RegExp(`(^|[^a-z])${h.replace(/[^a-z ]/g, "")}([^a-z]|$)`);
+  return names.some((n) => home.some((h) => word(h).test(n)));
+}
+
 export function matchSignals(place: Place, targetDate: string, games: any[]): Signal[] {
   const w = config.windows;
   const out: Signal[] = [];
@@ -120,8 +134,7 @@ export function matchSignals(place: Place, targetDate: string, games: any[]): Si
     } else {
       // A TV match only pulls people in when the home side plays (country or city in a team name);
       // qualifiers between unrelated teams in another country move nothing.
-      const home = [place.country, place.city].filter(Boolean).map((x) => String(x).toLowerCase());
-      if (!teams.some((t: string) => home.some((h) => t.toLowerCase().includes(h)))) continue;
+      if (!isHomeSide(place, g.teams ?? [])) continue;
       out.push({
         kind: "match_tv",
         label,

@@ -55,7 +55,7 @@ Third Wave gets a stadium pin and reads **busier** through the afternoon and eve
 | `google_maps` (place) | Popular times, live busyness, review count | The usual week; the live score is the ground truth every forecast is scored against |
 | `google_maps` (search) | Stadiums, colleges, malls and venues nearby; same-type places' hours | Anchors for matches and events; a nearby rival closed tomorrow sends you its crowd |
 | `google` | `events this week` in the city; `weather tomorrow` | Local events (each venue located for distance and size); hourly rain chance and heat |
-| `google_sports` | League fixtures (ICC, ISL) for the next 8 days | Stadium matches pull crowds in; TV matches keep people home |
+| `google_sports` | League fixtures (ICC, ISL, IPL) for the next 8 days | Stadium matches pull crowds in; TV matches keep people home |
 | `google_news` | `<city> road closure OR strike OR bandh` | Disruptions, filtered to the last 48 hours and to the right day |
 | `google_hotels` | Tomorrow's prices vs the same weekday in two weeks | A 15%+ jump means visitors arriving, often before any listing |
 | `google_trends` | Festival search interest by state | How widely a festival is actually kept where you are (Navratri in Delhi: 92 vs a median state of 31) |
@@ -139,7 +139,7 @@ npm run dev
 
 1. **Supabase:** create a project and run `supabase/schema.sql` in the SQL editor ("Run and enable RLS"). It is safe to re-run. Tables have RLS on with no policies; only the server's secret key reads them.
 2. **Keys in `.env.local`:** `SERPAPI_API_KEY`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, `CRON_SECRET`, and optionally `ANTHROPIC_API_KEY` or `GEMINI_API_KEY` (without either, the templates are used). For the evening push: `npx web-push generate-vapid-keys`, then `VAPID_PUBLIC_KEY`, `NEXT_PUBLIC_VAPID_PUBLIC_KEY` (same value), `VAPID_PRIVATE_KEY`, `VAPID_SUBJECT`.
-3. **Leagues:** `LEAGUE_KGMIDS=ICC:/m/021q23,ISL:/m/0ynr_sq`.
+3. **Leagues:** `LEAGUE_KGMIDS=ICC:/m/021q23,ISL:/m/0ynr_sq,IPL:/m/03b_lm1`.
 4. **Deploy to Vercel.** `vercel.json` runs `/api/cron` at 18:00 IST (builds tomorrow's cards and pushes them) and `/api/observe` at 20:00 IST (a live reading for every place). Test with `/api/cron?force=1`.
 
 | Command | What it does |
@@ -169,7 +169,7 @@ npm run dev
 - Effect sizes are hand-set starting guesses; the morning tap tunes them per place.
 - Live readings exist only when Google shows a live score (busy enough places, open hours). On Vercel Hobby there is one scheduled reading a day, plus one each time a card is opened.
 - Google returns about 10 events per query, so a busy day can have events we never see.
-- Not modelled yet: college fests, state and election dry days (only via news), IPL (no verified league id until the season).
+- Not modelled yet: college fests, state and election dry days (only via news). IPL is wired up and checked against last season's fixtures, but has not run through a live season yet.
 - The Kannada, Tamil and Bengali templates should be checked by a native speaker.
 
 ---
@@ -195,7 +195,7 @@ npm run dev
 - Hourly live readings (the free Vercel plan allows one scheduled run a day).
 
 **More signals**
-- IPL and other leagues in season, college fests and exam date sheets, state and election dry days from official notices, school holidays, metro and road closures from transit feeds.
+- Other leagues (Pro Kabaddi, WPL), college fests and exam date sheets, state and election dry days from official notices, school holidays, metro and road closures from transit feeds.
 - Delivery-platform demand and competitor offers for cloud kitchens.
 - Sub-regional festivals beyond the current calendar, with observance measured by district.
 

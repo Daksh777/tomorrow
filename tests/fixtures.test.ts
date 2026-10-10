@@ -180,3 +180,25 @@ describe("news pin links", () => {
     expect(f.pins[0].links).toEqual([{ title: "Bandh tomorrow", url: "https://ndtv.com/d", source: "NDTV" }]);
   });
 });
+
+describe("IPL: city and state sides on TV", () => {
+  const game = (a: string, b: string, sa: string, sb: string) => ({
+    start_time: "2026-05-02T14:00:00Z",
+    venue: { name: "Somewhere Stadium", location: "Elsewhere" },
+    teams: [{ name: a, short_name: sa }, { name: b, short_name: sb }],
+  });
+  const at = (city: string, state: string): Place => ({ country: "India", city, state, lat: 0, lng: 0, timezone: "Asia/Kolkata", radius_km: 2, anchors: [] }) as unknown as Place;
+  const mi_csk = [game("Mumbai Indians", "Chennai Super Kings", "MI", "CSK")];
+
+  it("counts for the two cities playing and nobody else", () => {
+    expect(matchSignals(at("Mumbai", "Maharashtra"), "2026-05-02", mi_csk).map((s) => s.kind)).toEqual(["match_tv"]);
+    expect(matchSignals(at("Chennai", "Tamil Nadu"), "2026-05-02", mi_csk)).toHaveLength(1);
+    // "Mumbai Indians" is not India: a Bengaluru bar is not moved by it.
+    expect(matchSignals(at("Bengaluru", "Karnataka"), "2026-05-02", mi_csk)).toHaveLength(0);
+  });
+  it("matches New Delhi to Delhi Capitals and a state to its side", () => {
+    const dc_pbks = [game("Delhi Capitals", "Punjab Kings", "DC", "PBKS")];
+    expect(matchSignals(at("New Delhi", "Delhi"), "2026-05-02", dc_pbks)).toHaveLength(1);
+    expect(matchSignals(at("Ludhiana", "Punjab"), "2026-05-02", dc_pbks)).toHaveLength(1);
+  });
+});
