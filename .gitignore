@@ -6,3 +6,8 @@ node_modules
 next-env.d.ts
 .playwright-mcp/
 .DS_Store
+
+# Private planning notes (kept out of the repo)
+SPEC.md
+HANDOFF.md
+docs/HANDOFF-day1.md
