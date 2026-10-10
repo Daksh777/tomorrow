@@ -8,8 +8,9 @@
  *   npm run seed-demo -- --unscript   remove only the scripted part (answers, plans, the weights they taught); keep the places
  *   npm run seed-demo -- --remove     delete the demo places and everything stored for them
  *
- * Safe to re-run before recording: it clears the demo places' taps, weights, plans and cards and replays
- * the script, so yesterday is unanswered again and can be tapped live. Other places are not touched.
+ * Safe to re-run before recording: it clears the demo places' taps, weights, plans and past cards and replays
+ * the script, so yesterday is unanswered again and can be tapped live. Today's card is kept (last night's
+ * real forecast). Other places are not touched.
  * Demo places have no edit key, so any phone can tap them.
  */
 import { writeFileSync } from "node:fs";
@@ -102,11 +103,14 @@ async function main() {
     if (!place) throw new Error(`${p.query}: not saved`);
     const today = localDate(place.timezone);
 
-    // Start the week over.
-    for (const table of ["taps", "weights", "forecasts", "owner_events"]) {
+    // Start the week over. Today's card stays: it is last night's real forecast (with last night's news),
+    // which today's live readings are scored against, and a rebuild now would not fetch news for today.
+    for (const table of ["taps", "weights", "owner_events"]) {
       const { error } = await sb.from(table).delete().eq("place_id", place.place_id);
       if (error) throw new Error(`${table}: ${error.message}`);
     }
+    await sb.from("forecasts").delete().eq("place_id", place.place_id).neq("date", today);
+    const { data: kept } = await sb.from("forecasts").select("date").eq("place_id", place.place_id).eq("date", today).maybeSingle();
 
     // The owner's plans, from their latest occurrence in the past week so last week's cards carry them too.
     for (const plan of p.plans) {
@@ -134,7 +138,7 @@ async function main() {
     console.log(`  answers: ${said.join("; ")}`);
 
     // Today's card (scored live against Google during the day) and tomorrow's, with its written copy.
-    await buildCard(place, today, true, { draftCopy: true });
+    if (!kept) await buildCard(place, today, true, { draftCopy: true });
     const t = await buildCard(place, localDate(place.timezone, 1));
     console.log(`  tomorrow: ${t.copy.headline}`);
     if (t.warnings.length) console.log(`  skipped sources: ${t.warnings.join("; ")}`);

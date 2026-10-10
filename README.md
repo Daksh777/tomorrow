@@ -68,7 +68,7 @@ Free sources fill the gaps: Open-Meteo (rain in millimetres, feels-like heat, PM
 <summary><b>Notes from real SerpApi responses</b></summary>
 
 - `events in <city>` returns no `events_results`; `events this week` does. The events block also comes and goes between identical requests, so the fetcher tries a second phrasing and never caches an empty result. `google_events` is deprecated and blocked in `lib/serp.ts`.
-- `location` must be SerpApi's canonical name ("London,England,United Kingdom"); a bare "London" returns UK-wide events. `lib/location.ts` resolves it with the free Locations API.
+- `location` must be SerpApi's canonical name ("Bengaluru,Karnataka,India"); a bare city name can match the wrong place or the whole country. `lib/location.ts` resolves it with the free Locations API.
 - `google_sports` takes `moa`/`mob` as ISO8601 UTC strings, not epoch seconds. `sp=cr` works for ISL, `ft` or `cr` for ICC; both are tried. Venues come back as names without coordinates, so a stadium match is recognised by matching the venue name to a stadium anchor.
 - TV-match pins only count when a team name contains the place's country or city, so a qualifier between two foreign sides moves nothing.
 - The live score sits on the `current: true` point inside `popular_times.graph_results`; there is no top-level `live_busyness_score`.
@@ -165,7 +165,7 @@ npm run dev
 
 ## Known limits
 
-- Run live in Bengaluru, Delhi, Mumbai, Kolkata, Chennai and London so far.
+- Run live in Bengaluru, Delhi, Mumbai, Kolkata and Chennai so far.
 - Effect sizes are hand-set starting guesses; the morning tap tunes them per place.
 - Live readings exist only when Google shows a live score (busy enough places, open hours). On Vercel Hobby there is one scheduled reading a day, plus one each time a card is opened.
 - Google returns about 10 events per query, so a busy day can have events we never see.
