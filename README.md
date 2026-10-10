@@ -22,6 +22,27 @@ Third Wave gets a stadium pin and reads **busier** through the afternoon and eve
 
 ---
 
+## Screens
+
+SOL Garden Cafe, Connaught Place, Delhi, in the week of the Jantar Mantar protests. Every screen is the live app on real data.
+
+| The evening card | The same card in dark mode | Why, and what to do |
+| :---: | :---: | :---: |
+| <img src="docs/sol-card-light.png" width="250" alt="Evening card for SOL Garden Cafe, light"> | <img src="docs/sol-card-dark.png" width="250" alt="Evening card for SOL Garden Cafe, dark"> | <img src="docs/sol-why-light.png" width="250" alt="An open pin with its headline, the dial and the two actions"> |
+| One tap on how yesterday went, then tomorrow as a band against the usual day. | Follows the phone, or the switch in the top bar. | Each pin opens to its source. "How much does this move your place?" is the owner's own dial. |
+
+| Today, checked live | The week ahead and how we did | What moves your place |
+| :---: | :---: | :---: |
+| <img src="docs/sol-today-dark.png" width="250" alt="Today so far, with the owner's plans"> | <img src="docs/sol-week-light.png" width="250" alt="Seven-day strip and the weekly recap"> | <img src="docs/sol-moves-light.png" width="250" alt="What moves SOL Garden Cafe"> |
+| Last night's forecast for today, with Google's live readings as dots, and the owner's own plans. | Seven days by part of the day, then what we said against what the owner said. | Every signal seen so far, how strong it is now, and where that came from. |
+
+| In the owner's language | Start here |
+| :---: | :---: |
+| <img src="docs/karim-hindi-dark.png" width="250" alt="Karim's card in Hindi"> | <img src="docs/home-dark.png" width="250" alt="Home page with search and demo restaurants"> |
+| Karim's, Old Delhi, in Hindi: labels, pins, numbers and actions. | Search Google Maps for your business, or open a demo restaurant. |
+
+---
+
 ## How it works
 
 1. **Learn your usual week.** Google's popular times for your business (or, if it has none, the three nearest places like it) give the curve of a normal day, hour by hour.

@@ -92,7 +92,8 @@ export default function EveningCard({
   )}`;
   const day = ph.day[f.weekday];
   const dateLabel = new Date(`${f.date}T12:00:00`).toLocaleDateString(dateLocale(lang), { weekday: "short", day: "numeric", month: "short" }).replace(",", "");
-  const pct = `${ratio >= 1 ? "+" : "−"}${Math.abs(Math.round((ratio - 1) * 100))}%`;
+  const pctN = Math.round((ratio - 1) * 100);
+  const pct = pctN === 0 ? "0%" : `${pctN > 0 ? "+" : "−"}${Math.abs(pctN)}%`;
   const about = estimate !== null ? t.about(ph.unit(units.unit!), units.usual_daily!, pct) : null;
 
   return (

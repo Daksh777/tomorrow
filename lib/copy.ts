@@ -133,7 +133,9 @@ export async function writeCopy(f: Forecast, place: Pick<Place, "name" | "langua
         const nums = d.match(/\d+%?/g) ?? [];
         return nums.every((n) => t.includes(n)) ? t : d;
       };
-      return { headline: j.headline, actions: [keep(j.actions[0], draft.actions[0]), keep(j.actions[1], draft.actions[1])] };
+      // A day whose every part reads usual keeps the plain headline: the model must not call it busier or quieter.
+      const moved = Object.values(f.buckets).some((b) => b && b !== "usual");
+      return { headline: moved ? j.headline : draft.headline, actions: [keep(j.actions[0], draft.actions[0]), keep(j.actions[1], draft.actions[1])] };
     }
   } catch {
     /* use the rule-based draft */
