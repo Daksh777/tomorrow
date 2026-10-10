@@ -171,4 +171,36 @@ npm run dev
 - Google returns about 10 events per query, so a busy day can have events we never see.
 - Not modelled yet: college fests, state and election dry days (only via news), IPL (no verified league id until the season).
 - The Kannada, Tamil and Bengali templates should be checked by a native speaker.
-- Not built: WhatsApp Business API delivery, accounts, choosing which part of the day on the morning tap.
+
+---
+
+## What's next
+
+**Accounts and teams**
+- Sign-in by phone number (OTP), replacing the per-phone edit key. A lost phone would no longer mean a lost place, and the demo's open places could be locked properly.
+- Roles: an owner who can retrain the forecast, managers who can answer the morning tap, staff who only read the card.
+- One login for several outlets, with a side-by-side view of the chain.
+
+**Small models where the rules run out**
+- Learn the effect sizes instead of hand-setting them: a small regression per business type and city, trained on forecasts against Google's live readings, to replace the starting guesses in `config/effects.json`. The rules stay as the explanation; the model supplies the numbers.
+- A per-place residual model (gradient-boosted trees on hour, weekday, weather and active pins) once a place has a few weeks of readings, to catch patterns no pin describes.
+- Calibrated uncertainty: quantile regression or conformal intervals for the band, in place of the single width that aims for 80%.
+- Interactions between signals. Today effects multiply independently; rain during a stadium match is not the same as rain plus a match.
+- An event-size model from venue capacity, ticket listings and search interest, instead of review counts alone.
+- A fine-tuned headline classifier for disruptions, so news no longer needs a general LLM call.
+
+**Better ground truth**
+- Optional sales import (a daily total from Petpooja, a POS export, or a photo of the day's closing slip), so the forecast learns from real covers and not only from busyness.
+- "Which part of the day?" on the morning tap, so one answer trains the lunch pins and not the dinner ones.
+- Hourly live readings (the free Vercel plan allows one scheduled run a day).
+
+**More signals**
+- IPL and other leagues in season, college fests and exam date sheets, state and election dry days from official notices, school holidays, metro and road closures from transit feeds.
+- Delivery-platform demand and competitor offers for cloud kitchens.
+- Sub-regional festivals beyond the current calendar, with observance measured by district.
+
+**Reach**
+- The evening card on WhatsApp through the Business API, since that is where owners already are.
+- More languages (Marathi, Telugu, Gujarati, Malayalam), with every string read by a native speaker.
+- From "prep 20% more" to an item-level prep list and a suggested roster, once sales data is connected.
+- Budgets and rate limits on SerpApi usage per place, so one busy link cannot spend the month's searches.
